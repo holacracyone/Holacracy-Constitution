@@ -15,7 +15,7 @@ HolacracyOne is not a law firm. The information contained herein is documentatio
 
 ---
 
-#### A compiled PDF of the Holacracy Constitution is available <a href="hhttps://gitprint.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md" target="_blank">HERE</a>
+#### A compiled PDF of the Holacracy Constitution is available <a href="https://gitprint.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md" target="_blank">HERE</a>
 
 ---
 
