@@ -15,3 +15,7 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the **same license** as the original.
 
 **No additional restrictions** — You may not apply legal terms or **technological measures** that legally restrict others from doing anything the license permits.
+
+####Additional Info:
+
+Like Linux®, Wikipedia®, and Java®, Holacracy® is a registered trademark; in this case, of HolacracyOne LLC.  And like other stewards of open platforms, HolacracyOne aims to maintain the integrity of its brand and the quality of what it represents.  So, we invite you to make and share your own derivative works of the Holacracy® Constitution, per the terms of our open-source CC BY-SA 4.0 license, and to reference that your work is derived from the official Holacracy Constitution (please include a link to http://holacracy.org/constitution).  However, beyond that reference, you may not name or otherwise brand your derivative work using the Holacracy mark, to avoid confusion between your version and the official Holacracy document.  If you have any questions, please contact us!
