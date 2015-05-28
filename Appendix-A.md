@@ -21,7 +21,7 @@ _The Lead Link also holds all un-delegated Circle-level Domains and Accountabili
 
 ---
 
-####Role:  Rep Link<a name="Rep-Link"></a>
+####Role: <a name="Rep-Link"></a>Rep Link
 
 **Purpose:** _Within the Super-Circle, the Rep Link holds the Purpose of the Sub-Circle; within the Sub-Circle, the Rep Link’s Purpose is:_ Tensions relevant to process in the Super-Circle channeled out and resolved.
 
@@ -32,7 +32,7 @@ _The Lead Link also holds all un-delegated Circle-level Domains and Accountabili
 
 ---
 
-####Role:  Facilitator<a name="Facilitator"></a>
+####Role: <a name="Facilitator"></a>Facilitator
 
 **Purpose:** Circle governance and operational practices aligned with the Constitution.
 
@@ -42,7 +42,7 @@ _The Lead Link also holds all un-delegated Circle-level Domains and Accountabili
 
 ---
 
-####Role:  Secretary<a name="Secretary"></a>
+####Role: <a name="Secretary"></a>Secretary
 
 **Purpose:** Steward and stabilize the Circle’s formal records and record-keeping process.
 
