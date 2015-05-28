@@ -93,8 +93,8 @@ Some Circle Members are allowed to take part in a Circle’s Governance Process,
 Unless a special appointment or exclusion is made under the terms of this section, the Core Circle Members of a Circle are:
 
 - **(a)**	each Partner filling a Defined Role in the Circle; 
-- **(b)**	the Lead Link of the Circle, as defined in Section 2.2;
-- **(c)**	each Rep Link elected to the Circle, as defined in Section 2.6.4;
+- **(b)**	the [Lead Link](./Appendix-A.md#Lead-Link) of the Circle, as defined in Section 2.2;
+- **(c)**	each [Rep Link](./Appendix-A.md#Rep-Link) elected to the Circle, as defined in Section 2.6.4;
 - **(d)**	and each Cross Link into the Circle, as defined in Section 2.7.
 
 #### 2.3.2 Exclusion for Multi-Filled Roles
