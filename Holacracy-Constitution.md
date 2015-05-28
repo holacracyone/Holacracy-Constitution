@@ -48,7 +48,7 @@ As a Partner assigned to a Role, you have the authority to control and regulate 
 
 ### 1.4 Authority to Act
 
-As a Partner assigned to a Role, you have the authority to execute any Next-Actions you reasonably believe are necessary or desirable to express your Role’s Purpose or enact its Accountabilities.  However, you can’t exert control or cause a material impact within a Domain owned by another Role or another sovereign entity, unless you have their permission.  The authority granted in this paragraph is further limited by Section 2.1.3.
+As a Partner assigned to a Role, you have the authority to execute any Next-Actions you reasonably believe are necessary or desirable to express your Role’s Purpose or enact its Accountabilities.  However, you can’t exert control or cause a material impact within a Domain owned by another Role or another sovereign entity, unless you have their permission.  The authority granted in this paragraph is further limited by [Section 2.1.3](#213-delegation-of-control).
 
 ## Article II: Circle Structure
 
@@ -62,7 +62,7 @@ Each Circle must use the **_“Governance Process”_** described in Article III
 
 #### 2.1.2 Roles May Impact Circle Domains
 
-When filling a Role in a Circle, you may use and impact any Domain controlled by the Circle itself, or which the Circle is authorized to impact.  However, you may not fully control or regulate the Domain under the terms of Section 1.3, and you must abide by any constraints acting upon the Circle itself or defined by Policy of the Circle.  Further, you may not transfer or dispose of the Domain itself or any significant assets within the Domain, nor may you significantly limit any rights of the Circle to the Domain.  In all cases however, you may ignore these restrictions if a Role or process holding the needed authority grants you permission to do so.
+When filling a Role in a Circle, you may use and impact any Domain controlled by the Circle itself, or which the Circle is authorized to impact.  However, you may not fully control or regulate the Domain under the terms of [Section 1.3](#13-authority-over-domains), and you must abide by any constraints acting upon the Circle itself or defined by Policy of the Circle.  Further, you may not transfer or dispose of the Domain itself or any significant assets within the Domain, nor may you significantly limit any rights of the Circle to the Domain.  In all cases however, you may ignore these restrictions if a Role or process holding the needed authority grants you permission to do so.
 
 #### 2.1.3 Delegation of Control
 
@@ -94,8 +94,8 @@ Unless a special appointment or exclusion is made under the terms of this sectio
 
 - **(a)**	each Partner filling a Defined Role in the Circle; 
 - **(b)**	the [Lead Link](./Appendix-A.md#Lead-Link) of the Circle, as defined in Section 2.2;
-- **(c)**	each [Rep Link](./Appendix-A.md#Rep-Link) elected to the Circle, as defined in Section 2.6.4;
-- **(d)**	and each Cross Link into the Circle, as defined in Section 2.7.
+- **(c)**	each [Rep Link](./Appendix-A.md#Rep-Link) elected to the Circle, as defined in [Section 2.6.4](#264-rep-link-to-super-circle);
+- **(d)**	and each Cross Link into the Circle, as defined in [Section 2.7](#27-cross-linking).
 
 #### 2.3.2 Exclusion for Multi-Filled Roles
 
@@ -135,7 +135,7 @@ Each Circle must hold regular elections to elect a Core Circle Member of the Cir
 
 #### 2.5.2 Election Terms & Revisiting
 
-During the election process, the Facilitator will specify a term for each election.  After the end of a term, the [Secretary](./Appendix-A.md#Secretary) will promptly trigger a new election for that Elected Role.  However, even before a term has expired, any Core Circle Member may trigger a new election using the process defined in Article III.
+During the election process, the Facilitator will specify a term for each election.  After the end of a term, the [Secretary](./Appendix-A.md#Secretary) will promptly trigger a new election for that Elected Role.  However, even before a term has expired, any Core Circle Member may trigger a new election using the process defined in [Section 3.3.5](#335-integrative-election-process).
 
 #### 2.5.3 Amending Elected Roles
 
@@ -213,7 +213,7 @@ Any Core Circle Member of a Circle may propose changing its Governance, thus mak
 
 #### 3.2.1 Making Proposals
 
-Any Core Circle Member may make a Proposal within a **_“Governance Meeting”_** of the Circle called under the terms of Section 3.3.  Alternatively, a Core Circle Member may distribute a Proposal to all other Core Circle Members asynchronously, outside of a Governance Meeting, using any written communication channel approved for this purpose by the Circle’s [Secretary](./Appendix-A.md#Secretary).  When this happens, the [Facilitator](./Appendix-A.md#Facilitator) may either apply the same process and rules used within a Governance Meeting, or may allow each Core Circle Member to directly declare whether or not he or she has Objections to integrate.  Further, at any point before an asynchronous Proposal is adopted, the [Facilitator](./Appendix-A.md#Facilitator) or any Core Circle Member may stop the asynchronous processing by requesting the Proposer escalate the Proposal to a Governance Meeting, and notifying the Circle’s [Secretary](./Appendix-A.md#Secretary).  A Circle may adopt Policies to further constrain when or how Proposals may be made or processed outside of a Governance Meeting, however no Policy may limit the right to stop asynchronous processing by escalating to a Governance Meeting.  A Circle may also use a Policy to create a time limit for responding to asynchronous Proposals, upon which any asynchronous Proposal is automatically adopted if no Objections or escalation requests are raised.
+Any Core Circle Member may make a Proposal within a **_“Governance Meeting”_** of the Circle called under the terms of [Section 3.3](#33-governance-meetings).  Alternatively, a Core Circle Member may distribute a Proposal to all other Core Circle Members asynchronously, outside of a Governance Meeting, using any written communication channel approved for this purpose by the Circle’s [Secretary](./Appendix-A.md#Secretary).  When this happens, the [Facilitator](./Appendix-A.md#Facilitator) may either apply the same process and rules used within a Governance Meeting, or may allow each Core Circle Member to directly declare whether or not he or she has Objections to integrate.  Further, at any point before an asynchronous Proposal is adopted, the [Facilitator](./Appendix-A.md#Facilitator) or any Core Circle Member may stop the asynchronous processing by requesting the Proposer escalate the Proposal to a Governance Meeting, and notifying the Circle’s [Secretary](./Appendix-A.md#Secretary).  A Circle may adopt Policies to further constrain when or how Proposals may be made or processed outside of a Governance Meeting, however no Policy may limit the right to stop asynchronous processing by escalating to a Governance Meeting.  A Circle may also use a Policy to create a time limit for responding to asynchronous Proposals, upon which any asynchronous Proposal is automatically adopted if no Objections or escalation requests are raised.
 
 #### 3.2.2 Criteria for Valid Proposals
 
@@ -230,7 +230,7 @@ Some Tensions do not count as Objections, and may be ignored during the processi
 - **(a)**	If the Tension were unaddressed, the capacity of the Circle to express its Purpose or enact its Accountabilities would degrade.  Thus, the Tension is not just triggered by a better idea or a potential for further improvement, but because the Proposal would actually move the Circle backwards in its current capacity.  For the purpose of this criteria, decreasing clarity counts as degrading capacity, although merely failing to improve clarity does not.
 - **(b)**	The Tension does not already exist for the Circle even in the absence of the Proposal.  Thus, the Tension would be created specifically by adopting the Proposal, and would not exist were the Proposal withdrawn.
 - **(c)**	The Tension is triggered by presently known data or events, without regard to predicted data or events.  However, relying on predicted data or events is allowed when no opportunity is likely to exist in the future to adequately sense and respond to the predicted situation before significant impact could result.
-- **(d)**	If the Proposal had already been adopted, the Tension would be valid for the Core Circle Member to process with his or her own Proposal, given the criteria required by Section 3.2.2.
+- **(d)**	If the Proposal had already been adopted, the Tension would be valid for the Core Circle Member to process with his or her own Proposal, given the criteria required by [Section 3.2.2](#322-criteria-for-valid-proposals).
 
 However, regardless of the above criteria, a Tension about adopting a Proposal always counts as an Objection if:
 
