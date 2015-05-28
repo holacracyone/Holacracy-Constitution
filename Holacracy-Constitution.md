@@ -44,7 +44,7 @@ Whenever you have time available to act in your Role, you must consider the pote
 
 ### 1.3 Authority Over Domains
 
-As a Partner assigned to a Role, you have the authority to control and regulate each Domain of your Role.  You may do this on a case-by-case basis when others request permission to impact one of your Domains, by considering the request and allowing or withholding permission.  You may also define **_“Policies”_** for your Domains, which are either grants of authority that allow others to control or cause a material impact within a Domain, or limits on how others may do so when otherwise authorized.  Before a Policy is valid, you must first publish it in a forum convenient to all Partners who may be impacted.  The authorities granted to you in this section may be further limited by constraints defined under Section 2.1.3.
+As a Partner assigned to a Role, you have the authority to control and regulate each Domain of your Role.  You may do this on a case-by-case basis when others request permission to impact one of your Domains, by considering the request and allowing or withholding permission.  You may also define **_“Policies”_** for your Domains, which are either grants of authority that allow others to control or cause a material impact within a Domain, or limits on how others may do so when otherwise authorized.  Before a Policy is valid, you must first publish it in a forum convenient to all Partners who may be impacted.  The authorities granted to you in this section may be further limited by constraints defined under [Section 2.1.3](#2.1.3).
 
 ### 1.4 Authority to Act
 
