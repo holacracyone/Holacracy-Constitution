@@ -2,7 +2,7 @@
 
 ###DEFINITION OF CORE ROLES
 ---
-####Role: Lead Link
+####Role: Lead Link<a name="Lead-Link"></a>
 
 **Purpose:**
 _The Lead Link holds the Purpose of the overall Circle._
@@ -21,7 +21,7 @@ _The Lead Link also holds all un-delegated Circle-level Domains and Accountabili
 
 ---
 
-####Role:  Rep Link
+####Role:  Rep Link<a name="Rep-Link"></a>
 
 **Purpose:** _Within the Super-Circle, the Rep Link holds the Purpose of the Sub-Circle; within the Sub-Circle, the Rep Link’s Purpose is:_ Tensions relevant to process in the Super-Circle channeled out and resolved.
 
@@ -32,7 +32,7 @@ _The Lead Link also holds all un-delegated Circle-level Domains and Accountabili
 
 ---
 
-####Role:  Facilitator
+####Role:  Facilitator<a name="Facilitator"></a>
 
 **Purpose:** Circle governance and operational practices aligned with the Constitution.
 
@@ -42,7 +42,7 @@ _The Lead Link also holds all un-delegated Circle-level Domains and Accountabili
 
 ---
 
-####Role:  Secretary
+####Role:  Secretary<a name="Secretary"></a>
 
 **Purpose:** Steward and stabilize the Circle’s formal records and record-keeping process.
 
