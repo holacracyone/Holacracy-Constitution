@@ -44,7 +44,7 @@ Whenever you have time available to act in your Role, you must consider the pote
 
 ### 1.3 Authority Over Domains
 
-As a Partner assigned to a Role, you have the authority to control and regulate each Domain of your Role.  You may do this on a case-by-case basis when others request permission to impact one of your Domains, by considering the request and allowing or withholding permission.  You may also define **_“Policies”_** for your Domains, which are either grants of authority that allow others to control or cause a material impact within a Domain, or limits on how others may do so when otherwise authorized.  Before a Policy is valid, you must first publish it in a forum convenient to all Partners who may be impacted.  The authorities granted to you in this section may be further limited by constraints defined under [Section 2.1.3](#2.1.3).
+As a Partner assigned to a Role, you have the authority to control and regulate each Domain of your Role.  You may do this on a case-by-case basis when others request permission to impact one of your Domains, by considering the request and allowing or withholding permission.  You may also define **_“Policies”_** for your Domains, which are either grants of authority that allow others to control or cause a material impact within a Domain, or limits on how others may do so when otherwise authorized.  Before a Policy is valid, you must first publish it in a forum convenient to all Partners who may be impacted.  The authorities granted to you in this section may be further limited by constraints defined under [Section 2.1.3](#213-delegation-of-control).
 
 ### 1.4 Authority to Act
 
@@ -64,7 +64,7 @@ Each Circle must use the **_“Governance Process”_** described in Article III
 
 When filling a Role in a Circle, you may use and impact any Domain controlled by the Circle itself, or which the Circle is authorized to impact.  However, you may not fully control or regulate the Domain under the terms of Section 1.3, and you must abide by any constraints acting upon the Circle itself or defined by Policy of the Circle.  Further, you may not transfer or dispose of the Domain itself or any significant assets within the Domain, nor may you significantly limit any rights of the Circle to the Domain.  In all cases however, you may ignore these restrictions if a Role or process holding the needed authority grants you permission to do so.
 
-####2.1.3 Delegation of Control
+#### 2.1.3 Delegation of Control
 
 When a Circle defines a Domain upon one of its Roles, the Circle’s authority to impact, control, and regulate that Domain is instead delegated to that Role and removed from the Circle.  However, the Circle retains the right to amend or remove that Domain delegation, or to define or modify Policies that further grant or constrain the Role’s authority within the Domain.  By default, any Domains delegated in this way exclude the authority to dispose of the Domain itself or any significant assets within the Domain, or to transfer those assets outside of the Circle, or to significantly limit any rights of the Circle to the Domain.  A Circle may delegate these retained authorities as well, by explicitly granting the desired permissions in a Policy of the Circle.  In any case, all Domain delegations are always limited to whatever authority the Circle itself had in the first place.
 
