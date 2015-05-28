@@ -18,7 +18,7 @@ Like Linux®, Wikipedia®, and Java®, Holacracy® is a registered trademark; in
 
 ---
 
-#### A compiled PDF of the Holacracy Constitution is available <a href="https://gitprint.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md" target="_blank">HERE</a>
+#### An always up to date compiled PDF of the Holacracy Constitution - Development Version (<a href="https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md" target="_blank">Holacracy-Constitution.md</a>) is available <a href="https://gitprint.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md" target="_blank">HERE</a>
 
 ---
 
