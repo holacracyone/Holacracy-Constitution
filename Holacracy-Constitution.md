@@ -82,7 +82,7 @@ A Circle’s [Lead Link](./Appendix-A.md#Lead-Link) may define priorities for th
 
 #### 2.2.3 Amending Lead Link Role
 
-A Circle may not add Accountabilities or other functions to its own [Lead Link](./Appendix-A.md#Lead-Link) Role, or modify the Role’s Purpose, or remove the Role entirely.  However, a Circle may remove any Accountabilities, Domains, authorities, or functions of its [Lead Link](./Appendix-A.md#Lead-Link) Role, either by placing them on another Role within the Circle, or by defining an alternate means of enacting them.  When this occurs, it automatically removes the relevant element or authority from the [Lead Link Role](./Appendix-A.md#Lead-Link), for as long as the delegation remains in place.
+A Circle may not add Accountabilities or other functions to its own [Lead Link Role](./Appendix-A.md#Lead-Link), or modify the Role’s Purpose, or remove the Role entirely.  However, a Circle may remove any Accountabilities, Domains, authorities, or functions of its [Lead Link Role](./Appendix-A.md#Lead-Link), either by placing them on another Role within the Circle, or by defining an alternate means of enacting them.  When this occurs, it automatically removes the relevant element or authority from the [Lead Link Role](./Appendix-A.md#Lead-Link), for as long as the delegation remains in place.
 
 ### 2.3 Core Circle Members
 
@@ -99,11 +99,11 @@ Unless a special appointment or exclusion is made under the terms of this sectio
 
 #### 2.3.2 Exclusion for Multi-Filled Roles
 
-If multiple Partners are assigned to the same Defined Role in a Circle, the Circle may enact a Policy that limits how many of them are Core Circle Members as a result of that Role assignment. However, the Policy must allow at least one of the Partners filling the Role to represent it as a Core Circle Member, and must specify how that representative will be determined.  In addition, any Partners representing the Role have the duty to consider and process Tensions conveyed by the excluded Partners, exactly as a Rep Link would were the Role a Sub-Circle, unless the Policy defines an alternate pathway for the excluded Partners to process Tensions related to that Role.
+If multiple Partners are assigned to the same Defined Role in a Circle, the Circle may enact a Policy that limits how many of them are Core Circle Members as a result of that Role assignment. However, the Policy must allow at least one of the Partners filling the Role to represent it as a Core Circle Member, and must specify how that representative will be determined.  In addition, any Partners representing the Role have the duty to consider and process Tensions conveyed by the excluded Partners, exactly as a [Rep Link](./Appendix-A.md#Rep-Link) would were the Role a Sub-Circle, unless the Policy defines an alternate pathway for the excluded Partners to process Tensions related to that Role.
 
 #### 2.3.3 Exclusion for De Minimis Allocation
 
-If a Partner only has a de minimis amount of attention allocated to a Defined Role in a Circle, in the reasonable judgment of the Circle’s [Lead Link](./Appendix-A.md#Lead-Link), the [Lead Link](./Appendix-A.md#Lead-Link) may exclude that Partner from serving as a Core Circle Member as a result of that Role assignment.  If a Partner is so excluded, the [Lead Link](./Appendix-A.md#Lead-Link) has a duty to consider and process Tensions conveyed by the excluded Partner, exactly as a Rep Link would were the Role a Sub-Circle, unless an alternate pathway is defined for the excluded Partner to process Tensions related to that Role.
+If a Partner only has a de minimis amount of attention allocated to a Defined Role in a Circle, in the reasonable judgment of the Circle’s [Lead Link](./Appendix-A.md#Lead-Link), the [Lead Link](./Appendix-A.md#Lead-Link) may exclude that Partner from serving as a Core Circle Member as a result of that Role assignment.  If a Partner is so excluded, the [Lead Link](./Appendix-A.md#Lead-Link) has a duty to consider and process Tensions conveyed by the excluded Partner, exactly as a [Rep Link](./Appendix-A.md#Rep-Link) would were the Role a Sub-Circle, unless an alternate pathway is defined for the excluded Partner to process Tensions related to that Role.
 
 #### 2.3.4 Special Appointments of Core Members
 
@@ -127,11 +127,11 @@ When you fill a Role, you may resign from the Role at any time, unless you’ve 
 
 ### 2.5 Elected Roles
 
-Each Circle includes a **_“Facilitator Role”_**, a **_“Secretary Role”_**, and a **_“Rep Link Role”_** with the definitions given in Appendix A.  These are the Circle’s **_“Elected Roles”_**, and the person filling each becomes the Circle’s **_“Facilitator”_**, **_“Secretary”_**, or **_“Rep Link”_** when acting in the capacity of the Elected Role.
+Each Circle includes a **_“Facilitator Role”_**, a **_“Secretary Role”_**, and a **_“[Rep Link Role](./Appendix-A.md#Rep-Link)”_** with the definitions given in Appendix A.  These are the Circle’s **_“Elected Roles”_**, and the person filling each becomes the Circle’s **_“Facilitator”_**, **_“Secretary”_**, or **_“[Rep Link](./Appendix-A.md#Rep-Link)”_** when acting in the capacity of the Elected Role.
 
 #### 2.5.1 Elections & Eligibility
 
-Each Circle must hold regular elections to elect a Core Circle Member of the Circle into each of its Elected Roles, using the process and rules defined in Article III.  All Core Circle Members are eligible for election and each may hold multiple Elected Roles, except for the [Lead Link](./Appendix-A.md#Lead-Link) of a Circle, who may not be elected as its Facilitator or Rep Link.
+Each Circle must hold regular elections to elect a Core Circle Member of the Circle into each of its Elected Roles, using the process and rules defined in Article III.  All Core Circle Members are eligible for election and each may hold multiple Elected Roles, except for the [Lead Link](./Appendix-A.md#Lead-Link) of a Circle, who may not be elected as its Facilitator or [Rep Link](./Appendix-A.md#Rep-Link).
 
 #### 2.5.2 Election Terms & Revisiting
 
@@ -139,7 +139,7 @@ During the election process, the Facilitator will specify a term for each electi
 
 #### 2.5.3 Amending Elected Roles
 
-A Circle may add Accountabilities or Domains to its Elected Roles, as well as amend or remove those additions.  However, a Circle may only add to its own Rep Link Role and not to a Rep Link Role appointed to the Circle by another Circle.  Further, no Circle may amend or remove any Purpose, Domain, Accountabilities, or authorities granted to an Elected Role by this Constitution, nor remove an Elected Role entirely.
+A Circle may add Accountabilities or Domains to its Elected Roles, as well as amend or remove those additions.  However, a Circle may only add to its own [Rep Link Role](./Appendix-A.md#Rep-Link) and not to a [Rep Link Role](./Appendix-A.md#Rep-Link) appointed to the Circle by another Circle.  Further, no Circle may amend or remove any Purpose, Domain, Accountabilities, or authorities granted to an Elected Role by this Constitution, nor remove an Elected Role entirely.
 
 #### 2.5.4 Surrogates for Elected Roles
 
@@ -165,11 +165,11 @@ Through its Governance Process, a Circle may remove a Sub-Circle.  This can be d
 
 #### 2.6.3 Lead Link to Sub-Circle
 
-A Circle’s [Lead Link](./Appendix-A.md#Lead-Link) may appoint someone to fill the [Lead Link](./Appendix-A.md#Lead-Link) Role for each Sub-Circle, using the same rules that apply when the [Lead Link](./Appendix-A.md#Lead-Link) appoints into any other Defined Role of the Circle.
+A Circle’s [Lead Link](./Appendix-A.md#Lead-Link) may appoint someone to fill the [Lead Link Role](./Appendix-A.md#Lead-Link) for each Sub-Circle, using the same rules that apply when the [Lead Link](./Appendix-A.md#Lead-Link) appoints into any other Defined Role of the Circle.
 
 #### 2.6.4 Rep Link to Super-Circle
 
-Each Circle will normally elect a Rep Link to its Super-Circle.  However, electing someone to fill the Rep Link Role is not required when a Circle lacks any Core Circle Members other than those serving as [Lead Link](./Appendix-A.md#Lead-Link) and Cross Links into the Circle.  In this case, even if the election is conducted, the elected Rep Link does not become a Core Circle Member of the Super-Circle.
+Each Circle will normally elect a [Rep Link](./Appendix-A.md#Rep-Link) to its Super-Circle.  However, electing someone to fill the [Rep Link Role](./Appendix-A.md#Rep-Link) is not required when a Circle lacks any Core Circle Members other than those serving as [Lead Link](./Appendix-A.md#Lead-Link) and Cross Links into the Circle.  In this case, even if the election is conducted, the elected [Rep Link](./Appendix-A.md#Rep-Link) does not become a Core Circle Member of the Super-Circle.
 
 ### 2.7 Cross Linking
 
@@ -177,7 +177,7 @@ Each Circle will normally elect a Rep Link to its Super-Circle.  However, electi
 
 #### 2.7.1 Cross Link Role
 
-If the Linked Entity is a Role, then the Target Circle must invite that Role to participate in the Circle, and that Role becomes the **_“Cross Link Role”_**, with the person filling it becoming the **_“Cross Link”_**. If the Linked Entity is a Circle or a group, then a new special-purpose Cross Link Role is automatically created instead, and resides within both the Linked Entity and the Target Circle, much like a Rep Link.  In this case, the Cross Link Role has the same Purpose and Accountabilities as a Rep Link, but with the “Circle” referenced in the Rep Link Role description instead meaning the Linked Entity, and the “Super-Circle” instead meaning the Target Circle.  If the Linked Entity lacks both a clear Purpose and any clear Accountabilities, then the Cross Link Policy must further clarify what the Cross Link Role will represent within the Target Circle.
+If the Linked Entity is a Role, then the Target Circle must invite that Role to participate in the Circle, and that Role becomes the **_“Cross Link Role”_**, with the person filling it becoming the **_“Cross Link”_**. If the Linked Entity is a Circle or a group, then a new special-purpose Cross Link Role is automatically created instead, and resides within both the Linked Entity and the Target Circle, much like a [Rep Link](./Appendix-A.md#Rep-Link).  In this case, the Cross Link Role has the same Purpose and Accountabilities as a [Rep Link](./Appendix-A.md#Rep-Link), but with the “Circle” referenced in the [Rep Link](./Appendix-A.md#Rep-Link) Role description instead meaning the Linked Entity, and the “Super-Circle” instead meaning the Target Circle.  If the Linked Entity lacks both a clear Purpose and any clear Accountabilities, then the Cross Link Policy must further clarify what the Cross Link Role will represent within the Target Circle.
 
 #### 2.7.2 Cross Link Assignment
 
@@ -255,7 +255,7 @@ The Secretary of a Circle may schedule Governance Meetings to enact the Circle�
 
 #### 3.3.1 Attendance
 
-All Core Circle Members are entitled to fully participate in all Governance Meetings of a Circle.  The acting Facilitator and Secretary are also entitled to fully participate, and become Core Circle Members for the duration of a Governance Meeting even if they are not normally Core Circle Members.  In addition, the [Lead Link](./Appendix-A.md#Lead-Link) and any Rep Links or Cross Links to the Circle may each invite up to one additional person, solely to aid the link in processing a specific Tension.  The invited participant then becomes a Core Circle Member as well for the duration of that Governance Meeting.  Beyond those listed in this paragraph, no one else is allowed to participate in a Circle’s Governance Meetings unless explicitly invited by a Policy of the Circle.
+All Core Circle Members are entitled to fully participate in all Governance Meetings of a Circle.  The acting Facilitator and Secretary are also entitled to fully participate, and become Core Circle Members for the duration of a Governance Meeting even if they are not normally Core Circle Members.  In addition, the [Lead Link](./Appendix-A.md#Lead-Link) and any [Rep Links](./Appendix-A.md#Rep-Link) or Cross Links to the Circle may each invite up to one additional person, solely to aid the link in processing a specific Tension.  The invited participant then becomes a Core Circle Member as well for the duration of that Governance Meeting.  Beyond those listed in this paragraph, no one else is allowed to participate in a Circle’s Governance Meetings unless explicitly invited by a Policy of the Circle.
 
 #### 3.3.2 Notice & Quorum
 
@@ -326,7 +326,7 @@ The Facilitator of a Circle may declare a Process Breakdown in the Circle if the
 
 #### 3.5.2 Breakdown from Unconstitutional Behavior
 
-The Facilitator of a Circle may declare a Process Breakdown within one of its Sub-Circles upon discovering a pattern of behavior or outputs within the Sub-Circle that conflict with the rules of this Constitution.  However, if that Facilitator is also the Sub-Circle’s [Lead Link](./Appendix-A.md#Lead-Link) or Facilitator, then the Super-Circle’s Secretary or Rep Link may also make this declaration.
+The Facilitator of a Circle may declare a Process Breakdown within one of its Sub-Circles upon discovering a pattern of behavior or outputs within the Sub-Circle that conflict with the rules of this Constitution.  However, if that Facilitator is also the Sub-Circle’s [Lead Link](./Appendix-A.md#Lead-Link) or Facilitator, then the Super-Circle’s Secretary or [Rep Link](./Appendix-A.md#Rep-Link) may also make this declaration.
 
 #### 3.5.3 Process Restoration
 
@@ -374,7 +374,7 @@ You must prioritize where to focus your attention and resources in alignment wit
 
 #### 4.1.4 Links May Convey Duties
 
-As a [Lead Link](./Appendix-A.md#Lead-Link), Rep Link, or Cross Link into a Circle, you may invite someone else to engage the Circle Members of the Circle in the duties specified in this section.  You may only extend this invitation to aid in the processing of a specific Tension affecting the entity you are linked from, and only if you also sense the Tension and stay engaged in its processing.  The person you invite temporarily becomes a full Circle Member, as if he or she also fills your link role, but only while directly processing that specific Tension.  You may withdraw this invitation anytime.
+As a [Lead Link](./Appendix-A.md#Lead-Link), [Rep Link](./Appendix-A.md#Rep-Link), or Cross Link into a Circle, you may invite someone else to engage the Circle Members of the Circle in the duties specified in this section.  You may only extend this invitation to aid in the processing of a specific Tension affecting the entity you are linked from, and only if you also sense the Tension and stay engaged in its processing.  The person you invite temporarily becomes a full Circle Member, as if he or she also fills your link role, but only while directly processing that specific Tension.  You may withdraw this invitation anytime.
 
 #### 4.1.5 Implicit Expectations Hold No Weight
 
@@ -403,7 +403,7 @@ The Facilitator must normally use the following process for Tactical Meetings.  
 
 - **(a)	Checklist Review:**  During this step, the Facilitator asks each participant to verify the completion of any recurring actions on that participant’s checklist.
 - **(b)	Metrics Review:**  During this step, the Facilitator asks each participant to share data for any metrics assigned to that participant by the [Lead Link](./Appendix-A.md#Lead-Link) or whatever other Role or process defines the Circle’s metrics.
-- **(c)	Progress Updates:**  During this step, the Facilitator asks each participant to highlight progress towards achieving any Project or expressing any Accountability of any of the participant’s Roles in the Circle.  However, participants may only share progress made since the last report given, and not the general status of a Project or Accountability.  Each participant may decide which Projects or Accountabilities are worth reporting on, however if another Circle Member explicitly requested updates on a specific Project, that one must be included until it’s either completed or dropped.  For progress updates about a Project or Accountability of a Sub-Circle, the Facilitator must allow both the [Lead Link](./Appendix-A.md#Lead-Link) and Rep Link of the Sub-Circle the opportunity to share updates.
+- **(c)	Progress Updates:**  During this step, the Facilitator asks each participant to highlight progress towards achieving any Project or expressing any Accountability of any of the participant’s Roles in the Circle.  However, participants may only share progress made since the last report given, and not the general status of a Project or Accountability.  Each participant may decide which Projects or Accountabilities are worth reporting on, however if another Circle Member explicitly requested updates on a specific Project, that one must be included until it’s either completed or dropped.  For progress updates about a Project or Accountability of a Sub-Circle, the Facilitator must allow both the [Lead Link](./Appendix-A.md#Lead-Link) and [Rep Link](./Appendix-A.md#Rep-Link) of the Sub-Circle the opportunity to share updates.
 - **(d)	Triage Issues:**  During this step, the Facilitator must build an agenda of Tensions to process in the Tactical Meeting by soliciting agenda items from all participants, using the same rules as those for a Governance Meeting, defined in Section 3.3.3.  However, in Tactical Meetings, the Facilitator processes agenda items by simply allowing the agenda item owner to engage others in their Roles and duties as desired, until a path for resolving the Tension is identified.  If any Next-Actions or Projects are accepted during this discussion, the Secretary must capture them and distribute these outputs to all participants.  The Facilitator must attempt to allow time for processing every agenda item within the meeting, and in order to do so may cut off the processing of any item that’s taking more than its due share of the remaining meeting time.
 
 #### 4.2.4 Surrogate for Absent Members
@@ -463,7 +463,7 @@ The [Lead Link](./Appendix-A.md#Lead-Link) of the Anchor Circle has the authorit
 
 #### 5.2.5 No Super-Circle
 
-The Anchor Circle has no Super-Circle, and does not elect a Rep Link.
+The Anchor Circle has no Super-Circle, and does not elect a [Rep Link](./Appendix-A.md#Rep-Link).
 
 ### 5.3 Initial Structure
 
