@@ -70,7 +70,7 @@ When a Circle defines a Domain upon one of its Roles, the Circle’s authority t
 
 ### 2.2 Circle Lead Link
 
-Each Circle has a **_“Lead Link Role”_** with the definition given in Appendix A and the further responsibilities and authorities defined in this Section.  The person filling the Lead Link Role, while acting in that capacity, is referred to as the Circle’s **_“Lead Link”_**.
+Each Circle has a **_“[Lead Link Role](./Appendix-A.md#Lead-Link)”_** with the definition given in Appendix A and the further responsibilities and authorities defined in this Section.  The person filling the Lead Link Role, while acting in that capacity, is referred to as the Circle’s **_“Lead Link”_**.
 
 #### 2.2.1 Holds Undifferentiated Functions
 
