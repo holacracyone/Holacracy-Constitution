@@ -127,7 +127,7 @@ When you fill a Role, you may resign from the Role at any time, unless you’ve 
 
 ### 2.5 Elected Roles
 
-Each Circle includes a **_“Facilitator Role”_**, a **_“Secretary Role”_**, and a **_“[Rep Link Role](./Appendix-A.md#Rep-Link)”_** with the definitions given in Appendix A.  These are the Circle’s **_“Elected Roles”_**, and the person filling each becomes the Circle’s **_“Facilitator”_**, **_“Secretary”_**, or **_“[Rep Link](./Appendix-A.md#Rep-Link)”_** when acting in the capacity of the Elected Role.
+Each Circle includes a **_“[Facilitator Role](./Appendix-A.md#Facilitator)”_**, a **_“Secretary Role”_**, and a **_“[Rep Link Role](./Appendix-A.md#Rep-Link)”_** with the definitions given in Appendix A.  These are the Circle’s **_“Elected Roles”_**, and the person filling each becomes the Circle’s **_“[Facilitator](./Appendix-A.md#Facilitator)”_**, **_“Secretary”_**, or **_“[Rep Link](./Appendix-A.md#Rep-Link)”_** when acting in the capacity of the Elected Role.
 
 #### 2.5.1 Elections & Eligibility
 
