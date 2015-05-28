@@ -2,7 +2,7 @@
 
 ###DEFINITION OF CORE ROLES
 ---
-####Role: Lead Link<a name="Lead-Link"></a>
+####Role: <a name="Lead-Link"></a>Lead Link
 
 **Purpose:**
 _The Lead Link holds the Purpose of the overall Circle._
