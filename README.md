@@ -14,7 +14,7 @@ This document is not a complete set of legal bylaws or a formal operating agreem
 HolacracyOne is not a law firm. The information contained herein is documentation of Holacracy’s rules and processes, and should not be construed as legal advice to be applied to any specific factual situation. You should not rely upon the materials provided in this document in a legal capacity or for legal needs without first consulting an attorney with respect to your specific situation. This document is provided "as-is", without warranty or condition of any kind whatsoever. HolacracyOne does not warrant this document’s quality, accuracy, timeliness, completeness, merchantability, or fitness for use or purpose. To the maximum extent provided by law, HolacracyOne and its agents and members shall not be liable for any damages whatsoever arising from the use of this document.
 
 ### Licensing and Usage
-Like Linux®, Wikipedia®, and Java®, Holacracy® is a registered trademark; in this case, of HolacracyOne LLC.  And like other stewards of open platforms, HolacracyOne aims to maintain the integrity of its brand and the quality of what it represents.  So, we invite you to make and share your own derivative works of the Holacracy® Constitution, per the terms of our open-source CC BY-SA 4.0 license, and to reference that your work is derived from the official Holacracy Constitution (please include a link to http://holacracy.org/constitution).  However, beyond that reference, you may not name or otherwise brand your derivative work using the Holacracy mark, to avoid confusion between your version and the official Holacracy document.  If you have any questions, please <a href="http://www.holacracy.org/contact/" target="_blank">contact us</a>!
+Like Linux®, Wikipedia®, and Java®, Holacracy® is a registered trademark; in this case, of HolacracyOne LLC.  And like other stewards of open platforms, HolacracyOne aims to maintain the integrity of its brand and the quality of what it represents.  So, we invite you to make and share your own derivative works of the Holacracy® Constitution, per the terms of our open-source CC BY-SA 4.0 license, and to reference that your work is derived from the official Holacracy Constitution - please include a link to http://holacracy.org/constitution.  However, beyond that reference, you may not name or otherwise brand your derivative work using the Holacracy mark, to avoid confusion between your version and the official Holacracy document.  If you have any questions, please <a href="http://www.holacracy.org/contact/" target="_blank">contact us</a>!
 
 ---
 
@@ -23,7 +23,6 @@ Like Linux®, Wikipedia®, and Java®, Holacracy® is a registered trademark; in
 ---
 
 # TABLE OF CONTENTS
-(with hyperlinks)
 
 #### [Article I: Energizing Roles] (https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md#article-i-energizing-roles)
 
