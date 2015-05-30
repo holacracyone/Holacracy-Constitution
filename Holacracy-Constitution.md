@@ -92,7 +92,7 @@ Some Circle Members are allowed to take part in a Circle’s Governance Process,
 
 Unless a special appointment or exclusion is made under the terms of this section, the Core Circle Members of a Circle are:
 
-- **(a)**	each Partner filling a Defined Role in the Circle; 
+- **(a)**	each Partner filling a Defined Role in the Circle;
 - **(b)**	the Lead Link of the Circle, as defined in Section 2.2;
 - **(c)**	each Rep Link elected to the Circle, as defined in Section 2.6.4;
 - **(d)**	and each Cross Link into the Circle, as defined in Section 2.7.
@@ -165,7 +165,7 @@ Through its Governance Process, a Circle may remove a Sub-Circle.  This can be d
 
 #### 2.6.3 Lead Link to Sub-Circle
 
-A Circle’s Lead Link may appoint someone to fill the Lead Link Role for each Sub-Circle, using the same rules that apply when the Lead Link appoints into any other Defined Role of the Circle.
+A Circle’s Lead Link may assign someone to fill the Lead Link Role for each Sub-Circle, using the same rules that apply when the Lead Link assigns into any other Defined Role of the Circle.
 
 #### 2.6.4 Rep Link to Super-Circle
 
@@ -173,7 +173,7 @@ Each Circle will normally elect a Rep Link to its Super-Circle.  However, electi
 
 ### 2.7 Cross Linking
 
- A Circle may create a **_“Cross Link Policy”_** to invite any entity or group to participate within another Circle’s Governance Process and operations.  The entity or group that’s invited to participate is the **_“Linked Entity”_**, and it may be external to the Organization, or it may be another Role or Circle within the Organization.  The Circle that will receive this link is the **_“Target Circle”_**, and it must be the Circle creating the Policy, or one of its Sub-Circles.  Once a Cross Link Policy is adopted, the Linked Entity may appoint a representative to participate in the Target Circle under the terms of this section, unless alternate terms are defined in the Policy.
+ A Circle may create a **_“Cross Link Policy”_** to invite any entity or group to participate within another Circle’s Governance Process and operations.  The entity or group that’s invited to participate is the **_“Linked Entity”_**, and it may be external to the Organization, or it may be another Role or Circle within the Organization.  The Circle that will receive this link is the **_“Target Circle”_**, and it must be the Circle creating the Policy, or one of its Sub-Circles.  Once a Cross Link Policy is adopted, the Linked Entity may assign a representative to participate in the Target Circle under the terms of this section, unless alternate terms are defined in the Policy.
 
 #### 2.7.1 Cross Link Role
 
@@ -388,7 +388,7 @@ The Secretary of a Circle must schedule regular **_“Tactical Meetings”_** to
 
 Tactical Meetings are for:
 
-- **(a)**	sharing the completion status of recurring actions on checklists owned by the Circle’s Roles; 
+- **(a)**	sharing the completion status of recurring actions on checklists owned by the Circle’s Roles;
 - **(b)**	sharing regular metrics assigned to the Circle’s Roles to report;
 - **(c)**	sharing progress updates about Projects and other work owned by the Circle’s Roles; and
 - **(d)**	triaging Tensions limiting the Circle’s Roles into Next-Actions, Projects, or other outputs that help reduce those Tensions.
