@@ -7,13 +7,13 @@ This **_“Constitution”_** defines rules and processes for the governance and
 
 ## Article I: Energizing Roles
 
-### 1.1 Definition of Role
+### 1.1 Definition of a Role
 
 The Organization’s Partners will typically perform work for the Organization by acting in an explicitly defined Role.  A **_“Role”_** is an organizational construct with a descriptive name and one or more of the following:
 
-- **(a)**	a **_“Purpose”_**, which is a capacity, potential, or unrealizable goal that the Role will pursue or express on behalf of the Organization; and/or
-- **(b)**	one or more **_“Domains”_**, which are those things the Role may exclusively control and regulate as its property, on behalf of the Organization; and/or
-- **(c)**	one or more **_“Accountabilities”_**, which are ongoing activities of the Organization that the Role will breakdown and enact.
+- **(a)**	a **_“Purpose”_**, which is a capacity, potential, or unrealizable goal that the Role will pursue or express on behalf of the Organization.
+- **(b)**	one or more **_“Domains”_**, which are things the Role may exclusively control and regulate as its property, on behalf of the Organization.
+- **(c)**	one or more **_“Accountabilities”_**, which are ongoing activities of the Organization that the Role will enact.
 
 ### 1.2 Responsibilities of Role-Filling
 
@@ -42,13 +42,20 @@ You must capture and track all Projects and Next-Actions for your Role in a data
 
 Whenever you have time available to act in your Role, you must consider the potential Next-Actions you could efficiently and effectively do at that point in time, and execute whichever you believe would add the most value to the Organization from among that subset.
 
-### 1.3 Authority Over Domains
+### 1.3 Authority to Act
 
-As a Partner assigned to a Role, you have the authority to control and regulate each Domain of your Role.  You may do this on a case-by-case basis when others request permission to impact one of your Domains, by considering the request and allowing or withholding permission.  You may also define **_“Policies”_** for your Domains, which are either grants of authority that allow others to control or cause a material impact within a Domain, or limits on how others may do so when otherwise authorized.  Before a Policy is valid, you must first publish it in a forum convenient to all Partners who may be impacted.  The authorities granted to you in this section may be further limited by constraints defined under Section 2.1.3.
+As a Partner assigned to a Role, you have the authority to execute any Next-Actions you reasonably believe are necessary or desirable to express your Role’s Purpose or enact its Accountabilities.
 
-### 1.4 Authority to Act
+However, you cannot exert control or cause a material impact within a Domain owned by another Role or another sovereign entity, unless you have their permission.  The authority granted in this paragraph is further limited by Section 2.1.3.
 
-As a Partner assigned to a Role, you have the authority to execute any Next-Actions you reasonably believe are necessary or desirable to express your Role’s Purpose or enact its Accountabilities.  However, you can’t exert control or cause a material impact within a Domain owned by another Role or another sovereign entity, unless you have their permission.  The authority granted in this paragraph is further limited by Section 2.1.3.
+### 1.4 Authority Over Domains
+
+As a Partner assigned to a Role, you have the authority to control and regulate each Domain of your Role.  
+
+You may do this on a case-by-case basis when others request permission to impact one of your Domains, by considering the request and allowing or withholding permission.  You may also define **_“Policies”_** for your Domains, which are either grants of authority that allow others to control or cause a material impact within a Domain, or limits on how others may do so when otherwise authorized.  Before a Policy is valid, you must first publish it in a forum convenient to all Partners who may be impacted.
+
+The authorities granted to you in this section may be further limited by constraints defined under Section 2.1.3.
+
 
 ## Article II: Circle Structure
 
@@ -62,7 +69,7 @@ Each Circle must use the **_“Governance Process”_** described in Article III
 
 #### 2.1.2 Roles May Impact Circle Domains
 
-When filling a Role in a Circle, you may use and impact any Domain controlled by the Circle itself, or which the Circle is authorized to impact.  However, you may not fully control or regulate the Domain under the terms of Section 1.3, and you must abide by any constraints acting upon the Circle itself or defined by Policy of the Circle.  Further, you may not transfer or dispose of the Domain itself or any significant assets within the Domain, nor may you significantly limit any rights of the Circle to the Domain.  In all cases however, you may ignore these restrictions if a Role or process holding the needed authority grants you permission to do so.
+When filling a Role in a Circle, you may use and impact any Domain controlled by the Circle itself, or which the Circle is authorized to impact.  However, you may not fully control or regulate the Domain under the terms of Section 1.4, and you must abide by any constraints acting upon the Circle itself or defined by Policy of the Circle.  Further, you may not transfer or dispose of the Domain itself or any significant assets within the Domain, nor may you significantly limit any rights of the Circle to the Domain.  In all cases however, you may ignore these restrictions if a Role or process holding the needed authority grants you permission to do so.
 
 #### 2.1.3 Delegation of Control
 
