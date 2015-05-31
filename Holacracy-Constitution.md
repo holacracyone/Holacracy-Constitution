@@ -220,11 +220,11 @@ A Circle’s Lead Link may assign someone to fill the Lead Link Role for each Su
 
 Each Circle will normally elect a Rep Link to its Super-Circle.
 
-However, electing someone to fill the Rep Link Role is not required when a Circle lacks any Core Circle Members other than those serving as Lead Link and Cross Links into the Circle.  In this case, even if the election is conducted, the elected Rep Link does not become a Core Circle Member of the Super-Circle.
+However, electing someone to fill the Rep Link Role is not required when a Circle lacks any Core Circle Members other than those serving as Lead Link and Cross Links into the Circle. In this case, even if the election is conducted, the elected Rep Link does not become a Core Circle Member of the Super-Circle.
 
 ### 2.7 Cross Linking
 
-A Circle may create a **_“Cross Link Policy”_** to invite any entity or group to participate within another Circle’s Governance Process and operations.  The entity or group that is invited to participate is the **_“Linked Entity”_**, and it may be external to the Organization, or it may be another Role or Circle within the Organization. The Circle that will receive this link is the **_“Target Circle”_**, and it must be the Circle creating the Policy, or one of its Sub-Circles.
+A Circle may create a **_“Cross Link Policy”_** to invite any entity or group to participate within another Circle’s Governance Process and operations. The entity or group that is invited to participate is the **_“Linked Entity”_**, and it may be external to the Organization, or it may be another Role or Circle within the Organization. The Circle that will receive this link is the **_“Target Circle”_**, and it must be the Circle creating the Policy, or one of its Sub-Circles.
 
 Once a Cross Link Policy is adopted, the Linked Entity may assign a representative to participate in the Target Circle under the terms of this section, unless alternate terms are defined in the Policy.
 
@@ -232,7 +232,7 @@ Once a Cross Link Policy is adopted, the Linked Entity may assign a representati
 
 If the Linked Entity is a Role, then the Target Circle must invite that Role to participate in the Circle, and that Role becomes the **_“Cross Link Role”_**, with the person filling it becoming the **_“Cross Link”_**.
 
-If the Linked Entity is a Circle or a group, then a new special-purpose Cross Link Role is automatically created instead, and resides within both the Linked Entity and the Target Circle, much like a Rep Link.  In this case, the Cross Link Role has the same Purpose and Accountabilities as a Rep Link, but with the “Circle” referenced in the Rep Link Role description instead meaning the Linked Entity, and the “Super-Circle” instead meaning the Target Circle.
+If the Linked Entity is a Circle or a group, then a new special-purpose Cross Link Role is automatically created instead, and resides within both the Linked Entity and the Target Circle, much like a Rep Link. In this case, the Cross Link Role has the same Purpose and Accountabilities as a Rep Link, but with the “Circle” referenced in the Rep Link Role description instead meaning the Linked Entity, and the “Super-Circle” instead meaning the Target Circle.
 
 If the Linked Entity lacks both a clear Purpose and any clear Accountabilities, then the Cross Link Policy must further clarify what the Cross Link Role will represent within the Target Circle.
 
@@ -300,7 +300,7 @@ A Circle may adopt Policies to further constrain when or how Proposals may be ma
 
 Some Proposals are disallowed within a Circle’s Governance Process, and the Facilitator may discard these before they are fully processed.
 
-To be valid for processing, a Proposal must resolve or reduce a Tension sensed by the Proposer. In addition, a Proposal must normally help the Proposer better express the Purpose or an Accountability of one of the Proposer’s Roles in the Circle.  However, a Proposal may alternatively help another Circle Member better express one of that person’s Roles in the Circle, but only if that person has granted the Proposer permission to represent that Role.
+To be valid for processing, a Proposal must resolve or reduce a Tension sensed by the Proposer. In addition, a Proposal must normally help the Proposer better express the Purpose or an Accountability of one of the Proposer’s Roles in the Circle. However, a Proposal may alternatively help another Circle Member better express one of that person’s Roles in the Circle, but only if that person has granted the Proposer permission to represent that Role.
 
 Finally, a Proposal is always valid regardless of the preceding criteria if it is made solely to help evolve the Circle’s Governance to more clearly reflect activity that is already happening, or to trigger a new election for any Elected Role.
 
@@ -327,7 +327,7 @@ However, regardless of the above criteria, a Tension about adopting a Proposal a
 
 #### 3.2.5 Testing Objections
 
-The Facilitator may test the validity of a claimed Objection by asking questions of the Objector. For a claimed Objection to survive the test, the Objector must be able to present a reasonable argument for why it meets each specific criteria required of an Objection.  The Facilitator must discard an Objection if the Facilitator deems the Objector has failed to meet this threshold.
+The Facilitator may test the validity of a claimed Objection by asking questions of the Objector. For a claimed Objection to survive the test, the Objector must be able to present a reasonable argument for why it meets each specific criteria required of an Objection. The Facilitator must discard an Objection if the Facilitator deems the Objector has failed to meet this threshold.
 
 However, when assessing the validity of a claimed Objection, the Facilitator may only judge whether the Objector presented the required arguments, and whether they were presented with logical reasoning and are thus reasonable. The Facilitator may not make a judgment on the basis of an argument’s accuracy or the importance of addressing it.
 
@@ -368,11 +368,11 @@ Anyone who fails to attend a Governance Meeting counts as having had the opportu
 
 #### 3.3.3 Agenda Building
 
-The Facilitator must build an agenda of Tensions to process in a Governance Meeting by soliciting and capturing agenda items from all participants. This must be done within the meeting and not beforehand, and each participant may add as many agenda items as desired.  Participants may add additional agenda items during the meeting as well, in between the processing of any existing agenda items.
+The Facilitator must build an agenda of Tensions to process in a Governance Meeting by soliciting and capturing agenda items from all participants. This must be done within the meeting and not beforehand, and each participant may add as many agenda items as desired. Participants may add additional agenda items during the meeting as well, in between the processing of any existing agenda items.
 
-- **(a) Agenda Item Format:** Each agenda item in a Governance Meeting represents one Tension to process, sensed by the participant who added it to the agenda.  However, when adding an agenda item, a participant may only provide a short label for the Tension, and may not explain or discuss the Tension further until processing of that agenda item actually begins.
+- **(a) Agenda Item Format:** Each agenda item in a Governance Meeting represents one Tension to process, sensed by the participant who added it to the agenda. However, when adding an agenda item, a participant may only provide a short label for the Tension, and may not explain or discuss the Tension further until processing of that agenda item actually begins.
 - **(b) Ordering the Agenda:** The Facilitator may determine the order in which to process agenda items, using any process or criteria the Facilitator deems appropriate. However, the Facilitator must place any agenda item calling for an election of any of the Circle’s Elected Roles before all other agenda items, if requested by any meeting participant. Further, if the meeting was scheduled at the special request of one participant, the Facilitator must place all agenda items raised by that participant before any raised by others, unless that participant allows otherwise.
-- **(c) Processing Agenda Items:** Once the Facilitator determines an initial order for the agenda, the Facilitator must lead participants through processing each agenda item, one at a time.  To process an agenda item that calls for an election, the Facilitator must use the **_“Integrative Election Process”_** defined in Section 3.3.5. To process any other agenda item, the Facilitator must use the **_“Integrative Decision-Making Process”_** defined in Section 3.3.4.
+- **(c) Processing Agenda Items:** Once the Facilitator determines an initial order for the agenda, the Facilitator must lead participants through processing each agenda item, one at a time. To process an agenda item that calls for an election, the Facilitator must use the **_“Integrative Election Process”_** defined in Section 3.3.5. To process any other agenda item, the Facilitator must use the **_“Integrative Decision-Making Process”_** defined in Section 3.3.4.
 
 #### 3.3.4 Integrative Decision-Making Process
 
@@ -381,7 +381,7 @@ The Facilitator must enact the Integrative Decision-Making Process as follows:
 - **(a) Present Proposal:** First, the Proposer may describe the Tension and present a Proposal to address the Tension. If the Proposer requests help crafting a Proposal, the Facilitator may allow discussion or another collaborative process to assist. However, the Facilitator must focus this activity solely on crafting an initial Proposal for the Proposer’s Tension, and not on addressing other Tensions or integrating others’ concerns into the Proposal.
 - **(b)	Clarifying Questions:** Once the Proposer makes a Proposal, the other participants may ask clarifying questions to better understand the Proposal or the Tension behind it. The Proposer may answer each question, or may decline to do so. The Facilitator must disallow any reactions or opinions expressed about the Proposal, and prevent discussion of any kind. Any participant may also ask the Secretary to read the captured Proposal or clarify any existing Governance, during this step or at any other time when the participant is allowed to speak, and the Secretary must do so.
 - **(c)	Reaction Round:** Once there are no further clarifying questions, each participant except the Proposer may share reactions to the Proposal, one person at a time. The Facilitator must immediately stop and disallow any out-of-turn comments, any attempts to engage others in a dialog or exchange of any sort, and any reactions to other reactions instead of to the Proposal.
-- **(d)	Amend & Clarify:** After the reaction round, the Proposer may share comments in response to the reactions and make amendments to the Proposal.  However, the primary intent of any amendments must be to better address the Proposer’s Tension, and not Tensions raised by others. During this step, the Facilitator must immediately stop and disallow any comments by anyone other than the Proposer.
+- **(d)	Amend & Clarify:** After the reaction round, the Proposer may share comments in response to the reactions and make amendments to the Proposal. However, the primary intent of any amendments must be to better address the Proposer’s Tension, and not Tensions raised by others. During this step, the Facilitator must immediately stop and disallow any comments by anyone other than the Proposer.
 - **(e)	Objection Round:** Next, each participant, one at a time, may raise potential Objections to adopting the Proposal. The Facilitator must stop and disallow discussion or responses of any sort. The Facilitator may test Objections as described in Section 3.2.5, and must capture any valid Objections that remain after testing. If there are no valid Objections, the Secretary records the Proposal as adopted Governance for the Circle.
 - **(f)	Integration:** If there are valid Objections, the Facilitator then facilitates a discussion to amend the Proposal to resolve each Objection, one at a time. The Facilitator marks an Objection as resolved once the Objector confirms that the amended Proposal would not trigger the Objection, and the Proposer confirms that the amended Proposal would still address the Proposer’s Tension. During the discussion, the Facilitator must apply the rules of integration described in Section 3.2.6. Once all captured Objections are addressed, the Facilitator moves back to the Objection round to check for new Objections to the amended Proposal.
 
