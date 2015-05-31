@@ -3,13 +3,13 @@
 
 ###PREAMBLE
 
-This **_“Constitution”_** defines rules and processes for the governance and operations of an organization.  The **_“Ratifiers”_** are adopting these rules as the formal authority structure for the **_“Organization”_** specified upon the Constitution’s adoption, which may be an entire entity or any part of one that the Ratifiers have authority to govern and run.  The Ratifiers and anyone else who agrees to take part in the governance and operations of the Organization (its **_“Partners”_**) may rely upon the authorities granted by this Constitution, and also agree to be bound by its duties and constraints.
+This **_“Constitution”_** defines rules and processes for the governance and operations of an organization. The **_“Ratifiers”_** are adopting these rules as the formal authority structure for the **_“Organization”_** specified upon the Constitution’s adoption, which may be an entire entity or any part of one that the Ratifiers have authority to govern and run. The Ratifiers and anyone else who agrees to take part in the governance and operations of the Organization (its **_“Partners”_**) may rely upon the authorities granted by this Constitution, and also agree to be bound by its duties and constraints.
 
 ## Article I: Energizing Roles
 
 ### 1.1 Definition of a Role
 
-The Organization’s Partners will typically perform work for the Organization by acting in an explicitly defined Role.  A **_“Role”_** is an organizational construct with a descriptive name and one or more of the following:
+The Organization’s Partners will typically perform work for the Organization by acting in an explicitly defined Role. A **_“Role”_** is an organizational construct with a descriptive name and one or more of the following:
 
 - **(a)**	a **_“Purpose”_**, which is a capacity, potential, or unrealizable goal that the Role will pursue or express on behalf of the Organization.
 - **(b)**	one or more **_“Domains”_**, which are things the Role may exclusively control and regulate as its property, on behalf of the Organization.
@@ -21,7 +21,7 @@ As a Partner of the Organization, you have the following responsibilities for ea
 
 #### 1.2.1 Processing Tensions
 
-You must monitor how your Role’s Purpose and Accountabilities are expressed, and compare that to your vision of their ideal potential expression, to identify gaps between the current reality and a potential you sense (each gap is a **_“Tension”_**).  You must then try to reduce those Tensions by using the authorities and other mechanisms available to you under this Constitution.
+You must monitor how your Role’s Purpose and Accountabilities are expressed, and compare that to your vision of their ideal potential expression, to identify gaps between the current reality and a potential you sense (each gap is a **_“Tension”_**). You must then try to reduce those Tensions by using the authorities and other mechanisms available to you under this Constitution.
 
 #### 1.2.2 Processing Accountabilities
 
@@ -46,13 +46,13 @@ Whenever you have time available to act in your Role, you must consider the pote
 
 As a Partner assigned to a Role, you have the authority to execute any Next-Actions you reasonably believe are necessary or desirable to express your Role’s Purpose or enact its Accountabilities.
 
-However, you cannot exert control or cause a material impact within a Domain owned by another Role or another sovereign entity, unless you have their permission.  The authority granted in this paragraph is further limited by Section 2.1.3.
+However, you cannot exert control or cause a material impact within a Domain owned by another Role or another sovereign entity, unless you have their permission. The authority granted in this paragraph is further limited by Section 2.1.3.
 
 ### 1.4 Authority Over Domains
 
-As a Partner assigned to a Role, you have the authority to control and regulate each Domain of your Role.  
+As a Partner assigned to a Role, you have the authority to control and regulate each Domain of your Role.
 
-You may do this on a case-by-case basis when others request permission to impact one of your Domains, by considering the request and allowing or withholding permission.  You may also define **_“Policies”_** for your Domains, which are either grants of authority that allow others to control or cause a material impact within a Domain, or limits on how others may do so when otherwise authorized.  Before a Policy is valid, you must first publish it in a forum convenient to all Partners who may be impacted.
+You may do this on a case-by-case basis when others request permission to impact one of your Domains, by considering the request and allowing or withholding permission. You may also define **_“Policies”_** for your Domains, which are either grants of authority that allow others to control or cause a material impact within a Domain, or limits on how others may do so when otherwise authorized. Before a Policy is valid, you must first publish it in a forum convenient to all Partners who may be impacted.
 
 The authorities granted to you in this section may be further limited by constraints defined under Section 2.1.3.
 
@@ -61,39 +61,57 @@ The authorities granted to you in this section may be further limited by constra
 
 ### 2.1 Circle Basics
 
-A **_“Circle”_** is a Role that may further break itself down by defining its own contained Roles to achieve its Purpose, control its Domains, and enact its Accountabilities (the Roles a Circle defines are its **_“Defined Roles”_**).  Anyone filling a Defined Role within a Circle is a **_“Circle Member”_** of that Circle.
+A **_“Circle”_** is a Role that may further break itself down by defining its own contained Roles to achieve its Purpose, control its Domains, and enact its Accountabilities (the Roles a Circle defines are its **_“Defined Roles”_**). Anyone filling a Defined Role within a Circle is a **_“Circle Member”_** of that Circle.
 
 #### 2.1.1 Defining Roles & Policies
 
-Each Circle must use the **_“Governance Process”_** described in Article III of this Constitution to create or amend Roles within the Circle or Policies governing the Circle’s Domain.  No one may create or amend a Circle’s Roles or Policies outside of its Governance Process, unless explicitly allowed by another rule of this Constitution.  Further, each Circle may control its own functions and activities, as if a Domain of the Circle, for the purpose of defining Policies that limit the Circle’s Roles.
+Each Circle must use the **_“Governance Process”_** described in Article III of this Constitution to create or amend Roles within the Circle or Policies governing the Circle’s Domain. No one may create or amend a Circle’s Roles or Policies outside of its Governance Process, unless explicitly allowed by another rule of this Constitution. 
+
+Further, each Circle may control its own functions and activities, as if a Domain of the Circle, for the purpose of defining Policies that limit the Circle’s Roles.
 
 #### 2.1.2 Roles May Impact Circle Domains
 
-When filling a Role in a Circle, you may use and impact any Domain controlled by the Circle itself, or which the Circle is authorized to impact.  However, you may not fully control or regulate the Domain under the terms of Section 1.4, and you must abide by any constraints acting upon the Circle itself or defined by Policy of the Circle.  Further, you may not transfer or dispose of the Domain itself or any significant assets within the Domain, nor may you significantly limit any rights of the Circle to the Domain.  In all cases however, you may ignore these restrictions if a Role or process holding the needed authority grants you permission to do so.
+When filling a Role in a Circle, you may use and impact any Domain controlled by the Circle itself, or which the Circle is authorized to impact.  However, you may not fully control or regulate the Domain under the terms of Section 1.4, and you must abide by any constraints acting upon the Circle itself or defined by Policy of the Circle. Further, you may not transfer or dispose of the Domain itself or any significant assets within the Domain, nor may you significantly limit any rights of the Circle to the Domain. 
+
+In all cases however, you may ignore these restrictions if a Role or process holding the needed authority grants you permission to do so.
 
 #### 2.1.3 Delegation of Control
 
-When a Circle defines a Domain upon one of its Roles, the Circle’s authority to impact, control, and regulate that Domain is instead delegated to that Role and removed from the Circle.  However, the Circle retains the right to amend or remove that Domain delegation, or to define or modify Policies that further grant or constrain the Role’s authority within the Domain.  By default, any Domains delegated in this way exclude the authority to dispose of the Domain itself or any significant assets within the Domain, or to transfer those assets outside of the Circle, or to significantly limit any rights of the Circle to the Domain.  A Circle may delegate these retained authorities as well, by explicitly granting the desired permissions in a Policy of the Circle.  In any case, all Domain delegations are always limited to whatever authority the Circle itself had in the first place.
+When a Circle defines a Domain upon one of its Roles, the Circle’s authority to impact, control, and regulate that Domain is instead delegated to that Role and removed from the Circle.
+
+However, the Circle retains the right to amend or remove that Domain delegation, or to define or modify Policies that further grant or constrain the Role’s authority within the Domain.
+
+By default, any Domains delegated in this way exclude the authority to dispose of the Domain itself or any significant assets within the Domain, or to transfer those assets outside of the Circle, or to significantly limit any rights of the Circle to the Domain. A Circle may delegate these retained authorities as well, by explicitly granting the desired permissions in a Policy of the Circle.
+
+In any case, all Domain delegations are always limited to whatever authority the Circle itself had in the first place.
 
 ### 2.2 Circle Lead Link
 
-Each Circle has a **_“Lead Link Role”_** with the definition given in Appendix A and the further responsibilities and authorities defined in this Section.  The person filling the Lead Link Role, while acting in that capacity, is referred to as the Circle’s **_“Lead Link”_**.
+Each Circle has a **_“Lead Link Role”_** with the definition given in Appendix A and the further responsibilities and authorities defined in this Section.
+
+The person filling the Lead Link Role, while acting in that capacity, is referred to as the Circle’s **_“Lead Link”_**.
 
 #### 2.2.1 Holds Undifferentiated Functions
 
-A Circle’s Lead Link inherits any Accountabilities and controls any Domains defined on the Circle itself, just as if the Circle were only a Role and the Lead Link filled that Role.  However, this only applies to the extent that those Accountabilities and Domains have not been placed upon a Role within the Circle, or otherwise delegated.  Further, the Lead Link may not define Policies that limit the Circle’s Roles, except via the Governance Process of the Circle.
+A Circle’s Lead Link inherits any Accountabilities and controls any Domains defined on the Circle itself, just as if the Circle were only a Role and the Lead Link filled that Role. However, this only applies to the extent that those Accountabilities and Domains have not been placed upon a Role within the Circle, or otherwise delegated.
+
+Further, the Lead Link may not define Policies that limit the Circle’s Roles, except via the Governance Process of the Circle.
 
 #### 2.2.2 Defines Priorities & Strategies
 
-A Circle’s Lead Link may define priorities for the Circle.  In addition, the Lead Link may define more general heuristics for prioritization, which guide the Circle’s Roles in self-identifying priorities on a case-by-case basis (each general heuristic is a **_“Strategy”_** of the Circle).
+A Circle’s Lead Link may define priorities for the Circle. In addition, the Lead Link may define more general heuristics for prioritization, which guide the Circle’s Roles in self-identifying priorities on a case-by-case basis (each general heuristic is a **_“Strategy”_** of the Circle).
 
 #### 2.2.3 Amending Lead Link Role
 
-A Circle may not add Accountabilities or other functions to its own Lead Link Role, or modify the Role’s Purpose, or remove the Role entirely.  However, a Circle may remove any Accountabilities, Domains, authorities, or functions of its Lead Link Role, either by placing them on another Role within the Circle, or by defining an alternate means of enacting them.  When this occurs, it automatically removes the relevant element or authority from the Lead Link Role, for as long as the delegation remains in place.
+A Circle may not add Accountabilities or other functions to its own Lead Link Role, or modify the Role’s Purpose, or remove the Role entirely. 
+
+However, a Circle may remove any Accountabilities, Domains, authorities, or functions of its Lead Link Role, either by placing them on another Role within the Circle, or by defining an alternate means of enacting them. When this occurs, it automatically removes the relevant element or authority from the Lead Link Role, for as long as the delegation remains in place.
 
 ### 2.3 Core Circle Members
 
-Some Circle Members are allowed to take part in a Circle’s Governance Process, and are thus **_“Core Circle Members”_** of the Circle.  The Core Circle Members are determined using the following rules:
+Some Circle Members are allowed to take part in a Circle’s Governance Process, and are thus **_“Core Circle Members”_** of the Circle.
+
+The Core Circle Members are determined using the following rules:
 
 #### 2.3.1 Base Membership
 
@@ -106,11 +124,15 @@ Unless a special appointment or exclusion is made under the terms of this sectio
 
 #### 2.3.2 Exclusion for Multi-Filled Roles
 
-If multiple Partners are assigned to the same Defined Role in a Circle, the Circle may enact a Policy that limits how many of them are Core Circle Members as a result of that Role assignment. However, the Policy must allow at least one of the Partners filling the Role to represent it as a Core Circle Member, and must specify how that representative will be determined.  In addition, any Partners representing the Role have the duty to consider and process Tensions conveyed by the excluded Partners, exactly as a Rep Link would were the Role a Sub-Circle, unless the Policy defines an alternate pathway for the excluded Partners to process Tensions related to that Role.
+If multiple Partners are assigned to the same Defined Role in a Circle, the Circle may enact a Policy that limits how many of them are Core Circle Members as a result of that Role assignment. However, the Policy must allow at least one of the Partners filling the Role to represent it as a Core Circle Member, and must specify how that representative will be determined.
+
+In addition, any Partners representing the Role have the duty to consider and process Tensions conveyed by the excluded Partners, exactly as a Rep Link would were the Role a Sub-Circle, unless the Policy defines an alternate pathway for the excluded Partners to process Tensions related to that Role.
 
 #### 2.3.3 Exclusion for De Minimis Allocation
 
-If a Partner only has a de minimis amount of attention allocated to a Defined Role in a Circle, in the reasonable judgment of the Circle’s Lead Link, the Lead Link may exclude that Partner from serving as a Core Circle Member as a result of that Role assignment.  If a Partner is so excluded, the Lead Link has a duty to consider and process Tensions conveyed by the excluded Partner, exactly as a Rep Link would were the Role a Sub-Circle, unless an alternate pathway is defined for the excluded Partner to process Tensions related to that Role.
+If a Partner only has a de minimis amount of attention allocated to a Defined Role in a Circle, in the reasonable judgment of the Circle’s Lead Link, the Lead Link may exclude that Partner from serving as a Core Circle Member as a result of that Role assignment.
+
+If a Partner is so excluded, the Lead Link has a duty to consider and process Tensions conveyed by the excluded Partner, exactly as a Rep Link would were the Role a Sub-Circle, unless an alternate pathway is defined for the excluded Partner to process Tensions related to that Role.
 
 #### 2.3.4 Special Appointments of Core Members
 
@@ -126,7 +148,11 @@ Whenever a Defined Role in a Circle is unfilled, the Circle’s Lead Link is con
 
 #### 2.4.2 Assigning Roles to Multiple People
 
-A Lead Link may assign multiple people to the same Defined Role, as long as that won’t decrease the clarity of who should enact the Accountabilities and authorities of the Role in common situations.  As one way of maintaining that clarity, a Lead Link may specify a “Focus” along with each assignment, which is an area or context for that person to focus within while executing in the Role. When a Role assignment includes a Focus, the Purpose, Accountabilities, and Domains defined for the Role apply just within the specified Focus for that particular person.
+A Lead Link may assign multiple people to the same Defined Role, as long as that won’t decrease the clarity of who should enact the Accountabilities and authorities of the Role in common situations.
+
+As one way of maintaining that clarity, a Lead Link may specify a “Focus” along with each assignment, which is an area or context for that person to focus within while executing in the Role.
+
+When a Role assignment includes a Focus, the Purpose, Accountabilities, and Domains defined for the Role apply just within the specified Focus for that particular person.
 
 #### 2.4.3 Resignation from Roles
 
@@ -138,19 +164,29 @@ Each Circle includes a **_“Facilitator Role”_**, a **_“Secretary Role”_*
 
 #### 2.5.1 Elections & Eligibility
 
-Each Circle must hold regular elections to elect a Core Circle Member of the Circle into each of its Elected Roles, using the process and rules defined in Article III.  All Core Circle Members are eligible for election and each may hold multiple Elected Roles, except for the Lead Link of a Circle, who may not be elected as its Facilitator or Rep Link.
+Each Circle must hold regular elections to elect a Core Circle Member of the Circle into each of its Elected Roles, using the process and rules defined in Article III.
+
+All Core Circle Members are eligible for election and each may hold multiple Elected Roles, except for the Lead Link of a Circle, who may not be elected as its Facilitator or Rep Link.
 
 #### 2.5.2 Election Terms & Revisiting
 
-During the election process, the Facilitator will specify a term for each election.  After the end of a term, the Secretary will promptly trigger a new election for that Elected Role.  However, even before a term has expired, any Core Circle Member may trigger a new election using the process defined in Article III.
+During the election process, the Facilitator will specify a term for each election.
+
+After the end of a term, the Secretary will promptly trigger a new election for that Elected Role. However, even before a term has expired, any Core Circle Member may trigger a new election using the process defined in Article III.
 
 #### 2.5.3 Amending Elected Roles
 
-A Circle may add Accountabilities or Domains to its Elected Roles, as well as amend or remove those additions.  However, a Circle may only add to its own Rep Link Role and not to a Rep Link Role appointed to the Circle by another Circle.  Further, no Circle may amend or remove any Purpose, Domain, Accountabilities, or authorities granted to an Elected Role by this Constitution, nor remove an Elected Role entirely.
+A Circle may add Accountabilities or Domains to its Elected Roles, as well as amend or remove those additions.
+
+However, a Circle may only add to its own Rep Link Role and not to a Rep Link Role appointed to the Circle by another Circle.
+
+Further, no Circle may amend or remove any Purpose, Domain, Accountabilities, or authorities granted to an Elected Role by this Constitution, nor remove an Elected Role entirely.
 
 #### 2.5.4 Surrogates for Elected Roles
 
-A surrogate may temporarily fill an Elected Role when one is unfilled, or when the person who normally fills the Role is unavailable for a Circle meeting or feels unable or unwilling to enact the Role’s duties.  In any given instance where a surrogate is needed, the surrogate is, in this order of precedence:
+A surrogate may temporarily fill an Elected Role when one is unfilled, or when the person who normally fills the Role is unavailable for a Circle meeting or feels unable or unwilling to enact the Role’s duties.
+
+In any given instance where a surrogate is needed, the surrogate is, in this order of precedence:
 
 - **(a)**	someone explicitly specified by the person to be replaced; or
 - **(b)**	the acting Facilitator of the Circle; or
@@ -164,11 +200,17 @@ A Circle may expand its Defined Roles into full Circles, via its Governance Proc
 
 #### 2.6.1 Modifying Sub-Circles
 
-A Circle may modify the Purpose, Domain, or Accountabilities on a Sub-Circle.  A Circle may also move its own Defined Roles or Policies into a Sub-Circle, or move any within the Sub-Circle into itself.  Any of these modifications may only be done via the Governance Process of the Circle.  Beyond these allowed changes, a Circle may not modify any Defined Roles or Policies held within a Sub-Circle.
+A Circle may modify the Purpose, Domain, or Accountabilities on a Sub-Circle. 
+
+A Circle may also move its own Defined Roles or Policies into a Sub-Circle, or move any within the Sub-Circle into itself.
+
+Any of these modifications may only be done via the Governance Process of the Circle.
+
+Beyond these allowed changes, a Circle may not modify any Defined Roles or Policies held within a Sub-Circle.
 
 #### 2.6.2 Removing Sub-Circles
 
-Through its Governance Process, a Circle may remove a Sub-Circle.  This can be done by removing the Sub-Circle and everything within entirely, or by selectively retaining certain elements of the Sub-Circle within the Circle.  A Sub-Circle may also be removed by collapsing it from a Circle back into just a Role.
+Through its Governance Process, a Circle may remove a Sub-Circle. This can be done by removing the Sub-Circle and everything within entirely, or by selectively retaining certain elements of the Sub-Circle within the Circle. A Sub-Circle may also be removed by collapsing it from a Circle back into just a Role.
 
 #### 2.6.3 Lead Link to Sub-Circle
 
@@ -176,31 +218,53 @@ A Circle’s Lead Link may appoint someone to fill the Lead Link Role for each S
 
 #### 2.6.4 Rep Link to Super-Circle
 
-Each Circle will normally elect a Rep Link to its Super-Circle.  However, electing someone to fill the Rep Link Role is not required when a Circle lacks any Core Circle Members other than those serving as Lead Link and Cross Links into the Circle.  In this case, even if the election is conducted, the elected Rep Link does not become a Core Circle Member of the Super-Circle.
+Each Circle will normally elect a Rep Link to its Super-Circle.
+
+However, electing someone to fill the Rep Link Role is not required when a Circle lacks any Core Circle Members other than those serving as Lead Link and Cross Links into the Circle.  In this case, even if the election is conducted, the elected Rep Link does not become a Core Circle Member of the Super-Circle.
 
 ### 2.7 Cross Linking
 
- A Circle may create a **_“Cross Link Policy”_** to invite any entity or group to participate within another Circle’s Governance Process and operations.  The entity or group that’s invited to participate is the **_“Linked Entity”_**, and it may be external to the Organization, or it may be another Role or Circle within the Organization.  The Circle that will receive this link is the **_“Target Circle”_**, and it must be the Circle creating the Policy, or one of its Sub-Circles.  Once a Cross Link Policy is adopted, the Linked Entity may appoint a representative to participate in the Target Circle under the terms of this section, unless alternate terms are defined in the Policy.
+A Circle may create a **_“Cross Link Policy”_** to invite any entity or group to participate within another Circle’s Governance Process and operations.  The entity or group that is invited to participate is the **_“Linked Entity”_**, and it may be external to the Organization, or it may be another Role or Circle within the Organization. The Circle that will receive this link is the **_“Target Circle”_**, and it must be the Circle creating the Policy, or one of its Sub-Circles.
+
+Once a Cross Link Policy is adopted, the Linked Entity may appoint a representative to participate in the Target Circle under the terms of this section, unless alternate terms are defined in the Policy.
 
 #### 2.7.1 Cross Link Role
 
-If the Linked Entity is a Role, then the Target Circle must invite that Role to participate in the Circle, and that Role becomes the **_“Cross Link Role”_**, with the person filling it becoming the **_“Cross Link”_**. If the Linked Entity is a Circle or a group, then a new special-purpose Cross Link Role is automatically created instead, and resides within both the Linked Entity and the Target Circle, much like a Rep Link.  In this case, the Cross Link Role has the same Purpose and Accountabilities as a Rep Link, but with the “Circle” referenced in the Rep Link Role description instead meaning the Linked Entity, and the “Super-Circle” instead meaning the Target Circle.  If the Linked Entity lacks both a clear Purpose and any clear Accountabilities, then the Cross Link Policy must further clarify what the Cross Link Role will represent within the Target Circle.
+If the Linked Entity is a Role, then the Target Circle must invite that Role to participate in the Circle, and that Role becomes the **_“Cross Link Role”_**, with the person filling it becoming the **_“Cross Link”_**.
+
+If the Linked Entity is a Circle or a group, then a new special-purpose Cross Link Role is automatically created instead, and resides within both the Linked Entity and the Target Circle, much like a Rep Link.  In this case, the Cross Link Role has the same Purpose and Accountabilities as a Rep Link, but with the “Circle” referenced in the Rep Link Role description instead meaning the Linked Entity, and the “Super-Circle” instead meaning the Target Circle.
+
+If the Linked Entity lacks both a clear Purpose and any clear Accountabilities, then the Cross Link Policy must further clarify what the Cross Link Role will represent within the Target Circle.
 
 #### 2.7.2 Cross Link Assignment
 
-If the Linked Entity is a Circle or group, it may assign someone to fill the Cross Link Role using whatever process it already has for assigning people to fill Defined Roles or similar work functions.  If a Linked Entity represents a group with no single nexus of authority to do that assignment, then the Target Circle may instead assign someone to the Cross Link Role, unless otherwise specified in the Cross Link Policy.  In all cases, only one person may be assigned to each Cross Link Role, unless allowed by the Cross Link Policy.  Whenever a Cross Link Role is unfilled, it is considered non-existent and has no default assignment or effect.
+If the Linked Entity is a Circle or group, it may assign someone to fill the Cross Link Role using whatever process it already has for assigning people to fill Defined Roles or similar work functions.
+
+If a Linked Entity represents a group with no single nexus of authority to do that assignment, then the Target Circle may instead assign someone to the Cross Link Role, unless otherwise specified in the Cross Link Policy.
+
+In all cases, only one person may be assigned to each Cross Link Role, unless allowed by the Cross Link Policy. 
+
+Whenever a Cross Link Role is unfilled, it is considered non-existent and has no default assignment or effect.
 
 #### 2.7.3 Cross Link Authority
 
-A Cross Link becomes a Circle Member of the Target Circle, and may use the authorities of a Circle Member to process Tensions that relate to the Target Circle limiting the Linked Entity.  However, beyond removing limitations, a Cross Link may not use the Target Circle to build more capacities for the Linked Entity, unless those capacities would also help the Target Circle express its own Purpose or Accountabilities.
+A Cross Link becomes a Circle Member of the Target Circle, and may use the authorities of a Circle Member to process Tensions that relate to the Target Circle limiting the Linked Entity.
+
+However, beyond removing limitations, a Cross Link may not use the Target Circle to build more capacities for the Linked Entity, unless those capacities would also help the Target Circle express its own Purpose or Accountabilities.
 
 #### 2.7.4 Additions to Cross Link Role
 
-A Linked Entity may amend its Cross Link Role through its own Governance Process.  A Target Circle may add Domains or Accountabilities to a Cross Link Role through its own Governance Process, and may later amend or remove any it added.
+A Linked Entity may amend its Cross Link Role through its own Governance Process.
+
+A Target Circle may add Domains or Accountabilities to a Cross Link Role through its own Governance Process, and may later amend or remove any it added.
 
 #### 2.7.5 Boundaries and Delegation
 
-The Linked Entity invited into a Target Circle may be a Role contained by another Circle.  In that case, the other Circle may change the Linked Entity to another one of its Roles that it believes is more appropriate, or delegate the selection of the Linked Entity to one of its Sub-Circles.  The Target Circle may also delegate the requirement to receive a link to one of its own Sub-Circles, in which case that Sub-Circle will then become the Target Circle for the link.  In either case, any delegation must be done via a Policy of the Circle doing the delegating.  Further, any change or delegation must still align with any constraints or guidelines specified in the Cross Link Policy that extended the invitation to link in the first place.
+The Linked Entity invited into a Target Circle may be a Role contained by another Circle. In that case, the other Circle may change the Linked Entity to another one of its Roles that it believes is more appropriate, or delegate the selection of the Linked Entity to one of its Sub-Circles.
+
+The Target Circle may also delegate the requirement to receive a link to one of its own Sub-Circles, in which case that Sub-Circle will then become the Target Circle for the link.
+
+In either case, any delegation must be done via a Policy of the Circle doing the delegating. Further, any change or delegation must still align with any constraints or guidelines specified in the Cross Link Policy that extended the invitation to link in the first place.
 
 ## Article III: Governance Process
 
