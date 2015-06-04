@@ -3,7 +3,7 @@
 
 ###PREAMBLE
 
-This **_“Constitution”_** defines rules and processes for the governance and operations of an organization. The **_“Ratifiers”_** are adopting these rules as the formal authority structure for the **_“Organization”_** specified upon the Constitution’s adoption, which may be an entire entity or any part of one that the Ratifiers have authority to govern and run. The Ratifiers and anyone else who agrees to take part in the governance and operations of the Organization (its **_“Partners”_**) may rely upon the authorities granted by this Constitution, and also agree to be bound by its duties and constraints.
+This **_“Constitution”_** defines rules and processes for the governance and operations of an organization. The **_“Ratifiers”_** are adopting these rules as the formal authority structure for the **_“Organization”_** specified upon the Constitution’s adoption, which may be an entire entity or a part of one that the Ratifiers have authority to govern and run. The Ratifiers and anyone else who agrees to take part in the governance and operations of the Organization (its **_“Partners”_**) may rely upon the authorities granted by this Constitution, and also agree to be bound by its duties and constraints.
 
 ## Article I: Energizing Roles
 
@@ -17,11 +17,11 @@ The Organization’s Partners will typically perform work for the Organization b
 
 ### 1.2 Responsibilities of Role-Filling
 
-As a Partner of the Organization, you have the following responsibilities for each Role you are assigned to:
+As a Partner of the Organization, you have the following responsibilities for each Role that you are assigned to:
 
 #### 1.2.1 Processing Tensions
 
-You must monitor how your Role’s Purpose and Accountabilities are expressed, and compare that to your vision of their ideal potential expression, to identify gaps between the current reality and a potential you sense (each gap is a **_“Tension”_**). You must then try to reduce those Tensions by using the authorities and other mechanisms available to you under this Constitution.
+You must monitor how your Role’s Purpose and Accountabilities are expressed, and compare that to your vision of their ideal potential expression, to identify gaps between the current reality and a potential you sense (each gap is a **_“Tension”_**). You must then try to resolve those Tensions by using the authorities and other mechanisms available to you under this Constitution.
 
 #### 1.2.2 Processing Accountabilities
 
@@ -44,7 +44,7 @@ Whenever you have time available to act in your Role, you must consider the pote
 
 ### 1.3 Authority to Act
 
-As a Partner assigned to a Role, you have the authority to execute any Next-Actions you reasonably believe are necessary or desirable to express your Role’s Purpose or enact its Accountabilities.
+As a Partner assigned to a Role, you have the authority to execute any Next-Actions you reasonably believe are useful for enacting your Role’s Purpose or Accountabilities.
 
 However, you cannot exert control or cause a material impact within a Domain owned by another Role or another sovereign entity, unless you have their permission. The authority granted in this paragraph is further limited by Section 2.1.3.
 
@@ -71,9 +71,9 @@ Further, each Circle may control its own functions and activities, as if a Domai
 
 #### 2.1.2 Roles May Impact Circle Domains
 
-When filling a Role in a Circle, you may use and impact any Domain controlled by the Circle itself, or which the Circle is authorized to impact. However, you may not fully control or regulate the Domain under the terms of Section 1.4, and you must abide by any constraints acting upon the Circle itself or defined by Policy of the Circle. Further, you may not transfer or dispose of the Domain itself or any significant assets within the Domain, nor may you significantly limit any rights of the Circle to the Domain. 
+When filling a Role in a Circle, you may use and impact any Domain controlled by the Circle itself, or which the Circle is authorized to impact.
 
-In all cases however, you may ignore these restrictions if a Role or process holding the needed authority grants you permission to do so.
+However, you may not fully control or regulate the Domain under the terms of Section 1.4, and you must abide by any constraints acting upon the Circle itself or defined by Policy of the Circle. Further, you may not transfer or dispose of the Domain itself or any significant assets within the Domain, nor may you significantly limit any rights of the Circle to the Domain. These restrictions do not apply if a Role or process holding the needed authority grants you permission to do so.
 
 #### 2.1.3 Delegation of Control
 
@@ -218,9 +218,7 @@ A Circle’s Lead Link may assign someone to fill the Lead Link Role for each Su
 
 #### 2.6.4 Rep Link to Super-Circle
 
-Each Circle will normally elect a Rep Link to its Super-Circle.
-
-However, electing someone to fill the Rep Link Role is not required when a Circle lacks any Core Circle Members other than those serving as Lead Link and Cross Links into the Circle. In this case, even if the election is conducted, the elected Rep Link does not become a Core Circle Member of the Super-Circle.
+Each Circle must normally elect a Rep Link to its Super-Circle. However, this election is not required when a Circle lacks any Core Circle Members other than those serving as Lead Link and Cross Links into the Circle. In this case, even if the election is conducted, the elected Rep Link does not become a Core Circle Member of the Super-Circle.
 
 ### 2.7 Cross Linking
 
@@ -335,7 +333,7 @@ However, when an Objection is claimed on the basis of a Proposal violating the C
 
 #### 3.2.6 Rules of Integration
 
-When an Objection is raised to a Proposal, the following additional rules apply during the search for a resolution:
+When an Objection to a Proposal is raised, the following additional rules apply during the search for a resolution:
 
 - **(a)**	The Facilitator must test an Objection if requested by any Core Circle Member, and discard it if it fails to meet the validity criteria described in this Section.
 - **(b)**	The Objector must attempt to find an amendment to the Proposal that will resolve the Objection and still address the Proposer’s Tension. Others may help. If the Facilitator concludes that the Objector is not making a good faith effort to find a potential amendment at any point, then the Facilitator must deem the Objection abandoned and continue processing the Proposal as if the Objection had not been raised.
@@ -366,29 +364,39 @@ Beyond this notice requirement, there is no quorum required for a Circle to cond
 
 Anyone who fails to attend a Governance Meeting counts as having had the opportunity to consider all Proposals made within the meeting, and raised no Objections to their adoption.
 
-#### 3.3.3 Agenda Building
+#### 3.3.3 Meeting Process
 
-The Facilitator must build an agenda of Tensions to process in a Governance Meeting by soliciting and capturing agenda items from all participants. This must be done within the meeting and not beforehand, and each participant may add as many agenda items as desired. Participants may add additional agenda items during the meeting as well, in between the processing of any existing agenda items.
+The Facilitator must use the following process for Governance Meetings:
+
+- **(a) Check-in Round:** The Facilitator allows each participant in turn to share their current state or thoughts, or offer another type of opening comment for the meeting. Responses are not allowed.
+- **(b)	Administrative Concerns:** The Facilitator allows space to discuss and resolve any administrative or logistical matters the Facilitator deems worthy of attention.
+- **(c)	Agenda Building & Processing:** The Facilitator builds an agenda of Tensions to process, then processes each agenda item in turn.
+- **(d) Closing Round:** The Facilitator allows each participant in turn to share a closing reflection or other thought triggered by the meeting. Responses are not allowed.
+
+A Policy of the Circle may add to this process, but may not conflict with any of the steps or other rules defined in this Article of the Constitution.
+
+#### 3.3.4 Agenda Building
+
+The Facilitator must build an agenda of Tensions to process within a Governance Meeting by soliciting and capturing agenda items from all participants. This must be done within the meeting and not beforehand, and each participant may add as many agenda items as desired. Participants may add additional agenda items during the meeting as well, in between the processing of any existing agenda items.
 
 - **(a) Agenda Item Format:** Each agenda item in a Governance Meeting represents one Tension to process, sensed by the participant who added it to the agenda. However, when adding an agenda item, a participant may only provide a short label for the Tension, and may not explain or discuss the Tension further until processing of that agenda item actually begins.
 - **(b) Ordering the Agenda:** The Facilitator may determine the order in which to process agenda items, using any process or criteria the Facilitator deems appropriate. However, the Facilitator must place any agenda item calling for an election of any of the Circle’s Elected Roles before all other agenda items, if requested by any meeting participant. Further, if the meeting was scheduled at the special request of one participant, the Facilitator must place all agenda items raised by that participant before any raised by others, unless that participant allows otherwise.
-- **(c) Processing Agenda Items:** Once the Facilitator determines an initial order for the agenda, the Facilitator must lead participants through processing each agenda item, one at a time. To process an agenda item that calls for an election, the Facilitator must use the **_“Integrative Election Process”_** defined in Section 3.3.5. To process any other agenda item, the Facilitator must use the **_“Integrative Decision-Making Process”_** defined in Section 3.3.4.
+- **(c) Processing Agenda Items:** Once the Facilitator determines an initial order for the agenda, the Facilitator must lead participants through processing each agenda item, one at a time. To process an agenda item that calls for an election, the Facilitator must use the **_“Integrative Election Process”_** defined in Section 3.3.6. To process any other agenda item, the Facilitator must use the **_“Integrative Decision-Making Process”_** defined in Section 3.3.5.
 
-#### 3.3.4 Integrative Decision-Making Process
+#### 3.3.5 Integrative Decision-Making Process
 
 The Facilitator must enact the Integrative Decision-Making Process as follows:
 
 - **(a) Present Proposal:** First, the Proposer may describe the Tension and present a Proposal to address the Tension. If the Proposer requests help crafting a Proposal, the Facilitator may allow discussion or another collaborative process to assist. However, the Facilitator must focus this activity solely on crafting an initial Proposal for the Proposer’s Tension, and not on addressing other Tensions or integrating others’ concerns into the Proposal.
 - **(b)	Clarifying Questions:** Once the Proposer makes a Proposal, the other participants may ask clarifying questions to better understand the Proposal or the Tension behind it. The Proposer may answer each question, or may decline to do so. The Facilitator must disallow any reactions or opinions expressed about the Proposal, and prevent discussion of any kind. Any participant may also ask the Secretary to read the captured Proposal or clarify any existing Governance, during this step or at any other time when the participant is allowed to speak, and the Secretary must do so.
 - **(c)	Reaction Round:** Once there are no further clarifying questions, each participant except the Proposer may share reactions to the Proposal, one person at a time. The Facilitator must immediately stop and disallow any out-of-turn comments, any attempts to engage others in a dialog or exchange of any sort, and any reactions to other reactions instead of to the Proposal.
-- **(d)	Amend & Clarify:** After the reaction round, the Proposer may share comments in response to the reactions and make amendments to the Proposal. However, the primary intent of any amendments must be to better address the Proposer’s Tension, and not Tensions raised by others. During this step, the Facilitator must immediately stop and disallow any comments by anyone other than the Proposer.
+- **(d)	Amend & Clarify:** After the reaction round, the Proposer may share comments in response to the reactions and make amendments to the Proposal. However, the primary intent of any amendments must be to better address the Proposer’s Tension, and not Tensions raised by others. During this step, the Facilitator must immediately stop and disallow any comments by anyone other than the Proposer or Secretary, and any engagement by the Secretary must focus solely on capturing the amended Proposal.
 - **(e)	Objection Round:** Next, each participant, one at a time, may raise potential Objections to adopting the Proposal. The Facilitator must stop and disallow discussion or responses of any sort. The Facilitator may test Objections as described in Section 3.2.5, and must capture any valid Objections that remain after testing. If there are no valid Objections, the Secretary records the Proposal as adopted Governance for the Circle.
 - **(f)	Integration:** If there are valid Objections, the Facilitator then facilitates a discussion to amend the Proposal to resolve each Objection, one at a time. The Facilitator marks an Objection as resolved once the Objector confirms that the amended Proposal would not trigger the Objection, and the Proposer confirms that the amended Proposal would still address the Proposer’s Tension. During the discussion, the Facilitator must apply the rules of integration described in Section 3.2.6. Once all captured Objections are addressed, the Facilitator moves back to the Objection round to check for new Objections to the amended Proposal.
 
-#### 3.3.5 Integrative Election Process
+#### 3.3.6 Integrative Election Process
 
 The Facilitator must enact the Integrative Election Process as follows:
-
 
 - **(a)	Describe Role:** First, the Facilitator must identify the target Role and term for the election. The Facilitator may also describe the functions of the target Role, and present other relevant information about the Role.
 - **(b)	Fill Out Ballots:** Each participant must then fill out a ballot to nominate whomever the participant believes is the best fit for the Role among all eligible candidates. Each participant must label the ballot with his or her own name as well, and no one may abstain or nominate multiple people. Before and during this step, the Facilitator must promptly stop all comments or discussion about potential candidates or nominations.
@@ -397,7 +405,7 @@ The Facilitator must enact the Integrative Election Process as follows:
 - **(e)	Make a Proposal:** Next, the Facilitator must count the nominations and make a Proposal to elect the candidate with the most nominations for the specified term. If there is a tie for the most nominations, then the Facilitator may do any one of the following: (i) blindly select one of the tied candidates randomly, and propose that person; or (ii) if the person currently filling the Role is among those tied, propose that person; or (iii) if only one of the tied candidates has nominated himself or herself, propose that person; or (iv) go back to the previous step and require each participant who nominated someone other than a tied candidate to change that nomination to one of the tied candidates, then continue back to this step and re-apply its rules.
 - **(f)	Process Proposal:** Once the Facilitator makes a Proposal to elect a candidate, the Facilitator must move to the Integrative Decision-Making Process to resolve that Proposal. However, the Facilitator must start directly with the Objection round, and, if the proposed candidate is present, the Facilitator must ask the candidate for Objections last. If any Objections are raised, the Facilitator may choose to process them normally, or to discard the Proposal either immediately after the Objection round or at any point during the integration step. If the Facilitator opts to discard the Proposal, the Facilitator must go back to the prior step in this process, discard all nominations for the prior candidate, and follow the rules of the prior step to select another candidate to propose instead.
 
-#### 3.3.6 Operational Decisions in Governance Meetings
+#### 3.3.7 Operational Decisions in Governance Meetings
 
 Governance Meetings are primarily intended to support a Circle’s Governance Process. As long as it doesn’t distract from this intended focus, any participant may nonetheless accept Projects or Next-Actions during a Governance Meeting, or make other operational decisions that are outside the scope of the Circle’s Governance Process. However, the Secretary may not capture any operational outputs or decisions in the formal Governance minutes or records of the Circle. Further, operational outputs and decisions made in a Governance Meeting carry no more or less weight or authority than those made outside of a Governance Meeting.
 
@@ -478,7 +486,7 @@ You must promptly process messages and requests from your fellow Circle Members,
 
 You must prioritize where to focus your attention and resources in alignment with the following constraints:
 
-- **(a)	Processing Over Execution:** You must generally prioritize processing inbound messages from fellow Circle Members over executing your own Next-Actions. However, you may temporarily defer processing in order to batch process messages in a single time block or at a more convenient time, as long as your processing is still reasonably prompt. Processing means engaging in the duties described in this section, including considering the message, defining and capturing Next-Actions or Projects when appropriate, and responding with how the message was processed. Processing does not mean executing upon captured Next-Actions and Projects, which is not covered by this prioritization rule.
+- **(a)	Processing Over Execution:** You must generally prioritize processing inbound messages from fellow Circle Members over executing your own Next-Actions. However, you may temporarily defer processing in order to batch process messages in a single time block or at a more convenient time, as long as your processing is still reasonably prompt. Processing means engaging in the duties described in this section, including considering the message, defining and capturing Next-Actions or Projects when appropriate, and, upon request, responding with how the message was processed. Processing does not mean executing upon captured Next-Actions and Projects, which is not covered by this prioritization rule.
 - **(b)	Requested Meetings Over Execution:** On request of a fellow Circle Member, you must prioritize attending any Circle meeting required by this Constitution over executing your own Next-Actions. However, you may still decline the request if you already have plans scheduled over the meeting time, or if the request was for an ongoing series or pattern of meetings rather than a specific meeting instance.
 - **(c)	Circle Needs Over Individual Goals:** You must integrate and align with any official prioritizations or Strategies of the Circle, such as those specified by the Circle’s Lead Link, when assessing how to deploy your time, attention, and other resources to your work within the Circle.
 
@@ -511,10 +519,12 @@ All Core Circle Members and anyone else normally invited to participate in the C
 
 The Facilitator must normally use the following process for Tactical Meetings. However, a Policy of the Circle may add to or change the required process in any way:
 
-- **(a)	Checklist Review:** During this step, the Facilitator asks each participant to verify the completion of any recurring actions on that participant’s checklist.
-- **(b)	Metrics Review:** During this step, the Facilitator asks each participant to share data for any metrics assigned to that participant by the Lead Link or whatever other Role or process defines the Circle’s metrics.
-- **(c)	Progress Updates:** During this step, the Facilitator asks each participant to highlight progress towards achieving any Project or expressing any Accountability of any of the participant’s Roles in the Circle. However, participants may only share progress made since the last report given, and not the general status of a Project or Accountability. Each participant may decide which Projects or Accountabilities are worth reporting on, however if another Circle Member explicitly requested updates on a specific Project, that one must be included until it’s either completed or dropped. For progress updates about a Project or Accountability of a Sub-Circle, the Facilitator must allow both the Lead Link and Rep Link of the Sub-Circle the opportunity to share updates.
-- **(d)	Triage Issues:** During this step, the Facilitator must build an agenda of Tensions to process in the Tactical Meeting by soliciting agenda items from all participants, using the same rules as those for a Governance Meeting, defined in Section 3.3.3. However, in Tactical Meetings, the Facilitator processes agenda items by simply allowing the agenda item owner to engage others in their Roles and duties as desired, until a path for resolving the Tension is identified. If any Next-Actions or Projects are accepted during this discussion, the Secretary must capture them and distribute these outputs to all participants. The Facilitator must attempt to allow time for processing every agenda item within the meeting, and in order to do so may cut off the processing of any item that’s taking more than its due share of the remaining meeting time.
+- **(a) Check-in Round:** During this step, the Facilitator allows each participant in turn to share their current state or thoughts, or offer another type of opening comment for the meeting. Responses are not allowed.
+- **(b)	Checklist Review:** During this step, the Facilitator asks each participant to verify the completion of any recurring actions on that participant’s checklist.
+- **(c)	Metrics Review:** During this step, the Facilitator asks each participant to share data for any metrics assigned to that participant by the Lead Link or whatever other Role or process defines the Circle’s metrics.
+- **(d)	Progress Updates:** During this step, the Facilitator asks each participant to highlight progress towards achieving any Project or expressing any Accountability of any of the participant’s Roles in the Circle. Participants may only share progress made since the last report given, and not the general status of a Project or Accountability. Each participant may decide which Projects or Accountabilities are worth reporting on, however if another Circle Member explicitly requested updates on a specific Project, that one must be included until it’s either completed or dropped. For progress updates about a Project or Accountability of a Sub-Circle, the Facilitator must allow both the Lead Link and Rep Link of the Sub-Circle the opportunity to share updates.
+- **(e)	Triage Issues:** During this step, the Facilitator must build an agenda of Tensions to process in the Tactical Meeting by soliciting agenda items from all participants, using the same rules as those for a Governance Meeting, defined in Section 3.3.4. However, in Tactical Meetings, the Facilitator processes agenda items by simply allowing the agenda item owner to engage others in their Roles and duties as desired, until a path for resolving the Tension is identified. If any Next-Actions or Projects are accepted during this discussion, the Secretary must capture them and distribute these outputs to all participants. The Facilitator must attempt to allow time for processing every agenda item within the meeting, and in order to do so may cut off the processing of any item that’s taking more than its due share of the remaining meeting time.
+- **(f) Closing Round:** During this step, the Facilitator allows each participant in turn to share a closing reflection or other thought triggered by the meeting. Responses are not allowed.
 
 #### 4.2.4 Surrogate for Absent Members
 
@@ -541,11 +551,11 @@ If your Individual Action was effectively acting within another Role, or violate
 
 #### 4.3.3 Clarifying Governance
 
-If your Individual Action is an instance of a recurring activity or ongoing function needed by a Circle, and that activity or function is not already explicitly called for by the Circle’s Governance, then you must take follow-up steps to remove that gap: You can do this by proposing Governance to cover the need, or by doing something else to remove the need for this activity or function to happen in the first place.
+If your Individual Action is an instance of a recurring activity or ongoing function needed by a Circle, and that activity or function is not already explicitly called for by the Circle’s Governance, then you must take follow-up steps to remove that gap. That follow-up could include proposing Governance to cover the need, or taking steps to remove the need for this activity or function to happen in the first place.
 
 #### 4.3.4 Priority of Corollary Requirements
 
-After taking Individual Action, you must normally prioritize doing the corollary requirements defined in this section higher than doing any of your regular work. However, the Lead Link of whatever Circle fully contains all Roles that were significantly impacted by your action may still change this default priority.
+After taking Individual Action, you must prioritize doing the corollary requirements defined in this section higher than doing any of your regular work. However, the Lead Link of whatever Circle fully contains all Roles that were significantly impacted by your action may still change this default priority.
 
 ## Article V: Adoption Matters
 
