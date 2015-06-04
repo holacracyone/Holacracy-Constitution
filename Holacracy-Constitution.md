@@ -23,9 +23,9 @@ As a Partner of the Organization, you have the following responsibilities for ea
 
 You must monitor how your Role’s Purpose and Accountabilities are expressed, and compare that to your vision of their ideal potential expression, to identify gaps between the current reality and a potential you sense (each gap is a **_“Tension”_**). You must then try to resolve those Tensions by using the authorities and other mechanisms available to you under this Constitution.
 
-#### 1.2.2 Processing Accountabilities
+#### 1.2.2 Processing Purpose & Accountabilities
 
-You must regularly consider how to enact each of your Role’s Accountabilities, by defining:
+You must regularly consider how to enact your Role's Purpose and each of your Role’s Accountabilities, by defining:
 
 - **(a)**	**_“Next-Actions”_**, which are actions you could execute immediately and that would be useful to execute immediately, at least in the absence of competing priorities; and
 - **(b)**	**_“Projects”_**, which are specific outcomes that require multiple sequential actions to achieve and that would be useful to work towards, at least in the absence of competing priorities.
@@ -34,9 +34,9 @@ You must regularly consider how to enact each of your Role’s Accountabilities,
 
 You must regularly consider how to complete each Project you are actively working towards for your Role, including by defining any Next-Actions useful to move the Project forward.
 
-#### 1.2.4 Tracking Projects & Next-Actions
+#### 1.2.4 Tracking Projects, Next-Actions, & Tensions
 
-You must capture and track all Projects and Next-Actions for your Role in a database or similar tangible form, and you must regularly review and update that database to maintain it as a trusted list of the Role’s active and potential work.
+You must capture and track all Projects and Next-Actions for your Role in a database or similar tangible form, and you must regularly review and update that database to maintain it as a trusted list of the Role’s active and potential work. You must also track any Tensions you identify for your Role, at least until you process them into desired Projects or Next-Actions, or otherwise resolve them.
 
 #### 1.2.5 Directing Attention & Resources
 
@@ -93,7 +93,7 @@ The person filling the Lead Link Role, while acting in that capacity, is referre
 
 #### 2.2.1 Holds Undifferentiated Functions
 
-A Circle’s Lead Link inherits any Accountabilities and controls any Domains defined on the Circle itself, just as if the Circle were only a Role and the Lead Link filled that Role. However, this only applies to the extent that those Accountabilities and Domains have not been placed upon a Role within the Circle, or otherwise delegated.
+A Circle’s Lead Link inherits the Purpose and any Accountabilities on the Circle itself, and controls any Domains defined on the Circle, just as if the Circle were only a Role and the Lead Link filled that Role. However, this only applies to the extent that those Accountabilities and Domains have not been placed upon a Role within the Circle, or otherwise delegated.
 
 Further, the Lead Link may not define Policies that limit the Circle’s Roles, except via the Governance Process of the Circle.
 
@@ -246,7 +246,7 @@ Whenever a Cross Link Role is unfilled, it is considered non-existent and has no
 
 #### 2.7.3 Cross Link Authority
 
-A Cross Link becomes a Circle Member of the Target Circle, and may use the authorities of a Circle Member to process Tensions that relate to the Target Circle limiting the Linked Entity.
+A Cross Link becomes a Core Circle Member of the Target Circle, and may use the authorities of a Core Circle Member to process Tensions that relate to the Target Circle limiting the Linked Entity.
 
 However, beyond removing limitations, a Cross Link may not use the Target Circle to build more capacities for the Linked Entity, unless those capacities would also help the Target Circle express its own Purpose or Accountabilities.
 
