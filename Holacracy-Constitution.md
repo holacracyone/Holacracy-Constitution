@@ -202,7 +202,7 @@ A Circle may expand its Defined Roles into full Circles, via its Governance Proc
 
 A Circle may modify the Purpose, Domain, or Accountabilities on a Sub-Circle. 
 
-A Circle may also move its own Defined Roles or Policies into a Sub-Circle, or move any within the Sub-Circle into itself.
+A Circle may also move its own Defined Roles or Policies into a Sub-Circle, or move any from within the Sub-Circle into itself.
 
 Any of these modifications may only be done via the Governance Process of the Circle.
 
