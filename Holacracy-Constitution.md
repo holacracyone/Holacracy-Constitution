@@ -99,7 +99,7 @@ Further, the Lead Link may not define Policies that limit the Circle’s Roles, 
 
 #### 2.2.2 Defines Priorities & Strategies
 
-A Circle’s Lead Link may define priorities for the Circle. In addition, the Lead Link may define more general heuristics for prioritization, which guide the Circle’s Roles in self-identifying priorities on a case-by-case basis (each general heuristic is a **_“Strategy”_** of the Circle).
+A Circle’s Lead Link may define relative priorities for the Circle. In addition, the Lead Link may define more general heuristics for prioritization, which guide the Circle’s Roles in self-identifying priorities on a case-by-case basis (each general heuristic is a **_“Strategy”_** of the Circle).
 
 #### 2.2.3 Amending Lead Link Role
 
