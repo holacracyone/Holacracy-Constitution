@@ -101,7 +101,7 @@ Further, the Lead Link may not define Policies that limit the Circle’s Roles, 
 
 A Circle’s Lead Link may define priorities for the Circle. In addition, the Lead Link may define more general heuristics for prioritization, which guide the Circle’s Roles in self-identifying priorities on a case-by-case basis (each general heuristic is a **_“Strategy”_** of the Circle).
 
-#### 2.2.3 Amending Lead Link Role
+#### 2.2.3 Amending the Lead Link Role
 
 A Circle may not add Accountabilities or other functions to its own Lead Link Role, or modify the Role’s Purpose, or remove the Role entirely. 
 
@@ -252,7 +252,7 @@ A Cross Link becomes a Circle Member of the Target Circle, and may use the autho
 
 However, beyond removing limitations, a Cross Link may not use the Target Circle to build more capacities for the Linked Entity, unless those capacities would also help the Target Circle express its own Purpose or Accountabilities.
 
-#### 2.7.4 Additions to Cross Link Role
+#### 2.7.4 Additions to a Cross Link Role
 
 A Linked Entity may amend its Cross Link Role through its own Governance Process.
 
@@ -557,7 +557,7 @@ By adopting this Constitution, the Ratifiers cede their authority to govern and 
 
 Upon adopting this Constitution, the Ratifiers must establish an initial Circle to express the overall Purpose of the Organization. This **_“Anchor Circle”_** becomes the broadest Circle in the Organization, and automatically controls all Domains that the Organization itself controls.
 
-#### 5.2.1 Links to Anchor Circle
+#### 5.2.1 Links to the Anchor Circle
 
 The Ratifiers may appoint an initial Lead Link of the Anchor Circle. Alternatively, the Ratifiers may leave the Anchor Circle without a Lead Link, and create one or more initial Cross Links to the Anchor Circle in lieu of a Lead Link.
 
