@@ -178,7 +178,7 @@ After the end of a term, the Secretary will promptly trigger a new election for 
 
 A Circle may add Accountabilities or Domains to its Elected Roles, as well as amend or remove those additions.
 
-However, a Circle may only add to its own Rep Link Role and not to a Rep Link Role appointed to the Circle by another Circle.
+However, a Circle may only add to its own Rep Link Role and not to a Rep Link Role appointed to the Circle by a Sub-Circle.
 
 Further, no Circle may amend or remove any Purpose, Domain, Accountabilities, or authorities granted to an Elected Role by this Constitution, nor remove an Elected Role entirely.
 
