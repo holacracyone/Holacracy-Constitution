@@ -409,21 +409,21 @@ The Facilitator must enact the Integrative Election Process as follows:
 
 Governance Meetings are primarily intended to support a Circle’s Governance Process. As long as it doesn’t distract from this intended focus, any participant may nonetheless accept Projects or Next-Actions during a Governance Meeting, or make other operational decisions that are outside the scope of the Circle’s Governance Process. However, the Secretary may not capture any operational outputs or decisions in the formal Governance minutes or records of the Circle. Further, operational outputs and decisions made in a Governance Meeting carry no more or less weight or authority than those made outside of a Governance Meeting.
 
-### 3.4 Interpreting Governance
+### 3.4 Interpreting the Constitution & Governance
 
-As a Partner of the Organization, you may use your reasonable judgment to interpret any Governance within the Organization and how it applies within a specific situation, and then act based on your interpretation. You may also rely on an explicit interpretation given by the Secretary of any Circle that is affected by the Governance. However, in either case, the following additional terms apply:
+As a Partner of the Organization, you may use your reasonable judgment to interpret this Constitution and any Governance within the Organization, including how these apply within a specific situation, and then act based on your interpretation. You may also rely on an explicit interpretation given by the Secretary of any Circle that is affected by the Governance. However, in either case, the following additional terms apply:
 
 #### 3.4.1 Secretary Interpretation Trumps
 
-If your interpretation of Governance conflicts with an interpretation ruling made by a Secretary, the Secretary’s interpretation trumps your own and applies instead, and you must align with it until the underlying Governance changes.
+If your interpretation conflicts with an interpretation ruling made by a Secretary, the Secretary’s interpretation trumps your own and applies instead, and you must align with it until any underlying Governance changes.
 
 #### 3.4.2 Super-Circle Interpretation Trumps
 
-A Circle’s Secretary may overrule an interpretation of Governance given by a Secretary of any Sub-Circle. If two Secretaries give conflicting rulings and one is from the Secretary of a Circle that ultimately contains the other Circle, then you must align with the interpretation given by the broader Circle’s Secretary.
+A Circle’s Secretary may overrule an interpretation given by a Secretary of any Sub-Circle. If two Secretaries give conflicting rulings and one is from the Secretary of a Circle that ultimately contains the other Circle, then you must align with the interpretation given by the broader Circle’s Secretary.
 
 #### 3.4.3 Interpretations Become Standards
 
-After ruling on an interpretation of Governance, a Secretary may choose to publish that interpretation and the logic behind it in the Governance records of the Circle. If published, any Secretary of that Circle or any contained Circle must attempt to align any future rulings with the previously published logic and interpretations.
+After ruling on an interpretation, a Secretary may choose to publish that interpretation and the logic behind it in the Governance records of the Circle. If published, any Secretary of that Circle or any contained Circle must attempt to align any future rulings with the previously published logic and interpretations.
 
 A Secretary may only contradict previously published logic or interpretations once a compelling new argument or circumstance supports a reversal. Once contradicted however, the new logic and interpretations become the acting standard that all future rulings must align with.
 
@@ -605,7 +605,7 @@ Any existing policies and systems the Organization has in effect before adopting
 
 ### 5.5 Constitution Amendments and Repeal
 
-The Ratifiers may amend this Constitution or repeal it entirely, using whatever authority and process they relied upon to adopt it. Amendments must be in writing and published where all Partners of the Organization can access them.
+The Ratifiers or their successors may amend this Constitution or repeal it entirely, using whatever authority and process they relied upon to adopt it. Amendments must be in writing and published where all Partners of the Organization can access them.
 
 ---
 
