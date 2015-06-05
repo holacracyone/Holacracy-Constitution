@@ -65,7 +65,7 @@ A **_“Circle”_** is a Role that may further break itself down by defining it
 
 #### 2.1.1 Defining Roles & Policies
 
-Each Circle must use the **_“Governance Process”_** described in Article III of this Constitution to create or amend Roles within the Circle or Policies governing the Circle’s Domain. No one may create or amend a Circle’s Roles or Policies outside of its Governance Process, unless explicitly allowed by another rule of this Constitution. 
+Each Circle must use the **_“Governance Process”_** described in Article III of this Constitution to define or amend Roles within the Circle or Policies governing the Circle’s Domain. No one may define or amend a Circle’s Roles or Policies outside of its Governance Process, unless explicitly allowed by another rule of this Constitution. 
 
 Further, each Circle may control its own functions and activities, as if a Domain of the Circle, for the purpose of defining Policies that limit the Circle’s Roles.
 
@@ -270,8 +270,8 @@ In either case, any delegation must be done via a Policy of the Circle doing the
 
 The Governance Process of a Circle has the power to:
 
-- **(a)**	create, amend, or remove the Circle’s Roles and Sub-Circles; and
-- **(b)**	create, amend, or remove the Circle’s Policies; and
+- **(a)**	define, amend, or remove the Circle’s Roles and Sub-Circles; and
+- **(b)**	define, amend, or remove the Circle’s Policies; and
 - **(c)**	hold elections for the Circle’s Elected Roles.
 
 At any given time, the then-current results of a Circle’s Governance Process define its acting **_“Governance”_**.
