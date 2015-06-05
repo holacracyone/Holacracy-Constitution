@@ -61,7 +61,7 @@ The authorities granted to you in this section may be further limited by constra
 
 ### 2.1 Circle Basics
 
-A **_“Circle”_** is a Role that may further break itself down by defining its own contained Roles to achieve its Purpose, control its Domains, and enact its Accountabilities (the Roles a Circle defines are its **_“Defined Roles”_**). Anyone filling a Defined Role within a Circle is a **_“Circle Member”_** of that Circle.
+A **_“Circle”_** is a Role that may further break itself down by defining its own contained Roles to achieve its Purpose, control its Domains, and enact its Accountabilities. The Roles a Circle defines are its **_“Defined Roles”_**, and anyone filling one of its Defined Roles is a **_“Circle Member”_** of that Circle.
 
 #### 2.1.1 Defining Roles & Policies
 
