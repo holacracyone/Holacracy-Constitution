@@ -577,7 +577,9 @@ Upon adopting this Constitution, the Ratifiers must establish an initial Circle 
 
 #### 5.2.1 Links to the Anchor Circle
 
-The Ratifiers may appoint an initial Lead Link of the Anchor Circle. Alternatively, the Ratifiers may leave the Anchor Circle without a Lead Link, and create one or more initial Cross Links to the Anchor Circle in lieu of a Lead Link.
+The Ratifiers may appoint an initial Lead Link of the Anchor Circle. 
+
+Alternatively, the Ratifiers may leave the Anchor Circle without a Lead Link. They must then create one or more initial Cross Links to the Anchor Circle in place of a Lead Link.
 
 #### 5.2.2 Acting Without a Lead Link
 
