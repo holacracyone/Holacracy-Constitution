@@ -138,7 +138,7 @@ In addition, any Partners representing the Role have the duty to consider and pr
 
 #### 2.3.3 Exclusion for Minor Allocations
 
-Sometimes, a Partner allocates only a very minor, nearly insignificant amount of attention to a Defined Role in a Circle. If the Circle's Lead Link reasonably believes that's the case, the Lead Link may exclude that Partner from serving as a Core Circle Member as a result of that Role assignment.
+Sometimes, a Partner allocates only a very minor, nearly insignificant amount of attention to a Defined Role in a Circle. If the Circle's Lead Link reasonably believes that is the case, the Lead Link may exclude that Partner from serving as a Core Circle Member as a result of that Role assignment.
 
 If a Partner is so excluded, the Lead Link has a duty to consider and process Tensions conveyed by the excluded Partner, exactly as a Rep Link would were the Role a Sub-Circle, unless an alternate pathway is defined for the excluded Partner to process Tensions related to that Role.
 
@@ -156,7 +156,7 @@ Whenever a Defined Role in a Circle is unfilled, the Circle’s Lead Link is con
 
 #### 2.4.2 Assigning Roles to Multiple People
 
-A Lead Link may assign multiple people to the same Defined Role, as long as that won’t decrease the clarity of who should enact the Accountabilities and authorities of the Role in common situations.
+A Lead Link may assign multiple people to the same Defined Role, as long as that will not decrease the clarity of who should enact the Accountabilities and authorities of the Role in common situations.
 
 As one way of maintaining that clarity, a Lead Link may specify a “Focus” along with each assignment, which is an area or context for that person to focus within while executing in the Role.
 
@@ -411,7 +411,7 @@ The Facilitator must enact the Integrative Election Process as follows:
 
 #### 3.3.7 Operational Decisions in Governance Meetings
 
-Governance Meetings are primarily intended to support a Circle’s Governance Process. As long as it doesn’t distract from this intended focus, any participant may nonetheless accept Projects or Next-Actions during a Governance Meeting, or make other operational decisions that are outside the scope of the Circle’s Governance Process. However, the Secretary may not capture any operational outputs or decisions in the formal Governance minutes or records of the Circle. Further, operational outputs and decisions made in a Governance Meeting carry no more or less weight or authority than those made outside of a Governance Meeting.
+Governance Meetings are primarily intended to support a Circle’s Governance Process. As long as it does not distract from this intended focus, any participant may nonetheless accept Projects or Next-Actions during a Governance Meeting, or make other operational decisions that are outside the scope of the Circle’s Governance Process. However, the Secretary may not capture any operational outputs or decisions in the formal Governance minutes or records of the Circle. Further, operational outputs and decisions made in a Governance Meeting carry no more or less weight or authority than those made outside of a Governance Meeting.
 
 ### 3.4 Interpreting the Constitution & Governance
 
@@ -482,7 +482,7 @@ You have a duty to provide transparency when requested by your fellow Circle Mem
 
 You have a duty to promptly process messages and requests from your fellow Circle Members, as follows:
 
-- **(a) Requests for Processing:** Other Circle Members may ask you to process any Accountability or Project on a Role you fill in the Circle. If you have no Next-Actions tracked for it, you must identify and capture a Next-Action if there are any reasonable ones you could take. If there aren’t, you must instead share what you’re waiting on. That must be either a Next-Action or Project tracked by another Role, or a specific event or condition that must happen before you can take further Next-Actions.
+- **(a) Requests for Processing:** Other Circle Members may ask you to process any Accountability or Project on a Role you fill in the Circle. If you have no Next-Actions tracked for it, you must identify and capture a Next-Action if there are any reasonable ones you could take. If there are not, you must instead share what you’re waiting on. That must be either a Next-Action or Project tracked by another Role, or a specific event or condition that must happen before you can take further Next-Actions.
 - **(b) Requests for Projects & Next-Actions:** Other Circle Members may ask you to take on a specific Next-Action or Project in one of your Roles in the Circle. If you deem it a reasonable Next-Action or Project to take on, you must accept it and track it. If not, then you must either explain your reasoning, or capture and communicate a different Next-Action or Project that you believe will meet the requester’s objective.
 - **(c) Requests to Impact Domain:** Other Circle Members may ask to impact a Domain controlled by one of your Roles in the Circle. If you see no Objections to the request, you must allow it. If you do, you must explain any Objections to the requester.
 
@@ -547,7 +547,7 @@ You may only take Individual Action when all of the following are true:
 - **(a)** You are acting in good faith to serve the Purpose or express the Accountabilities of some Role within the Organization, or of the overall Organization itself.
 - **(b)** You reasonably believe your action would resolve or prevent more Tension for the Organization than it would likely create.
 - **(c)** Your action would not cause, commit to, or allow spending or otherwise disposing of the Organization’s resources or other assets, beyond what you’re already authorized to spend.
-- **(d)** If your action would violate any Domains or Policies, you reasonably believe that you can’t delay the action long enough to request any permissions normally required, or to propose a Governance change to allow your action, without losing much of its potential value.
+- **(d)** If your action would violate any Domains or Policies, you reasonably believe that you cannot delay the action long enough to request any permissions normally required, or to propose a Governance change to allow your action, without losing much of its potential value.
 
 #### 4.3.2 Communication & Restoration
 
