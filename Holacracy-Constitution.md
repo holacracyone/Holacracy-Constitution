@@ -310,11 +310,9 @@ Finally, a Proposal is always valid regardless of the preceding criteria if it i
 
 #### 3.2.3 Testing Proposals
 
-The Facilitator may test the validity of a Proposal by asking questions of the Proposer.
+The Facilitator may test the validity of a Proposal by asking the Proposer questions. For a Proposal to survive the test, the Proposer must be able to describe the Tension, and give an example of an actual past or present situation in which the Proposal would have reduced that Tension and helped the Circle in one of the ways allowed by the prior section. The Facilitator must discard the Proposal if the Facilitator deems the Proposer has failed to meet this threshold.
 
-For a Proposal to survive the test, the Proposer must be able to describe the Tension, and give an example of an actual past or present situation in which the Proposal would have reduced that Tension and helped the Circle in one of the ways allowed by the prior section.
-
-The Facilitator must discard the Proposal if the Facilitator deems the Proposer has failed to meet this threshold. However, when assessing the validity of a Proposal, the Facilitator may only judge whether the Proposer presented the required example and explanations, and whether they were presented with logical reasoning and are thus reasonable. The Facilitator may not make a judgment on the basis of their accuracy, nor on whether the Proposal would adequately address the Tension.
+However, when assessing the validity of a Proposal, the Facilitator may only judge whether the Proposer presented the required example and explanations, and whether they were presented with logical reasoning and are thus reasonable. The Facilitator may not make a judgment on the basis of their accuracy, nor on whether the Proposal would adequately address the Tension.
 
 #### 3.2.4 Criteria for Valid Objections
 
