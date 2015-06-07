@@ -128,9 +128,9 @@ If multiple Partners are assigned to the same Defined Role in a Circle, the Circ
 
 In addition, any Partners representing the Role have the duty to consider and process Tensions conveyed by the excluded Partners, exactly as a Rep Link would were the Role a Sub-Circle, unless the Policy defines an alternate pathway for the excluded Partners to process Tensions related to that Role.
 
-#### 2.3.3 Exclusion for De Minimis Allocation
+#### 2.3.3 Exclusion for Minor Allocations
 
-If a Partner only has a de minimis amount of attention allocated to a Defined Role in a Circle, in the reasonable judgment of the Circle’s Lead Link, the Lead Link may exclude that Partner from serving as a Core Circle Member as a result of that Role assignment.
+Sometimes, a Partner allocates only a very minor, nearly insignificant amount of attention to a Defined Role in a Circle. If the Circle's Lead Link reasonably believes that's the case, the Lead Link may exclude that Partner from serving as a Core Circle Member as a result of that Role assignment.
 
 If a Partner is so excluded, the Lead Link has a duty to consider and process Tensions conveyed by the excluded Partner, exactly as a Rep Link would were the Role a Sub-Circle, unless an alternate pathway is defined for the excluded Partner to process Tensions related to that Role.
 
