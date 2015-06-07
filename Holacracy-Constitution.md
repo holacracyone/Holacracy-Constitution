@@ -314,7 +314,7 @@ Some Tensions do not count as Objections, and may be ignored during the processi
 
 - **(a)**	If the Tension were unaddressed, the capacity of the Circle to express its Purpose or enact its Accountabilities would degrade. Thus, the Tension is not just triggered by a better idea or a potential for further improvement, but because the Proposal would actually move the Circle backwards in its current capacity. For the purpose of this criteria, decreasing clarity counts as degrading capacity, although merely failing to improve clarity does not.
 - **(b)**	The Tension does not already exist for the Circle even in the absence of the Proposal. Thus, the Tension would be created specifically by adopting the Proposal, and would not exist were the Proposal withdrawn.
-- **(c)**	The Tension is triggered just by presently known facts or events, without regard to a prediction of what might happen in the future. However, relying on predictions is allowed when there won't be a reasonable opportunity to sense and respond before significant impact could result.
+- **(c)**	The Tension is triggered just by presently known facts or events, without regard to a prediction of what might happen in the future. However, relying on predictions is allowed when no opportunity to adequately sense and respond is likely to exist in the future before significant impact could result.
 - **(d)**	The Tension limits the Objector's capacity to express the Purpose or an Accountability of one of the Objector’s Roles in the Circle; or, if it limits another Role, the Objector has permission to represent that Role from a Circle Member who normally fills the Role.
 
 However, regardless of the above criteria, a Tension about adopting a Proposal always counts as an Objection if:
