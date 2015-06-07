@@ -50,9 +50,9 @@ However, you cannot exert control or cause a material impact within a Domain own
 
 ### 1.4 Authority Over Domains
 
-As a Partner assigned to a Role, you have the authority to control and regulate each Domain of your Role.
+As a Partner assigned to a Role, you have the authority to control and regulate each Domain of your Role. You may do this on a case-by-case basis when others request permission to impact one of your Domains, by considering the request and allowing or withholding permission.
 
-You may do this on a case-by-case basis when others request permission to impact one of your Domains, by considering the request and allowing or withholding permission. You may also define **_“Policies”_** for your Domains, which are either grants of authority that allow others to control or cause a material impact within a Domain, or limits on how others may do so when otherwise authorized. Before a Policy is valid, you must first publish it in a forum convenient to all Partners who may be impacted.
+You may also define **_“Policies”_** for your Domains, which are either grants of authority that allow others to control or cause a material impact within a Domain, or limits on how others may do so when otherwise authorized. Before a Policy is valid, you must first publish it in a forum convenient to all Partners who may be impacted.
 
 The authorities granted to you in this section may be further limited by constraints defined under Section 2.1.3.
 
@@ -71,9 +71,9 @@ Further, each Circle may control its own functions and activities, as if a Domai
 
 #### 2.1.2 Roles May Impact Circle Domains
 
-When filling a Role in a Circle, you may use and impact any Domain controlled by the Circle itself, or which the Circle is authorized to impact.
+When filling a Role in a Circle, you may use and impact any Domain controlled by the Circle itself, or that the Circle is authorized to impact. However, you must abide by any constraints acting upon the Circle itself or defined by Policy of the Circle, and you may not fully control or regulate the Domain under the terms of Section 1.4.
 
-However, you may not fully control or regulate the Domain under the terms of Section 1.4, and you must abide by any constraints acting upon the Circle itself or defined by Policy of the Circle. Further, you may not transfer or dispose of the Domain itself or any significant assets within the Domain, nor may you significantly limit any rights of the Circle to the Domain. These restrictions do not apply if a Role or process holding the needed authority grants you permission to do so.
+Further, you may not transfer or dispose of the Domain itself or any significant assets within the Domain, nor may you significantly limit any rights of the Circle to the Domain. However, these restrictions do not apply if a Role or process holding the needed authority grants you permission to do so.
 
 #### 2.1.3 Delegation of Control
 
@@ -236,7 +236,7 @@ If the Linked Entity lacks both a clear Purpose and any clear Accountabilities, 
 
 If the Linked Entity is a Circle or group, it may assign someone to fill the Cross Link Role using whatever process it already has for assigning people to fill Defined Roles or similar work functions.
 
-If a Linked Entity represents a group with no single nexus of authority to do that assignment, then the Target Circle may instead assign someone to the Cross Link Role, unless otherwise specified in the Cross Link Policy.
+If a Linked Entity represents a group with no single locus of authority to do that assignment, then the Target Circle may instead assign someone to the Cross Link Role, unless otherwise specified in the Cross Link Policy.
 
 In all cases, only one person may be assigned to each Cross Link Role, unless allowed by the Cross Link Policy. 
 
@@ -323,7 +323,7 @@ However, regardless of the above criteria, a Tension about adopting a Proposal a
 
 #### 3.2.5 Testing Objections
 
-The Facilitator may test the validity of a claimed Objection by asking questions of the Objector. For a claimed Objection to survive the test, the Objector must be able to present a reasonable argument for why it meets each specific criteria required of an Objection. The Facilitator must discard an Objection if the Facilitator deems the Objector has failed to meet this threshold.
+The Facilitator may test the validity of a claimed Objection by asking the Objector questions. For a claimed Objection to survive the test, the Objector must be able to present a reasonable argument for why it meets each specific criteria required of an Objection. The Facilitator must discard an Objection if the Facilitator deems the Objector has failed to meet this threshold.
 
 However, when assessing the validity of a claimed Objection, the Facilitator may only judge whether the Objector presented the required arguments, and whether they were presented with logical reasoning and are thus reasonable. The Facilitator may not make a judgment on the basis of an argument’s accuracy or the importance of addressing it.
 
@@ -377,7 +377,7 @@ A Policy of the Circle may add to this process, but may not conflict with any of
 
 The Facilitator must build an agenda of Tensions to process within a Governance Meeting by soliciting and capturing agenda items from all participants. This must be done within the meeting and not beforehand, and each participant may add as many agenda items as desired. Participants may add additional agenda items during the meeting as well, in between the processing of any existing agenda items.
 
-- **(a) Agenda Item Format:** Each agenda item in a Governance Meeting represents one Tension to process, sensed by the participant who added it to the agenda. However, when adding an agenda item, a participant may only provide a short label for the Tension, and may not explain or discuss the Tension further until processing of that agenda item actually begins.
+- **(a) Agenda Item Format:** Each agenda item in a Governance Meeting represents one Tension to process, sensed by the participant who added it to the agenda. When adding an agenda item, a participant may only provide a short label for the Tension, and may not explain or discuss the Tension further until processing of that agenda item actually begins.
 - **(b) Ordering the Agenda:** The Facilitator may determine the order in which to process agenda items, using any process or criteria the Facilitator deems appropriate. However, the Facilitator must place any agenda item calling for an election of any of the Circle’s Elected Roles before all other agenda items, if requested by any meeting participant. Further, if the meeting was scheduled at the special request of one participant, the Facilitator must place all agenda items raised by that participant before any raised by others, unless that participant allows otherwise.
 - **(c) Processing Agenda Items:** Once the Facilitator determines an initial order for the agenda, the Facilitator must lead participants through processing each agenda item, one at a time. To process an agenda item that calls for an election, the Facilitator must use the **_“Integrative Election Process”_** defined in Section 3.3.6. To process any other agenda item, the Facilitator must use the **_“Integrative Decision-Making Process”_** defined in Section 3.3.5.
 
@@ -515,7 +515,7 @@ All Core Circle Members and anyone else normally invited to participate in the C
 
 #### 4.2.3 Facilitation & Process
 
-The Facilitator must normally use the following process for Tactical Meetings. However, a Policy of the Circle may add to or change the required process in any way:
+The Facilitator must normally use the following process for Tactical Meetings:
 
 - **(a) Check-in Round:** During this step, the Facilitator allows each participant in turn to share their current state or thoughts, or offer another type of opening comment for the meeting. Responses are not allowed.
 - **(b)	Checklist Review:** During this step, the Facilitator asks each participant to verify the completion of any recurring actions on that participant’s checklist.
@@ -524,13 +524,15 @@ The Facilitator must normally use the following process for Tactical Meetings. H
 - **(e)	Triage Issues:** During this step, the Facilitator is responsible for building an agenda of Tensions to process in the Tactical Meeting by soliciting agenda items from all participants, using the same rules as those for a Governance Meeting, defined in Section 3.3.4. However, in Tactical Meetings, the Facilitator processes agenda items by simply allowing the agenda item owner to engage others in their Roles and duties as desired, until a path for resolving the Tension is identified. If any Next-Actions or Projects are accepted during this discussion, the Secretary is responsible for capturing them and distributing these outputs to all participants. The Facilitator must attempt to allow time for processing every agenda item within the meeting, and in order to do so may cut off the processing of any item that’s taking more than its due share of the remaining meeting time.
 - **(f) Closing Round:** During this step, the Facilitator allows each participant in turn to share a closing reflection or other thought triggered by the meeting. Responses are not allowed.
 
+A Circle may adopt a Policy to add to or change this required process.
+
 #### 4.2.4 Surrogate for Absent Members
 
 If a Defined Role of the Circle is entirely or partially unrepresented at a Tactical Meeting due to someone’s absence, the Circle’s Lead Link may act within that Role to cover the gap. If the Lead Link is also absent, any participant may accept Next-Actions or Projects on behalf of that Role, however these may be treated by the person who normally fills the Role as just requests made under the terms of Section 4.1.2(b).
 
 ### 4.3 Individual Action
 
-As a Partner of the Organization, in some cases you are authorized to act outside of the authority of your Roles, or even to break the rules of this Constitution. By acting under this extended authority you are taking **_“Individual Action”_**, and you are bound by the following rules.
+As a Partner of the Organization, in some cases you are authorized to act outside of the authority of your Roles, or even to break the rules of this Constitution. By acting under this extended authority you are taking **_“Individual Action”_**, and you are bound by the following rules:
 
 #### 4.3.1 Allowed Situations
 
@@ -599,7 +601,9 @@ The Lead Link of the Anchor Circle may define an initial structure and other Gov
 
 ### 5.4 Legacy Policies and Systems
 
-Any existing policies and systems the Organization has in effect before adopting this Constitution continue in full force after adoption, even if they include constraints or authorities that are not reflected in Governance records. This may include compensation systems, hiring and firing processes, work-related policies, etc. However, these legacy policies and systems will lose all weight and authority as soon as Governance is defined that replaces or contradicts them. In addition, they may not be modified or added to in their legacy form. Anyone wishing to do so must first capture or otherwise empower the policy or system using the Governance Process defined in this Constitution.
+Any existing policies and systems the Organization has in effect before adopting this Constitution continue in full force after adoption, even if they include constraints or authorities that are not reflected in Governance records. This may include compensation systems, hiring and firing processes, work-related policies, etc.
+
+However, these legacy policies and systems will lose all weight and authority as soon as Governance is defined that replaces or contradicts them. In addition, they may not be modified or added to in their legacy form. Anyone wishing to do so must first capture or otherwise empower the policy or system using the Governance Process defined in this Constitution.
 
 ### 5.5 Constitution Amendments and Repeal
 
