@@ -325,7 +325,7 @@ However, regardless of the above criteria, a Tension about adopting a Proposal a
 
 The Facilitator may test the validity of a claimed Objection by asking the Objector questions. For a claimed Objection to survive the test, the Objector must be able to present a reasonable argument for why it meets each specific criteria required of an Objection. The Facilitator must discard an Objection if the Facilitator deems the Objector has failed to meet this threshold.
 
-However, when assessing the validity of a claimed Objection, the Facilitator may only judge whether the Objector presented the required arguments, and whether they were presented with logical reasoning and are thus reasonable. The Facilitator may not make a judgment on the basis of an argument’s accuracy or the importance of addressing it.
+When assessing the validity of a claimed Objection, the Facilitator may only judge whether the Objector presented the required arguments, and whether they were presented with logical reasoning and are thus reasonable. The Facilitator may not make a judgment on the basis of an argument’s accuracy or the importance of addressing it.
 
 However, when an Objection is claimed on the basis of a Proposal violating the Constitution, per Section 3.2.4(e), the Facilitator may ask the Circle’s Secretary to interpret if the Proposal does indeed violate the Constitution. If the Secretary rules that it does not, the Facilitator must then dismiss the Objection.
 
