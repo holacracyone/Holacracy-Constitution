@@ -71,9 +71,13 @@ Further, each Circle may control its own functions and activities, as if a Domai
 
 #### 2.1.2 Roles May Impact Circle Domains
 
-When filling a Role in a Circle, you may use and impact any Domain controlled by the Circle itself, or that the Circle is authorized to impact. However, you must abide by any constraints acting upon the Circle itself or defined by Policy of the Circle, and you may not fully control or regulate the Domain under the terms of Section 1.4.
+When filling a Role in a Circle, you may use and impact any Domain which the Circle is authorized to impact.
 
-Further, you may not transfer or dispose of the Domain itself or any significant assets within the Domain, nor may you significantly limit any rights of the Circle to the Domain. However, these restrictions do not apply if a Role or process holding the needed authority grants you permission to do so.
+However, you must abide by any constraints acting upon the Circle itself or defined by Policy of the Circle, and you may not fully control or regulate the Domain under the terms of Section 1.4.
+
+Further, you may not transfer or dispose of the Domain itself or any significant assets within the Domain, nor may you significantly limit any rights of the Circle to the Domain.
+
+These restrictions do not apply if a Role or process holding the needed authority grants you permission to do so.
 
 #### 2.1.3 Delegation of Control
 
