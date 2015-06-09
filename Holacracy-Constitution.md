@@ -192,7 +192,7 @@ In any given instance where a surrogate is needed, the surrogate is, in this ord
 - **(b)** the acting Facilitator of the Circle; or
 - **(c)** the acting Secretary of the Circle; or
 - **(d)** the Lead Link of the Circle; or
-- **(e)** the first Core Circle Member of the Circle to declare he or she is acting as the surrogate.
+- **(e)** the first Core Circle Member of the Circle to declare to be acting as the surrogate.
 
 ### 2.6 Sub-Circles
 
@@ -290,7 +290,7 @@ Proposals are considered adopted and amend the Governance of the Circle only if 
 
 Any Core Circle Member may make a Proposal within a **_“Governance Meeting”_** of the Circle called under the terms of Section 3.3.
 
-Alternatively, a Core Circle Member may distribute a Proposal to all other Core Circle Members asynchronously, outside of a Governance Meeting, using any written communication channel approved for this purpose by the Circle’s Secretary. When this happens, the Facilitator may either apply the same process and rules used within a Governance Meeting, or may allow each Core Circle Member to directly declare whether or not he or she has Objections to integrate. Further, at any point before an asynchronous Proposal is adopted, the Facilitator or any Core Circle Member may stop the asynchronous processing by requesting the Proposer escalate the Proposal to a Governance Meeting, and notifying the Circle’s Secretary.
+Alternatively, a Core Circle Member may distribute a Proposal to all other Core Circle Members asynchronously, outside of a Governance Meeting, using any written communication channel approved for this purpose by the Circle’s Secretary. When this happens, the Facilitator may either apply the same process and rules used within a Governance Meeting, or may allow each Core Circle Member to directly declare whether or not they have Objections to integrate. Further, at any point before an asynchronous Proposal is adopted, the Facilitator or any Core Circle Member may stop the asynchronous processing by requesting the Proposer escalate the Proposal to a Governance Meeting, and notifying the Circle’s Secretary.
 
 A Circle may adopt Policies to further constrain when or how Proposals may be made or processed outside of a Governance Meeting. However, no Policy may limit the right to stop asynchronous processing by escalating to a Governance Meeting. A Circle may also use a Policy to create a time limit for responding to asynchronous Proposals, upon which any asynchronous Proposal is automatically adopted if no Objections or escalation requests are raised.
 
@@ -397,9 +397,9 @@ The Facilitator must enact the Integrative Decision-Making Process as follows:
 The Facilitator must enact the Integrative Election Process as follows:
 
 - **(a) Describe Role:** First, the Facilitator must identify the target Role and term for the election. The Facilitator may also describe the functions of the target Role, and present other relevant information about the Role.
-- **(b) Fill Out Ballots:** Each participant must then fill out a ballot to nominate whomever the participant believes is the best fit for the Role among all eligible candidates. Each participant must label the ballot with his or her own name as well, and no one may abstain or nominate multiple people. Before and during this step, the Facilitator must promptly stop all comments or discussion about potential candidates or nominations.
-- **(c) Nomination Round:** Once all ballots are submitted, the Facilitator must share the contents of each ballot, one at a time, with all participants. When the Facilitator shares a nomination, the nominator must state why he or she believes that candidate would be a good fit for the Role. The Facilitator must stop any responses or other comments, as well as any comments by a nominator about other potential candidates besides the nominee.
-- **(d) Nomination Change Round:** Once all nominations are shared, the Facilitator must give each participant the opportunity to change his or her nomination. A participant making a change may explain his or her reason for selecting a new candidate, but the Facilitator must stop any other comments or discussion.
+- **(b) Fill Out Ballots:** Each participant must then fill out a ballot to nominate whomever the participant believes is the best fit for the Role among all eligible candidates. Each participant must label the ballot with their own name as well, and no one may abstain or nominate multiple people. Before and during this step, the Facilitator must promptly stop all comments or discussion about potential candidates or nominations.
+- **(c) Nomination Round:** Once all ballots are submitted, the Facilitator must share the contents of each ballot, one at a time, with all participants. When the Facilitator shares a nomination, the nominator must state why they believe that candidate would be a good fit for the Role. The Facilitator must stop any responses or other comments, as well as any comments by a nominator about other potential candidates besides the nominee.
+- **(d) Nomination Change Round:** Once all nominations are shared, the Facilitator must give each participant the opportunity to change their nomination. A participant making a change may explain their change, but the Facilitator must stop any other comments or discussion.
 - **(e) Make a Proposal:** Next, the Facilitator must count the nominations and make a Proposal to elect the candidate with the most nominations for the specified term. If there is a tie for the most nominations, then the Facilitator may do any one of the following: (i) blindly select one of the tied candidates randomly, and propose that person; or (ii) if the person currently filling the Role is among those tied, propose that person; or (iii) if only one of the tied candidates has nominated himself or herself, propose that person; or (iv) go back to the previous step and require each participant who nominated someone other than a tied candidate to change that nomination to one of the tied candidates, then continue back to this step and re-apply its rules.
 - **(f) Process Proposal:** Once the Facilitator makes a Proposal to elect a candidate, the Facilitator must move to the Integrative Decision-Making Process to resolve that Proposal. However, the Facilitator must start directly with the Objection round, and, if the proposed candidate is present, the Facilitator must ask the candidate for Objections last. If any Objections are raised, the Facilitator may choose to process them normally, or to discard the Proposal either immediately after the Objection round or at any point during the integration step. If the Facilitator opts to discard the Proposal, the Facilitator must go back to the prior step in this process, discard all nominations for the prior candidate, and follow the rules of the prior step to select another candidate to propose instead.
 
@@ -490,7 +490,7 @@ You have a duty to prioritize where to focus your attention and resources in ali
 
 #### 4.1.4 Links May Convey Duties
 
-As a Lead Link, Rep Link, or Cross Link into a Circle, you may invite someone else to engage the Circle Members of the Circle in the duties specified in this section. You may only extend this invitation to aid in the processing of a specific Tension affecting the entity you are linked from, and only if you also sense the Tension and stay engaged in its processing. The person you invite temporarily becomes a full Circle Member, as if he or she also fills your link role, but only while directly processing that specific Tension. You may withdraw this invitation anytime.
+As a Lead Link, Rep Link, or Cross Link into a Circle, you may invite someone else to engage the Circle Members of the Circle in the duties specified in this section. You may only extend this invitation to aid in the processing of a specific Tension affecting the entity you are linked from, and only if you also sense the Tension and stay engaged in its processing. The person you invite temporarily becomes a full Circle Member, as if that person also fills your link role, but only while directly processing that specific Tension. You may withdraw this invitation anytime.
 
 #### 4.1.5 Implicit Expectations Hold No Weight
 
@@ -591,7 +591,7 @@ If the Anchor Circle has no Lead Link, this Accountability automatically falls u
 
 The Lead Link of the Anchor Circle has the authority to name the Circle, clarify its Domains, and add or modify its Accountabilities.
 
-The Lead Link of the Anchor Circle may also appoint his or her own replacement as desired, unless otherwise specified by the Ratifiers.
+The Lead Link of the Anchor Circle may also appoint their own replacement as desired, unless otherwise specified by the Ratifiers.
 
 #### 5.2.5 No Super-Circle
 
