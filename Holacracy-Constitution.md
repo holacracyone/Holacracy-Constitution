@@ -48,7 +48,7 @@ As a Partner assigned to a Role, you have the authority to execute any Next-Acti
 
 However, you cannot exert control or cause a material impact within a Domain owned by another Role or another sovereign entity, unless you have their permission. The authority granted in this paragraph is further limited by Section 2.1.3.
 
-### 1.4 Authority Over Domains
+### 1.4 Authority over Domains
 
 As a Partner assigned to a Role, you have the authority to control and regulate each Domain of your Role. You may do this on a case-by-case basis when others request permission to impact one of your Domains, by considering the request and allowing or withholding permission.
 
