@@ -222,7 +222,11 @@ Each Circle normally elects a Rep Link to its Super-Circle. However, this electi
 
 ### 2.7 Cross Linking
 
-A Circle may create a **_“Cross Link Policy”_** to invite any entity or group to participate in the Governance Process and operations of the Circle (or one of its Sub-Circles). The entity or group that is invited to participate is the **_“Linked Entity”_**, and it may be external to the Organization, or it may be another Role or Circle within the Organization. The Circle that will receive this link is the **_“Target Circle”_**, and it must be the Circle creating the Policy, or one of its Sub-Circles.
+A Circle may create a **_“Cross Link Policy”_** to invite any entity or group to participate in its operations and Governance Process. 
+
+The entity or group that is invited to participate is the **_“Linked Entity”_**. It may be another Role or Circle within the Organization or an entity external to the Organization. 
+
+The Circle that will receive the link is the **_“Target Circle”_**, and it must be the Circle creating the Policy, or one of its Sub-Circles.
 
 Once a Cross Link Policy is adopted, the Linked Entity may assign a representative to participate in the Target Circle under the terms of this section, unless alternate terms are defined in the Policy.
 
