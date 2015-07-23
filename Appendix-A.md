@@ -51,7 +51,9 @@ _The Lead Link also holds all un-delegated Circle-level Domains and Accountabili
 **Domains:**
 
 - All constitutionally-required records of the Circle
-Accountabilities:
+
+**Accountabilities:**
+
 - Scheduling the Circle’s required meetings, and notifying all Core Circle Members of scheduled times and locations
 - Capturing and publishing the outputs of the Circle’s required meetings, and maintaining a compiled view of the Circle’s current Governance, checklist items, and metrics
 - Interpreting Governance and the Constitution upon request
