@@ -21,7 +21,7 @@ Like Linux®, Wikipedia®, and Java®, Holacracy® is a registered trademark; in
 ### Contributors
 Up to version 4.0, the Holacracy Constitution was developed by Brian Robertson and HolacracyOne. 
 
-Contributors to the current version are Brian Robertson, Rashid Gilanpour, Alexia Bowers, djwork, Martin Röll, Olivier Compagne, Koen Veltman, Mieke Byerley, Diederick Janse, Karilen Mays, Bernard Marie Chiquet, Tim Kelley and Dien Kwik.
+Contributors to the current version are Brian Robertson, Rashid Gilanpour, Alexia Bowers, djwork, Martin Röll, Olivier Compagne, Koen Veltman, Mieke Byerley, Diederick Janse, Karilen Mays, Bernard Marie Chiquet, Tim Kelley, Dien Kwik and Kræn Hansen.
 
 ---
 
