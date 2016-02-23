@@ -276,7 +276,7 @@ The Governance Process of a Circle has the power to:
 
 At any given time, the then-current results of a Circle’s Governance Process define its acting **_“Governance”_**.
 
-Only those outputs listed in this section are valid Governance for a circle; no one may capture other outputs within the Circle’s Governance records.
+Only those outputs listed in this section are valid Governance for a Circle; no one may capture other outputs within the Circle’s Governance records.
 
 ### 3.2 Changing Governance
 
