@@ -142,15 +142,15 @@ The Lead Link of a Circle may specially appoint additional persons to serve as C
 
 ### 2.4 Role Assignment
 
-The Lead Link of a Circle may assign people to fill Defined Roles in the Circle, unless that authority has been limited or delegated.
+The Lead Link of a Circle may assign Partners to fill Defined Roles in the Circle and revoke these assignments at any time, unless these authorities has been limited or delegated.
 
 #### 2.4.1 Unfilled Roles
 
 Whenever a Defined Role in a Circle is unfilled, the Circle’s Lead Link is considered to be filling the Role.
 
-#### 2.4.2 Assigning Roles to Multiple People
+#### 2.4.2 Assigning Roles to Multiple Partners
 
-A Lead Link may assign multiple people to the same Defined Role, as long as that will not decrease the clarity of who should enact the Accountabilities and authorities of the Role in common situations.
+A Lead Link may assign multiple Partners to the same Defined Role, as long as that will not decrease the clarity of who should enact the Accountabilities and authorities of the Role in common situations.
 
 As one way of maintaining that clarity, a Lead Link may specify a “Focus” along with each assignment, which is an area or context for that person to focus within while executing in the Role.
 
