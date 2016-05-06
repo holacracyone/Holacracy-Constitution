@@ -461,11 +461,11 @@ However, if the Process Breakdown is not resolved within a reasonable timeframe,
 
 ### 4.1 Duties of Circle Members
 
-When filling a Role in a Circle, you have the following duties to your fellow Circle Members when they’re acting on behalf of other Roles in the Circle.
+When filling a Role in a Circle, you have the following duties to your organisation's partners when they’re acting on behalf of other Roles in the organisation.
 
 #### 4.1.1 Duty of Transparency
 
-You have a duty to provide transparency when requested by your fellow Circle Members, in any of the following areas:
+You have a duty to provide transparency when requested by your organisation's partners, in any of the following areas:
 
 - **(a) Projects & Next-Actions:** You must share any Projects and Next-Actions you are tracking for your Roles in the Circle.
 - **(b) Relative Priority:** You must share your judgment of the relative priority of any Projects or Next-Actions tracked for your Roles in the Circle, vs. any other potential activities competing for your attention or resources.
@@ -474,17 +474,17 @@ You have a duty to provide transparency when requested by your fellow Circle Mem
 
 #### 4.1.2 Duty of Processing
 
-You have a duty to promptly process messages and requests from your fellow Circle Members, as follows:
+You have a duty to promptly process messages and requests from your organisation's partners, as follows:
 
-- **(a) Requests for Processing:** Other Circle Members may ask you to process any Accountability or Project on a Role you fill in the Circle. If you have no Next-Actions tracked for it, you must identify and capture a Next-Action if there are any reasonable ones you could take. If there are not, you must instead share what you’re waiting on. That must be either a Next-Action or Project tracked by another Role, or a specific event or condition that must happen before you can take further Next-Actions.
-- **(b) Requests for Projects & Next-Actions:** Other Circle Members may ask you to take on a specific Next-Action or Project in one of your Roles in the Circle. If you deem it a reasonable Next-Action or Project to take on, you must accept it and track it. If not, then you must either explain your reasoning, or capture and communicate a different Next-Action or Project that you believe will meet the requester’s objective.
-- **(c) Requests to Impact Domain:** Other Circle Members may ask to impact a Domain controlled by one of your Roles in the Circle. If you see no Objections to the request, you must allow it. If you do, you must explain any Objections to the requester.
+- **(a) Requests for Processing:** Other partners may ask you to process any Accountability or Project on a Role you fill in the Circle. If you have no Next-Actions tracked for it, you must identify and capture a Next-Action if there are any reasonable ones you could take. If there are not, you must instead share what you’re waiting on. That must be either a Next-Action or Project tracked by another Role, or a specific event or condition that must happen before you can take further Next-Actions.
+- **(b) Requests for Projects & Next-Actions:** Other partners may ask you to take on a specific Next-Action or Project in one of your Roles in the Circle. If you deem it a reasonable Next-Action or Project to take on, you must accept it and track it. If not, then you must either explain your reasoning, or capture and communicate a different Next-Action or Project that you believe will meet the requester’s objective.
+- **(c) Requests to Impact Domain:** Other partners may ask to impact a Domain controlled by one of your Roles in the Circle. If you see no Objections to the request, you must allow it. If you do, you must explain any Objections to the requester.
 
 #### 4.1.3 Duty of Prioritization
 
 You have a duty to prioritize where to focus your attention and resources in alignment with the following constraints:
 
-- **(a) Processing Over Execution:** You must generally prioritize processing inbound messages from fellow Circle Members over executing your own Next-Actions. However, you may temporarily defer processing in order to batch process messages in a single time block or at a more convenient time, as long as your processing is still reasonably prompt. Processing means engaging in the duties described in this section, including considering the message, defining and capturing Next-Actions or Projects when appropriate, and, upon request, responding with how the message was processed. Processing does not mean executing upon captured Next-Actions and Projects, which is not covered by this prioritization rule.
+- **(a) Processing Over Execution:** You must generally prioritize processing inbound messages from other partners over executing your own Next-Actions. However, you may temporarily defer processing in order to batch process messages in a single time block or at a more convenient time, as long as your processing is still reasonably prompt. Processing means engaging in the duties described in this section, including considering the message, defining and capturing Next-Actions or Projects when appropriate, and, upon request, responding with how the message was processed. Processing does not mean executing upon captured Next-Actions and Projects, which is not covered by this prioritization rule.
 - **(b) Requested Meetings Over Execution:** On request of a fellow Circle Member, you must prioritize attending any Circle meeting required by this Constitution over executing your own Next-Actions. However, you may still decline the request if you already have plans scheduled over the meeting time, or if the request was for an ongoing series or pattern of meetings rather than a specific meeting instance.
 - **(c) Circle Needs Over Individual Goals:** You must integrate and align with any official prioritizations or Strategies of the Circle, such as those specified by the Circle’s Lead Link, when assessing how to deploy your time, attention, and other resources to your work within the Circle.
 
