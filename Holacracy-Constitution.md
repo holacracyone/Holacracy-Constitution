@@ -142,7 +142,7 @@ The Lead Link of a Circle may specially appoint additional persons to serve as C
 
 ### 2.4 Role Assignment
 
-The Lead Link of a Circle may assign people to fill Defined Roles in the Circle, unless that authority has been limited or delegated.
+The Lead Link of a Circle may assign people to fill Defined Roles in the Circle and revoke these assignments at any time, unless these authorities have been limited or delegated.
 
 #### 2.4.1 Unfilled Roles
 
