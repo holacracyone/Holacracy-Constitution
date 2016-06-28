@@ -11,7 +11,7 @@ This **_“Constitution”_** defines rules and processes for the governance and
 
 The Organization’s Partners will typically perform work for the Organization by acting in one or more explicitly defined Roles. A **_“Role”_** is an organizational construct with a descriptive name and one or more of the following:
 
-- **(a)** a **_“Purpose”_**, which is a capacity, potential, or unrealizable goal that the Role will pursue or express on behalf of the Organization. The purpose helps to define an "identity" of the role.
+- **(a)** a **_“Purpose”_**, which is a capacity, potential, or unrealizable goal that the Role will pursue or express on behalf of the Organization.
 - **(b)** one or more **_“Domains”_**, which are things the Role may exclusively control and regulate as its property, on behalf of the Organization.
 - **(c)** one or more **_“Accountabilities”_**, which are ongoing activities of the Organization that the Role will enact.
 
