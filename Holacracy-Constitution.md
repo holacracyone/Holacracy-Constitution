@@ -467,10 +467,10 @@ When filling a Role in a Circle, you have the following duties to your fellow Ci
 
 You have a duty to provide transparency when requested by your fellow Circle Members, in any of the following areas:
 
-- **(a) Projects & Next-Actions:** You must share any Projects and Next-Actions you are tracking for your Roles in the Circle.
-- **(b) Relative Priority:** You must share your judgment of the relative priority of any Projects or Next-Actions tracked for your Roles in the Circle, vs. any other potential activities competing for your attention or resources.
-- **(c) Projections:** You must provide a projection of the date you expect to complete any Project or Next-Action tracked for any of your Roles in the Circle. A rough estimate is sufficient, considering your current context and priorities, but without detailed analysis or planning. This projection is not a binding commitment in any way, and unless Governance says otherwise, you have no duty to track the projection, manage your work to achieve it, or follow-up with the recipient if something changes.
-- **(d) Checklist Items & Metrics:** You must share whether you have completed any regular, recurring actions that you routinely perform in service of your Roles in the Circle. You must also track and report on any metrics assigned to your Roles by the Circle’s Lead Link, or by any other Role or process granted the authority to define the Circle’s metrics.
+- **(a) Projects & Next-Actions:** Share any Projects and Next-Actions you are tracking for your Roles in the Circle.
+- **(b) Relative Priority:** Share your judgment of the relative priority of any Projects or Next-Actions tracked for your Roles in the Circle, vs. any other potential activities competing for your attention or resources.
+- **(c) Projections:** Provide a projection of the date you expect to complete any Project or Next-Action tracked for any of your Roles in the Circle. A rough estimate is sufficient, considering your current context and priorities, but without detailed analysis or planning. This projection is not a binding commitment in any way, and unless Governance says otherwise, you have no duty to track the projection, manage your work to achieve it, or follow-up with the recipient if something changes.
+- **(d) Checklist Items & Metrics:** Share whether you have completed any regular, recurring actions that you routinely perform in service of your Roles in the Circle. You must also track and report on any metrics assigned to your Roles by the Circle’s Lead Link, or by any other Role or process granted the authority to define the Circle’s metrics.
 
 #### 4.1.2 Duty of Processing
 
