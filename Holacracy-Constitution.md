@@ -447,7 +447,7 @@ Whenever an authorized party declares a Process Breakdown within a Circle, the f
 
 - **(a)** the Facilitator of the Super-Circle gains a Project to restore due-process within the Circle; and
 - **(b)** the Facilitator of the Super-Circle gains the authority to take over as Facilitator or Secretary of the Circle, or to appoint someone else to do so; and
-- **(c)** the Facilitator of the Circle gains the authority to judge the accuracy of any arguments presented to validate Tensions or Objections within the Circle’s Governance Process.
+- **(c)** the Facilitator of the Circle gains the authority to judge the accuracy of any arguments presented to validate Proposals or Objections within the Circle’s Governance Process.
 
 These authorities are temporary and cease as soon as the Facilitator of the Super-Circle concludes that due process has been restored within the Circle.
 
