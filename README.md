@@ -25,10 +25,6 @@ Contributors to the current version include Brian Robertson, Rashid Gilanpour, A
 
 ---
 
-#### An always up to date compiled PDF of the Holacracy Constitution - Development Version (<a href="https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md" target="_blank">Holacracy-Constitution.md</a>) is available <a href="https://gitprint.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md" target="_blank">HERE</a>
-
----
-
 # Table of Contents
 
 #### [Article 1: Energizing Roles] (https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md#article-i-energizing-roles)
