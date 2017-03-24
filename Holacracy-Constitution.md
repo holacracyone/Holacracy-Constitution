@@ -238,7 +238,7 @@ If the Linked Entity lacks both a clear Purpose and any clear Accountabilities, 
 
 If the Linked Entity is a Circle or group, it may assign someone to fill the Cross Link Role using whatever process it already has for assigning people to fill Defined Roles or similar work functions.
 
-If a Linked Entity represents a group with no single locus of authority to do that assignment, then the Target Circle may instead assign someone to the Cross Link Role, unless otherwise specified in the Cross Link Policy.
+If a Linked Entity represents a group with no single point of authority to do that assignment, then the Target Circle may instead assign someone to the Cross Link Role, unless otherwise specified in the Cross Link Policy.
 
 In all cases, only one person may be assigned to each Cross Link Role, unless allowed by the Cross Link Policy. 
 
@@ -571,7 +571,7 @@ Upon adopting this Constitution, the Ratifiers must establish an initial Circle 
 
 The Ratifiers may appoint an initial Lead Link of the Anchor Circle.
 
-Alternatively, the Ratifiers may leave the Anchor Circle without a Lead Link, and create one or more initial Cross Links to the Anchor Circle in lieu of a Lead Link.
+Alternatively, the Ratifiers may leave the Anchor Circle without a Lead Link, and create one or more initial Cross Links to the Anchor Circle in place of a Lead Link.
 
 #### 5.2.2 Acting Without a Lead Link
 
