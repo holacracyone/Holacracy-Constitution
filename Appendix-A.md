@@ -43,7 +43,7 @@ _The Lead Link also holds all un-delegated Circle-level Domains and Accountabili
 **Accountabilities:**
 
 - Facilitating the Circle’s constitutionally-required meetings
-- Auditing the meetings and records of Sub-Circles as needed, and declaring a Process Breakdown upon discovering a pattern of behavior that conflicts with the rules of the Constitution
+- Auditing the meetings and records of Sub-Circles on request, and declaring a Process Breakdown upon discovering a pattern of behavior that conflicts with the rules of the Constitution
 
 
 ###Secretary
