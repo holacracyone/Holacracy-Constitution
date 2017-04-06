@@ -288,11 +288,7 @@ Proposals are considered adopted and amend the Governance of the Circle only if 
 
 #### 3.2.1 Making Proposals
 
-Any Core Circle Member may make a Proposal within a **_“Governance Meeting”_** of the Circle called under the terms of Section 3.3.
-
-Alternatively, a Core Circle Member may distribute a Proposal to all other Core Circle Members asynchronously, outside of a Governance Meeting, using any written communication channel approved for this purpose by the Circle’s Secretary. When this happens, the Facilitator may either apply the same process and rules used within a Governance Meeting, or may allow each Core Circle Member to directly declare whether or not he or she has Objections to integrate. Further, at any point before an asynchronous Proposal is adopted, the Facilitator or any Core Circle Member may stop the asynchronous processing by requesting the Proposer escalate the Proposal to a Governance Meeting, and notifying the Circle’s Secretary.
-
-A Circle may adopt Policies to further constrain when or how Proposals may be made or processed outside of a Governance Meeting. However, no Policy may limit the right to stop asynchronous processing by escalating to a Governance Meeting. A Circle may also use a Policy to create a time limit for responding to asynchronous Proposals, upon which any asynchronous Proposal is automatically adopted if no Objections or escalation requests are raised.
+Any Core Circle Member may make a Proposal within a **_“Governance Meeting”_** of the Circle called under the terms of Section 3.3. or outside of such meetings under the terms of Section 3.3.8.
 
 #### 3.2.2 Criteria for Valid Proposals
 
@@ -406,6 +402,16 @@ The Facilitator must enact the Integrative Election Process as follows:
 #### 3.3.7 Operational Decisions in Governance Meetings
 
 Governance Meetings are primarily intended to support a Circle’s Governance Process. As long as it does not distract from this intended focus, any participant may nonetheless accept Projects or Next-Actions during a Governance Meeting, or make other operational decisions that are outside the scope of the Circle’s Governance Process. However, the Secretary may not capture any operational outputs or decisions in the formal Governance minutes or records of the Circle. Further, operational outputs and decisions made in a Governance Meeting carry no more or less weight or authority than those made outside of a Governance Meeting.
+
+#### 3.3.8 Governance Outside of Meetings
+
+Alternatively to what was described before, a Core Circle Member may distribute a Proposal to all other Core Circle Members outside of a Governance Meeting, using any written communication channel approved for this purpose by the Circle’s Secretary. When this happens, the Facilitator may either apply the same process and rules used within a Governance Meeting, or may allow each Core Circle Member to directly declare whether or not they have Objections to integrate. 
+
+At any point before such a Proposal is adopted, the Facilitator or any Core Circle Member may stop the out-of-meeting processing by requesting the Proposer escalate the Proposal to a Governance Meeting, and notifying the Circle’s Secretary.
+
+A Circle may adopt Policies to further constrain when or how Proposals may be made or processed outside of a Governance Meeting. However, no Policy may limit the right to stop out-of-meeting processing by escalating to a Governance Meeting.
+
+A Circle may also use a Policy to create a time limit for responding to out-of-meeting Proposals, upon which any such Proposal is automatically adopted if no Objections or escalation requests are raised.
 
 ### 3.4 Interpreting the Constitution & Governance
 
