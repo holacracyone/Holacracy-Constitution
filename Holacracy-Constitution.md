@@ -67,7 +67,7 @@ A **_“Circle”_** is a Role that may further break itself down by defining it
 
 Each Circle will use the **_“Governance Process”_** described in Article 3 of this Constitution to define or amend Roles within the Circle or Policies governing the Circle’s Domains. No one may define or amend a Circle’s Roles or Policies outside of its Governance Process, unless explicitly allowed by another rule of this Constitution. 
 
-Further, each Circle may control its own functions and activities, as if a Domain of the Circle, for the purpose of defining Policies that limit the Circle’s Roles.
+Further, solely for the purpose of limiting the Circle’s own Roles, each Circle has an automatic Domain over its own internal functions and activities.
 
 #### 2.1.2 Impacting Circle Domains
 
