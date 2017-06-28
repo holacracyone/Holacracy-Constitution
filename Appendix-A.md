@@ -48,11 +48,11 @@ _The Lead Link also holds all un-delegated Circle-level Domains and Accountabili
 
 ###Secretary
 
-**Purpose:** Steward and stabilize the Circle’s formal records and record-keeping process.
+**Purpose:** Steward the Circle’s governance records and stabilize its record-keeping process.
 
 **Domains:**
 
-- All constitutionally-required records of the Circle
+- All governance records of the Circle
 
 **Accountabilities:**
 
