@@ -46,7 +46,7 @@ Whenever you have time available to act in your Role, you are responsible for co
 
 As a Partner assigned to a Role, you have the authority to execute any Next-Actions you reasonably believe are useful for enacting your Role’s Purpose or Accountabilities.
 
-However, you cannot exert control or cause a material impact within a Domain owned by another Role or another sovereign entity, unless you have their permission. The authority granted in this paragraph is further limited by Section 2.1.3.
+However, you cannot exert control or cause a material impact within a Domain owned by another Role or another sovereign entity, unless you have their permission. The authority granted in this paragraph is further limited by Section 2.1.2.
 
 ### 1.4 Authority over Domains
 
@@ -54,7 +54,7 @@ As a Partner assigned to a Role, you have the authority to control and regulate 
 
 You may also define **_“Policies”_** for your Domains, which are either grants of authority that allow others to control or cause a material impact within a Domain, or limits on how others may do so when otherwise authorized. Before a Policy is valid, you must first publish it in a forum convenient to all Partners who may be impacted.
 
-The authorities granted to you in this section may be further limited by constraints defined under Section 2.1.3.
+The authorities granted to you in this section may be further limited by constraints defined under Section 2.1.2.
 
 
 ## Article 2: Circle Structure
@@ -65,25 +65,17 @@ A **_“Circle”_** is a Role that may further break itself down by defining it
 
 #### 2.1.1 Defining Roles & Policies
 
-Each Circle will use the **_“Governance Process”_** described in Article 3 of this Constitution to define or amend Roles within the Circle or Policies governing the Circle’s Domain. No one may define or amend a Circle’s Roles or Policies outside of its Governance Process, unless explicitly allowed by another rule of this Constitution. 
+Each Circle will use the **_“Governance Process”_** described in Article 3 of this Constitution to define or amend Roles within the Circle or Policies governing the Circle’s Domains. No one may define or amend a Circle’s Roles or Policies outside of its Governance Process, unless explicitly allowed by another rule of this Constitution. 
 
 Further, each Circle may control its own functions and activities, as if a Domain of the Circle, for the purpose of defining Policies that limit the Circle’s Roles.
 
-#### 2.1.2 Roles May Impact Circle Domains
+#### 2.1.2 Impacting Circle Domains
 
-When filling a Role in a Circle, you may use and impact any Domain controlled by the Circle itself, or that the Circle is authorized to impact. However, you must abide by any constraints acting upon the Circle itself or defined by Policy of the Circle, and you may not fully control or regulate the Domain under the terms of Section 1.4.
+In service of a Role you fill in a Circle, you may use and impact any Domain on the Circle itself or that the Circle is authorized to impact, as long as the Domain has not been further delegated to another Role within the Circle.  However, when impacting a Domain, you may not transfer or dispose of the Domain or any significant property within the Domain, nor may you significantly limit any rights of the Circle to the Domain, unless explicitly authorized to do so by a Policy of the Circle.  Further, you must always abide by any constraints acting upon the Circle itself or defined in a Policy of the Circle.
 
-Further, you may not transfer or dispose of the Domain itself or any significant assets within the Domain, nor may you significantly limit any rights of the Circle to the Domain. However, these restrictions do not apply if a Role or process holding the needed authority grants you permission to do so.
+#### 2.1.3 Delegating Circle Domains
 
-#### 2.1.3 Delegation of Control
-
-When a Circle defines a Domain upon one of its Roles, the Circle’s authority to impact, control, and regulate that Domain is instead delegated to that Role and removed from the Circle.
-
-However, the Circle retains the right to amend or remove that Domain delegation, or to define or modify Policies that further grant or constrain the Role’s authority within the Domain.
-
-By default, any Domains delegated in this way exclude the authority to dispose of the Domain itself or any significant assets within the Domain, or to transfer those assets outside of the Circle, or to significantly limit any rights of the Circle to the Domain. A Circle may delegate these retained authorities as well, by explicitly granting the desired permissions in a Policy of the Circle.
-
-In any case, all Domain delegations are always limited to whatever authority the Circle itself had in the first place.
+When a Circle delegates control of a Domain or any part thereof to one of its Roles, that Role gains the authority to further regulate that Domain as specified in Section 1.4.  The Circle retains the right to amend or remove that Domain delegation, or to define or modify Policies acting upon that Domain.  Any such Policies controlled by the Circle trump any Policies defined by the Role, and these Circle-level Policies may only be modified through the Circle's Governance Process.
 
 ### 2.2 Circle Lead Link
 
@@ -541,7 +533,7 @@ You may only take Individual Action when all of the following are true:
 - **(a)** You are acting in good faith to serve the Purpose or express the Accountabilities of some Role within the Organization, or of the overall Organization itself.
 - **(b)** You reasonably believe your action would resolve or prevent more Tension for the Organization than it would likely create.
 - **(c)** Your action would not cause, commit to, or allow spending or otherwise disposing of the Organization’s resources or other assets, beyond what you’re already authorized to spend.
-- **(d)** If your action would violate any Domains or Policies, you reasonably believe that you can’t delay the action long enough to request any permissions normally required, or to propose a Governance change to allow your action, without losing much of its potential value.
+- **(d)** If your action would violate any Policies or impact any Domains you aren't already authorized to impact, you reasonably believe that you can’t delay the action long enough to request any permissions normally required, or to propose a Governance change to allow your action, without losing much of its potential value.
 
 #### 4.3.2 Communication & Restoration
 
