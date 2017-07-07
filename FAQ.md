@@ -1,4 +1,4 @@
-####I’m not technically savvy. How do I use GitHub to contribute my ideas to evolving Holacracy?
+#### I’m not technically savvy. How do I use GitHub to contribute my ideas to evolving Holacracy?
 
 You can start by orienting yourself with these basic resources about Version (Revision) Control in Open Source development and GitHub basics. 
 
