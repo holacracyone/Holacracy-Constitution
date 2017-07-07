@@ -1,4 +1,4 @@
-####Discussions are available here for participants to discuss changes, issues, or other tensions related to the Holacracy Constitution. 
+#### Discussions are available here for participants to discuss changes, issues, or other tensions related to the Holacracy Constitution. 
 
 Navigate <a href="https://github.com/holacracyone/Holacracy-Constitution/issues" target="_blank">Here</a> and click on the green "New Issue" button. 
 
