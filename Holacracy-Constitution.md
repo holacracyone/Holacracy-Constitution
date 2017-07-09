@@ -5,9 +5,9 @@
 
 This **_“Constitution”_** defines rules and processes for the governance and operations of an organization. The **_“Ratifiers”_** are adopting these rules as the formal authority structure for the **_“Organization”_** specified upon the Constitution’s adoption, which may be an entire entity or a part of one that the Ratifiers have authority to govern and run. The Ratifiers and anyone else who agrees to take part in the governance and operations of the Organization (its **_“Partners”_**) may rely upon the authorities granted by this Constitution, and also agree to be bound by its duties and constraints.
 
-## Article 1: Energizing Roles
+## Article 1: Organizational Structure
 
-### 1.1 Definition of a Role
+### 1.1 Roles
 
 The Organization’s Partners will typically perform work for the Organization by acting in one or more explicitly defined Roles. A **_“Role”_** is an organizational construct with a descriptive name and one or more of the following:
 
@@ -15,132 +15,51 @@ The Organization’s Partners will typically perform work for the Organization b
 - **(b)** one or more **_“Domains”_**, which are things the Role may exclusively control and regulate as its property, on behalf of the Organization.
 - **(c)** one or more **_“Accountabilities”_**, which are ongoing activities of the Organization that the Role will enact.
 
-### 1.2 Responsibilities of Role-Filling
-
-As a Partner of the Organization, you have the following responsibilities for each Role that you are assigned to and agree to fill:
-
-#### 1.2.1 Processing Tensions
-
-You are responsible for monitoring how your Role’s Purpose and Accountabilities are expressed, and comparing that to your vision of their ideal potential expression, to identify gaps between the current reality and a potential you sense (each gap is a **_“Tension”_**). You are also responsible for trying to resolve those Tensions by using the authorities and other mechanisms available to you under this Constitution.
-
-#### 1.2.2 Processing Purpose & Accountabilities
-
-You are responsible for regularly considering how to enact your Role's Purpose and each of your Role’s Accountabilities, by defining:
-
-- **(a)** **_“Next-Actions”_**, which are actions you could execute immediately and that would be useful to execute immediately, at least in the absence of competing priorities; and
-- **(b)** **_“Projects”_**, which are specific outcomes that require multiple sequential actions to achieve and that would be useful to work towards, at least in the absence of competing priorities.
-
-#### 1.2.3 Processing Projects
-
-You are responsible for regularly considering how to complete each Project you are actively working towards for your Role, including by defining any Next-Actions useful to move the Project forward.
-
-#### 1.2.4 Tracking Projects, Next-Actions, & Tensions
-
-You are responsible for capturing and tracking all Projects and Next-Actions for your Role in a database or similar tangible form, and for regularly reviewing and updating that database to maintain it as a trusted list of the Role’s active and potential work. You are also responsible for tracking any Tensions you identify for your Role, at least until you process them into desired Projects or Next-Actions, or otherwise resolve them.
-
-#### 1.2.5 Directing Attention & Resources
-
-Whenever you have time available to act in your Role, you are responsible for considering the potential Next-Actions you could efficiently and effectively do at that point in time, and executing whichever you believe would add the most value to the Organization from among that subset.
-
-### 1.3 Authority to Act
-
-As a Partner assigned to a Role, you have the authority to execute any Next-Actions you reasonably believe are useful for enacting your Role’s Purpose or Accountabilities.
-
-However, you cannot exert control or cause a material impact within a Domain owned by another Role or another sovereign entity, unless you have their permission. The authority granted in this paragraph is further limited by Section 2.1.2.
-
-### 1.4 Authority over Domains
-
-As a Partner assigned to a Role, you have the authority to control and regulate each Domain of your Role. You may do this on a case-by-case basis when others request permission to impact one of your Domains, by considering the request and allowing or withholding permission.
-
-You may also define **_“Policies”_** for your Domains, which are either grants of authority that allow others to control or cause a material impact within a Domain, or limits on how others may do so when otherwise authorized. Before a Policy is valid, you must first publish it in a forum convenient to all Partners who may be impacted.
-
-The authorities granted to you in this section may be further limited by constraints defined under Section 2.1.2.
-
-
-## Article 2: Circle Structure
-
-### 2.1 Circle Basics
+### 1.2 Circles
 
 A **_“Circle”_** is a Role that may further break itself down by defining its own contained Roles to achieve its Purpose, control its Domains, and enact its Accountabilities. The Roles a Circle defines are its **_“Defined Roles”_**, and anyone filling one of its Defined Roles is a **_“Circle Member”_** of that Circle.
 
-#### 2.1.1 Defining Roles & Policies
+A Circle may also contain **_“Policies”_**, which are either grants of authority that allow others to control or cause a material impact within one of the Circle's Domains, or limits on how others may do so when otherwise authorized. Solely for the purpose of limiting a Circle’s own Roles, each Circle has an automatic Domain over its own internal functions and activities.
 
-Each Circle will use the **_“Governance Process”_** described in Article 3 of this Constitution to define or amend Roles within the Circle or Policies governing the Circle’s Domains. No one may define or amend a Circle’s Roles or Policies outside of its Governance Process, unless explicitly allowed by another rule of this Constitution. 
+The collection of Roles and Policies within a Circle make up its acting **_“Governance”_**. The Circle Members of a Circle will use the **_“Governance Process”_** described in Article 3 of this Constitution to define or amend the Circle's Governance. No one may define or amend a Circle’s Governance outside of its Governance Process, unless explicitly allowed by another rule of this Constitution
 
-Further, solely for the purpose of limiting the Circle’s own Roles, each Circle has an automatic Domain over its own internal functions and activities.
+#### 1.2.1 Delegating Domains
 
-#### 2.1.2 Impacting Circle Domains
+When a Circle grants a Domain to one of its Roles, a Partner filling that Role may control that Domain on behalf of the Circle, including defining Policies for that Domain outside of the Circle's Governance Process. The Circle retains the right to amend or remove any such Domain delegations, or to define or modify Policies acting upon that Domain itself. Any such Policies defined by the Circle trump any Policies defined by the Role, and these Circle-level Policies may only be modified through the Circle's Governance Process.
 
-In service of a Role you fill in a Circle, you may use and impact any Domain on the Circle itself or that the Circle is authorized to impact, as long as the Domain has not been further delegated to another Role within the Circle.  However, when impacting a Domain, you may not transfer or dispose of the Domain or any significant property within the Domain, nor may you significantly limit any rights of the Circle to the Domain, unless explicitly authorized to do so by a Policy of the Circle.  Further, you must always abide by any constraints acting upon the Circle itself or defined in a Policy of the Circle.
+### 1.3 Lead Links
 
-#### 2.1.3 Delegating Circle Domains
+Each Circle has a **_“Lead Link Role”_** with the definition given in Appendix A and the further responsibilities and authorities defined in this Section. The person filling the Lead Link Role, while acting in that capacity, is referred to as the Circle’s **_“Lead Link”_**.
 
-When a Circle delegates control of a Domain or any part thereof to one of its Roles, that Role gains the authority to further regulate that Domain as specified in Section 1.4.  The Circle retains the right to amend or remove that Domain delegation, or to define or modify Policies acting upon that Domain.  Any such Policies controlled by the Circle trump any Policies defined by the Role, and these Circle-level Policies may only be modified through the Circle's Governance Process.
+#### 1.3.1 Lead Link Holds Undifferentiated Functions
 
-### 2.2 Circle Lead Link
+A Circle’s Lead Link inherits the Purpose and any Accountabilities on the Circle itself, and controls any Domains defined on the Circle, just as if the Circle were only a Role and the Lead Link filled that Role. However, this only applies to the extent that those Accountabilities and Domains have not been placed upon a Role within the Circle or otherwise delegated. Further, the Lead Link may not define or modify Policies on the Circle's Domains, except via its Governance Process.
 
-Each Circle has a **_“Lead Link Role”_** with the definition given in Appendix A and the further responsibilities and authorities defined in this Section.
-
-The person filling the Lead Link Role, while acting in that capacity, is referred to as the Circle’s **_“Lead Link”_**.
-
-#### 2.2.1 Holds Undifferentiated Functions
-
-A Circle’s Lead Link inherits the Purpose and any Accountabilities on the Circle itself, and controls any Domains defined on the Circle, just as if the Circle were only a Role and the Lead Link filled that Role. However, this only applies to the extent that those Accountabilities and Domains have not been placed upon a Role within the Circle, or otherwise delegated.
-
-Further, the Lead Link may not define Policies that limit the Circle’s Roles, except via the Governance Process of the Circle.
-
-#### 2.2.2 Defines Priorities & Strategies
+#### 1.3.2 Lead Link Defines Priorities & Strategies
 
 A Circle’s Lead Link may define relative priorities for the Circle.
 
 In addition, the Lead Link may define a more general **_“Strategy”_** for the Circle, or multiple Strategies, which are heuristics that guide the Circle’s Roles in self-identifying priorities on an ongoing basis.
 
-#### 2.2.3 Amending the Lead Link Role
+#### 1.3.3 Lead Link Controls Circle Resources
+
+To the extent the Circle itself has the authority to dispose of the Organization's property, limit its rights, or spend its tangible resources, this authority vests with the Circle's Lead Link, who may then further authorize its Roles to do so.
+
+#### 1.3.4 Amending the Lead Link Role
 
 A Circle may not add Accountabilities or other functions to its own Lead Link Role, or modify the Role’s Purpose, or remove the Role entirely. 
 
 However, a Circle may remove any Accountabilities, Domains, authorities, or functions of its Lead Link Role, either by placing them on another Role within the Circle, or by defining an alternate means of enacting them. When this occurs, it automatically removes the relevant element or authority from the Lead Link Role, for as long as the delegation remains in place.
 
-### 2.3 Core Circle Members
-
-Some Circle Members are allowed to take part in a Circle’s Governance Process, and are thus **_“Core Circle Members”_** of the Circle.
-
-The Core Circle Members are determined using the following rules:
-
-#### 2.3.1 Base Membership
-
-Unless a special appointment or exclusion is made under the terms of this section, the Core Circle Members of a Circle are:
-
-- **(a)** each Partner filling a Defined Role in the Circle;
-- **(b)** the Lead Link of the Circle, as defined in Section 2.2;
-- **(c)** each Rep Link elected to the Circle, as defined in Section 2.6.4;
-- **(d)** and each Cross Link into the Circle, as defined in Section 2.7.
-
-#### 2.3.2 Exclusion for Multi-Filled Roles
-
-If multiple Partners are assigned to the same Defined Role in a Circle, the Circle may enact a Policy that limits how many of them are Core Circle Members as a result of that Role assignment. However, the Policy must allow at least one of the Partners filling the Role to represent it as a Core Circle Member, and must specify how that representative will be determined.
-
-The Policy can define a pathway for the excluded Partners to process Tensions related to that Role. If it does not, any Partners representing the Role have the duty to consider and process Tensions conveyed by the excluded Partners, exactly as a Rep Link would if the Role were a Sub-Circle.
-
-#### 2.3.3 Exclusion for Minor Allocations
-
-Sometimes, a Partner allocates only a very minor, nearly insignificant amount of attention to a Defined Role in a Circle. If the Circle's Lead Link reasonably believes this is the case, the Lead Link may exclude that Partner from serving as a Core Circle Member as a result of that Role assignment.
-
-If a Partner is so excluded, the Lead Link has a duty to consider and process Tensions conveyed by the excluded Partner, exactly as a Rep Link would were the Role a Sub-Circle, unless an alternate pathway is defined for the excluded Partner to process Tensions related to that Role.
-
-#### 2.3.4 Special Appointments of Core Members
-
-The Lead Link of a Circle may specially appoint additional persons to serve as Core Circle Members of a Circle, beyond those required by this Constitution, and may further remove these special appointments at any time.
-
-### 2.4 Role Assignment
+### 1.4 Role Assignment
 
 The Lead Link of a Circle may assign people to fill Defined Roles in the Circle and revoke these assignments at any time, unless these authorities have been limited or delegated.
 
-#### 2.4.1 Unfilled Roles
+#### 1.4.1 Unfilled Roles
 
 Whenever a Defined Role in a Circle is unfilled, the Circle’s Lead Link is considered to be filling the Role.
 
-#### 2.4.2 Assigning Roles to Multiple People
+#### 1.4.2 Assigning Roles to Multiple People
 
 A Lead Link may assign multiple people to the same Defined Role, as long as that will not decrease the clarity of who should enact the Accountabilities and authorities of the Role in common situations.
 
@@ -148,25 +67,52 @@ As one way of maintaining that clarity, a Lead Link may specify a “Focus” al
 
 When a Role assignment includes a Focus, the Purpose, Accountabilities, and Domains defined for the Role apply just within the specified Focus for that particular person.
 
-#### 2.4.3 Resignation from Roles
+#### 1.4.3 Resignation from Roles
 
 When you fill a Role, you may resign from the Role at any time, unless you’ve agreed otherwise, by giving notice to whoever controls assignments to that Role – typically, the Circle’s Lead Link.
 
-### 2.5 Elected Roles
+### 1.5 Core Circle Members
+
+Some Circle Members are allowed to take part in a Circle’s Governance Process, and are thus **_“Core Circle Members”_** of the Circle.
+
+The Core Circle Members are determined using the following rules:
+
+#### 1.5.1 Base Membership
+
+Unless a special appointment or exclusion is made under the terms of this section, the Core Circle Members of a Circle are:
+
+- **(a)** each Partner filling a Defined Role in the Circle;
+- **(b)** the Lead Link of the Circle;
+- **(c)** each Rep Link elected to the Circle, as defined in Section 1.7.4;
+- **(d)** and each Cross Link into the Circle, as defined in Section 1.8.
+
+#### 1.5.2 Exclusion for Multi-Filled Roles
+
+If multiple Partners are assigned to the same Defined Role in a Circle, the Circle may enact a Policy that limits how many of them are Core Circle Members as a result of that Role assignment. However, the Policy must allow at least one of the Partners filling the Role to represent it as a Core Circle Member, and must specify how that representative will be determined. That representative then becomes a Rep Link for the excluded Partners, as if the Role were a Sub-Circle, unless the Policy specifies an alternate treatment that covers the same function.
+
+#### 1.5.3 Exclusion for Minor Allocations
+
+Sometimes, a Partner allocates only a very minor, nearly insignificant amount of attention to a Defined Role in a Circle. If the Circle's Lead Link reasonably believes this is the case, the Lead Link may exclude that Partner from serving as a Core Circle Member as a result of that Role assignment. If a Partner is so excluded, the Lead Link becomes a Rep Link for the excluded Partner, as if the Partner's Role were a Sub-Circle, unless an alternate pathway is defined that covers the same function.
+
+#### 1.5.4 Special Appointments of Core Members
+
+The Lead Link of a Circle may specially appoint additional persons to serve as Core Circle Members of a Circle, beyond those required by this Constitution, and may further remove these special appointments at any time.
+
+### 1.6 Elected Roles
 
 Each Circle includes a **_“Facilitator Role”_**, a **_“Secretary Role”_**, and a **_“Rep Link Role”_** with the definitions given in Appendix A. These are the Circle’s **_“Elected Roles”_**, and the person filling each becomes the Circle’s **_“Facilitator”_**, **_“Secretary”_**, or **_“Rep Link”_** when acting in the capacity of the Elected Role.
 
-#### 2.5.1 Elections & Eligibility
+#### 1.6.1 Elections & Eligibility
 
 The Facilitator of each Circle will facilitate regular elections to elect a Core Circle Member of the Circle into each of its Elected Roles, using the process and rules defined in Article 3.
 
 All Core Circle Members are eligible for election and each may hold multiple Elected Roles, except for the Lead Link of a Circle, who may not be elected as its Facilitator or Rep Link.
 
-#### 2.5.2 Election Terms & Revisiting
+#### 1.6.2 Election Terms & Revisiting
 
 During the election process, the Facilitator will specify a term for each election. After a term expires, the Secretary is responsible for promptly triggering a new election for that Elected Role. However, even before a term has expired, any Core Circle Member may trigger a new election using the process defined in Article 3.
 
-#### 2.5.3 Amending Elected Roles
+#### 1.6.3 Amending Elected Roles
 
 A Circle may add Accountabilities or Domains to its Elected Roles, as well as amend or remove those additions.
 
@@ -174,7 +120,7 @@ However, a Circle may only add to its own Rep Link Role and not to a Rep Link Ro
 
 Further, no Circle may amend or remove any Purpose, Domain, Accountabilities, or authorities granted to an Elected Role by this Constitution, nor remove an Elected Role entirely.
 
-#### 2.5.4 Surrogates for Elected Roles
+#### 1.6.4 Surrogates for Elected Roles
 
 A surrogate may temporarily fill an Elected Role when one is unfilled, or when the person who normally fills the Role is unavailable for a Circle meeting or feels unable or unwilling to enact the Role’s duties.
 
@@ -186,11 +132,11 @@ In any given instance where a surrogate is needed, the surrogate is, in this ord
 - **(d)** the Lead Link of the Circle; or
 - **(e)** the first Core Circle Member of the Circle to declare he or she is acting as the surrogate.
 
-### 2.6 Sub-Circles
+### 1.7 Sub-Circles
 
 A Circle may expand its Defined Roles into full Circles, via its Governance Process. When it does, the new Circle becomes its **_“Sub-Circle”_**, while it becomes the **_“Super-Circle”_** of that new Sub-Circle.
 
-#### 2.6.1 Modifying Sub-Circles
+#### 1.7.1 Modifying Sub-Circles
 
 A Circle may modify the Purpose, Domains, or Accountabilities of a Sub-Circle. 
 
@@ -200,25 +146,25 @@ Any of these modifications may only be done via the Governance Process of the Ci
 
 Beyond these allowed changes, a Circle may not modify any Defined Roles or Policies held within a Sub-Circle.
 
-#### 2.6.2 Removing Sub-Circles
+#### 1.7.2 Removing Sub-Circles
 
 Through its Governance Process, a Circle may remove a Sub-Circle. This can be done by removing the Sub-Circle and everything within entirely, or by selectively retaining certain elements of the Sub-Circle within the Circle. A Sub-Circle may also be removed by collapsing it from a Circle back into just a Role.
 
-#### 2.6.3 Lead Link to Sub-Circle
+#### 1.7.3 Lead Link to Sub-Circle
 
 A Circle’s Lead Link may assign someone to fill the Lead Link Role for each Sub-Circle, using the same rules that apply when the Lead Link assigns into any other Defined Role of the Circle.
 
-#### 2.6.4 Rep Link to Super-Circle
+#### 1.7.4 Rep Link to Super-Circle
 
 Each Circle normally elects a Rep Link to its Super-Circle. However, this election is not required when a Circle lacks any Core Circle Members other than those serving as Lead Link and Cross Links into the Circle. In this case, even if the election is conducted, the elected Rep Link does not become a Core Circle Member of the Super-Circle.
 
-### 2.7 Cross Linking
+### 1.8 Cross Linking
 
 A Circle may create a **_“Cross Link Policy”_** to invite any entity or group to participate in the Governance Process and operations of the Circle or one of its Sub-Circles. The entity or group that is invited to participate is the **_“Linked Entity”_**, and it may be external to the Organization, or it may be another Role or Circle within the Organization. The Circle that will receive this link is the **_“Target Circle”_**.
 
 Once a Cross Link Policy is adopted, the Linked Entity may assign a representative to participate in the Target Circle under the terms of this section, unless alternate terms are defined in the Policy.
 
-#### 2.7.1 Cross Link Role
+#### 1.8.1 Cross Link Role
 
 If the Linked Entity is a Role, then that Role may participate in the Target Circle as described below. It becomes the **_“Cross Link Role”_**, with the person filling it becoming the **_“Cross Link”_**.
 
@@ -226,7 +172,7 @@ If the Linked Entity is a Circle or a group, then a new special-purpose Cross Li
 
 If the Linked Entity lacks both a clear Purpose and any clear Accountabilities, then the Cross Link Policy must further clarify what the Cross Link Role will represent within the Target Circle.
 
-#### 2.7.2 Cross Link Assignment
+#### 1.8.2 Cross Link Assignment
 
 If the Linked Entity is a Circle or group, it may assign someone to fill the Cross Link Role using whatever process it already has for assigning people to fill Defined Roles or similar work functions.
 
@@ -236,25 +182,173 @@ In all cases, only one person may be assigned to each Cross Link Role, unless al
 
 Whenever a Cross Link Role is unfilled, it is considered non-existent and has no default assignment or effect.
 
-#### 2.7.3 Cross Link Authority
+#### 1.8.3 Cross Link Authority
 
-A Cross Link becomes a Core Circle Member of the Target Circle, and may use the authorities of a Core Circle Member to process Tensions that relate to the Target Circle limiting the Linked Entity.
+A Cross Link becomes a Core Circle Member of the Target Circle, and may use the authorities of a Core Circle Member to prevent or remove limitations on the Linked Entity within the Target Circle.
 
 However, beyond removing limitations, a Cross Link may not use the Target Circle to build more capacities for the Linked Entity, unless those capacities would also help the Target Circle express its own Purpose or Accountabilities.
 
-#### 2.7.4 Additions to a Cross Link Role
+#### 1.8.4 Additions to a Cross Link Role
 
 A Linked Entity may amend its Cross Link Role through its own Governance Process.
 
 A Target Circle may add Domains or Accountabilities to a Cross Link Role through its own Governance Process, and may later amend or remove any it added.
 
-#### 2.7.5 Boundaries and Delegation
+#### 1.8.5 Boundaries and Delegation
 
 The Linked Entity invited into a Target Circle may be a Role contained by another Circle. In that case, the other Circle may change the Linked Entity to another one of its Roles that it believes is more appropriate, or delegate the selection of the Linked Entity to one of its Sub-Circles.
 
 The Target Circle may also delegate the requirement to receive a link to one of its own Sub-Circles, in which case that Sub-Circle will then become the Target Circle for the link.
 
 In either case, any delegation must be done via a Policy of the Circle doing the delegating. Further, any change or delegation must still align with any constraints or guidelines specified in the Cross Link Policy that extended the invitation to link in the first place.
+
+
+## Article 2: Operational Process
+
+### 2.1 Authority of Role-Fillers
+
+As a Partner assigned to a Role in a Circle, you have the authority to take any action or make any decision you reasonably believe is useful to enact your Role’s Purpose or Accountabilities in service of the Organization, as long as you don't break any rules defined in this Constitution.
+
+#### 2.1.1 Don't Violate Policies
+
+While acting in a Role, you may not violate any constraints defined in a Policy of the Circle containing the Role, or enforced upon the Circle itself.
+
+#### 2.1.2 Don't Violate Domains
+
+In service of your Role, you have the authority to use and impact your Role's Domains.
+
+You may also use and impact any Domain that the Circle containing your Role owns, or any Domain the Circle itself is authorized to impact, as long as that Domain has not been further delegated to another Role within your Circle.
+
+You cannot exert control or cause a material impact within a Domain delegated to another Role within your Circle or owned by another sovereign entity, unless you have their permission.
+
+#### 2.1.3 Don't Dispose of Resources
+
+While energizing your Role, you may not dispose of any significant property or spend any tangible resources of the Organization, nor may you significantly limit any rights of the Organization, unless you are authorized to do so by a Role or Policy with the explicit authority to allow it. This even applies to property, rights, and tangible resources within Domains assigned to your Role.
+
+### 2.2 Responsibilities of Role-Fillers
+
+As a Partner of the Organization, you have the following responsibilities for each Role that you are assigned to and agree to fill:
+
+#### 2.2.1 Processing Tensions
+
+You are responsible for monitoring how your Role’s Purpose and Accountabilities are expressed, and comparing that to your vision of their ideal potential expression, to identify gaps between the current reality and a potential you sense (each gap is a **_“Tension”_**). You are also responsible for trying to resolve those Tensions by using the authorities and other mechanisms available to you under this Constitution.
+
+#### 2.2.2 Processing Purpose & Accountabilities
+
+You are responsible for regularly considering how to enact your Role's Purpose and each of your Role’s Accountabilities, by defining:
+
+- **(a)** **_“Next-Actions”_**, which are actions you could execute immediately and that would be useful to execute immediately, at least in the absence of competing priorities; and
+- **(b)** **_“Projects”_**, which are specific outcomes that require multiple sequential actions to achieve and that would be useful to work towards, at least in the absence of competing priorities.
+
+#### 2.2.3 Processing Projects
+
+You are responsible for regularly considering how to complete each Project you are actively working towards for your Role, including by defining any Next-Actions useful to move the Project forward.
+
+#### 2.2.4 Tracking Projects, Next-Actions, & Tensions
+
+You are responsible for capturing and tracking all Projects and Next-Actions for your Role in a database or similar tangible form, and for regularly reviewing and updating that database to maintain it as a trusted list of the Role’s active and potential work. You are also responsible for tracking any Tensions you identify for your Role, at least until you process them into desired Projects or Next-Actions, or otherwise resolve them.
+
+#### 2.2.5 Directing Attention
+
+Whenever you have time available to act in your Role, you are responsible for considering the potential Next-Actions you could efficiently and effectively do at that point in time, and executing whichever you believe would add the most value to the Organization from among that subset.
+
+### 2.3 Duties to Circle Members
+
+When filling a Role in a Circle, you have the following duties to your fellow Circle Members when they’re acting on behalf of other Roles in the Circle.
+
+#### 2.3.1 Duty of Transparency
+
+You have a duty to provide transparency when requested by your fellow Circle Members, in any of the following areas:
+
+- **(a) Projects & Next-Actions:** You must share any Projects and Next-Actions you are tracking for your Roles in the Circle.
+- **(b) Relative Priority:** You must share your judgment of the relative priority of any Projects or Next-Actions tracked for your Roles in the Circle, vs. any other potential activities competing for your attention or resources.
+- **(c) Projections:** You must provide a projection of the date you expect to complete any Project or Next-Action tracked for any of your Roles in the Circle. A rough estimate is sufficient, considering your current context and priorities, but without detailed analysis or planning. This projection is not a binding commitment in any way, and unless Governance says otherwise, you have no duty to track the projection, manage your work to achieve it, or follow-up with the recipient if something changes.
+- **(d) Checklist Items & Metrics:** You must share whether you have completed any regular, recurring actions that you routinely perform in service of your Roles in the Circle. You must also track and report on any metrics assigned to your Roles by the Circle’s Lead Link, or by any other Role or process granted the authority to define the Circle’s metrics.
+
+#### 2.3.2 Duty of Processing
+
+You have a duty to promptly process messages and requests from your fellow Circle Members, as follows:
+
+- **(a) Requests for Processing:** Other Circle Members may ask you to process any Accountability or Project on a Role you fill in the Circle. If you have no Next-Actions tracked for it, you must identify, capture, and communicate a Next-Action if there are any reasonable ones you could take. If there are not, you must instead share what you’re waiting on. That must be either a Next-Action or Project tracked by another Role, or a specific event or condition that must happen before you can take further Next-Actions.
+- **(b) Requests for Projects & Next-Actions:** Other Circle Members may ask you to take on a specific Next-Action or Project in one of your Roles in the Circle. If you deem it a reasonable Next-Action or Project to take on, you must communicate your acceptance of it and track it. If not, then you must either explain your reasoning, or capture and communicate a different Next-Action or Project that you believe will meet the requester’s objective.
+- **(c) Requests to Impact Domain:** Other Circle Members may ask to impact a Domain controlled by one of your Roles in the Circle. You must allow it if you see no Objections to the request (as defined in Section 3.2). If you do, you must explain any Objections to the requester.
+- **(d) Requests for Information:** Other Circle Members may ask you questions or request information, and you must respond in good faith with at least brief answers or relevant information that's readily available to you.
+
+#### 2.3.3 Duty of Prioritization
+
+You have a duty to prioritize where to focus your attention and resources in alignment with the following constraints:
+
+- **(a) Processing Over Execution:** You must generally prioritize processing inbound messages from fellow Circle Members over executing your own Next-Actions. However, you may temporarily defer processing in order to batch process messages in a single time block or at a more convenient time, as long as your processing is still reasonably prompt. Processing means engaging in the duties described in this section, including considering the message, defining and capturing Next-Actions or Projects when appropriate, and, upon request, responding with how the message was processed. Processing does not mean executing upon captured Next-Actions and Projects, which is not covered by this prioritization rule.
+- **(b) Requested Meetings Over Execution:** On request of a fellow Circle Member, you must prioritize attending any Circle meeting required by this Constitution over executing your own Next-Actions. However, you may still decline the request if you already have plans scheduled over the meeting time, or if the request was for an ongoing series or pattern of meetings rather than a specific meeting instance.
+- **(c) Circle Needs Over Individual Goals:** You must integrate and align with any official prioritizations or Strategies of the Circle, such as those specified by the Circle’s Lead Link, when assessing how to deploy your time, attention, and other resources to your work within the Circle.
+
+#### 2.3.4 Links May Convey Duties
+
+As a Lead Link, Rep Link, or Cross Link into a Circle, you may invite someone else to engage the Circle Members of the Circle in the duties specified in this section. You may only extend this invitation to aid in the processing of a specific Tension affecting the entity you are linked from, and only if you also sense the Tension and stay engaged in its processing. The person you invite temporarily becomes a full Circle Member, as if he or she also fills your link role, but only while directly processing that specific Tension. You may withdraw this invitation anytime.
+
+#### 2.3.5 Implicit Expectations Hold No Weight
+
+All of your responsibilities and constraints as a Partner of the Organization are defined in this Constitution, and in the Governance that results from it. No former or implicit expectations or constraints carry any weight or authority, unless a Circle’s Governance explicitly empowers them, or they come from a basic obligation or contractual agreement you personally have to or with the Organization.
+
+### 2.4 Tactical Meetings
+
+The Secretary of a Circle is responsible for scheduling regular **_“Tactical Meetings”_** to facilitate the Circle’s operations. The Facilitator is responsible for presiding over Tactical Meetings in alignment with the following rules. A Circle may adopt a Policy to add additional rules or to change or remove any of these default rules for its Tactical Meetings.
+
+#### 2.4.1 Focus & Intent
+
+Tactical Meetings are for:
+
+- **(a)** sharing the completion status of recurring actions on checklists owned by the Circle’s Roles;
+- **(b)** sharing regular metrics assigned to the Circle’s Roles to report;
+- **(c)** sharing progress updates about Projects and other work owned by the Circle’s Roles; and
+- **(d)** triaging Tensions limiting the Circle’s Roles into Next-Actions, Projects, or other outputs that help reduce those Tensions.
+
+#### 2.4.2 Attendance
+
+All Core Circle Members are entitled to fully participate in the Circle's Tactical Meetings. In addition, the Lead Link and any Rep Links or Cross Links to the Circle may each invite up to one additional person, solely to aid the link in processing a specific Tension. The invited participant then becomes a Core Circle Member as well for the duration of that Tactical Meeting. There is no advance notice or quorum required for a Tactical Meeting.
+
+#### 2.4.3 Facilitation & Process
+
+The Facilitator must use the following process for Tactical Meetings:
+
+- **(a) Check-in Round:** The Facilitator allows each participant in turn to share their current state or thoughts, or offer another type of opening comment for the meeting. Responses are not allowed.
+- **(b) Checklist Review:** The Facilitator asks each participant to verify the completion of any recurring actions on that participant’s checklist.
+- **(c) Metrics Review:** The Facilitator asks each participant to share data for any metrics assigned to that participant by the Lead Link or whatever other Role or process defines the Circle’s metrics.
+- **(d) Progress Updates:** The Facilitator asks each participant to highlight progress towards achieving any Project or expressing any Accountability of any of the participant’s Roles in the Circle. Participants may only share progress made since the last report given, and not the general status of a Project or Accountability. Each participant may decide which Projects or Accountabilities are worth reporting on, however if another Circle Member explicitly requested updates on a specific Project, that one must be included until it’s either completed or dropped. For progress updates about a Project or Accountability of a Sub-Circle, the Facilitator must allow both the Lead Link and Rep Link of the Sub-Circle the opportunity to share updates.
+- **(e) Triage Issues:** The Facilitator builds an agenda of Tensions to process in the Tactical Meeting by soliciting agenda items from all participants. This must be done within the meeting and not beforehand, and each participant may add as many agenda items as desired by providing a short label for each, without explanation or discussion. Participants may add additional agenda items even once processing one has started, in between the processing of any existing agenda items. To process each agenda item, the Facilitator holds space for the agenda item owner to engage others in their Roles and duties, until the agenda item owner finds an adequate pathway for resolving their Tension. If any Next-Actions or Projects are accepted while processing an agenda item, the Secretary captures and distributes them. The Facilitator manages the time allocated to each agenda item to allow space for processing every item on the agenda, and may cut off the processing of any item that’s taking more than its due share of the remaining meeting time.
+- **(f) Closing Round:** The Facilitator allows each participant in turn to share a closing reflection or other thought triggered by the meeting. Responses are not allowed.
+
+#### 2.4.4 Surrogate for Absent Members
+
+If a Defined Role of the Circle is entirely or partially unrepresented at a Tactical Meeting due to someone’s absence, the Circle’s Lead Link may act within that Role to cover the gap. If the Lead Link is also absent, the Secretary will capture Next-Actions or Projects for the Role upon request of any participant, and the person who normally fills the Role will treat these as requests to process under their duty of processing.
+
+### 2.5 Individual Action
+
+As a Partner of the Organization, in some cases you are authorized to act outside of the authority of your Roles, or even to break the rules of this Constitution. By acting under this extended authority you are taking **_“Individual Action”_**, and you are bound by the following rules:
+
+#### 2.5.1 Allowed Situations
+
+You may only take Individual Action when all of the following are true:
+
+- **(a)** You are acting in good faith to serve the Purpose or express the Accountabilities of some Role within the Organization, or of the overall Organization itself.
+- **(b)** You reasonably believe your action would resolve or prevent more Tension for the Organization than it would likely create.
+- **(c)** Your action would not cause the Organization to spend tangible resources, dispose of its assets, or limit its rights, beyond what you’re already authorized to so cause.
+- **(d)** If your action would violate any Policies or impact any Domains you aren't already authorized to impact, you reasonably believe that you can’t delay the action long enough to request any permissions normally required, or to propose a Governance change to allow your action, without losing much of its potential value.
+
+#### 2.5.2 Communication & Restoration
+
+Upon taking Individual Action, you have a duty to explain your action and the intent behind it to any Partner who fills a Role that may be significantly impacted. Upon the request of any of those Partners, you also have a duty to take any reasonable additional actions to assist in resolving any Tensions created by your Individual Action.
+
+If your Individual Action was effectively acting within another Role, or violated a Domain or a Policy, then you must cease from continuing to take similar Individual Action upon request of whoever normally controls that Role, Domain, or Policy, or upon request of the Lead Link of the Circle holding the affected entity.
+
+#### 2.5.3 Clarifying Governance
+
+If your Individual Action is an instance of a recurring activity or ongoing function needed by a Circle, and that activity or function is not already explicitly called for by the Circle’s Governance, then you are responsible for taking follow-up steps to remove that gap. That follow-up could include proposing Governance to cover the need, or taking steps to remove the need for this activity or function to happen in the first place.
+
+#### 2.5.4 Priority of Corollary Requirements
+
+After taking Individual Action, you have a duty to prioritize doing the corollary requirements defined in this section higher than doing any of your regular work. However, the Lead Link of whatever Circle fully contains all Roles that were significantly impacted by your action may still change this default priority.
+
 
 ## Article 3: Governance Process
 
@@ -266,9 +360,7 @@ The Governance Process of a Circle has the power to:
 - **(b)** define, amend, or remove the Circle’s Policies; and
 - **(c)** hold elections for the Circle’s Elected Roles.
 
-At any given time, the then-current results of a Circle’s Governance Process define its acting **_“Governance”_**.
-
-Only those outputs listed in this section are valid Governance for a Circle; no one may capture other outputs within the Circle’s Governance records.
+Only these outputs are valid Governance for a Circle; no one may capture other outputs within the Circle’s Governance records.
 
 ### 3.2 Changing Governance
 
@@ -325,7 +417,7 @@ However, when an Objection is claimed on the basis of a Proposal violating the C
 
 When an Objection to a Proposal is raised, the following additional rules apply during the search for a resolution:
 
-- **(a)** The Facilitator must test an Objection if requested by any Core Circle Member, and discard it if it fails to meet the validity criteria described in this Section.
+- **(a)** The Facilitator must test an Objection if requested by any Core Circle Member, and discard it if it fails to meet the validity criteria described in this section.
 - **(b)** The Objector must attempt to find an amendment to the Proposal that will resolve the Objection and still address the Proposer’s Tension. Others may help. If the Facilitator concludes that the Objector is not making a good faith effort to find a potential amendment at any point, then the Facilitator must deem the Objection abandoned and continue processing the Proposal as if the Objection had not been raised.
 - **(c)** Any Core Circle Member may ask the Proposer clarifying questions about the Tension behind the Proposal, or about any examples the Proposer shared to illustrate the Tension. If the Facilitator concludes that the Proposer is not making a good faith effort to answer those questions at any point, then the Facilitator must deem the Proposal invalid for processing and abandoned.
 - **(d)** The Objector may suggest an amended Proposal, and offer reasonable arguments for why it should resolve or prevent the Tension in each specific situation the Proposer used to illustrate the Tension. Then, upon the Objector’s request, the Proposer must present a reasonable argument for why the amended Proposal would fail to resolve or prevent the Tension in at least one specific situation already presented. Alternatively, the Proposer may add an additional example that the amended Proposal would not resolve, but which still meets the criteria for processing a Proposal required by Section 3.2.2. If the Facilitator concludes that the Proposer has failed to meet one of these thresholds, then the Facilitator must deem the Proposal invalid for processing and abandoned.
@@ -449,108 +541,6 @@ A Process Breakdown of one Circle may not be considered a Process Breakdown of i
 
 However, if the Process Breakdown is not resolved within a reasonable timeframe, then the Facilitator of any Super-Circle that ultimately contains the offending Circle may declare a Process Breakdown within the offending Circle’s Super-Circle as well.
 
-## Article 4: Operational Process
-
-### 4.1 Duties of Circle Members
-
-When filling a Role in a Circle, you have the following duties to your fellow Circle Members when they’re acting on behalf of other Roles in the Circle.
-
-#### 4.1.1 Duty of Transparency
-
-You have a duty to provide transparency when requested by your fellow Circle Members, in any of the following areas:
-
-- **(a) Projects & Next-Actions:** You must share any Projects and Next-Actions you are tracking for your Roles in the Circle.
-- **(b) Relative Priority:** You must share your judgment of the relative priority of any Projects or Next-Actions tracked for your Roles in the Circle, vs. any other potential activities competing for your attention or resources.
-- **(c) Projections:** You must provide a projection of the date you expect to complete any Project or Next-Action tracked for any of your Roles in the Circle. A rough estimate is sufficient, considering your current context and priorities, but without detailed analysis or planning. This projection is not a binding commitment in any way, and unless Governance says otherwise, you have no duty to track the projection, manage your work to achieve it, or follow-up with the recipient if something changes.
-- **(d) Checklist Items & Metrics:** You must share whether you have completed any regular, recurring actions that you routinely perform in service of your Roles in the Circle. You must also track and report on any metrics assigned to your Roles by the Circle’s Lead Link, or by any other Role or process granted the authority to define the Circle’s metrics.
-
-#### 4.1.2 Duty of Processing
-
-You have a duty to promptly process messages and requests from your fellow Circle Members, as follows:
-
-- **(a) Requests for Processing:** Other Circle Members may ask you to process any Accountability or Project on a Role you fill in the Circle. If you have no Next-Actions tracked for it, you must identify, capture, and communicate a Next-Action if there are any reasonable ones you could take. If there are not, you must instead share what you’re waiting on. That must be either a Next-Action or Project tracked by another Role, or a specific event or condition that must happen before you can take further Next-Actions.
-- **(b) Requests for Projects & Next-Actions:** Other Circle Members may ask you to take on a specific Next-Action or Project in one of your Roles in the Circle. If you deem it a reasonable Next-Action or Project to take on, you must communicate your acceptance of it and track it. If not, then you must either explain your reasoning, or capture and communicate a different Next-Action or Project that you believe will meet the requester’s objective.
-- **(c) Requests to Impact Domain:** Other Circle Members may ask to impact a Domain controlled by one of your Roles in the Circle. If you see no Objections to the request, you must allow it. If you do, you must explain any Objections to the requester.
-- **(d) Requests for Information:** Other Circle Members may ask you questions or request information, and you must respond in good faith with at least brief answers or relevant information that's readily available to you.
-
-
-#### 4.1.3 Duty of Prioritization
-
-You have a duty to prioritize where to focus your attention and resources in alignment with the following constraints:
-
-- **(a) Processing Over Execution:** You must generally prioritize processing inbound messages from fellow Circle Members over executing your own Next-Actions. However, you may temporarily defer processing in order to batch process messages in a single time block or at a more convenient time, as long as your processing is still reasonably prompt. Processing means engaging in the duties described in this section, including considering the message, defining and capturing Next-Actions or Projects when appropriate, and, upon request, responding with how the message was processed. Processing does not mean executing upon captured Next-Actions and Projects, which is not covered by this prioritization rule.
-- **(b) Requested Meetings Over Execution:** On request of a fellow Circle Member, you must prioritize attending any Circle meeting required by this Constitution over executing your own Next-Actions. However, you may still decline the request if you already have plans scheduled over the meeting time, or if the request was for an ongoing series or pattern of meetings rather than a specific meeting instance.
-- **(c) Circle Needs Over Individual Goals:** You must integrate and align with any official prioritizations or Strategies of the Circle, such as those specified by the Circle’s Lead Link, when assessing how to deploy your time, attention, and other resources to your work within the Circle.
-
-#### 4.1.4 Links May Convey Duties
-
-As a Lead Link, Rep Link, or Cross Link into a Circle, you may invite someone else to engage the Circle Members of the Circle in the duties specified in this section. You may only extend this invitation to aid in the processing of a specific Tension affecting the entity you are linked from, and only if you also sense the Tension and stay engaged in its processing. The person you invite temporarily becomes a full Circle Member, as if he or she also fills your link role, but only while directly processing that specific Tension. You may withdraw this invitation anytime.
-
-#### 4.1.5 Implicit Expectations Hold No Weight
-
-All of your responsibilities and constraints as a Partner of the Organization are defined in this Constitution, and in the Governance that results from it. No former or implicit expectations or constraints carry any weight or authority, unless a Circle’s Governance explicitly empowers them, or they come from a basic obligation or contractual agreement you personally have to or with the Organization.
-
-### 4.2 Tactical Meetings
-
-The Secretary of a Circle is responsible for scheduling regular **_“Tactical Meetings”_** to facilitate the Circle’s operations. The Facilitator is responsible for presiding over Tactical Meetings in alignment with the following rules and any relevant Policies of the Circle.
-
-#### 4.2.1 Focus & Intent
-
-Tactical Meetings are for:
-
-- **(a)** sharing the completion status of recurring actions on checklists owned by the Circle’s Roles;
-- **(b)** sharing regular metrics assigned to the Circle’s Roles to report;
-- **(c)** sharing progress updates about Projects and other work owned by the Circle’s Roles; and
-- **(d)** triaging Tensions limiting the Circle’s Roles into Next-Actions, Projects, or other outputs that help reduce those Tensions.
-
-#### 4.2.2 Attendance
-
-All Core Circle Members and anyone else normally invited to participate in the Circle’s Governance Meetings are also invited to participate in its Tactical Meetings, unless a Policy says otherwise. There is no advance notice or quorum required for a Tactical Meeting, unless a Policy says otherwise.
-
-#### 4.2.3 Facilitation & Process
-
-The Facilitator must normally use the following process for Tactical Meetings:
-
-- **(a) Check-in Round:** The Facilitator allows each participant in turn to share their current state or thoughts, or offer another type of opening comment for the meeting. Responses are not allowed.
-- **(b) Checklist Review:** The Facilitator asks each participant to verify the completion of any recurring actions on that participant’s checklist.
-- **(c) Metrics Review:** The Facilitator asks each participant to share data for any metrics assigned to that participant by the Lead Link or whatever other Role or process defines the Circle’s metrics.
-- **(d) Progress Updates:** The Facilitator asks each participant to highlight progress towards achieving any Project or expressing any Accountability of any of the participant’s Roles in the Circle. Participants may only share progress made since the last report given, and not the general status of a Project or Accountability. Each participant may decide which Projects or Accountabilities are worth reporting on, however if another Circle Member explicitly requested updates on a specific Project, that one must be included until it’s either completed or dropped. For progress updates about a Project or Accountability of a Sub-Circle, the Facilitator must allow both the Lead Link and Rep Link of the Sub-Circle the opportunity to share updates.
-- **(e) Triage Issues:** The Facilitator is responsible for building an agenda of Tensions to process in the Tactical Meeting by soliciting agenda items from all participants, using the same rules as those for a Governance Meeting, defined in Section 3.3.4. However, in Tactical Meetings, the Facilitator processes agenda items by simply allowing the agenda item owner to engage others in their Roles and duties as desired, until a path for resolving the Tension is identified. If any Next-Actions or Projects are accepted during this discussion, the Secretary is responsible for capturing them and distributing these outputs to all participants. The Facilitator must attempt to allow time for processing every agenda item within the meeting, and in order to do so may cut off the processing of any item that’s taking more than its due share of the remaining meeting time.
-- **(f) Closing Round:** The Facilitator allows each participant in turn to share a closing reflection or other thought triggered by the meeting. Responses are not allowed.
-
-A Circle may adopt a Policy to add to or change this required process.
-
-#### 4.2.4 Surrogate for Absent Members
-
-If a Defined Role of the Circle is entirely or partially unrepresented at a Tactical Meeting due to someone’s absence, the Circle’s Lead Link may act within that Role to cover the gap. If the Lead Link is also absent, any participant may accept Next-Actions or Projects on behalf of that Role, however these may be treated by the person who normally fills the Role as just requests made under the terms of Section 4.1.2(b).
-
-### 4.3 Individual Action
-
-As a Partner of the Organization, in some cases you are authorized to act outside of the authority of your Roles, or even to break the rules of this Constitution. By acting under this extended authority you are taking **_“Individual Action”_**, and you are bound by the following rules:
-
-#### 4.3.1 Allowed Situations
-
-You may only take Individual Action when all of the following are true:
-
-- **(a)** You are acting in good faith to serve the Purpose or express the Accountabilities of some Role within the Organization, or of the overall Organization itself.
-- **(b)** You reasonably believe your action would resolve or prevent more Tension for the Organization than it would likely create.
-- **(c)** Your action would not cause, commit to, or allow spending or otherwise disposing of the Organization’s resources or other assets, beyond what you’re already authorized to spend.
-- **(d)** If your action would violate any Policies or impact any Domains you aren't already authorized to impact, you reasonably believe that you can’t delay the action long enough to request any permissions normally required, or to propose a Governance change to allow your action, without losing much of its potential value.
-
-#### 4.3.2 Communication & Restoration
-
-Upon taking Individual Action, you have a duty to explain your action and the intent behind it to any Partner who fills a Role that may be significantly impacted. Upon the request of any of those Partners, you also have a duty to take any reasonable additional actions to assist in resolving any Tensions created by your Individual Action.
-
-If your Individual Action was effectively acting within another Role, or violated a Domain or a Policy, then you must cease from continuing to take similar Individual Action upon request of whoever normally controls that Role, Domain, or Policy, or upon request of the Lead Link of the Circle holding the affected entity.
-
-#### 4.3.3 Clarifying Governance
-
-If your Individual Action is an instance of a recurring activity or ongoing function needed by a Circle, and that activity or function is not already explicitly called for by the Circle’s Governance, then you are responsible for taking follow-up steps to remove that gap. That follow-up could include proposing Governance to cover the need, or taking steps to remove the need for this activity or function to happen in the first place.
-
-#### 4.3.4 Priority of Corollary Requirements
-
-After taking Individual Action, you have a duty to prioritize doing the corollary requirements defined in this section higher than doing any of your regular work. However, the Lead Link of whatever Circle fully contains all Roles that were significantly impacted by your action may still change this default priority.
-
 ## Article 5: Adoption Matters
 
 ### 5.1 Ratifiers Cede Authority
@@ -571,7 +561,7 @@ Alternatively, the Ratifiers may leave the Anchor Circle without a Lead Link, an
 
 If the Anchor Circle has no Lead Link, all decisions that normally require Lead Link authority become valid outputs of the Circle’s Governance Process. Any Role within the Circle may thus exercise Lead Link authority by proposing a decision as a Governance change for the Circle, using the process and rules in Article 3.
 
-Further, in an Anchor Circle with no Lead Link, the normal authority of Roles to autocratically impact Circle Domains (per Section 2.1.2) is revoked. Instead, the Circle’s Roles may only impact its Domains if a Policy explicitly allows the impact, or, alternatively, by proposing the action using the Circle’s Governance Process, exactly as described above for exercising Lead Link authority.
+Further, in an Anchor Circle with no Lead Link, the authority Roles normally have to impact undelegated Circle Domains is revoked. Instead, the Circle’s Roles may only impact its Domains if a Policy explicitly allows the impact, or, alternatively, by proposing the action using the Circle’s Governance Process, exactly as described above for exercising Lead Link authority.
 
 #### 5.2.3 Organization’s Purpose
 
