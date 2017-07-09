@@ -33,7 +33,6 @@ _The Lead Link also holds all un-delegated Circle-level Domains and Accountabili
 
 - Removing constraints within the broader Organization that limit the Sub-Circle
 - Seeking to understand Tensions conveyed by Sub-Circle Circle Members, and discerning those appropriate to process in the Super-Circle
-- Providing visibility to the Super-Circle into the health of the Sub-Circle, including reporting on any metrics or checklist items assigned to the whole Sub-Circle
 
 
 ### Facilitator
