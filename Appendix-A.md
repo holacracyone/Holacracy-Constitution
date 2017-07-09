@@ -27,7 +27,7 @@ _The Lead Link also holds all un-delegated Circle-level Domains and Accountabili
 
 ### Rep Link
 
-**Purpose:** _Within the Super-Circle, the Rep Link holds the Purpose of the Sub-Circle; within the Sub-Circle, the Rep Link’s Purpose is:_ Tensions relevant to process in the Super-Circle channeled out and resolved.
+**Purpose:** _Within the Super-Circle, the Rep Link holds the Purpose of the Sub-Circle; within the Sub-Circle, the Rep Link’s Purpose is:_ Tensions relevant to process in the broader Organization channeled out and resolved.
 
 **Accountabilities:**
 
