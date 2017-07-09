@@ -27,29 +27,25 @@ Contributors to the current version include Brian Robertson, Rashid Gilanpour, A
 
 # Table of Contents
 
-#### [Article 1: Energizing Roles](https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md#article-i-energizing-roles)
+#### [Article 1: Organizational Structure](https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md#article-1-organizational-structure)
 
-A role is Holacracy's core building block for organizational structure. This article covers the basic authorities and duties conveyed to a partner filling a role.
+A role is Holacracy's core building block for organizational structure, and a circle contains and integrates many roles. This article covers how roles and circles are structured and connected.
 
-#### [Article 2: Circle Structure](https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md#article-ii-circle-structure)
+#### [Article 2: Operational Process](https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md#article-2-operational-process)
 
-A circle contains and integrates many roles. This article describes how a circle is structured, and how the roles within it are assigned, elected, or formed into further sub-circles.
+Filling a role conveys certain authorities and responsibilities, as well as duties to fellow team members. This article covers those authorities and expectations, as well as the tactical meeting process used to coordinate operational work.
 
-#### [Article 3: Governance Process](https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md#article-iii-governance-process)
+#### [Article 3: Governance Process](https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md#article-3-governance-process)
 
 A circle's governance process is used to define its roles and policies. This article defines the governance process and the ground rules for proposing changes or objecting to proposals.
 
-#### [Article 4: Operational Process](https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md#article-iv-operational-process)
-
-The circle members of a circle rely on each other to help get their operational work done. This article covers the duties of circle members with respect to supporting one another, and how tactical meetings work.
-
-#### [Article 5: Adoption Matters](https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md#article-v-adoption-matters)
+#### [Article 4: Adoption Matters](https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md#article-4-adoption-matters)
 
 This article deals with the transition from pre-Holacracy to operating under the Constitution, and provides rules when adopting Holacracy within a board structure with a group of representatives in lieu of a single Lead Link.
 
 ---
 
-#### For More Information or Support with the Holacracy System: <a href="http://Holacracy.org" target="_blank">Holacracy.org</a>
+#### For More Information or Support with the Holacracy System: <a href="http://holacracy.org" target="_blank">holacracy.org</a>
 
 ---
 

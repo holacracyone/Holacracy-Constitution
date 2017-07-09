@@ -541,29 +541,29 @@ A Process Breakdown of one Circle may not be considered a Process Breakdown of i
 
 However, if the Process Breakdown is not resolved within a reasonable timeframe, then the Facilitator of any Super-Circle that ultimately contains the offending Circle may declare a Process Breakdown within the offending Circle’s Super-Circle as well.
 
-## Article 5: Adoption Matters
+## Article 4: Adoption Matters
 
-### 5.1 Ratifiers Cede Authority
+### 4.1 Ratifiers Cede Authority
 
 By adopting this Constitution, the Ratifiers cede their authority to govern and run the Organization or direct its Partners, and may no longer do so except through authority granted to them under the Constitution’s rules and processes. However, as an exception to this rule, the Ratifiers may continue to hold and exercise any authority that they do not have the power to delegate, such as anything required by policies outside of their control, or by the Organization’s bylaws.
 
-### 5.2 Anchor Circle
+### 4.2 Anchor Circle
 
 Upon adopting this Constitution, the Ratifiers must establish an initial Circle to express the overall Purpose of the Organization. This **_“Anchor Circle”_** becomes the broadest Circle in the Organization, and automatically controls all Domains that the Organization itself controls.
 
-#### 5.2.1 Links to the Anchor Circle
+#### 4.2.1 Links to the Anchor Circle
 
 The Ratifiers may appoint an initial Lead Link of the Anchor Circle.
 
 Alternatively, the Ratifiers may leave the Anchor Circle without a Lead Link, and create one or more initial Cross Links to the Anchor Circle in lieu of a Lead Link.
 
-#### 5.2.2 Acting Without a Lead Link
+#### 4.2.2 Acting Without a Lead Link
 
 If the Anchor Circle has no Lead Link, all decisions that normally require Lead Link authority become valid outputs of the Circle’s Governance Process. Any Role within the Circle may thus exercise Lead Link authority by proposing a decision as a Governance change for the Circle, using the process and rules in Article 3.
 
 Further, in an Anchor Circle with no Lead Link, the authority Roles normally have to impact undelegated Circle Domains is revoked. Instead, the Circle’s Roles may only impact its Domains if a Policy explicitly allows the impact, or, alternatively, by proposing the action using the Circle’s Governance Process, exactly as described above for exercising Lead Link authority.
 
-#### 5.2.3 Organization’s Purpose
+#### 4.2.3 Organization’s Purpose
 
 The Anchor Circle is automatically accountable for discovering and expressing the Purpose of the overall Organization. The Purpose of the Organization is the deepest creative potential it can sustainably express in the world, given all of the constraints acting upon it and everything available to it. That includes its history, current capacities, available resources, Partners, character, culture, business structure, brand, market awareness, and all other relevant resources or factors.
 
@@ -571,27 +571,27 @@ The Anchor Circle’s Lead Link inherits this Accountability by default, and may
 
 If the Anchor Circle has no Lead Link, this Accountability automatically falls upon each Cross Link to the Anchor Circle instead, and any of them may update the Purpose by proposing the update via the Circle’s Governance Process.
 
-#### 5.2.4 Updating the Anchor Circle
+#### 4.2.4 Updating the Anchor Circle
 
 The Lead Link of the Anchor Circle has the authority to name the Circle, clarify its Domains, and add or modify its Accountabilities.
 
 The Lead Link of the Anchor Circle may also appoint his or her own replacement as desired, unless otherwise specified by the Ratifiers.
 
-#### 5.2.5 No Super-Circle
+#### 4.2.5 No Super-Circle
 
 The Anchor Circle has no Super-Circle, and does not elect a Rep Link.
 
-### 5.3 Initial Structure
+### 4.3 Initial Structure
 
 The Lead Link of the Anchor Circle may define an initial structure and other Governance for the Organization, outside of the usual Governance Process required by this Constitution. If that initial structure includes any other Circles, the Lead Links of those Circles may do the same within their Circles. This authority may only be used to define an initial structure for a Circle to start from, before the Circle has begun conducting its Governance Process.
 
-### 5.4 Legacy Policies and Systems
+### 4.4 Legacy Policies and Systems
 
 Any existing policies and systems the Organization has in effect before adopting this Constitution continue in full force after adoption, even if they include constraints or authorities that are not reflected in Governance records. This may include compensation systems, hiring and firing processes, work-related policies, etc.
 
 However, these legacy policies and systems will lose all weight and authority as soon as Governance is defined that replaces or contradicts them. In addition, they may not be modified or added to in their legacy form. Anyone wishing to do so must first capture or otherwise empower the policy or system using the Governance Process defined in this Constitution.
 
-### 5.5 Constitution Amendments and Repeal
+### 4.5 Constitution Amendments and Repeal
 
 The Ratifiers or their successors may amend this Constitution or repeal it entirely, using whatever authority and process they relied upon to adopt it. Amendments must be in writing and published where all Partners of the Organization can access them.
 
