@@ -167,9 +167,7 @@ Once a Cross Link Policy is adopted, the Linked Entity may assign a representati
 
 If the Linked Entity is a Role, then that Role may participate in the Target Circle as described below. It becomes the **_“Cross Link Role”_**, with the person filling it becoming the **_“Cross Link”_**.
 
-If the Linked Entity is a Circle or a group, then a new special-purpose Cross Link Role is automatically created instead, and resides within both the Linked Entity and the Target Circle, much like a Rep Link. In this case, the Cross Link Role has the same Purpose and Accountabilities as a Rep Link, but with the “Sub-Circle” referenced in the Rep Link Role description instead meaning the Linked Entity, and the “Super-Circle” instead meaning the Target Circle.
-
-If the Linked Entity lacks both a clear Purpose and any clear Accountabilities, then the Cross Link Policy must further clarify what the Cross Link Role will represent within the Target Circle.
+If the Linked Entity is not a Role, then a new special-purpose Cross Link Role is automatically created within the Target Circle instead. In this case, the Cross Link Role has the same Purpose and Accountabilities as a Rep Link, but with the “Sub-Circle” referenced in the Rep Link Role description instead meaning the Linked Entity, and the “Super-Circle” instead meaning the Target Circle. If the Linked Entity is another Circle, then the Cross Link Role also resides in that Circle in addition to the Target Circle, also like a Rep Link.
 
 #### 1.8.2 Cross Link Assignment
 
