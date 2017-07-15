@@ -247,7 +247,7 @@ You are responsible for capturing and tracking all Projects and Next-Actions for
 
 #### 2.2.5 Directing Attention
 
-Whenever you have time available to act in your Role, you are responsible for considering the potential Next-Actions you could efficiently and effectively do at that point in time, and executing whichever you believe would add the most value to the Organization from among that subset.
+Whenever you have time available to act in your Role, you are responsible for considering the potential Next-Actions you could efficiently and effectively do at that point in time, and executing whichever you believe would add the most value to the Organization.
 
 ### 2.3 Duties to Circle Members
 
