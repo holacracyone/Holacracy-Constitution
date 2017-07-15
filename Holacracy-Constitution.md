@@ -504,9 +504,9 @@ A Circle’s Secretary may overrule an interpretation given by a Secretary of an
 
 #### 3.4.3 Interpretations Become Standards
 
-After ruling on an interpretation, a Secretary may choose to publish that interpretation and the logic behind it in the Governance records of the Circle. If published, the Secretary of that Circle and the Secretaries of any contained Circles are responsible for attempting to align any future rulings with the previously published logic and interpretations.
+When ruling on an interpretation, a Secretary may choose to publish that interpretation and the logic behind it in writing. If published, the Secretary of that Circle and the Secretaries of any contained Circles are responsible for attempting to align any future rulings with the previously published logic and interpretations.
 
-A Secretary may only contradict previously published logic or interpretations once a compelling new argument or circumstance supports a reversal. Once contradicted however, the new logic and interpretations become the acting standard that all future rulings must align with.
+A Secretary may only contradict previously published logic or interpretations once a compelling new argument or circumstance supports a reversal. If such a contradiction is also published, its logic and interpretations become the new standard that all future rulings must align with.
 
 #### 3.4.4 Striking Invalid Governance
 
