@@ -147,7 +147,7 @@ Beyond these allowed changes, a Circle may not modify any Defined Roles or Polic
 
 #### 1.7.2 Removing Sub-Circles
 
-Through its Governance Process, a Circle may remove a Sub-Circle. This can be done by removing the Sub-Circle and everything within entirely, or by selectively retaining certain elements of the Sub-Circle within the Circle. A Sub-Circle may also be removed by collapsing it from a Circle back into just a Role.
+Through its Governance Process, a Circle may remove a Sub-Circle. This can be done by removing the Sub-Circle entirely, or by collapsing it from a Circle back into just a Role. When removing a Sub-Circle, the Circle may remove everything within entirely, or may selectively retaining certain elements of the Sub-Circle within the Circle.
 
 #### 1.7.3 Lead Link to Sub-Circle
 
