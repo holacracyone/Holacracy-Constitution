@@ -120,15 +120,14 @@ However, a Circle may only add to its own Rep Link Role and not to a Rep Link Ro
 
 Further, no Circle may amend or remove any Purpose, Domain, Accountabilities, or authorities granted to an Elected Role by this Constitution, nor remove an Elected Role entirely.
 
-#### 1.6.4 Surrogates for Elected Roles
+#### 1.6.4 Surrogates for Facilitator & Secretary
 
-A surrogate may temporarily fill an Elected Role when one is unfilled, or when the person who normally fills the Role is unavailable for a Circle meeting or feels unable or unwilling to enact the Role’s duties.
+A surrogate may temporarily act as Facilitator or Secretary if the Role is unfilled, or when the person who normally fills the Role is unavailable for a Circle meeting or feels unable or unwilling to enact the Role’s duties.
 
 In any given instance where a surrogate is needed, the surrogate is, in this order of precedence:
 
 - **(a)** someone explicitly specified by the person to be replaced; or
-- **(b)** the acting Facilitator of the Circle; or
-- **(c)** the acting Secretary of the Circle; or
+- **(b)** for Facilitator, the acting Secretary of the Circle, and for Secretary, the acting Facilitator of the Circle;
 - **(d)** the Lead Link of the Circle; or
 - **(e)** the first Core Circle Member of the Circle to declare he or she is acting as the surrogate.
 
