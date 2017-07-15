@@ -200,7 +200,7 @@ The Target Circle may also delegate the requirement to receive a link to one of 
 In either case, any delegation must be done via a Policy of the Circle doing the delegating. Further, any change or delegation must still align with any constraints or guidelines specified in the Cross Link Policy that extended the invitation to link in the first place.
 
 
-## Article 2: Operational Process
+## Article 2: Operations
 
 ### 2.1 Authority of Role-Fillers
 
@@ -347,7 +347,7 @@ If your Individual Action is an instance of a recurring activity or ongoing func
 After taking Individual Action, you have a duty to prioritize doing the corollary requirements defined in this section higher than doing any of your regular work. However, the Lead Link of whatever Circle fully contains all Roles that were significantly impacted by your action may still change this default priority.
 
 
-## Article 3: Governance Process
+## Article 3: Governance
 
 ### 3.1 Scope of Governance
 
