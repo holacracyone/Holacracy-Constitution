@@ -31,11 +31,11 @@ Contributors to the current version include Brian Robertson, Rashid Gilanpour, A
 
 A role is Holacracy's core building block for organizational structure, and a circle contains and integrates many roles. This article covers how roles and circles are structured and connected.
 
-#### [Article 2: Operational Process](https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md#article-2-operational-process)
+#### [Article 2: Operations](https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md#article-2-operations)
 
 Filling a role conveys certain authorities and responsibilities, as well as duties to fellow team members. This article covers those authorities and expectations, as well as the tactical meeting process used to coordinate operational work.
 
-#### [Article 3: Governance Process](https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md#article-3-governance-process)
+#### [Article 3: Governance](https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md#article-3-governance)
 
 A circle's governance process is used to define its roles and policies. This article defines the governance process and the ground rules for proposing changes or objecting to proposals.
 
