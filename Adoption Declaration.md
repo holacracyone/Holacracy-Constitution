@@ -1,7 +1,7 @@
 Constitution Adoption Declaration
 =================================
 
-The Ratifier(s) signed below hereby adopt the Holacracy Constitution, attached hereto and incorporated by reference (the “Constitution”), as the governance and operating system within \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (the “Organization”), and thereby cede their authority into the Constitution’s processes and endow the due results therefrom with the weight and authority otherwise carried by the Ratifier(s), as further detailed in Section 5.1 thereof.
+The Ratifier(s) signed below hereby adopt the Holacracy Constitution, attached hereto and incorporated by reference (the “Constitution”), as the governance and operating system within \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (the “Organization”), and thereby cede their authority into the Constitution’s processes and endow the due results therefrom with the weight and authority otherwise carried by the Ratifiers. The Ratifiers or their successors retain the right to amend this Constitution or repeal it entirely at any point, however they agree not to willfully violate its rules in the meantime, and to publish any amendments in writing before relying on any amended rules.
 
 The Ratifier(s) further appoint the following representatives to the Organization’s Anchor Circle:
 
