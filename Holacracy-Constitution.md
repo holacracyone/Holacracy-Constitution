@@ -448,9 +448,10 @@ Anyone who fails to attend a Governance Meeting counts as having had the opportu
 The Facilitator must use the following process for Governance Meetings:
 
 - **(a) Check-in Round:** The Facilitator allows each participant in turn to share their current state or thoughts, or offer another type of opening comment for the meeting. Responses are not allowed.
-- **(b) Administrative Concerns:** The Facilitator allows space to discuss and resolve any administrative or logistical matters the Facilitator deems worthy of attention.
-- **(c) Agenda Building & Processing:** The Facilitator builds an agenda of Tensions to process, then processes each agenda item in turn.
-- **(d) Closing Round:** The Facilitator allows each participant in turn to share a closing reflection or other thought triggered by the meeting. Responses are not allowed.
+- **(b) Agenda Building & Processing:** The Facilitator builds an agenda of Tensions to process, then processes each agenda item in turn.
+- **(c) Closing Round:** The Facilitator allows each participant in turn to share a closing reflection or other thought triggered by the meeting. Responses are not allowed.
+
+At any point during this process, a participant may request a **_"Time Out"_** pause, which the Facilitator may choose to grant or deny. During a Time Out, participants may discuss administrative issues or the rules of this Constitution, but may not discuss the content of a Tension, Proposal, or Objection to work towards a resolution. The Facilitator may end a Time Out at any point and resume the normal meeting process.
 
 A Policy of the Circle may add to this process, but may not conflict with any of the steps or other rules defined in this Article of the Constitution.
 
