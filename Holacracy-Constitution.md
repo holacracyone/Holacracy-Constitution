@@ -128,8 +128,8 @@ In any given instance where a surrogate is needed, the surrogate is, in this ord
 
 - **(a)** someone explicitly specified by the person to be replaced; or
 - **(b)** for Facilitator, the acting Secretary of the Circle, and for Secretary, the acting Facilitator of the Circle;
-- **(d)** the Lead Link of the Circle; or
-- **(e)** the first Core Circle Member of the Circle to declare he or she is acting as the surrogate.
+- **(c)** the Lead Link of the Circle; or
+- **(d)** the first Core Circle Member of the Circle to declare he or she is acting as the surrogate.
 
 ### 1.7 Sub-Circles
 
