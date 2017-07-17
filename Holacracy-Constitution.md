@@ -491,13 +491,13 @@ Governance Meetings are primarily intended to support a Circle’s Governance Pr
 
 ### 3.4 Interpreting the Constitution & Governance
 
-As a Partner of the Organization, you may use your reasonable judgment to interpret this Constitution and any Governance within the Organization, including how these apply within a specific situation, and then act based on your interpretation. You may also rely on an explicit interpretation given by the Secretary of any Circle that is affected by the Governance. However, in either case, the following additional terms apply:
+As a Partner of the Organization, you may use your reasonable judgment to interpret this Constitution and any Governance within the Organization, including how these apply within a specific situation, and then act based on your interpretation. However, the following additional terms apply:
 
-#### 3.4.1 Secretary Interpretation Trumps
+#### 3.4.1 Secretaries May Rule on Interpretation
 
-If your interpretation conflicts with an interpretation ruling made by a Secretary, the Secretary’s interpretation trumps your own and applies instead, and you are responsible for aligning with it until any underlying Governance changes.
+If your interpretation conflicts with another Partner's, either party may ask the Secretary of any affected Circle to rule on which interpretation to use. Once a Secretary had made such a ruling, it trumps your own and you are responsible for aligning with it until any underlying Governance changes.
 
-#### 3.4.2 Super-Circle Interpretation Trumps
+#### 3.4.2 Super-Circle Secretary May Overrule
 
 A Circle’s Secretary may overrule an interpretation given by a Secretary of any Sub-Circle. If two Secretaries give conflicting rulings and one is from the Secretary of a Circle that ultimately contains the other Circle, then you are responsible for aligning with the interpretation given by the broader Circle’s Secretary.
 
