@@ -249,49 +249,45 @@ You are responsible for capturing and tracking all Projects and Next-Actions for
 
 Whenever you have time available to act in your Role, you are responsible for considering the potential Next-Actions you could efficiently and effectively do at that point in time, and executing whichever you believe would add the most value to the Organization.
 
-### 2.3 Duties to Circle Members
+### 2.3 Duties to Other Role-Fillers
 
-When filling a Role in a Circle, you have the following duties to your fellow Circle Members when they’re acting on behalf of other Roles in the Circle.
+As a Partner of the Organization, you have the following duties to others in your Organization, but only when they’re acting on behalf of one of their Roles and name that Role in any explicit request.
 
 #### 2.3.1 Duty of Transparency
 
-You have a duty to provide transparency when requested by your fellow Circle Members, in any of the following areas:
+You have a duty to provide transparency upon request in any of the following areas:
 
 - **(a) Projects & Next-Actions:** You must share any Projects and Next-Actions you are tracking for your Roles in the Circle.
-- **(b) Relative Priority:** You must share your judgment of the relative priority of any Projects or Next-Actions tracked for your Roles in the Circle, vs. any other potential activities competing for your attention or resources.
-- **(c) Projections:** You must provide a projection of the date you expect to complete any Project or Next-Action tracked for any of your Roles in the Circle. A rough estimate is sufficient, considering your current context and priorities, but without detailed analysis or planning. This projection is not a binding commitment in any way, and unless Governance says otherwise, you have no duty to track the projection, manage your work to achieve it, or follow-up with the recipient if something changes.
-- **(d) Checklist Items & Metrics:** You must share whether you have completed any regular, recurring actions that you routinely perform in service of your Roles in the Circle or your duties as a Circle Member or Partner of the Organization. You must also regularly publish any metrics defined by the Circle’s Lead Link, or by any other Role or process granted the authority to define the Circle’s metrics, if you have access to the requested data.
+- **(b) Relative Priority:** You must share your judgment of the relative priority of any Projects or Next-Actions tracked for your Roles vs. any other potential activities competing for your attention or resources.
+- **(c) Projections:** You must provide a projection of the date you expect to complete any Project or Next-Action tracked for any of your Roles. A rough estimate is sufficient, considering your current context and priorities, but without detailed analysis or planning. This projection is not a binding commitment in any way, and unless Governance says otherwise, you have no duty to track the projection, manage your work to achieve it, or follow-up with the recipient if something changes.
+- **(d) Checklist Items & Metrics:** You must share whether you have completed any regular, recurring actions that you routinely perform in service of your Roles or your duties as a Circle Member or Partner of the Organization. You must also regularly publish any metrics defined by a Circle’s Lead Link, or by any other Role or process granted the authority to define the Circle’s metrics, if you fill a relevant Role in the Circle and have access to the requested data.
 
 #### 2.3.2 Duty of Processing
 
-You have a duty to promptly process messages and requests from your fellow Circle Members, as follows:
+You have a duty to promptly process messages and requests from your fellow Partners, as follows:
 
-- **(a) Requests for Processing:** Other Circle Members may ask you to process the Purpose or any Accountability or Project of a Role you fill in the Circle. If you have no Next-Actions tracked to enact it, you must identify, capture, and communicate a Next-Action if there are any reasonable ones you could take. If there are not, you must instead share what you’re waiting on, which must be a Next-Action or Project tracked by another Role, or a specific event or condition that must happen before you can take further Next-Actions. Additionaly, if the Next-Action or waiting-on you share is one step towards a broader outcome and you aren't already tracking that as a Project, you must also capture and communicate that Project.
-- **(b) Requests for Projects & Next-Actions:** Other Circle Members may ask you to take on a specific Next-Action or Project in one of your Roles in the Circle. If you believe that Next-Action or Project would make sense to work towards to express your Role's Purpose or Accountabilities, at least in the absence of competing priorities, then you must accept and track it. If not, then you must either explain your reasoning, or capture and communicate a different Next-Action or Project that you believe will meet the requester’s objective.
-- **(c) Requests to Impact Domain:** Other Circle Members may ask to impact a Domain controlled by one of your Roles in the Circle. You must allow it if you see no Objections to the request (as defined in Section 3.2). If you do, you must explain any Objections to the requester.
-- **(d) Requests for Information:** Other Circle Members may ask you questions or request information, and you must respond in good faith with at least brief answers or relevant information that's readily available to you.
+- **(a) Requests for Processing:** Other Partners may ask you to process the Purpose or any Accountability or Project of a Role you fill. If you have no Next-Actions tracked to enact it, you must identify, capture, and communicate a Next-Action if there are any reasonable ones you could take. If there are not, you must instead share what you’re waiting on, which must be a Next-Action or Project tracked by another Role, or a specific event or condition that must happen before you can take further Next-Actions. Additionaly, if the Next-Action or waiting-on you share is one step towards a broader outcome and you aren't already tracking that as a Project, you must also capture and communicate that Project.
+- **(b) Requests for Projects & Next-Actions:** Other Partners may ask you to take on a specific Next-Action or Project in one of your Roles. If you believe that Next-Action or Project would make sense to work towards to express your Role's Purpose or Accountabilities, at least in the absence of competing priorities, then you must accept and track it. If not, then you must either explain your reasoning, or capture and communicate a different Next-Action or Project that you believe will meet the requester’s objective.
+- **(c) Requests to Impact Domain:** Other Partners may ask to impact a Domain controlled by one of your Roles, and you must allow it if you see no Objections to the request (as defined in Section 3.2). If you do, you must explain any Objections to the requester.
+- **(d) Requests for Information:** Other Partners may ask you questions or request information, and you must respond in good faith with at least brief answers or relevant information that's readily available to you.
 
 #### 2.3.3 Duty of Prioritization
 
 You have a duty to prioritize where to focus your attention and resources in alignment with the following constraints:
 
-- **(a) Processing Over Execution:** You must generally prioritize processing inbound messages from fellow Circle Members over executing your own Next-Actions. However, you may temporarily defer processing in order to batch process messages in a single time block or at a more convenient time, as long as your processing is still reasonably prompt. Processing means engaging in the duties described in this section, including considering the message, defining and capturing Next-Actions or Projects when appropriate, and, upon request, responding with how the message was processed. Processing does not mean executing upon captured Next-Actions and Projects, which is not covered by this prioritization rule.
-- **(b) Requested Meetings Over Execution:** On request of a fellow Circle Member, you must prioritize attending any Circle meeting required by this Constitution over executing your own Next-Actions. However, you may still decline the request if you already have plans scheduled over the meeting time, or if the request was for an ongoing series or pattern of meetings rather than a specific meeting instance.
+- **(a) Processing Over Execution:** You must generally prioritize processing inbound messages from fellow Partners over executing your own Next-Actions. However, you may temporarily defer processing in order to batch process messages in a single time block or at a more convenient time, as long as your processing is still reasonably prompt. Processing means engaging in the duties described in this section, including considering the message, defining and capturing Next-Actions or Projects when appropriate, and, upon request, responding with how the message was processed. Processing does not mean executing upon captured Next-Actions and Projects, which is not covered by this prioritization rule.
+- **(b) Requested Meetings Over Execution:** On request of a fellow Partner, you must prioritize attending any meeting defined in this Constitution over executing your own Next-Actions. However, you may still decline the request if you already have plans scheduled over the meeting time, or if the request was for an ongoing series or pattern of meetings rather than a specific meeting instance.
 - **(c) Circle Needs Over Individual Goals:** You must integrate and align with any official prioritizations or Strategies of the Circle, such as those specified by the Circle’s Lead Link, when assessing how to deploy your time, attention, and other resources to your work within the Circle.
 
-#### 2.3.4 Links May Convey Duties
-
-As a Lead Link, Rep Link, or Cross Link into a Circle, you may invite someone else to engage the Circle Members of the Circle in the duties specified in this section. You may only extend this invitation to aid in the processing of a specific Tension affecting the entity you are linked from, and only if you also sense the Tension and stay engaged in its processing. The person you invite temporarily becomes a full Circle Member, as if he or she also fills your link role, but only while directly processing that specific Tension. You may withdraw this invitation anytime.
-
-#### 2.3.5 Implicit Expectations Hold No Weight
+### 2.4 Implicit Expectations Hold No Weight
 
 All of your responsibilities and constraints as a Partner of the Organization are defined in this Constitution, and in the Governance that results from it. No former or implicit expectations or constraints carry any weight or authority, unless a Circle’s Governance explicitly empowers them, or they come from a basic obligation or contractual agreement you personally have to or with the Organization.
 
-### 2.4 Tactical Meetings
+### 2.5 Tactical Meetings
 
 The Secretary of a Circle is responsible for scheduling regular **_“Tactical Meetings”_** to facilitate the Circle’s operations. The Facilitator is responsible for presiding over Tactical Meetings in alignment with the following rules. A Circle may adopt a Policy to add additional rules or to change or remove any of these default rules for its Tactical Meetings.
 
-#### 2.4.1 Focus & Intent
+#### 2.5.1 Focus & Intent
 
 Tactical Meetings are for:
 
@@ -300,11 +296,11 @@ Tactical Meetings are for:
 - **(c)** sharing progress updates about Projects and other work owned by the Circle’s Roles; and
 - **(d)** triaging Tensions limiting the Circle’s Roles into Next-Actions, Projects, or other outputs that help reduce those Tensions.
 
-#### 2.4.2 Attendance
+#### 2.5.2 Attendance
 
 All Core Circle Members are entitled to fully participate in the Circle's Tactical Meetings. In addition, the Lead Link and any Rep Links or Cross Links to the Circle may each invite up to one additional person, solely to aid the link in processing a specific Tension. The invited participant then becomes a Core Circle Member as well for the duration of that Tactical Meeting. There is no advance notice or quorum required for a Tactical Meeting.
 
-#### 2.4.3 Facilitation & Process
+#### 2.5.3 Facilitation & Process
 
 The Facilitator must use the following process for Tactical Meetings:
 
@@ -315,15 +311,15 @@ The Facilitator must use the following process for Tactical Meetings:
 - **(e) Triage Issues:** The Facilitator builds an agenda of Tensions to process in the Tactical Meeting by soliciting agenda items from all participants. This must be done within the meeting and not beforehand, and each participant may add as many agenda items as desired by providing a short label for each, without explanation or discussion. Participants may add additional agenda items even once processing one has started, in between the processing of any existing agenda items. To process each agenda item, the Facilitator holds space for the agenda item owner to engage others in their Roles and duties, until the agenda item owner finds an adequate pathway for resolving their Tension. If any Next-Actions or Projects are accepted while processing an agenda item, the Secretary captures and distributes them. The Facilitator manages the time allocated to each agenda item to allow space for processing every item on the agenda, and may cut off the processing of any item that’s taking more than its due share of the remaining meeting time.
 - **(f) Closing Round:** The Facilitator allows each participant in turn to share a closing reflection or other thought triggered by the meeting. Responses are not allowed.
 
-#### 2.4.4 Surrogate for Absent Members
+#### 2.5.4 Surrogate for Absent Members
 
 If a Defined Role of the Circle is entirely or partially unrepresented at a Tactical Meeting due to someone’s absence, the Circle’s Lead Link may act within that Role to cover the gap. If the Lead Link is also absent, the Secretary will capture Next-Actions or Projects for the Role upon request of any participant, and the person who normally fills the Role will treat these as requests to process under their duty of processing.
 
-### 2.5 Individual Action
+### 2.6 Individual Action
 
 As a Partner of the Organization, in some cases you are authorized to act outside of the authority of your Roles, or even to break the rules of this Constitution. By acting under this extended authority you are taking **_“Individual Action”_**, and you are bound by the following rules:
 
-#### 2.5.1 Allowed Situations
+#### 2.6.1 Allowed Situations
 
 You may only take Individual Action when all of the following are true:
 
@@ -332,17 +328,17 @@ You may only take Individual Action when all of the following are true:
 - **(c)** Your action would not cause the Organization to spend tangible resources, dispose of its assets, or limit its rights, beyond what you’re already authorized to so cause.
 - **(d)** If your action would violate any Policies or impact any Domains you aren't already authorized to impact, you reasonably believe that you can’t delay the action long enough to request any permissions normally required, or to propose a Governance change to allow your action, without losing much of its potential value.
 
-#### 2.5.2 Communication & Restoration
+#### 2.6.2 Communication & Restoration
 
 Upon taking Individual Action, you have a duty to explain your action and the intent behind it to any Partner who fills a Role that may be significantly impacted. Upon the request of any of those Partners, you also have a duty to take any reasonable additional actions to assist in resolving any Tensions created by your Individual Action.
 
 If your Individual Action was effectively acting within another Role, or violated a Domain or a Policy, then you must cease from continuing to take similar Individual Action upon request of whoever normally controls that Role, Domain, or Policy, or upon request of the Lead Link of the Circle holding the affected entity.
 
-#### 2.5.3 Clarifying Governance
+#### 2.6.3 Clarifying Governance
 
 If your Individual Action is an instance of a recurring activity or ongoing function needed by a Circle, and that activity or function is not already explicitly called for by the Circle’s Governance, then you are responsible for taking follow-up steps to remove that gap. That follow-up could include proposing Governance to cover the need, or taking steps to remove the need for this activity or function to happen in the first place.
 
-#### 2.5.4 Priority of Corollary Requirements
+#### 2.6.4 Priority of Corollary Requirements
 
 After taking Individual Action, you have a duty to prioritize doing the corollary requirements defined in this section higher than doing any of your regular work. However, the Lead Link of whatever Circle fully contains all Roles that were significantly impacted by your action may still change this default priority.
 
@@ -431,9 +427,9 @@ The Facilitator is responsible for presiding over all Governance Meetings in ali
 
 All Core Circle Members are entitled to fully participate in all Governance Meetings of a Circle. The acting Facilitator and Secretary are also entitled to fully participate, and become Core Circle Members for the duration of a Governance Meeting even if they are not normally Core Circle Members.
 
-In addition, the Lead Link and any Rep Links or Cross Links to the Circle may each invite up to one additional person, solely to aid the link in processing a specific Tension. The invited participant then becomes a Core Circle Member as well for the duration of that Governance Meeting.
+In addition, as a Lead Link, Rep Link, or Cross Link into a Circle, you may invite someone into that Circle's Governance Meeting, and your invited guest becomes a Core Circle Member for the duration of the Governance Meeting or until you withdraw the invitation. You may only extend this invitation to one person at a time, and only to aid in the processing of a specific Tension affecting the entity you are linked from. You must sense this Tension yourself as well, and believe it makes sense to process in the Circle. If these conditions are met, your guest can represent your link Role in the Governance Meeting, but only while directly processing that specific Tension.
 
-Beyond those listed in this paragraph, no one else is allowed to participate in a Circle’s Governance Meetings unless explicitly invited by a Policy of the Circle.
+Beyond the above, no one else is allowed to participate in a Circle’s Governance Meetings unless explicitly invited by a Policy of the Circle.
 
 #### 3.3.2 Notice & Quorum
 
