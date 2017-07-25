@@ -57,7 +57,7 @@ The Lead Link of a Circle may assign people to fill Defined Roles in the Circle 
 
 #### 1.4.1 Unfilled Roles
 
-Whenever a Defined Role in a Circle is unfilled, the Circle’s Lead Link is considered to be filling the Role.
+Whenever a Defined Role in a Circle is unfilled, the person in the Role that holds a Domain on assignments into the unfilled Role is automatically considered to fill it until a new assignment is made.
 
 #### 1.4.2 Assigning Roles to Multiple People
 
