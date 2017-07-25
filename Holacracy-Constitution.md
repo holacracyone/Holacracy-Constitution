@@ -255,12 +255,14 @@ As a Partner of the Organization, you have the following duties to others in you
 
 #### 2.3.1 Duty of Transparency
 
-You have a duty to provide transparency upon request in any of the following areas:
+You have a duty to provide transparency in any of the following areas upon request:
 
-- **(a) Projects & Next-Actions:** You must share any Projects and Next-Actions you are tracking for your Roles in the Circle.
+- **(a) Projects & Next-Actions:** You must share any Projects and Next-Actions you are tracking for your Roles.
 - **(b) Relative Priority:** You must share your judgment of the relative priority of any Projects or Next-Actions tracked for your Roles vs. any other potential activities competing for your attention or resources.
 - **(c) Projections:** You must provide a projection of the date you expect to complete any Project or Next-Action tracked for any of your Roles. A rough estimate is sufficient, considering your current context and priorities, but without detailed analysis or planning. This projection is not a binding commitment in any way, and unless Governance says otherwise, you have no duty to track the projection, manage your work to achieve it, or follow-up with the recipient if something changes.
-- **(d) Checklist Items & Metrics:** You must share whether you have completed any regular, recurring actions that you routinely perform in service of your Roles or your duties as a Circle Member or Partner of the Organization. You must also regularly publish any metrics defined by a Circle’s Lead Link, or by any other Role or process granted the authority to define the Circle’s metrics, if you fill a relevant Role in the Circle and have access to the requested data.
+- **(d) Checklist Items:** You must verify whether you have completed any regular, recurring actions that you routinely perform in service of your Roles or your duties as a Circle Member or Partner of the Organization. If explicitly requested, you must continue to share these verifications regularly for the specific recurring actions so requested, until you determine they are no longer relevant or useful.
+- **(e) Metrics:** You must publish any metrics related to the work of your role or your duties as a Circle Member or Partner of the Organization, if you have access to the requested data without significant overhead beyond what's otherwise required of you. If explicitly requested, you must continue to share these metrics regularly, until you determine they are no longer relevant or useful.
+- **(f) Progress Updates:** You must share a brief summary of progress you've made towards any Accountability or Project of one of your Roles since the last update you published or shared with the requester. If explicitly requested, you must continue to share these updates regularly for the specific Accountability or Project so requested, until you determine they are no longer relevant or useful.
 
 #### 2.3.2 Duty of Processing
 
@@ -292,8 +294,8 @@ The Secretary of a Circle is responsible for scheduling regular **_“Tactical M
 Tactical Meetings are for:
 
 - **(a)** sharing the completion status of recurring actions on checklists owned by the Circle’s Roles;
-- **(b)** sharing regular metrics assigned to the Circle’s Roles to report;
-- **(c)** sharing progress updates about Projects and other work owned by the Circle’s Roles; and
+- **(b)** sharing regular metrics reported by the Circle’s Roles;
+- **(c)** sharing progress updates about Projects and Accountabilities held by the Circle’s Roles; and
 - **(d)** triaging Tensions limiting the Circle’s Roles into Next-Actions, Projects, or other outputs that help reduce those Tensions.
 
 #### 2.5.2 Attendance
