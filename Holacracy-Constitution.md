@@ -216,7 +216,7 @@ In service of your Role, you have the authority to use and impact your Role's Do
 
 You may also use and impact any Domain that the Circle containing your Role owns, or any Domain the Circle itself is authorized to impact, as long as that Domain has not been further delegated to another Role within your Circle.
 
-You cannot exert control or cause a material impact within a Domain delegated to another Role within your Circle or owned by another sovereign entity, unless you have their permission.
+You cannot exert control or cause a material impact within a Domain delegated to another Role within your Circle or owned by another sovereign entity, unless you have their permission. Instead of asking for permission directly, you may also publish your intent to take a specific action, and see if anyone with a relevant Domain asks you not to within a reasonable timeframe. If no one does, then, while taking that specific action, you have permission to impact any Domains owned by any Role in the Organization that customarily processes messages in the communication channel you used.
 
 #### 2.1.3 Don't Dispose of Resources
 
