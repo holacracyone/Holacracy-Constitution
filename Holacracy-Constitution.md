@@ -367,7 +367,7 @@ Proposals are considered adopted and amend the Governance of the Circle only if 
 
 #### 3.2.1 Making Proposals
 
-Any Core Circle Member may make a Proposal within a **_“Governance Meeting”_** of the Circle called under the terms of Section 3.3.
+Any Core Circle Member may make a Proposal within a **_“Governance Meeting”_** of the Circle.
 
 Alternatively, a Core Circle Member may distribute a Proposal to all other Core Circle Members asynchronously, outside of a Governance Meeting, using any written communication channel approved for this purpose by the Circle’s Secretary. When this happens, the Facilitator may either apply the same process and rules used within a Governance Meeting, or may allow each Core Circle Member to directly declare whether or not he or she has Objections to integrate. Further, at any point before an asynchronous Proposal is adopted, the Facilitator or any Core Circle Member may stop the asynchronous processing by requesting the Proposer escalate the Proposal to a Governance Meeting, and notifying the Circle’s Secretary.
 
