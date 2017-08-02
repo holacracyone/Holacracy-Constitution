@@ -398,7 +398,7 @@ Some Tensions do not count as Objections, and may be ignored during the processi
 
 However, regardless of the above criteria, a Tension about adopting a Proposal always counts as an Objection if:
 
-- **(e)** Processing or adopting the Proposal breaks the rules defined in this Constitution, or prompts the Circle or its members to act outside of the authority granted under this Constitution. For example, Next-Actions, Projects, and specific operational decisions are typically not valid Governance outputs per the terms of Section 3.1, so anyone involved could raise an Objection that a Proposal to enact these outputs would violate the rules of the Constitution.
+- **(e)** Processing or adopting the Proposal breaks the rules defined in this Constitution, or prompts the Circle or its members to act outside of the authority granted under this Constitution. For example, Next-Actions, Projects, and specific operational decisions are typically not valid Governance outputs as defined in Section 3.1, so anyone involved could raise an Objection that a Proposal to enact these outputs would violate the rules of the Constitution.
 
 #### 3.2.5 Testing Objections
 
