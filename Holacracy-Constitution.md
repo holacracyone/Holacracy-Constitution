@@ -439,7 +439,7 @@ A Circle may only conduct its Governance Process in a meeting if the Secretary h
 
 Beyond this notice requirement, there is no quorum required for a Circle to conduct a Governance Meeting, unless one is specified by a Policy of the Circle.
 
-Anyone who fails to attend a Governance Meeting counts as having had the opportunity to consider all Proposals made within the meeting, and raised no Objections to their adoption.
+Anyone who does not attend a Governance Meeting counts as having had the opportunity to consider all Proposals made within the meeting, and raised no Objections to their adoption.
 
 #### 3.3.3 Meeting Process
 
