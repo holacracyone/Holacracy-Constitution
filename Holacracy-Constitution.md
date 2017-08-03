@@ -287,7 +287,7 @@ All of your responsibilities and constraints as a Partner of the Organization ar
 
 ### 2.5 Tactical Meetings
 
-The Secretary of a Circle is responsible for scheduling regular **_“Tactical Meetings”_** to facilitate the Circle’s operations. The Facilitator is responsible for presiding over Tactical Meetings in alignment with the following rules. A Circle may adopt a Policy to add additional rules or to change or remove any of these default rules for its Tactical Meetings.
+The Secretary of a Circle is responsible for scheduling **_“Tactical Meetings”_** to facilitate the Circle’s operations. The Facilitator is responsible for presiding over Tactical Meetings in alignment with the following rules. A Circle may adopt a Policy to add additional rules or to change or remove any of these default rules for its Tactical Meetings.
 
 #### 2.5.1 Focus & Intent
 
@@ -419,7 +419,7 @@ When an Objection to a Proposal is raised, the following additional rules apply 
 
 The Secretary of a Circle is responsible for scheduling Governance Meetings to enact the Circle’s Governance Process.
 
-In addition to any regular, recurring Governance Meetings the Secretary schedules, the Secretary is responsible for scheduling additional special Governance Meetings promptly upon request of any Core Circle Member. 
+In addition to any regular Governance Meetings the Secretary schedules, the Secretary is responsible for scheduling additional special Governance Meetings promptly upon request of any Core Circle Member. 
 
 The Facilitator is responsible for presiding over all Governance Meetings in alignment with the following rules and any relevant Policies of the Circle.
 
