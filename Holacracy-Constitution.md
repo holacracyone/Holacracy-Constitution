@@ -121,19 +121,15 @@ A Circle may expand its Defined Roles into full Circles, via its Governance Proc
 
 #### 1.7.1 Modifying Sub-Circles
 
-A Circle may modify the Purpose, Domains, or Accountabilities of a Sub-Circle. 
+Through its Governance Process, a Circle may:
 
-A Circle may also move its own Defined Roles or Policies into a Sub-Circle, or move any from within the Sub-Circle into itself.
-
-Any of these modifications may only be done via the Governance Process of the Circle.
+- **(a)** modify the Purpose, Domains, or Accountabilities of a Sub-Circle; or
+- **(b)** move its own Defined Roles or Policies into a Sub-Circle, or move any from within the Sub-Circle into itself; or
+- **(c)** remove a Sub-Circle entirely, or collapse it from a Circle back into just a Role.
 
 Beyond these allowed changes, a Circle may not modify any Defined Roles or Policies held within a Sub-Circle.
 
-#### 1.7.2 Removing Sub-Circles
-
-Through its Governance Process, a Circle may remove a Sub-Circle. This can be done by removing the Sub-Circle entirely, or by collapsing it from a Circle back into just a Role. When removing a Sub-Circle, the Circle may remove everything within entirely, or may selectively retaining certain elements of the Sub-Circle within the Circle.
-
-#### 1.7.3 Links Between Circles
+#### 1.7.2 Links Between Circles
 
 A Circle’s Lead Link may assign someone to fill the Lead Link Role for each Sub-Circle, using the same rules that apply when the Lead Link assigns into any other Defined Role of the Circle.
 
