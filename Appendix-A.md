@@ -40,7 +40,7 @@ _The Lead Link also holds all un-delegated Circle-level Domains and Accountabili
 
 **Accountabilities:**
 
-- Facilitating the Circle’s constitutionally-required meetings
+- Facilitating Governance Meetings and Tactical Meetings of the Circle or called by its Roles
 - Auditing the meetings and records of Sub-Circles on request, and declaring a Process Breakdown upon discovering a pattern of behavior that conflicts with the rules of the Constitution
 
 
@@ -54,6 +54,6 @@ _The Lead Link also holds all un-delegated Circle-level Domains and Accountabili
 
 **Accountabilities:**
 
-- Scheduling the Circle’s required meetings, and notifying all Core Circle Members of scheduled times and locations
-- Capturing and publishing the outputs of the Circle’s required meetings, and maintaining a compiled view of the Circle’s current Governance, checklist items, and metrics
+- Scheduling Governance Meetings and Tactical Meetings of the Circle or called by its Roles, and notifying all invited participants
+- Capturing and publishing the outputs of Governance Meetings and Tactical Meetings of the Circle or called by its Roles
 - Interpreting Governance and the Constitution upon request

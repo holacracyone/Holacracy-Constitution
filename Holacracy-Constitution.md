@@ -71,32 +71,16 @@ When a Role assignment includes a Focus, the Purpose, Accountabilities, and Doma
 
 When you fill a Role, you may resign from the Role at any time, unless you’ve agreed otherwise, by giving notice to whoever controls assignments to that Role – typically, the Circle’s Lead Link.
 
-### 1.5 Core Circle Members
+### 1.5 Role Representatives
 
-Some Circle Members are allowed to take part in a Circle’s Governance Process, and are thus **_“Core Circle Members”_** of the Circle.
+Each Role has one or more **_“Role Representatives”_** who will represent the Role within the Governance Process. By default, all Partners who fill a Role become its Role Representatives. However, the following exclusions may reduce this default representation:
 
-The Core Circle Members are determined using the following rules:
+- **(a) For Multi-Filled Roles:** If multiple Partners are assigned to the same Role in a Circle, the Circle may enact a Policy that limits how many of them are its Role Representatives. However, the Policy must allow at least one of the Partners filling the Role to be its Role Representative, and must specify how that representative will be determined.
+- **(b) For Minor Allocations:** If a Circle's Lead Link reasonably believes a Defined Role in the Circle only requires a minor, nearly insignificant amount of attention from a Partner to fill effectively, the Lead Link may exclude that Partner from serving as a Role Representative for that Role.
 
-#### 1.5.1 Base Membership
+If a Defined Role of a Circle has no Role Representative for any reason, the Lead Link of that Circle becomes the Role Representative for that Role until another is in place.
 
-Unless a special appointment or exclusion is made under the terms of this section, the Core Circle Members of a Circle are:
-
-- **(a)** each Partner filling a Defined Role in the Circle;
-- **(b)** the Lead Link of the Circle;
-- **(c)** each Rep Link elected to the Circle, as defined in Section 1.7.4;
-- **(d)** and each Cross Link into the Circle, as defined in Section 1.8.
-
-#### 1.5.2 Exclusion for Multi-Filled Roles
-
-If multiple Partners are assigned to the same Defined Role in a Circle, the Circle may enact a Policy that limits how many of them are Core Circle Members as a result of that Role assignment. However, the Policy must allow at least one of the Partners filling the Role to represent it as a Core Circle Member, and must specify how that representative will be determined. That representative then becomes a Rep Link for the excluded Partners, as if the Role were a Sub-Circle, unless the Policy specifies an alternate treatment that covers the same function.
-
-#### 1.5.3 Exclusion for Minor Allocations
-
-Sometimes, a Partner allocates only a very minor, nearly insignificant amount of attention to a Defined Role in a Circle. If the Circle's Lead Link reasonably believes this is the case, the Lead Link may exclude that Partner from serving as a Core Circle Member as a result of that Role assignment. If a Partner is so excluded, the Lead Link becomes a Rep Link for the excluded Partner, as if the Partner's Role were a Sub-Circle, unless an alternate pathway is defined that covers the same function.
-
-#### 1.5.4 Special Appointments of Core Members
-
-The Lead Link of a Circle may specially appoint additional persons to serve as Core Circle Members of a Circle, beyond those required by this Constitution, and may further remove these special appointments at any time.
+In any case, a Role Representative has the accountabilities of a Rep Link towards anyone filling the Role who is not a Role Representative, as if the Role were a Sub-Circle, unless relevant Governance creates an alternate pathway to provide a comparable function.
 
 ### 1.6 Elected Roles
 
@@ -104,13 +88,13 @@ Each Circle includes a **_“Facilitator Role”_**, a **_“Secretary Role”_*
 
 #### 1.6.1 Elections & Eligibility
 
-The Facilitator of each Circle will facilitate regular elections to elect a Core Circle Member of the Circle into each of its Elected Roles, using the process and rules defined in Article 3.
+The Facilitator of each Circle will facilitate regular elections to elect a Partner into each of its Elected Roles, using the process and rules defined in Article 3.
 
-All Core Circle Members are eligible for election and each may hold multiple Elected Roles, except for the Lead Link of a Circle, who may not be elected as its Facilitator or Rep Link.
+All Partners who fill a Role within the Circle are eligible for election and each may hold multiple Elected Roles, except for the Lead Link of a Circle, who may not be elected as its Facilitator or Rep Link.
 
 #### 1.6.2 Election Terms & Revisiting
 
-During the election process, the Facilitator will specify a term for each election. After a term expires, the Secretary is responsible for promptly triggering a new election for that Elected Role. However, even before a term has expired, any Core Circle Member may trigger a new election using the process defined in Article 3.
+During the election process, the Facilitator will specify a term for each election. After a term expires, the Secretary is responsible for promptly triggering a new election for that Elected Role. However, even before a term has expired, any Role Representative of a Role within the Circle may trigger a new election using the process defined in Article 3.
 
 #### 1.6.3 Amending Elected Roles
 
@@ -129,7 +113,7 @@ In any given instance where a surrogate is needed, the surrogate is, in this ord
 - **(a)** someone explicitly specified by the person to be replaced; or
 - **(b)** for Facilitator, the acting Secretary of the Circle, and for Secretary, the acting Facilitator of the Circle;
 - **(c)** the Lead Link of the Circle; or
-- **(d)** the first Core Circle Member of the Circle to declare he or she is acting as the surrogate.
+- **(d)** the first Partner to declare he or she is acting as the surrogate.
 
 ### 1.7 Sub-Circles
 
@@ -149,13 +133,13 @@ Beyond these allowed changes, a Circle may not modify any Defined Roles or Polic
 
 Through its Governance Process, a Circle may remove a Sub-Circle. This can be done by removing the Sub-Circle entirely, or by collapsing it from a Circle back into just a Role. When removing a Sub-Circle, the Circle may remove everything within entirely, or may selectively retaining certain elements of the Sub-Circle within the Circle.
 
-#### 1.7.3 Lead Link to Sub-Circle
+#### 1.7.3 Links Between Circles
 
 A Circle’s Lead Link may assign someone to fill the Lead Link Role for each Sub-Circle, using the same rules that apply when the Lead Link assigns into any other Defined Role of the Circle.
 
-#### 1.7.4 Rep Link to Super-Circle
+Each Circle may elect a Rep Link to its Super-Circle.
 
-Each Circle normally elects a Rep Link to its Super-Circle. However, this election is not required when a Circle lacks any Core Circle Members other than those serving as Lead Link and Cross Links into the Circle. In this case, even if the election is conducted, the elected Rep Link does not become a Core Circle Member of the Super-Circle.
+Both the Lead Link of the Sub-Circle and the Rep Link elected by the Sub-Circle become Role Representatives for the Sub-Circle within the Circle. However, only the Lead Link holds the responsibilities that come with the Sub-Circle's Purpose and Accountabilities.
 
 ### 1.8 Cross Linking
 
@@ -181,9 +165,7 @@ Whenever a Cross Link Role is unfilled, it is considered non-existent and has no
 
 #### 1.8.3 Cross Link Authority
 
-A Cross Link becomes a Core Circle Member of the Target Circle, and may use the authorities of a Core Circle Member to prevent or remove limitations on the Linked Entity within the Target Circle.
-
-However, beyond removing limitations, a Cross Link may not use the Target Circle to build more capacities for the Linked Entity, unless those capacities would also help the Target Circle express its own Purpose or Accountabilities.
+The Cross Link Role is considered a Role within the Target Circle, and its Role Representatives may use the Governance Process of the Target Circle to prevent or remove limitations on the Linked Entity. However, beyond removing limitations, a Cross Link may not use the Target Circle to build more capacities for the Linked Entity, unless those capacities would also help the Target Circle express its own Purpose or Accountabilities.
 
 #### 1.8.4 Additions to a Cross Link Role
 
@@ -287,35 +269,29 @@ All of your responsibilities and constraints as a Partner of the Organization ar
 
 ### 2.5 Tactical Meetings
 
-The Secretary of a Circle is responsible for scheduling **_“Tactical Meetings”_** to facilitate the Circle’s operations. The Facilitator is responsible for presiding over Tactical Meetings in alignment with the following rules. A Circle may adopt a Policy to add additional rules or to change or remove any of these default rules for its Tactical Meetings.
+In service of one of their Roles, any Partner may convene a **_“Tactical Meeting”_** to facilitate engaging other Roles in their responsibilities and duties.
 
-#### 2.5.1 Focus & Intent
+#### 2.5.1 Attendance
 
-Tactical Meetings are for:
+The Partner convening a Tactical Meeting must name the specific Roles invited to that Tactical Meeting, and the Role Representatives of those Roles are invited to attend and participate in the meeting. The convener must also invite the Facilitator of a relevant Circle to lead the meeting. There is no advance notice or quorum required for a Tactical Meeting, unless a relevant Policy says otherwise.
 
-- **(a)** sharing the completion status of recurring actions on checklists owned by the Circle’s Roles;
-- **(b)** sharing regular metrics reported by the Circle’s Roles;
-- **(c)** sharing progress updates about Projects and Accountabilities held by the Circle’s Roles; and
-- **(d)** triaging Tensions limiting the Circle’s Roles into Next-Actions, Projects, or other outputs that help reduce those Tensions.
+#### 2.5.2 Facilitation & Process
 
-#### 2.5.2 Attendance
-
-All Core Circle Members are entitled to fully participate in the Circle's Tactical Meetings. In addition, the Lead Link and any Rep Links or Cross Links to the Circle may each invite up to one additional person, solely to aid the link in processing a specific Tension. The invited participant then becomes a Core Circle Member as well for the duration of that Tactical Meeting. There is no advance notice or quorum required for a Tactical Meeting.
-
-#### 2.5.3 Facilitation & Process
-
-The Facilitator must use the following process for Tactical Meetings:
+Unless a Policy says otherwise, anyone facilitating a Tactical Meeting must use the following process:
 
 - **(a) Check-in Round:** The Facilitator allows each participant in turn to share their current state or thoughts, or offer another type of opening comment for the meeting. Responses are not allowed.
-- **(b) Checklist Review:** The Facilitator asks each participant to verify the completion of any recurring actions they regularly report on.
-- **(c) Metrics Review:** The Facilitator asks each participant to share data for any metrics they regularly report on.
-- **(d) Progress Updates:** The Facilitator asks each participant to highlight progress towards achieving any Project or expressing any Accountability of any of the participant’s Roles in the Circle. Participants may only share progress made since the last report given, and not the general status of a Project or Accountability. Each participant may decide which Projects or Accountabilities are worth reporting on, however if another participant has an active request for regular updates on a specific Project or Accountability, that one must be included. For progress updates about a Project or Accountability of a Sub-Circle, the Facilitator must allow both the Lead Link and Rep Link of the Sub-Circle the opportunity to share updates.
-- **(e) Triage Issues:** The Facilitator builds an agenda of Tensions to process in the Tactical Meeting by soliciting agenda items from all participants. This must be done within the meeting and not beforehand, and each participant may add as many agenda items as desired by providing a short label for each, without explanation or discussion. Participants may add additional agenda items even once processing one has started, in between the processing of any existing agenda items. To process each agenda item, the Facilitator holds space for the agenda item owner to engage others in their Roles and duties, until the agenda item owner finds an adequate pathway for resolving their Tension. If any Next-Actions or Projects are accepted while processing an agenda item, the Secretary captures and distributes them. The Facilitator manages the time allocated to each agenda item to allow space for processing every item on the agenda, and may cut off the processing of any item that’s taking more than its due share of the remaining meeting time.
-- **(f) Closing Round:** The Facilitator allows each participant in turn to share a closing reflection or other thought triggered by the meeting. Responses are not allowed.
+- **(b) Checklist Review:** The Facilitator asks each participant to verify the completion of any recurring actions that any other participant has asked them to regularly report on.
+- **(c) Metrics Review:** The Facilitator asks each participant to share data for any metrics that any other participant has asked them to regularly report on.
+- **(d) Progress Updates:** The Facilitator asks each participant to highlight progress towards achieving any Project or expressing any Accountability of any of the participant’s Roles invited to the meeting. Participants may only share progress made since the last report given, and not the general status of a Project or Accountability. Each participant may decide which Projects or Accountabilities are worth reporting on, however if another participant has an active request for regular updates on a specific Project or Accountability, that one must be included.
+- **(e) Build Agenda:** The Facilitator builds an agenda of Tensions to process in the Tactical Meeting by soliciting agenda items from all participants. This must be done within the meeting and not beforehand. Each participant may add as many agenda items as desired by providing a short label for each, without explanation or discussion. Participants may add additional agenda items even once processing one has started, in between the processing of any existing agenda items.
+- **(f) Triage Issues:** To process each agenda item, the Facilitator holds space for the agenda item owner to engage others in their Roles and duties, until the agenda item owner finds an adequate pathway for resolving their Tension. However, the agenda item owner may only process Tensions and make requests to serve a Role they fill that was explicitly invited to the meeting. Further, within the meeting each participant only has duties that come from Roles they fill that were explicitly invited to the meeting, or that exist regardless of the Roles they fill. The Facilitator manages the time allocated to each agenda item to allow space for processing every item on the agenda, and may cut off the processing of any item that’s taking more than its due share of the remaining meeting time.
+- **(g) Closing Round:** The Facilitator allows each participant in turn to share a closing reflection or other thought triggered by the meeting. Responses are not allowed.
 
-#### 2.5.4 Surrogate for Absent Members
+A Policy may specify an alternate process or amend this default process for any standing Tactical Meeting within its authority to govern.
 
-If a Defined Role of the Circle is entirely or partially unrepresented at a Tactical Meeting due to someone’s absence, the Circle’s Lead Link may act within that Role to cover the gap. If the Lead Link is also absent, the Secretary will capture Next-Actions or Projects for the Role upon request of any participant, and the person who normally fills the Role will treat these as requests to process under their duty of processing.
+#### 2.5.3 Surrogate for Absent Members
+
+If a Defined Role invited to a Tactical Meeting is unrepresented in the meeting for any reason, the Lead Link of the Circle holding that Role may act within that Role to cover the gap. If the Lead Link is also unrepresented, any Next-Actions or Projects captured for the Role become requests for the Role to process after the meeting.
 
 ### 2.6 Individual Action
 
@@ -359,17 +335,17 @@ Only these outputs are valid Governance for a Circle; no one may capture other o
 
 ### 3.2 Changing Governance
 
-Any Core Circle Member of a Circle may propose changing its Governance, thus making a **_“Proposal”_** as a **_“Proposer”_**.
+Any Role Representative of a Role within a Circle may propose changing its Governance, thus making a **_“Proposal”_** as a **_“Proposer”_**. The Proposer must make this Proposal to the Role Representatives of all Roles within the Circle, who become the participants in the Governance Process for resolving this Proposal.
 
-Before a Proposal is adopted, all Core Circle Members must have the opportunity to raise Tensions about adopting the Proposal. Each Tension so raised is considered an **_“Objection”_** if it meets the criteria defined in this section, and the person who raised it becomes the **_“Objector”_**.
+Before a Proposal is adopted, all participants must have the opportunity to raise Tensions about adopting the Proposal. Each Tension so raised is considered an **_“Objection”_** if it meets the criteria defined in this section, and the person who raised it becomes the **_“Objector”_**.
 
-Proposals are considered adopted and amend the Governance of the Circle only if no Objections are so raised. If Objections are raised, the Proposer and each Objector must find a way to address the Objections before the Circle may adopt the Proposal, after which all Core Circle Members must have another opportunity to raise further Objections before the Proposal is adopted.
+Proposals are considered adopted and amend the Governance of the Circle only if no Objections are so raised. If Objections are raised, the Proposer and each Objector must find a way to address the Objections before the Circle may adopt the Proposal, after which all participants must have another opportunity to raise further Objections before the Proposal is adopted.
 
 #### 3.2.1 Making Proposals
 
-Any Core Circle Member may make a Proposal within a **_“Governance Meeting”_** of the Circle.
+A Proposer may make a Proposal within a **_“Governance Meeting”_** of the Circle.
 
-Alternatively, a Core Circle Member may distribute a Proposal to all other Core Circle Members asynchronously, outside of a Governance Meeting, using any written communication channel approved for this purpose by the Circle’s Secretary. When this happens, the Facilitator may either apply the same process and rules used within a Governance Meeting, or may allow each Core Circle Member to directly declare whether or not he or she has Objections to integrate. Further, at any point before an asynchronous Proposal is adopted, the Facilitator or any Core Circle Member may stop the asynchronous processing by requesting the Proposer escalate the Proposal to a Governance Meeting, and notifying the Circle’s Secretary.
+Alternatively, a Proposer may distribute a Proposal to all required participants asynchronously, outside of a Governance Meeting, using any written communication channel approved for this purpose by the Circle’s Secretary. When this happens, the Facilitator may either apply the same process and rules used within a Governance Meeting, or may allow each participant to directly declare whether or not he or she has Objections to integrate. Further, at any point before an asynchronous Proposal is adopted, any participant may stop the asynchronous processing by requesting the Proposer escalate the Proposal to a Governance Meeting, and notifying the Circle’s Secretary.
 
 A Circle may adopt Policies to further constrain when or how Proposals may be made or processed outside of a Governance Meeting. However, no Policy may limit the right to stop asynchronous processing by escalating to a Governance Meeting. A Circle may also use a Policy to create a time limit for responding to asynchronous Proposals, upon which any asynchronous Proposal is automatically adopted if no Objections or escalation requests are raised.
 
@@ -410,34 +386,34 @@ However, when an Objection is claimed on the basis of a Proposal violating the C
 
 When an Objection to a Proposal is raised, the following additional rules apply during the search for a resolution:
 
-- **(a)** The Facilitator must test an Objection if requested by any Core Circle Member, and discard it if it fails to meet the validity criteria described in this section.
+- **(a)** The Facilitator must test an Objection if requested by any participant, and discard it if it fails to meet the validity criteria described in this section.
 - **(b)** The Objector must attempt to find an amendment to the Proposal that will resolve the Objection and still address the Proposer’s Tension. Others may help. If the Facilitator concludes that the Objector is not making a good faith effort to find a potential amendment at any point, then the Facilitator must deem the Objection abandoned and continue processing the Proposal as if the Objection had not been raised.
-- **(c)** Any Core Circle Member may ask the Proposer clarifying questions about the Tension behind the Proposal, or about any examples the Proposer shared to illustrate the Tension. If the Facilitator concludes that the Proposer is not making a good faith effort to answer those questions at any point, then the Facilitator must deem the Proposal invalid for processing and abandoned.
+- **(c)** Any participant may ask the Proposer clarifying questions about the Tension behind the Proposal, or about any examples the Proposer shared to illustrate the Tension. If the Facilitator concludes that the Proposer is not making a good faith effort to answer those questions at any point, then the Facilitator must deem the Proposal invalid for processing and abandoned.
 - **(d)** The Objector may suggest an amended Proposal, and offer reasonable arguments for why it should resolve or prevent the Tension in each specific situation the Proposer used to illustrate the Tension. Then, upon the Objector’s request, the Proposer must present a reasonable argument for why the amended Proposal would fail to resolve or prevent the Tension in at least one specific situation already presented. Alternatively, the Proposer may add an additional example that the amended Proposal would not resolve, but which still meets the criteria for processing a Proposal required by Section 3.2.2. If the Facilitator concludes that the Proposer has failed to meet one of these thresholds, then the Facilitator must deem the Proposal invalid for processing and abandoned.
 
 ### 3.3 Governance Meetings
 
 The Secretary of a Circle is responsible for scheduling Governance Meetings to enact the Circle’s Governance Process.
 
-In addition to any regular Governance Meetings the Secretary schedules, the Secretary is responsible for scheduling additional special Governance Meetings promptly upon request of any Core Circle Member. 
+In addition to any regular Governance Meetings the Secretary schedules, the Secretary is responsible for scheduling additional special Governance Meetings promptly upon request of any Role Representative within the Circle.
 
 The Facilitator is responsible for presiding over all Governance Meetings in alignment with the following rules and any relevant Policies of the Circle.
 
 #### 3.3.1 Attendance
 
-All Core Circle Members are entitled to fully participate in all Governance Meetings of a Circle. The acting Facilitator and Secretary are also entitled to fully participate, and become Core Circle Members for the duration of a Governance Meeting even if they are not normally Core Circle Members.
+All Role Representatives within a Circle are entitled to fully participate in all Governance Meetings of a Circle. The acting Facilitator and Secretary are also entitled to fully participate for the duration of a Governance Meeting, even if they are not normally Role Representatives within the Circle.
 
-In addition, as a Lead Link, Rep Link, or Cross Link into a Circle, you may invite someone into that Circle's Governance Meeting, and your invited guest becomes a Core Circle Member for the duration of the Governance Meeting or until you withdraw the invitation. You may only extend this invitation to one person at a time, and only to aid in the processing of a specific Tension affecting the entity you are linked from. You must sense this Tension yourself as well, and believe it makes sense to process in the Circle. If these conditions are met, your guest can represent your link Role in the Governance Meeting, but only while directly processing that specific Tension.
+In addition, as a Lead Link, Rep Link, or Cross Link into a Circle, you may invite someone into that Circle's Governance Meeting, and your invited guest becomes a full participant for the duration of the Governance Meeting or until you withdraw the invitation. You may only extend this invitation to one person at a time, and only to aid in the processing of a specific Tension affecting the entity you are linked from. You must sense this Tension yourself as well, and believe it makes sense to process in the Circle. If these conditions are met, your guest can represent your link Role in the Governance Meeting, but only while directly processing that specific Tension.
 
 Beyond the above, no one else is allowed to participate in a Circle’s Governance Meetings unless explicitly invited by a Policy of the Circle.
 
 #### 3.3.2 Notice & Quorum
 
-A Circle may only conduct its Governance Process in a meeting if the Secretary has given all Core Circle Members reasonable advance notice that a Governance Meeting will be held, including its time and location.
+A Circle may only conduct its Governance Process in a meeting if the Secretary has given all authorized participants reasonable advance notice that a Governance Meeting will be held, including its time and location.
 
 Beyond this notice requirement, there is no quorum required for a Circle to conduct a Governance Meeting, unless one is specified by a Policy of the Circle.
 
-Anyone who does not attend a Governance Meeting counts as having had the opportunity to consider all Proposals made within the meeting, and raised no Objections to their adoption.
+Anyone who does not attend a Governance Meeting counts as having fully participated without raising Objections to any Proposals made within the meeting.
 
 #### 3.3.3 Meeting Process
 
@@ -505,7 +481,7 @@ A Secretary may only contradict previously published logic or interpretations on
 
 #### 3.4.4 Striking Invalid Governance
 
-Any Circle Member of a Circle may ask its Secretary to rule on the validity of any Governance of the Circle or any Role or Sub-Circle ultimately contained by the Circle. Upon such a request, if the Secretary concludes the Governance conflicts with the rules of this Constitution, the Secretary must then strike the offending Governance from the acting Governance record. After doing so, the Secretary must promptly communicate what was struck and why to all Core Circle Members of the Circle that held the offending Governance.
+Any Circle Member of a Circle may ask its Secretary to rule on the validity of any Governance of the Circle or any Role or Sub-Circle ultimately contained by the Circle. Upon such a request, if the Secretary concludes the Governance conflicts with the rules of this Constitution, the Secretary must then strike the offending Governance from the acting Governance record. After doing so, the Secretary must promptly communicate what was struck and why to all Partners filling Roles within the Circle that held the offending Governance.
 
 ## Article 4: Adoption Matters
 
@@ -563,7 +539,7 @@ A **_“Process Breakdown”_** occurs when a Circle shows a pattern of behavior
 
 #### 4.5.1 Breakdown from Failed Governance
 
-The Facilitator of a Circle may declare a Process Breakdown in the Circle if the Core Circle Members fail to successfully process a Proposal in a Governance Meeting, even after a reasonably long time is spent trying to do so. If the Proposer specially requested that Governance Meeting specifically for processing that Proposal, then the Proposer may also declare a Process Breakdown in this case.
+The Facilitator of a Circle may declare a Process Breakdown in the Circle if the participants in one of its Governance Meetings fail to successfully process a Proposal, even after a reasonably long time is spent trying to do so. If the Proposer specially requested that Governance Meeting specifically for processing that Proposal, then the Proposer may also declare a Process Breakdown in this case.
 
 #### 4.5.2 Breakdown from Unconstitutional Behavior
 
