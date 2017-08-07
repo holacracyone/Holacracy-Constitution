@@ -5,6 +5,7 @@
 
 This **_“Constitution”_** defines rules and processes for the governance and operations of an organization. The **_“Ratifiers”_** are adopting these rules as the formal authority structure for the **_“Organization”_** specified upon the Constitution’s adoption, which may be an entire entity or a part of one that the Ratifiers have authority to govern and run. The Ratifiers and anyone else who agrees to take part in the governance and operations of the Organization (its **_“Partners”_**) may rely upon the authorities granted by this Constitution, and also agree to be bound by its duties and constraints.
 
+
 ## Article 1: Organizational Structure
 
 ### 1.1 Roles
@@ -137,45 +138,9 @@ Each Circle may elect a Rep Link to its Super-Circle.
 
 Both the Lead Link of the Sub-Circle and the Rep Link elected by the Sub-Circle become Role Representatives for the Sub-Circle within the Circle. However, only the Lead Link holds the responsibilities that come with the Sub-Circle's Purpose and Accountabilities.
 
-### 1.8 Cross Linking
+### 1.8 Inviting Outsiders into Circles
 
-A Circle may create a **_“Cross Link Policy”_** to invite any entity or group to participate in the Governance Process and operations of the Circle or one of its Sub-Circles. The entity or group that is invited to participate is the **_“Linked Entity”_**, and it may be external to the Organization, or it may be another Role or Circle within the Organization. The Circle that will receive this link is the **_“Target Circle”_**.
-
-Once a Cross Link Policy is adopted, the Linked Entity may assign a representative to participate in the Target Circle under the terms of this section, unless alternate terms are defined in the Policy.
-
-#### 1.8.1 Cross Link Role
-
-If the Linked Entity is a Role, then that Role may participate in the Target Circle as described below. It becomes the **_“Cross Link Role”_**, with the person filling it becoming the **_“Cross Link”_**.
-
-If the Linked Entity is not a Role, then a new special-purpose Cross Link Role is automatically created within the Target Circle instead. In this case, the Cross Link Role has the same Purpose and Accountabilities as a Rep Link, but with the “Sub-Circle” referenced in the Rep Link Role description instead meaning the Linked Entity, and the “Super-Circle” instead meaning the Target Circle. If the Linked Entity is another Circle, then the Cross Link Role also resides in that Circle in addition to the Target Circle, also like a Rep Link.
-
-#### 1.8.2 Cross Link Assignment
-
-If the Linked Entity is a Circle or group, it may assign someone to fill the Cross Link Role using whatever process it already has for assigning people to fill Defined Roles or similar work functions.
-
-If a Linked Entity represents a group with no single locus of authority to do that assignment, then the Target Circle may instead assign someone to the Cross Link Role, unless otherwise specified in the Cross Link Policy.
-
-In all cases, only one person may be assigned to each Cross Link Role, unless allowed by the Cross Link Policy. 
-
-Whenever a Cross Link Role is unfilled, it is considered non-existent and has no default assignment or effect.
-
-#### 1.8.3 Cross Link Authority
-
-The Cross Link Role is considered a Role within the Target Circle, and its Role Representatives may use the Governance Process of the Target Circle to prevent or remove limitations on the Linked Entity. However, beyond removing limitations, a Cross Link may not use the Target Circle to build more capacities for the Linked Entity, unless those capacities would also help the Target Circle express its own Purpose or Accountabilities.
-
-#### 1.8.4 Additions to a Cross Link Role
-
-A Linked Entity may amend its Cross Link Role through its own Governance Process.
-
-A Target Circle may add Domains or Accountabilities to a Cross Link Role through its own Governance Process, and may later amend or remove any it added.
-
-#### 1.8.5 Boundaries and Delegation
-
-The Linked Entity invited into a Target Circle may be a Role contained by another Circle. In that case, the other Circle may change the Linked Entity to another one of its Roles that it believes is more appropriate, or delegate the selection of the Linked Entity to one of its Sub-Circles.
-
-The Target Circle may also delegate the requirement to receive a link to one of its own Sub-Circles, in which case that Sub-Circle will then become the Target Circle for the link.
-
-In either case, any delegation must be done via a Policy of the Circle doing the delegating. Further, any change or delegation must still align with any constraints or guidelines specified in the Cross Link Policy that extended the invitation to link in the first place.
+A Circle may adopt a Policy to invite an external Role to participate in its Governance Process, or to require one of its Sub-Circles to do so. While such a Policy exists, the Role Representatives of the invited Role may participate in the Governance Process of the specified Circle, as if the invited Role was also within that Circle.
 
 
 ## Article 2: Operations
@@ -347,7 +312,7 @@ A Circle may adopt Policies to further constrain when or how Proposals may be ma
 
 #### 3.2.2 Criteria for Valid Proposals
 
-To be valid for processing, a Proposal must resolve or reduce a Tension sensed by the Proposer. In addition, a Proposal must normally help the Proposer better express the Purpose or an Accountability of one of the Proposer’s Roles in the Circle. However, a Proposal may alternatively help another Circle Member better express one of that person’s Roles in the Circle, but only if that person has granted the Proposer permission to represent that Role.
+To be valid for processing, a Proposal must resolve or reduce a Tension sensed by the Proposer and help the Circle better express its Purpose or one of its Accountabilities. In addition, a Proposal must normally help the Proposer better express the Purpose or an Accountability of one of the Proposer’s Roles in the Circle. However, a Proposal may alternatively help another Role Representative better express one of their Roles in the Circle, but only if that person has granted the Proposer permission to represent that Role.
 
 Finally, a Proposal is always valid regardless of the preceding criteria if it is made solely to help evolve the Circle’s Governance to more clearly reflect activity that is already happening, or to trigger a new election for any Elected Role.
 
@@ -364,7 +329,7 @@ Some Tensions do not count as Objections, and may be ignored during the processi
 - **(a)** If the Tension were unaddressed, the capacity of the Circle to express its Purpose or enact its Accountabilities would degrade. Thus, the Tension is not just triggered by a better idea or a potential for further improvement, but because the Proposal would actually move the Circle backwards in its current capacity. For this criteria, decreasing clarity counts as degrading capacity, although merely failing to improve clarity does not.
 - **(b)** The Tension does not already exist for the Circle even in the absence of the Proposal. Thus, the Tension would be created specifically by adopting the Proposal, and would not exist were the Proposal withdrawn.
 - **(c)** The Tension is triggered just by presently known facts or events, without regard to a prediction of what might happen in the future. However, relying on predictions is allowed when no opportunity to adequately sense and respond is likely to exist in the future before significant impact could result.
-- **(d)** The Tension limits the Objector's capacity to express the Purpose or an Accountability of a Role in the Circle that the Objector either fills or has received permission to represent from a Circle Member who normally fills the Role.
+- **(d)** The Tension limits the Objector's capacity to express the Purpose or an Accountability of a Role in the Circle that the Objector either represents or has received permission to represent from a Role Representative who normally represents the Role.
 
 However, regardless of the above criteria, a Tension about adopting a Proposal always counts as an Objection if:
 
@@ -397,9 +362,9 @@ The Facilitator is responsible for presiding over all Governance Meetings in ali
 
 #### 3.3.1 Attendance
 
-All Role Representatives within a Circle are entitled to fully participate in all Governance Meetings of a Circle. The acting Facilitator and Secretary are also entitled to fully participate for the duration of a Governance Meeting, even if they are not normally Role Representatives within the Circle.
+The Role Representatives of all Roles within a Circle are entitled to fully participate in all Governance Meetings of a Circle. The acting Facilitator and Secretary are also entitled to fully participate for the duration of a Governance Meeting, even if they are not normally Role Representatives within the Circle.
 
-In addition, as a Lead Link, Rep Link, or Cross Link into a Circle, you may invite someone into that Circle's Governance Meeting, and your invited guest becomes a full participant for the duration of the Governance Meeting or until you withdraw the invitation. You may only extend this invitation to one person at a time, and only to aid in the processing of a specific Tension affecting the entity you are linked from. You must sense this Tension yourself as well, and believe it makes sense to process in the Circle. If these conditions are met, your guest can represent your link Role in the Governance Meeting, but only while directly processing that specific Tension.
+In addition, as a Lead Link or Rep Link into a Circle, you may invite someone into that Circle's Governance Meeting, and your invited guest becomes a full participant for the duration of the Governance Meeting or until you withdraw the invitation. You may only extend this invitation to one person at a time, and only to aid in the processing of a specific Tension affecting the entity you are linked from. You must sense this Tension yourself as well, and believe it makes sense to process in the Circle. If these conditions are met, your guest can represent your link Role in the Governance Meeting, but only while directly processing that specific Tension.
 
 Beyond the above, no one else is allowed to participate in a Circle’s Governance Meetings unless explicitly invited by a Policy of the Circle.
 
@@ -479,6 +444,7 @@ A Secretary may only contradict previously published logic or interpretations on
 
 Any Circle Member of a Circle may ask its Secretary to rule on the validity of any Governance of the Circle or any Role or Sub-Circle ultimately contained by the Circle. Upon such a request, if the Secretary concludes the Governance conflicts with the rules of this Constitution, the Secretary must then strike the offending Governance from the acting Governance record. After doing so, the Secretary must promptly communicate what was struck and why to all Partners filling Roles within the Circle that held the offending Governance.
 
+
 ## Article 4: Adoption Matters
 
 ### 4.1 Ratifiers Cede Authority
@@ -487,27 +453,21 @@ By adopting this Constitution, the Ratifiers cede their authority to govern and 
 
 ### 4.2 Anchor Circle
 
-Upon adopting this Constitution, the Ratifiers must establish an initial Circle to express the overall Purpose of the Organization. This **_“Anchor Circle”_** becomes the broadest Circle in the Organization, and automatically controls all Domains that the Organization itself controls.
+Upon adopting this Constitution, the Ratifiers must establish an initial Circle to express the overall Purpose of the Organization. This **_“Anchor Circle”_** becomes the broadest Circle in the Organization, and automatically controls all Domains that the Organization itself controls. The Anchor Circle has no Super-Circle, and does not elect a Rep Link.
 
-#### 4.2.1 Links to the Anchor Circle
+#### 4.2.1 Lead Link for the Anchor Circle
 
-The Ratifiers may appoint an initial Lead Link of the Anchor Circle.
+The Ratifiers may either appoint a Lead Link for the Anchor Circle, or leave the Anchor Circle without a Lead Link.
 
-Alternatively, the Ratifiers may leave the Anchor Circle without a Lead Link, and create one or more initial Cross Links to the Anchor Circle in lieu of a Lead Link.
+If the Ratifiers leave the Anchor Circle without a Lead Link, all decisions that normally require Lead Link authority become valid outputs of the Circle’s Governance Process. Any Role within the Circle may thus exercise Lead Link authority operationally by making a Proposal via the Circle's Governance Process.
 
-#### 4.2.2 Acting Without a Lead Link
-
-If the Anchor Circle has no Lead Link, all decisions that normally require Lead Link authority become valid outputs of the Circle’s Governance Process. Any Role within the Circle may thus exercise Lead Link authority by proposing a decision as a Governance change for the Circle, using the process and rules in Article 3.
-
-Further, in an Anchor Circle with no Lead Link, the authority Roles normally have to impact undelegated Circle Domains is revoked. Instead, the Circle’s Roles may only impact its Domains if a Policy explicitly allows the impact, or, alternatively, by proposing the action using the Circle’s Governance Process, exactly as described above for exercising Lead Link authority.
+Further, in an Anchor Circle with no Lead Link, the authority Roles normally have to impact undelegated Circle Domains is revoked. Instead, the Circle’s Roles may only impact its Domains if a Policy explicitly allows the impact, or, alternatively, by making a Proposal to allow a specific impact using the Circle’s Governance Process.
 
 #### 4.2.3 Organization’s Purpose
 
-The Anchor Circle is automatically accountable for discovering and expressing the Purpose of the overall Organization. The Purpose of the Organization is the deepest creative potential it can sustainably express in the world, given all of the constraints acting upon it and everything available to it. That includes its history, current capacities, available resources, Partners, character, culture, business structure, brand, market awareness, and all other relevant resources or factors.
+The Purpose of the Organization is the deepest creative potential it can sustainably express in the world, given all of the constraints acting upon it and everything available to it. That includes its history, current capacities, available resources, Partners, character, culture, business structure, brand, market awareness, and all other relevant resources or factors.
 
-The Anchor Circle’s Lead Link inherits this Accountability by default, and may capture and update the Purpose to express this Accountability.
-
-If the Anchor Circle has no Lead Link, this Accountability automatically falls upon each Cross Link to the Anchor Circle instead, and any of them may update the Purpose by proposing the update via the Circle’s Governance Process.
+The Lead Link of the Anchor Circle is accountable for discovering the Purpose of the Organization, and controls this Purpose definition as a Domain of the Lead Link Role. If the Anchor Circle has no Lead Link, this Accountability is retained by the Ratifiers until delegated to a Role within the Circle, and the Domain is held by the Anchor Circle itself.
 
 #### 4.2.4 Updating the Anchor Circle
 
@@ -515,13 +475,9 @@ The Lead Link of the Anchor Circle has the authority to name the Circle, clarify
 
 The Lead Link of the Anchor Circle may also appoint his or her own replacement as desired, unless otherwise specified by the Ratifiers.
 
-#### 4.2.5 No Super-Circle
-
-The Anchor Circle has no Super-Circle, and does not elect a Rep Link.
-
 ### 4.3 Initial Structure
 
-The Lead Link of the Anchor Circle may define an initial structure and other Governance for the Organization, outside of the usual Governance Process required by this Constitution. If that initial structure includes any other Circles, the Lead Links of those Circles may do the same within their Circles. This authority may only be used to define an initial structure for a Circle to start from, before the Circle has begun conducting its Governance Process.
+Either the Ratifiers or the Lead Link of the Anchor Circle may define an initial structure and other Governance for the Organization, outside of the usual Governance Process required by this Constitution. If that initial structure includes any other Circles, the Lead Links of those Circles may do the same within their Circles. This authority may only be used to define an initial structure for a Circle to start from, before the Circle has begun conducting its Governance Process.
 
 ### 4.4 Legacy Policies and Systems
 
