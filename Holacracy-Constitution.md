@@ -18,11 +18,11 @@ The Organization’s Partners will typically perform work for the Organization b
 
 ### 1.2 Circles
 
-A **_“Circle”_** is a Role that may further break itself down by defining its own contained Roles to achieve its Purpose, control its Domains, and enact its Accountabilities. The Roles a Circle defines are its **_“Defined Roles”_**, and anyone filling one of its Defined Roles is a **_“Circle Member”_** of that Circle.
+A **_“Circle”_** is a Role that may further break itself down by defining its own contained Roles to achieve its Purpose, control its Domains, and enact its Accountabilities. The Roles a Circle defines are its **_“Defined Roles”_**.
 
 A Circle may also contain **_“Policies”_**, which are either grants of authority that allow others to control or cause a material impact within one of the Circle's Domains, or limits on how others may do so when otherwise authorized. Solely for the purpose of limiting a Circle’s own Roles, each Circle has an automatic Domain over its own internal functions and activities.
 
-The collection of Roles and Policies within a Circle make up its acting **_“Governance”_**. The Circle Members of a Circle will use the **_“Governance Process”_** described in Article 3 of this Constitution to define or amend the Circle's Governance. No one may define or amend a Circle’s Governance outside of its Governance Process, unless explicitly allowed by another rule of this Constitution
+The collection of Roles and Policies within a Circle make up its acting **_“Governance”_**. No one may change the Governance of a Circle except through the **_“Governance Process”_** described in Article 3 or the process for defining an initial Governance structure described in Article 4.
 
 #### 1.2.1 Delegating Domains
 
@@ -203,8 +203,8 @@ You have a duty to provide transparency in any of the following areas upon reque
 - **(a) Projects & Next-Actions:** You must share any Projects and Next-Actions you are tracking for your Roles.
 - **(b) Relative Priority:** You must share your judgment of the relative priority of any Projects or Next-Actions tracked for your Roles vs. any other potential activities competing for your attention or resources.
 - **(c) Projections:** You must provide a projection of the date you expect to complete any Project or Next-Action tracked for any of your Roles. A rough estimate is sufficient, considering your current context and priorities, but without detailed analysis or planning. This projection is not a binding commitment in any way, and unless Governance says otherwise, you have no duty to track the projection, manage your work to achieve it, or follow-up with the recipient if something changes.
-- **(d) Checklist Items:** You must verify whether you have completed any regular, recurring actions that you routinely perform in service of your Roles or your duties as a Circle Member or Partner of the Organization. If explicitly requested, you must continue to share these verifications regularly for the specific recurring actions so requested, until you determine they are no longer relevant or useful.
-- **(e) Metrics:** You must publish any metrics related to the work of your role or your duties as a Circle Member or Partner of the Organization, if you have access to the requested data without significant overhead beyond what's otherwise required of you. If explicitly requested, you must continue to share these metrics regularly, until you determine they are no longer relevant or useful.
+- **(d) Checklist Items:** You must verify whether you have completed any regular, recurring actions that you routinely perform in service of your Roles or your other duties to the Organization. If explicitly requested, you must continue to share these verifications regularly for the specific recurring actions so requested, until you determine they are no longer relevant or useful.
+- **(e) Metrics:** You must publish any metrics related to the work of your role or your other duties to the Organization, if you have access to the requested data without significant overhead beyond what's otherwise required of you. If explicitly requested, you must continue to share these metrics regularly, until you determine they are no longer relevant or useful.
 - **(f) Progress Updates:** You must share a brief summary of progress you've made towards any Accountability or Project of one of your Roles since the last update you published or shared with the requester. If explicitly requested, you must continue to share these updates regularly for the specific Accountability or Project so requested, until you determine they are no longer relevant or useful.
 
 #### 2.3.2 Duty of Processing
@@ -442,7 +442,7 @@ A Secretary may only contradict previously published logic or interpretations on
 
 #### 3.4.4 Striking Invalid Governance
 
-Any Circle Member of a Circle may ask its Secretary to rule on the validity of any Governance of the Circle or any Role or Sub-Circle ultimately contained by the Circle. Upon such a request, if the Secretary concludes the Governance conflicts with the rules of this Constitution, the Secretary must then strike the offending Governance from the acting Governance record. After doing so, the Secretary must promptly communicate what was struck and why to all Partners filling Roles within the Circle that held the offending Governance.
+Anyone filling a Role in a Circle may ask its Secretary to rule on the validity of any Governance of the Circle or any Role or Sub-Circle ultimately contained by the Circle. Upon such a request, if the Secretary concludes the Governance conflicts with the rules of this Constitution, the Secretary must then strike the offending Governance from the acting Governance record. After doing so, the Secretary must promptly communicate what was struck and why to all Partners filling Roles within the Circle that held the offending Governance.
 
 
 ## Article 4: Adoption Matters
