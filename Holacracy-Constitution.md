@@ -298,17 +298,15 @@ Only these outputs are valid Governance for a Circle; no one may capture other o
 
 ### 3.2 Changing Governance
 
-Any Role Representative of a Role within a Circle may propose changing its Governance, thus making a **_“Proposal”_** as a **_“Proposer”_**. The Proposer must make this Proposal to the Role Representatives of all Roles within the Circle, who become the participants in the Governance Process for resolving this Proposal.
+Any Role Representative within a Circle may propose changing its Governance by circulating a **_“Proposal”_** to all other Role Representatives within the Circle, thus acting as **_“Proposer”_**. Before the Proposal is adopted, those other Role Representatives must have the opportunity to raise Tensions about adopting the Proposal. Each Tension so raised is considered an **_“Objection”_** if it meets the criteria defined herein, and the person who raised it becomes the **_“Objector”_**.
 
-Before a Proposal is adopted, all participants must have the opportunity to raise Tensions about adopting the Proposal. Each Tension so raised is considered an **_“Objection”_** if it meets the criteria defined in this section, and the person who raised it becomes the **_“Objector”_**.
-
-Proposals are considered adopted and amend the Governance of the Circle only if no Objections are so raised. If Objections are raised, the Proposer and each Objector must find a way to address the Objections before the Circle may adopt the Proposal, after which all participants must have another opportunity to raise further Objections before the Proposal is adopted.
+Proposals are considered adopted and amend Governance only once no Objections are so raised. If Objections are raised, the Proposer and each Objector must find a way to address the Objections before the Proposal is adopted. After any such effort, all Role Representatives within the Circle must have another opportunity to raise further Objections to the Proposal before its adoption.
 
 #### 3.2.1 Making Proposals
 
 A Proposer may make a Proposal within a **_“Governance Meeting”_** of the Circle.
 
-Alternatively, a Proposer may distribute a Proposal to all required participants asynchronously, outside of a Governance Meeting, using any written communication channel approved for this purpose by the Circle’s Secretary. When this happens, the Facilitator may either apply the same process and rules used within a Governance Meeting, or may allow each participant to directly declare whether or not he or she has Objections to integrate. Further, at any point before an asynchronous Proposal is adopted, any participant may stop the asynchronous processing by requesting the Proposer escalate the Proposal to a Governance Meeting, and notifying the Circle’s Secretary.
+Alternatively, a Proposer may distribute a Proposal to all required Role Representatives asynchronously, outside of a Governance Meeting, using any written communication channel approved for this purpose by the Circle’s Secretary. When this happens, the Facilitator may either apply the same process and rules used within a Governance Meeting, or may allow each participant to directly declare whether or not he or she has Objections to integrate. Further, at any point before an asynchronous Proposal is adopted, any participant may stop the asynchronous processing by requesting the Proposer escalate the Proposal to a Governance Meeting, and notifying the Circle’s Secretary.
 
 A Circle may adopt Policies to further constrain when or how Proposals may be made or processed outside of a Governance Meeting. However, no Policy may limit the right to stop asynchronous processing by escalating to a Governance Meeting. A Circle may also use a Policy to create a time limit for responding to asynchronous Proposals, upon which any asynchronous Proposal is automatically adopted if no Objections or escalation requests are raised.
 
@@ -366,7 +364,7 @@ The Facilitator is responsible for presiding over all Governance Meetings in ali
 
 The Role Representatives of all Roles within a Circle are entitled to fully participate in all Governance Meetings of a Circle. The acting Facilitator and Secretary are also entitled to fully participate for the duration of a Governance Meeting, even if they are not normally Role Representatives within the Circle.
 
-In addition, as a Lead Link or Rep Link into a Circle, you may invite someone into that Circle's Governance Meeting, and your invited guest becomes a full participant for the duration of the Governance Meeting or until you withdraw the invitation. You may only extend this invitation to one person at a time, and only to aid in the processing of a specific Tension affecting the entity you are linked from. You must sense this Tension yourself as well, and believe it makes sense to process in the Circle. If these conditions are met, your guest can represent your link Role in the Governance Meeting, but only while directly processing that specific Tension.
+In addition, as a Lead Link or Rep Link into a Circle, you may invite someone into that Circle's Governance Meeting, and your invited guest becomes a full participant for the duration of the Governance Meeting or until you withdraw the invitation. You may only extend this invitation to one person at a time, and only to aid in the processing of a specific Tension affecting the entity you are linked from. You must sense this Tension yourself as well, and believe it makes sense to process in the Circle. If these conditions are met, your guest becomes a Role Representative for your link Role in the Governance Meeting, but only while directly processing that specific Tension.
 
 Beyond the above, no one else is allowed to participate in a Circle’s Governance Meetings unless explicitly invited by a Policy of the Circle.
 
