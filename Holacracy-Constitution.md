@@ -52,42 +52,11 @@ A Circle may not add Accountabilities or other functions to its own Lead Link Ro
 
 However, a Circle may remove any Accountabilities, Domains, authorities, or functions of its Lead Link Role, either by placing them on another Role within the Circle, or by defining an alternate means of enacting them. When this occurs, it automatically removes the relevant element or authority from the Lead Link Role, for as long as the delegation remains in place.
 
-### 1.4 Role Assignment
-
-The Lead Link of a Circle may assign people to fill the Roles defined by that Circle and may revoke these assignments at any time, unless these authorities have been limited or delegated.
-
-#### 1.4.1 Unfilled Roles
-
-Whenever a Role defined by a Circle is unfilled, the person in the Role that holds a Domain on assignments into the unfilled Role is automatically considered to fill it until a new assignment is made.
-
-#### 1.4.2 Assigning Roles to Multiple People
-
-A Lead Link may assign multiple people to a single Role defined by the Circle, as long as that will not decrease the clarity of who should enact the Accountabilities and authorities of the Role in common situations.
-
-As one way of maintaining that clarity, a Lead Link may specify a “Focus” along with each assignment, which is an area or context for that person to focus within while executing in the Role.
-
-When a Role assignment includes a Focus, the Purpose, Accountabilities, and Domains defined for the Role apply just within the specified Focus for that particular person.
-
-#### 1.4.3 Resignation from Roles
-
-When you fill a Role, you may resign from the Role at any time, unless you’ve agreed otherwise, by giving notice to whoever controls assignments to that Role – typically, the Circle’s Lead Link.
-
-### 1.5 Role Representatives
-
-Each Role has one or more **_“Role Representatives”_** who will represent the Role within the Governance Process. By default, all Partners who fill a Role become its Role Representatives. However, the following exclusions may reduce this default representation:
-
-- **(a) For Multi-Filled Roles:** If multiple Partners are assigned to the same Role in a Circle, the Circle may enact a Policy that limits how many of them are its Role Representatives. However, the Policy must allow at least one of the Partners filling the Role to be its Role Representative, and must specify how that representative will be determined.
-- **(b) For Minor Allocations:** If the Role that controls assignment into another Role reasonably believes that other Role only requires a minor, nearly insignificant amount of attention from a Partner to fill effectively, they may exclude that Partner from serving as a Role Representative for that Role.
-
-If a Role defined by a Circle has no Role Representative for any reason, the Lead Link of that Circle becomes the Role Representative for that Role until another is in place.
-
-In any case, a Role Representative has the accountabilities of a Rep Link towards anyone filling the Role who is not a Role Representative, as if the Role were a Sub-Circle, unless relevant Governance creates an alternate pathway to provide a comparable function.
-
-### 1.6 Elected Roles
+### 1.4 Elected Roles
 
 Each Circle includes a **_“Facilitator Role”_**, a **_“Secretary Role”_**, and a **_“Rep Link Role”_** with the definitions given in Appendix A. These are the Circle’s **_“Elected Roles”_**, and the person filling each becomes the Circle’s **_“Facilitator”_**, **_“Secretary”_**, or **_“Rep Link”_** when acting in the capacity of the Elected Role.
 
-#### 1.6.1 Elections & Eligibility
+#### 1.4.1 Elections & Eligibility
 
 The Facilitator of each Circle will facilitate regular elections to elect a Partner into each of its Elected Roles, using the process and rules defined in Article 3.
 
@@ -95,19 +64,15 @@ All Partners who fill an unelected Role within the Circle are eligible for elect
 
 A Partner may hold multiple Elected Roles in a Circle.
 
-#### 1.6.2 Election Terms & Revisiting
+#### 1.4.2 Election Terms & Revisiting
 
-During the election process, the Facilitator will specify a term for each election. After a term expires, the Secretary is responsible for promptly triggering a new election for that Elected Role. However, even before a term has expired, any Role Representative of a Role within the Circle may trigger a new election using the process defined in Article 3.
+During the election process, the Facilitator will specify a term for each election. After a term expires, the Secretary is responsible for promptly triggering a new election for that Elected Role. However, even before a term has expired, any participant in the Circle's Governance Process may trigger a new election at any time, using the process defined in Article 3.
 
-#### 1.6.3 Amending Elected Roles
+#### 1.4.3 Amending Elected Roles
 
-A Circle may add Accountabilities or Domains to its Elected Roles, as well as amend or remove those additions.
+A Circle may add Accountabilities or Domains to its own Elected Roles, as well as amend or remove those additions. However, no Circle may amend or remove any Purpose, Domain, Accountabilities, or authorities granted to an Elected Role by this Constitution, nor remove an Elected Role entirely.
 
-However, a Circle may only add to its own Rep Link Role and not to a Rep Link Role appointed to the Circle by a Sub-Circle.
-
-Further, no Circle may amend or remove any Purpose, Domain, Accountabilities, or authorities granted to an Elected Role by this Constitution, nor remove an Elected Role entirely.
-
-#### 1.6.4 Surrogates for Facilitator & Secretary
+#### 1.4.4 Surrogates for Facilitator & Secretary
 
 A surrogate may temporarily act as Facilitator or Secretary if the Role is unfilled, or when the person who normally fills the Role is unavailable for a Circle meeting or feels unable or unwilling to enact the Role’s duties.
 
@@ -117,6 +82,37 @@ In any given instance where a surrogate is needed, the surrogate is, in this ord
 - **(b)** for Facilitator, the acting Secretary of the Circle, and for Secretary, the acting Facilitator of the Circle;
 - **(c)** the Lead Link of the Circle; or
 - **(d)** the first Partner to declare he or she is acting as the surrogate.
+
+### 1.5 Role Assignment
+
+The Lead Link of a Circle may assign people to fill the Roles defined by that Circle and may revoke these assignments at any time, unless these authorities have been limited or delegated.
+
+#### 1.5.1 Unfilled Roles
+
+Whenever a Role defined by a Circle is unfilled, the person in the Role that holds a Domain on assignments into the unfilled Role is automatically considered to fill it until a new assignment is made.
+
+#### 1.5.2 Assigning Roles to Multiple People
+
+A Lead Link may assign multiple people to a single Role defined by the Circle, as long as that will not decrease the clarity of who should enact the Accountabilities and authorities of the Role in common situations.
+
+As one way of maintaining that clarity, a Lead Link may specify a “Focus” along with each assignment, which is an area or context for that person to focus within while executing in the Role.
+
+When a Role assignment includes a Focus, the Purpose, Accountabilities, and Domains defined for the Role apply just within the specified Focus for that particular person.
+
+#### 1.5.3 Resignation from Roles
+
+When you fill a Role, you may resign from the Role at any time, unless you’ve agreed otherwise, by giving notice to whoever controls assignments to that Role.
+
+### 1.6 Role Representatives
+
+Each Role has one or more **_“Role Representatives”_** who will represent the Role within the Governance Process. By default, all Partners who fill a Role become its Role Representatives. However, the following exclusions may reduce this default representation:
+
+- **(a) For Multi-Filled Roles:** If multiple Partners are assigned to the same Role in a Circle, the Circle may enact a Policy that limits how many of them are its Role Representatives. However, the Policy must allow at least one of the Partners filling the Role to be its Role Representative, and must specify how that representative will be determined.
+- **(b) For Minor Allocations:** If the Role that controls assignment into another Role reasonably believes that other Role only requires a minor, nearly insignificant amount of attention from a Partner to fill effectively, they may exclude that Partner from serving as a Role Representative for that Role.
+
+If a Role defined by a Circle has no Role Representative for any reason, the Lead Link of that Circle becomes the Role Representative for that Role until another is in place.
+
+In any case, a Role Representative has the accountabilities of a Rep Link towards anyone filling the Role who is not a Role Representative, as if the Role were a Sub-Circle, unless relevant Governance creates an alternate pathway to provide a comparable function.
 
 ### 1.7 Sub-Circles
 
