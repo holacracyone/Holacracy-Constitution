@@ -18,7 +18,7 @@ The Organization’s Partners will typically perform work for the Organization b
 
 ### 1.2 Circles
 
-A **_“Circle”_** is a Role that may further break itself down by defining its own contained Roles to achieve its Purpose, control its Domains, and enact its Accountabilities. The Roles a Circle defines are its **_“Defined Roles”_**.
+A **_“Circle”_** is a Role that may further break itself down by defining its own contained Roles to achieve its Purpose, control its Domains, and enact its Accountabilities.
 
 A Circle may also contain **_“Policies”_**, which are either grants of authority that allow others to control or cause a material impact within one of the Circle's Domains, or limits on how others may do so when otherwise authorized. Solely for the purpose of limiting a Circle’s own Roles, each Circle has an automatic Domain over its own internal functions and activities.
 
@@ -54,15 +54,15 @@ However, a Circle may remove any Accountabilities, Domains, authorities, or func
 
 ### 1.4 Role Assignment
 
-The Lead Link of a Circle may assign people to fill Defined Roles in the Circle and revoke these assignments at any time, unless these authorities have been limited or delegated.
+The Lead Link of a Circle may assign people to fill the Roles defined by that Circle and may revoke these assignments at any time, unless these authorities have been limited or delegated.
 
 #### 1.4.1 Unfilled Roles
 
-Whenever a Defined Role in a Circle is unfilled, the person in the Role that holds a Domain on assignments into the unfilled Role is automatically considered to fill it until a new assignment is made.
+Whenever a Role defined by a Circle is unfilled, the person in the Role that holds a Domain on assignments into the unfilled Role is automatically considered to fill it until a new assignment is made.
 
 #### 1.4.2 Assigning Roles to Multiple People
 
-A Lead Link may assign multiple people to the same Defined Role, as long as that will not decrease the clarity of who should enact the Accountabilities and authorities of the Role in common situations.
+A Lead Link may assign multiple people to a single Role defined by the Circle, as long as that will not decrease the clarity of who should enact the Accountabilities and authorities of the Role in common situations.
 
 As one way of maintaining that clarity, a Lead Link may specify a “Focus” along with each assignment, which is an area or context for that person to focus within while executing in the Role.
 
@@ -77,9 +77,9 @@ When you fill a Role, you may resign from the Role at any time, unless you’ve 
 Each Role has one or more **_“Role Representatives”_** who will represent the Role within the Governance Process. By default, all Partners who fill a Role become its Role Representatives. However, the following exclusions may reduce this default representation:
 
 - **(a) For Multi-Filled Roles:** If multiple Partners are assigned to the same Role in a Circle, the Circle may enact a Policy that limits how many of them are its Role Representatives. However, the Policy must allow at least one of the Partners filling the Role to be its Role Representative, and must specify how that representative will be determined.
-- **(b) For Minor Allocations:** If a Circle's Lead Link reasonably believes a Defined Role in the Circle only requires a minor, nearly insignificant amount of attention from a Partner to fill effectively, the Lead Link may exclude that Partner from serving as a Role Representative for that Role.
+- **(b) For Minor Allocations:** If the Role that controls assignment into another Role reasonably believes that other Role only requires a minor, nearly insignificant amount of attention from a Partner to fill effectively, they may exclude that Partner from serving as a Role Representative for that Role.
 
-If a Defined Role of a Circle has no Role Representative for any reason, the Lead Link of that Circle becomes the Role Representative for that Role until another is in place.
+If a Role defined by a Circle has no Role Representative for any reason, the Lead Link of that Circle becomes the Role Representative for that Role until another is in place.
 
 In any case, a Role Representative has the accountabilities of a Rep Link towards anyone filling the Role who is not a Role Representative, as if the Role were a Sub-Circle, unless relevant Governance creates an alternate pathway to provide a comparable function.
 
@@ -120,21 +120,21 @@ In any given instance where a surrogate is needed, the surrogate is, in this ord
 
 ### 1.7 Sub-Circles
 
-A Circle may expand its Defined Roles into full Circles, via its Governance Process. When it does, the new Circle becomes its **_“Sub-Circle”_**, while it becomes the **_“Super-Circle”_** of that new Sub-Circle.
+A Circle may expand its defined Roles into full Circles, via its Governance Process. When it does, the new Circle becomes its **_“Sub-Circle”_**, while it becomes the **_“Super-Circle”_** of that new Sub-Circle.
 
 #### 1.7.1 Modifying Sub-Circles
 
 Through its Governance Process, a Circle may:
 
 - **(a)** modify the Purpose, Domains, or Accountabilities of a Sub-Circle; or
-- **(b)** move its own Defined Roles or Policies into a Sub-Circle, or move any from within the Sub-Circle into itself; or
+- **(b)** move its own defined Roles or Policies into a Sub-Circle, or move any from within the Sub-Circle into itself; or
 - **(c)** remove a Sub-Circle entirely, or collapse it from a Circle back into just a Role.
 
-Beyond these allowed changes, a Circle may not modify any Defined Roles or Policies held within a Sub-Circle.
+Beyond these allowed changes, a Circle may not modify any Roles or Policies held within a Sub-Circle.
 
 #### 1.7.2 Links Between Circles
 
-A Circle’s Lead Link may assign someone to fill the Lead Link Role for each Sub-Circle, using the same rules that apply when the Lead Link assigns into any other Defined Role of the Circle.
+A Circle’s Lead Link may assign someone to fill the Lead Link Role for each Sub-Circle, using the same rules that apply when the Lead Link assigns into any other Role defined by the Circle.
 
 Each Circle may elect a Rep Link to its Super-Circle.
 
@@ -254,7 +254,7 @@ A Policy may specify an alternate process or amend this default process for any 
 
 #### 2.5.3 Surrogate for Absent Members
 
-If a Defined Role invited to a Tactical Meeting is unrepresented in the meeting for any reason, the Lead Link of the Circle holding that Role may act within that Role to cover the gap. If the Lead Link is also unrepresented, any Next-Actions or Projects captured for the Role become requests for the Role to process after the meeting.
+If an unelected Role invited to a Tactical Meeting is unrepresented in the meeting for any reason, the Lead Link of the Circle holding that Role may act within that Role to cover the gap. If the Lead Link is also unrepresented, any Next-Actions or Projects captured for the Role become requests for the Role to process after the meeting.
 
 ### 2.6 Individual Action
 
@@ -362,7 +362,7 @@ The Facilitator is responsible for presiding over all Governance Meetings in ali
 
 #### 3.3.1 Attendance
 
-The Role Representatives of all Roles within a Circle are entitled to fully participate in all Governance Meetings of a Circle. The acting Facilitator and Secretary are also entitled to fully participate for the duration of a Governance Meeting, even if they are not normally Role Representatives within the Circle.
+The Role Representatives of all Roles within a Circle are entitled to fully participate in all Governance Meetings of a Circle. The acting Facilitator and Secretary are also entitled to fully participate for the duration of a Governance Meeting and become Role Representatives of those Roles, even if they are not normally Role Representatives within the Circle.
 
 In addition, as a Lead Link or Rep Link into a Circle, you may invite someone into that Circle's Governance Meeting, and your invited guest becomes a full participant for the duration of the Governance Meeting or until you withdraw the invitation. You may only extend this invitation to one person at a time, and only to aid in the processing of a specific Tension affecting the entity you are linked from. You must sense this Tension yourself as well, and believe it makes sense to process in the Circle. If these conditions are met, your guest becomes a Role Representative for your link Role in the Governance Meeting, but only while directly processing that specific Tension.
 
