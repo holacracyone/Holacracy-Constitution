@@ -112,7 +112,7 @@ Each Role has one or more **_“Role Representatives”_** who will represent th
 
 If a Role defined by a Circle has no Role Representative for any reason, the Lead Link of that Circle becomes the Role Representative for that Role until another is in place.
 
-In any case, a Role Representative has the accountabilities of a Rep Link towards anyone filling the Role who is not a Role Representative, as if the Role were a Sub-Circle, unless relevant Governance creates an alternate pathway to provide a comparable function.
+In any case, a Role Representative represents the Role as a Rep Link for anyone filling that Role who is not a Role Representative, unless relevant Governance creates an alternate pathway to provide a comparable function.
 
 ### 1.7 Sub-Circles
 
@@ -128,7 +128,7 @@ Through its Governance Process, a Circle may:
 
 Beyond these allowed changes, a Circle may not modify any Roles or Policies held within a Sub-Circle.
 
-#### 1.7.2 Links Between Circles
+#### 1.7.2 Links & Sub-Circles
 
 A Circle’s Lead Link may assign someone to fill the Lead Link Role for each Sub-Circle, using the same rules that apply when the Lead Link assigns into any other Role defined by the Circle.
 
