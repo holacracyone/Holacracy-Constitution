@@ -93,7 +93,7 @@ Whenever a Role defined by a Circle is unfilled, the person in the Role that hol
 
 #### 1.5.2 Assigning Roles to Multiple People
 
-Multiple people may be assigned to simultaneously fill an unelected Role, as long as that will not decrease the clarity of who should enact the Accountabilities and authorities of the Role in common situations.
+Multiple people may be assigned to simultaneously fill any Role defined by the Circle, as long as that will not decrease the clarity of who should enact the Accountabilities and authorities of the Role in common situations.
 
 As one way of maintaining that clarity, a Lead Link may specify a “Focus” along with each assignment, which is an area or context for that person to focus within while executing in the Role.
 
