@@ -14,7 +14,7 @@ The Organization’s Partners will typically perform work for the Organization b
 
 - **(a)** a **_“Purpose”_**, which is a capacity, potential, or unrealizable goal that the Role will pursue or express on behalf of the Organization.
 - **(b)** one or more **_“Domains”_**, which are things the Role may exclusively control and regulate as its property, on behalf of the Organization.
-- **(c)** one or more **_“Accountabilities”_**, which are ongoing activities the Role will enact, either in service of its own Purpose or to support other Roles in the Organization.
+- **(c)** one or more **_“Accountabilities”_**, which are ongoing activities the Role will enact, either in service of other Roles in the Organization or to support its own Purpose.
 
 ### 1.2 Circles
 
