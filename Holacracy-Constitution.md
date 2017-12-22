@@ -24,7 +24,19 @@ A Circle may also contain **_“Policies”_**, which are either grants of autho
 
 The collection of Roles and Policies within a Circle make up its acting **_“Governance”_**. No one may change the Governance of a Circle except through the **_“Governance Process”_** described in Article 3 or the process for defining an initial Governance structure described in Article 4.
 
-#### 1.2.1 Delegating Domains
+#### 1.2.1 Sub-Circles
+
+A Circle may expand its defined Roles into full Circles, via its Governance Process. When it does, the new Circle becomes its **_“Sub-Circle”_**, while it becomes the **_“Super-Circle”_** of that new Sub-Circle.
+
+Through its Governance Process, a Circle may also:
+
+- **(a)** modify the Purpose, Domains, or Accountabilities of a Sub-Circle; or
+- **(b)** move its own defined Roles or Policies into a Sub-Circle, or move any from within the Sub-Circle into itself; or
+- **(c)** remove a Sub-Circle entirely, or collapse it from a Circle back into just a Role.
+
+Beyond these allowed changes, a Circle may not modify any Roles or Policies held within a Sub-Circle.
+
+#### 1.2.2 Delegating Domains
 
 When a Circle grants a Domain to one of its Roles, a Partner filling that Role may control that Domain on behalf of the Circle, including defining Policies for that Domain outside of the Circle's Governance Process. The Circle retains the right to amend or remove any such Domain delegations, or to define or modify Policies acting upon that Domain itself. Any such Policies defined by the Circle trump any Policies defined by the Role, and these Circle-level Policies may only be modified through the Circle's Governance Process.
 
@@ -60,7 +72,7 @@ Each Circle includes a **_“Facilitator Role”_**, a **_“Secretary Role”_*
 
 The Facilitator of each Circle will facilitate elections to elect a Partner into each of its Elected Roles, using the process and rules defined in Article 3.
 
-All Partners who fill an unelected Role within the Circle are eligible for election into its Elected Roles, except for the Lead Link of a Circle, who may not be elected as its Facilitator or Rep Link.
+Partners who fill an unelected Role within the Circle are eligible for election into its Elected Roles, except for the Lead Link of a Circle, who may not be elected as its Facilitator or Rep Link. A Policy of the Circle or any Super-Circle ultimately containing the Circle may allow additional candidates.
 
 A Partner may hold multiple Elected Roles in a Circle.
 
@@ -85,7 +97,7 @@ In any given instance where a surrogate is needed, the surrogate is, in this ord
 
 ### 1.5 Role Assignment
 
-The Lead Link of a Circle may assign people to fill the Roles defined by that Circle and may revoke these assignments at any time, unless these authorities have been limited or delegated.
+The Lead Link of a Circle may assign people to fill the Roles defined by that Circle and may revoke these assignments at any time, unless these authorities have been limited or delegated. A Circle’s Lead Link may also assign someone to fill the Lead Link Role for each Sub-Circle, using the same rules that apply when the Lead Link assigns into any other Role defined by the Circle.
 
 #### 1.5.1 Unfilled Roles
 
@@ -114,29 +126,11 @@ If a Role defined by a Circle has no Role Representative for any reason, the Lea
 
 In any case, a Role Representative represents the Role as a Rep Link for anyone filling that Role who is not a Role Representative, unless relevant Governance creates an alternate pathway to provide a comparable function.
 
-### 1.7 Sub-Circles
-
-A Circle may expand its defined Roles into full Circles, via its Governance Process. When it does, the new Circle becomes its **_“Sub-Circle”_**, while it becomes the **_“Super-Circle”_** of that new Sub-Circle.
-
-#### 1.7.1 Modifying Sub-Circles
-
-Through its Governance Process, a Circle may:
-
-- **(a)** modify the Purpose, Domains, or Accountabilities of a Sub-Circle; or
-- **(b)** move its own defined Roles or Policies into a Sub-Circle, or move any from within the Sub-Circle into itself; or
-- **(c)** remove a Sub-Circle entirely, or collapse it from a Circle back into just a Role.
-
-Beyond these allowed changes, a Circle may not modify any Roles or Policies held within a Sub-Circle.
-
-#### 1.7.2 Links & Sub-Circles
-
-A Circle’s Lead Link may assign someone to fill the Lead Link Role for each Sub-Circle, using the same rules that apply when the Lead Link assigns into any other Role defined by the Circle.
-
-Each Circle may elect a Rep Link to its Super-Circle.
+#### 1.6.1 Representing Sub-Circles
 
 Both the Lead Link of the Sub-Circle and the Rep Link elected by the Sub-Circle become Role Representatives for the Sub-Circle within the Circle. However, only the Lead Link holds the responsibilities that come with the Sub-Circle's Purpose and Accountabilities.
 
-### 1.8 Inviting Outsiders into Circles
+#### 1.6.2 Inviting Outsiders into Circles
 
 A Circle may adopt a Policy to invite an external Role to participate in its Governance Process, or to require one of its Sub-Circles to do so. While such a Policy exists, the Role Representatives of the invited Role may participate in the Governance Process of the specified Circle, as if the invited Role was also within that Circle.
 
