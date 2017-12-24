@@ -74,8 +74,6 @@ The Facilitator of each Circle will facilitate elections to elect a Partner into
 
 Partners who fill an unelected Role within a Circle are the only candidates eligible for election into its Elected Roles, except for the Lead Link, who may not serve as the Circle's Rep Link. A Policy of the Circle or any Super-Circle ultimately containing the Circle may allow additional candidates or further limit the candidates eligible for election.
 
-A Partner may hold multiple Elected Roles in a Circle.
-
 #### 1.4.2 Election Terms & Revisiting
 
 During the election process, the Facilitator will specify a term for each election. After a term expires, the Secretary is responsible for promptly triggering a new election for that Elected Role. However, even before a term has expired, any participant in the Circle's Governance Process may trigger a new election at any time, using the process defined in Article 3.
