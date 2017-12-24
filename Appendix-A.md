@@ -14,7 +14,7 @@ _The Lead Link holds the Purpose of the overall Circle._
 
 **Accountabilities:**
 
-- Structuring the Governance of the Circle to enact its Purpose and Accountabilities
+- Defining Roles via the Circle's Governance process to enact its Purpose and Accountabilities
 - Assigning Partners to the Circle’s Roles; monitoring the fit; offering feedback to enhance fit; and re-assigning Roles to other Partners when useful for enhancing fit
 - Allocating the Circle’s resources across its various Projects and/or Roles
 - Judging the relative priority of Circle efforts on request to resolve priority conflicts across Roles
