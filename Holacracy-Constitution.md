@@ -356,13 +356,13 @@ In addition, as a Lead Link or Rep Link into a Circle, you may invite someone in
 
 Beyond the above, no one else is allowed to participate in a Circle’s Governance Meetings unless explicitly invited by a Policy of the Circle.
 
-#### 3.3.2 Notice & Quorum
+#### 3.3.2 Notice & Duration
 
-A Circle may only conduct its Governance Process in a meeting if the Secretary has given all authorized participants reasonable advance notice that a Governance Meeting will be held, including its time and location.
+A Circle may only conduct its Governance Process in a meeting if the Secretary has given all authorized participants reasonable advance notice that a Governance Meeting will be held, including its time, duration, and location. Beyond this notice requirement, there is no quorum required for a Circle to conduct a Governance Meeting, unless one is specified by a Policy of the Circle.
 
-Beyond this notice requirement, there is no quorum required for a Circle to conduct a Governance Meeting, unless one is specified by a Policy of the Circle.
+Governance Meetings end once they reach the duration initially set by the Secretary. The Secretary may choose to extend the meeting duration within the meeting, but only if no participant requests otherwise.
 
-Anyone who does not attend a Governance Meeting counts as having fully participated without raising Objections to any Proposals made within the meeting.
+Anyone who does not attend a Governance Meeting or who leaves early counts as having fully participated without raising Objections to any Proposals made in their absence.
 
 #### 3.3.3 Meeting Process
 
