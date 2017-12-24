@@ -485,7 +485,7 @@ The Facilitator of a Circle may declare a Process Breakdown in the Circle if the
 
 #### 4.5.2 Breakdown from Unconstitutional Behavior
 
-The Facilitator of a Circle may declare a Process Breakdown within that Circle or one of its Sub-Circles upon discovering a pattern of behavior or outputs within the Sub-Circle that conflict with the rules of this Constitution. However, if that Facilitator is also the Lead Link or Facilitator of a Sub-Circle, then for that Sub-Circle the Secretary or Rep Link of its Super-Circle may also make this declaration.
+The Facilitator or Secretary of a Circle may declare a Process Breakdown within that Circle or one of its Sub-Circles upon discovering a pattern of behavior or outputs that conflicts with the rules of this Constitution.
 
 #### 4.5.3 Process Restoration
 
@@ -495,7 +495,7 @@ Whenever an authorized party declares a Process Breakdown within a Circle, the f
 - **(b)** the Facilitator of the Super-Circle gains the authority to take over as Facilitator or Secretary of the Circle, or to appoint someone else to do so; and
 - **(c)** the Facilitator of the Circle gains the authority to judge the accuracy of any arguments presented to validate Proposals or Objections within the Circle’s Governance Process.
 
-These authorities are temporary and cease as soon as the Facilitator of the Super-Circle concludes that due process has been restored within the Circle.
+These authorities are temporary and cease as soon as the Facilitator of the Super-Circle concludes that due process has been restored within the Circle. If there is no Super-Circle of the Circle experiencing a Process Breakdown, then all of these powers instead vest with the Facilitator of the Circle itself.
 
 #### 4.5.4 Escalation of Process Breakdown
 
