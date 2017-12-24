@@ -72,7 +72,7 @@ Each Circle includes a **_“Facilitator Role”_**, a **_“Secretary Role”_*
 
 The Facilitator of each Circle will facilitate elections to elect a Partner into each of its Elected Roles, using the process and rules defined in Article 3.
 
-Partners who fill an unelected Role within the Circle are eligible for election into its Elected Roles, except for the Lead Link of a Circle, who may not be elected as its Facilitator or Rep Link. A Policy of the Circle or any Super-Circle ultimately containing the Circle may allow additional candidates.
+Partners who fill an unelected Role within the Circle are eligible for election into its Elected Roles, except for the Lead Link of a Circle, who may not be elected as its Facilitator or Rep Link. A Policy of the Circle or any Super-Circle ultimately containing the Circle may allow additional candidates or further limit candidates.
 
 A Partner may hold multiple Elected Roles in a Circle.
 
