@@ -18,7 +18,6 @@ _The Lead Link holds the Purpose of the overall Circle._
 - Assigning Partners to the Circle’s Roles, monitoring the fit, and re-assigning Roles to other Partners to optimize fit
 - Allocating the Circle’s resources across its various Projects and/or Roles
 - Judging the relative priority of Circle efforts on request to resolve priority conflicts across Roles
-- Removing constraints within the Circle to the Super-Circle enacting its Purpose and Accountabilities
 
 _The Lead Link also holds all un-delegated Circle-level Domains and Accountabilities._
 
