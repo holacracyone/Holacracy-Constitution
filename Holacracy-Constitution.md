@@ -308,14 +308,14 @@ If at any point the Facilitator becomes clear that a Proposal does not meet this
 
 Some Tensions do not count as Objections, and may be ignored during the processing of a Proposal. A Tension only counts as an Objection if it meets **all** of the criteria defined in (a) through (d) below, or the special criteria defined in (e):
 
-- **(a)** If the Tension were unaddressed, the capacity of the Circle to express its Purpose or enact its Accountabilities would degrade. Thus, the Tension is not just triggered by a better idea or a potential for further improvement, but because the Proposal would actually move the Circle backwards in its current capacity. For this criteria, decreasing clarity counts as degrading capacity, although merely failing to improve clarity does not.
-- **(b)** The Tension does not already exist for the Circle even in the absence of the Proposal. Thus, the Tension would be created specifically by adopting the Proposal, and would not exist were the Proposal withdrawn.
+- **(a)** If the Proposal were adopted without addressing the Tension, it would harm the capacity of the Circle to express its Purpose or enact its Accountabilities. Thus, the Tension is not just triggered by a better idea or a potential for further improvement, but because the Proposal would actually reduce the Circle's current capacity. For this criteria, decreasing clarity counts as reducing capacity, although merely failing to improve clarity does not.
+- **(b)** The Tension does not already exist even in the absence of the Proposal. Thus, the Tension would be created specifically by adopting the Proposal, and would not exist were the Proposal withdrawn.
 - **(c)** The Tension is triggered just by presently known facts or events, without regard to a prediction of what might happen in the future. However, relying on predictions is allowed when no opportunity to adequately sense and respond is likely to exist in the future before significant impact could result.
-- **(d)** The Tension limits the Objector's capacity to express the Purpose or an Accountability of a Role in the Circle that the Objector either represents or has received permission to represent from a Role Representative who normally represents the Role.
+- **(d)** The Proposal would limit the Objector's capacity to express the Purpose or an Accountability of a Role in the Circle that the Objector represents, or has permission to represent from a Role Representative who normally represents it.
 
 However, regardless of the above criteria, a Tension about adopting a Proposal always counts as an Objection if:
 
-- **(e)** Processing or adopting the Proposal breaks the rules defined in this Constitution, or prompts the Circle or its members to act outside of the authority granted under this Constitution. For example, Next-Actions, Projects, and specific operational decisions are typically not valid Governance outputs as defined in Section 3.1, so anyone involved could raise an Objection that a Proposal to enact these outputs would violate the rules of the Constitution.
+- **(e)** Processing or adopting the Proposal breaks the rules defined in this Constitution, or requires the Circle or its members to act outside of the authority granted under this Constitution. For example, Next-Actions, Projects, and specific operational decisions are typically not valid Governance outputs as defined in Section 3.1, so anyone involved could raise an Objection that a Proposal to enact these outputs would violate the rules of the Constitution.
 
 #### 3.2.4 Testing Objections
 
