@@ -405,7 +405,7 @@ As a Partner of the Organization, you may use your reasonable judgment to interp
 
 #### 3.4.1 Secretaries May Rule on Interpretation
 
-If your interpretation conflicts with another Partner's, either party may ask the Secretary of any affected Circle to rule on which interpretation to use. Once a Secretary had made such a ruling, it trumps your own and you are responsible for aligning with it until any underlying Governance changes.
+If your interpretation conflicts with another Partner's, either party may ask the Secretary of any affected Circle to rule on which interpretation to use. Once a Secretary has made such a ruling, it trumps your own and you are responsible for aligning with it until any underlying Governance changes.
 
 #### 3.4.2 Super-Circle Secretary May Overrule
 
