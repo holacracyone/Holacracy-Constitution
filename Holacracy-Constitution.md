@@ -300,17 +300,11 @@ A Circle may adopt Policies to further constrain when or how Proposals may be ma
 
 #### 3.2.2 Criteria for Valid Proposals
 
-To be valid for processing, a Proposal must resolve or reduce a Tension sensed by the Proposer and help the Circle better express its Purpose or one of its Accountabilities. In addition, a Proposal must normally help the Proposer better express the Purpose or an Accountability of one of the Proposer’s Roles in the Circle. However, a Proposal may alternatively help another Role Representative better express one of their Roles in the Circle, but only if that person has granted the Proposer permission to represent that Role.
+For a Proposal to be valid for processing, the Proposer must be able to describe a Tension that the Proposer senses, and give an example of an actual past or present situation in which the Proposal would have reduced that Tension. Further, the Proposer must be able to describe how reducing that Tension would help to better express the Purpose or an Accountability of the Circle, and of a Role in the Circle that the Proposer represents or has permission to temporarily represent from a normal Role Representative. However, a Proposal is always valid regardless of the preceding criteria if it is made solely to evolve the Circle’s Governance to more clearly reflect activity that is already happening, or to trigger a new election for any Elected Role.
 
-Finally, a Proposal is always valid regardless of the preceding criteria if it is made solely to help evolve the Circle’s Governance to more clearly reflect activity that is already happening, or to trigger a new election for any Elected Role.
+If at any point the Facilitator becomes clear that a Proposal does not meet this criteria, then the Facilitator must discard the Proposal. However, in making this assessment, the Facilitator may only judge whether the Proposer presented the required example and explanations, and whether they were presented with logical reasoning and are thus reasonable. The Facilitator may not discard a Proposal based on the accuracy of the Proposer's argument, nor on whether the Proposal would adequately address the Tension.
 
-#### 3.2.3 Testing Proposals
-
-The Facilitator may test the validity of a Proposal by asking the Proposer questions. For a Proposal to survive the test, the Proposer must be able to describe the Tension, and give an example of an actual past or present situation in which the Proposal would have reduced that Tension and helped the Circle in one of the ways allowed by the prior section. The Facilitator must discard the Proposal if the Facilitator deems the Proposer has failed to meet this threshold.
-
-However, when assessing the validity of a Proposal, the Facilitator may only judge whether the Proposer presented the required example and explanations, and whether they were presented with logical reasoning and are thus reasonable. The Facilitator may not make a judgment on the basis of their accuracy, nor on whether the Proposal would adequately address the Tension.
-
-#### 3.2.4 Criteria for Valid Objections
+#### 3.2.3 Criteria for Valid Objections
 
 Some Tensions do not count as Objections, and may be ignored during the processing of a Proposal. A Tension only counts as an Objection if it meets **all** of the criteria defined in (a) through (d) below, or the special criteria defined in (e):
 
@@ -323,15 +317,15 @@ However, regardless of the above criteria, a Tension about adopting a Proposal a
 
 - **(e)** Processing or adopting the Proposal breaks the rules defined in this Constitution, or prompts the Circle or its members to act outside of the authority granted under this Constitution. For example, Next-Actions, Projects, and specific operational decisions are typically not valid Governance outputs as defined in Section 3.1, so anyone involved could raise an Objection that a Proposal to enact these outputs would violate the rules of the Constitution.
 
-#### 3.2.5 Testing Objections
+#### 3.2.4 Testing Objections
 
 The Facilitator may test the validity of a claimed Objection by asking the Objector questions. For a claimed Objection to survive the test, the Objector must be able to present a reasonable argument for why it meets each specific criteria required of an Objection. The Facilitator must discard an Objection if the Facilitator deems the Objector has failed to meet this threshold.
 
 When assessing the validity of a claimed Objection, the Facilitator may only judge whether the Objector presented the required arguments, and whether they were presented with logical reasoning and are thus reasonable. The Facilitator may not make a judgment on the basis of an argument’s accuracy or the importance of addressing it.
 
-However, when an Objection is claimed on the basis of a Proposal violating the Constitution, per Section 3.2.4(e), the Facilitator may ask the Circle’s Secretary to interpret if the Proposal does indeed violate the Constitution. If the Secretary rules that it does not, the Facilitator must then dismiss the Objection.
+However, when an Objection is claimed on the basis of a Proposal violating the Constitution, per Section 3.2.3(e), the Facilitator may ask the Circle’s Secretary to interpret if the Proposal does indeed violate the Constitution. If the Secretary rules that it does not, the Facilitator must then dismiss the Objection.
 
-#### 3.2.6 Rules of Integration
+#### 3.2.5 Rules of Integration
 
 When an Objection to a Proposal is raised, the following additional rules apply during the search for a resolution:
 
@@ -392,8 +386,8 @@ The Facilitator must enact the Integrative Decision-Making Process as follows:
 - **(b) Clarifying Questions:** Once the Proposer makes a Proposal, the other participants may ask clarifying questions to better understand the Proposal or the Tension behind it. The Proposer may answer each question, or may decline to do so. The Facilitator must disallow any reactions or opinions expressed about the Proposal, and prevent discussion of any kind. Any participant may also ask the Secretary to read the captured Proposal or clarify any existing Governance, during this step or at any other time when the participant is allowed to speak, and the Secretary must do so.
 - **(c) Reaction Round:** Once there are no further clarifying questions, each participant except the Proposer may share reactions to the Proposal, one person at a time. The Facilitator must immediately stop and disallow any out-of-turn comments, any attempts to engage others in a dialog or exchange of any sort, and any reactions to other reactions instead of to the Proposal.
 - **(d) Amend & Clarify:** After the reaction round, the Proposer may share comments in response to the reactions and make amendments to the Proposal. However, the primary intent of any amendments must be to better address the Proposer’s Tension, and not Tensions raised by others. During this step, the Facilitator must immediately stop and disallow any comments by anyone other than the Proposer or Secretary, and any engagement by the Secretary must focus solely on capturing the amended Proposal.
-- **(e) Objection Round:** Next, each participant, one at a time, may raise potential Objections to adopting the Proposal. The Facilitator must stop and disallow discussion or responses of any sort. The Facilitator may test Objections as described in Section 3.2.5, and must capture any valid Objections that remain after testing. If there are no valid Objections, the Secretary records the Proposal as adopted Governance for the Circle.
-- **(f) Integration:** If there are valid Objections, the Facilitator then facilitates a discussion to amend the Proposal to resolve each Objection, one at a time. The Facilitator marks an Objection as resolved once the Objector confirms that the amended Proposal would not trigger the Objection, and the Proposer confirms that the amended Proposal would still address the Proposer’s Tension. During the discussion, the Facilitator must apply the rules of integration described in Section 3.2.6. Once all captured Objections are addressed, the Facilitator moves back to the Objection round to check for new Objections to the amended Proposal.
+- **(e) Objection Round:** Next, each participant, one at a time, may raise potential Objections to adopting the Proposal. The Facilitator must stop and disallow discussion or responses of any sort. The Facilitator may test Objections as described in Section 3.2.4, and must capture any valid Objections that remain after testing. If there are no valid Objections, the Secretary records the Proposal as adopted Governance for the Circle.
+- **(f) Integration:** If there are valid Objections, the Facilitator then facilitates a discussion to amend the Proposal to resolve each Objection, one at a time. The Facilitator marks an Objection as resolved once the Objector confirms that the amended Proposal would not trigger the Objection, and the Proposer confirms that the amended Proposal would still address the Proposer’s Tension. During the discussion, the Facilitator must apply the rules of integration described in Section 3.2.5. Once all captured Objections are addressed, the Facilitator moves back to the Objection round to check for new Objections to the amended Proposal.
 
 #### 3.3.6 Integrative Election Process
 
