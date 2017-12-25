@@ -287,7 +287,7 @@ Only these outputs are valid Governance for a Circle; no one may capture other o
 
 ### 3.2 Changing Governance
 
-Any Role Representative within a Circle may propose changing its Governance by circulating a **_“Proposal”_** to all other Role Representatives within the Circle, thus acting as **_“Proposer”_**. Before the Proposal is adopted, those other Role Representatives must have the opportunity to raise Tensions about adopting the Proposal. Each Tension so raised is considered an **_“Objection”_** if it meets the criteria defined herein, and the person who raised it becomes the **_“Objector”_**.
+Any Role Representative within a Circle may propose changing its Governance by circulating a **_“Proposal”_** to all other Role Representatives within the Circle, thus acting as **_“Proposer”_**. Before the Proposal is adopted, those other Role Representatives must have the opportunity to raise concerns about adopting the Proposal. Each concern so raised is considered an **_“Objection”_** if it meets the criteria defined herein, and the person who raised it becomes the **_“Objector”_**.
 
 Proposals are considered adopted and amend Governance only once no Objections are so raised. If Objections are raised, the Proposer and each Objector must find a way to address the Objections before the Proposal is adopted. After any such effort, all Role Representatives within the Circle must have another opportunity to raise further Objections to the Proposal before its adoption.
 
@@ -307,24 +307,22 @@ If at any point the Facilitator becomes clear that a Proposal does not meet this
 
 #### 3.2.3 Criteria for Valid Objections
 
-Some Tensions do not count as Objections, and may be ignored during the processing of a Proposal. A Tension only counts as an Objection if it meets **all** of the criteria defined in (a) through (d) below, or the special criteria defined in (e):
+Some concerns do not count as Objections, and may be ignored during the processing of a Proposal. A concern only counts as an Objection if the Objector can provide a reasonable argument for why it meets **all** of the criteria defined in (a) through (d) below, or the special criteria defined in (e):
 
-- **(a)** If the Proposal were adopted without addressing the Tension, it would harm the capacity of the Circle to express its Purpose or enact its Accountabilities. Thus, the Tension is not just triggered by a better idea or a potential for further improvement, but because the Proposal would actually reduce the Circle's current capacity. For this criteria, decreasing clarity counts as reducing capacity, although merely failing to improve clarity does not.
-- **(b)** The Tension does not already exist even in the absence of the Proposal. Thus, the Tension would be created specifically by adopting the Proposal, and would not exist were the Proposal withdrawn.
-- **(c)** The Tension is triggered just by presently known facts or events, without regard to a prediction of what might happen in the future. However, relying on predictions is allowed when no opportunity to adequately sense and respond is likely to exist in the future before significant impact could result.
+- **(a)** If the Proposal were adopted without addressing the concern, it would harm the capacity of the Circle to express its Purpose or enact its Accountabilities. Thus, the concern is not just triggered by a better idea or a potential for further improvement, but because the Proposal would actually reduce the Circle's current capacity. For this criteria, decreasing clarity counts as reducing capacity, although merely failing to improve clarity does not.
+- **(b)** The concern does not already exist even in the absence of the Proposal. Thus, a new Tension would be created specifically by adopting the Proposal, and would not exist were the Proposal withdrawn.
+- **(c)** The concern is triggered just by presently known facts or events, without regard to a prediction of what might happen in the future. However, relying on predictions is allowed when no opportunity to adequately sense and respond is likely to exist in the future before significant harm could result.
 - **(d)** The Proposal would limit the Objector's capacity to express the Purpose or an Accountability of a Role in the Circle that the Objector represents, or has permission to represent from a Role Representative who normally represents it.
 
-However, regardless of the above criteria, a Tension about adopting a Proposal always counts as an Objection if:
+However, regardless of the above criteria, a concern about adopting a Proposal always counts as an Objection if:
 
 - **(e)** Processing or adopting the Proposal breaks the rules defined in this Constitution, or requires the Circle or its members to act outside of the authority granted under this Constitution. For example, Next-Actions, Projects, and specific operational decisions are typically not valid Governance outputs as defined in Section 3.1, so anyone involved could raise an Objection that a Proposal to enact these outputs would violate the rules of the Constitution.
 
 #### 3.2.4 Testing Objections
 
-The Facilitator may test the validity of a claimed Objection by asking the Objector questions. For a claimed Objection to survive the test, the Objector must be able to present a reasonable argument for why it meets each specific criteria required of an Objection. The Facilitator must discard an Objection if the Facilitator deems the Objector has failed to meet this threshold.
+The Facilitator may test the validity of a claimed Objection by asking the Objector whether the Objection meets one or more criteria, and asking the Objector to explain the reasoning behind the answer. When assessing the validity of a claimed Objection, the Facilitator may only judge whether the Objector presented arguments for why the Objection meets each requested criteria using logical reasoning. The Facilitator may not judge on the basis of an argument’s accuracy or the importance of addressing it.
 
-When assessing the validity of a claimed Objection, the Facilitator may only judge whether the Objector presented the required arguments, and whether they were presented with logical reasoning and are thus reasonable. The Facilitator may not make a judgment on the basis of an argument’s accuracy or the importance of addressing it.
-
-However, when an Objection is claimed on the basis of a Proposal violating the Constitution, per Section 3.2.3(e), the Facilitator may ask the Circle’s Secretary to interpret if the Proposal does indeed violate the Constitution. If the Secretary rules that it does not, the Facilitator must then dismiss the Objection.
+However, when an Objection is claimed on the basis of a Proposal violating the Constitution, the Facilitator may ask the Circle’s Secretary to interpret if the Proposal does indeed violate the Constitution. If the Secretary rules that it does not, the Facilitator must then dismiss the Objection.
 
 #### 3.2.5 Rules of Integration
 
