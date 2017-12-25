@@ -169,7 +169,7 @@ You are responsible for monitoring how your Role’s Purpose and Accountabilitie
 You are responsible for regularly considering how to enact your Role's Purpose and each of your Role’s Accountabilities, by defining:
 
 - **(a)** **_“Next-Actions”_**, which are actions you could execute immediately and that would be useful to execute immediately, at least in the absence of competing priorities; and
-- **(b)** **_“Projects”_**, which are specific outcomes that require multiple sequential actions to achieve and that would be useful to work towards, at least in the absence of competing priorities.
+- **(b)** **_“Projects”_**, which are specific outcomes that require multiple actions to achieve and that would be useful to work towards, at least in the absence of competing priorities.
 
 #### 2.2.3 Processing Projects
 
