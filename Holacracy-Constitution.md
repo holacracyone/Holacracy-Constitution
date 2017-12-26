@@ -26,9 +26,9 @@ The collection of Roles and Policies within a Circle make up its acting **_“Go
 
 #### 1.2.1 Sub-Circles
 
-A Circle may expand its defined Roles into full Circles, via its Governance Process. When it does, the new Circle becomes its **_“Sub-Circle”_**, while it becomes the **_“Super-Circle”_** of that new Sub-Circle.
+A Circle may expand its defined Roles into full Circles, via its Governance Process. When it does, the new Circle becomes its **_“Sub-Circle”_**, while it becomes the **_“Super-Circle”_** of that new Sub-Circle. A Sub-Circle is still considered a normal Role within its Super-Circle, and behaves accordingly for the purpose of applying any rule or process in this Constitution.
 
-Through its Governance Process, a Circle may also:
+Through its Governance Process, a Circle may:
 
 - **(a)** modify the Purpose, Domains, or Accountabilities of a Sub-Circle; or
 - **(b)** move its own defined Roles or Policies into a Sub-Circle, but only if they primarily enact the Purpose or Accountabilities of the Sub-Circle; or
@@ -96,7 +96,7 @@ In any given instance where a surrogate is needed, the surrogate is, in this ord
 
 ### 1.5 Role Assignment
 
-The Lead Link of a Circle may assign people to fill the Roles defined by that Circle and may revoke these assignments at any time, unless these authorities have been limited or delegated. A Circle’s Lead Link may also assign someone to fill the Lead Link Role for each Sub-Circle, using the same rules that apply when the Lead Link assigns into any other Role defined by the Circle.
+The Lead Link of a Circle may assign people to fill the Roles defined by that Circle and may revoke these assignments at any time, unless these authorities have been limited or delegated. When a Role is really a Sub-Circle, whoever is assigned to fill that Role also becomes the Lead Link of that Sub-Circle.
 
 #### 1.5.1 Unfilled Roles
 
@@ -127,7 +127,7 @@ In any case, a Role Representative represents the Role as a Rep Link for anyone 
 
 #### 1.6.1 Representing Sub-Circles
 
-Both the Lead Link of the Sub-Circle and the Rep Link elected by the Sub-Circle become Role Representatives for the Sub-Circle within the Circle. However, only the Lead Link holds the responsibilities that come with the Sub-Circle's Purpose and Accountabilities.
+Both the Lead Link of a Sub-Circle and the Rep Link elected by the Sub-Circle become Role Representatives for that Sub-Circle within its Super-Circle. However, only the Lead Link actually fills the Sub-Circle Role and thus holds the associated responsibilities.
 
 #### 1.6.2 Inviting Outsiders into Circles
 
