@@ -114,7 +114,7 @@ When a Role assignment includes a Focus, the Purpose, Accountabilities, and Doma
 
 When you fill a Role, you may resign from the Role at any time, unless you’ve agreed otherwise, by giving notice to whoever controls assignments to that Role.
 
-### 1.6 Role Representatives
+### 1.6 Role Representation
 
 Each Role has one or more **_“Role Representatives”_** who will represent the Role within the Governance Process. By default, all Partners who fill a Role become its Role Representatives. However, the following exclusions may reduce this default representation:
 
