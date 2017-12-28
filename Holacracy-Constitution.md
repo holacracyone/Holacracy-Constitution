@@ -162,7 +162,7 @@ As a Partner of the Organization, you have the following responsibilities for ea
 
 #### 2.2.1 Processing Tensions
 
-You are responsible for monitoring how your Role’s Purpose and Accountabilities are expressed, and comparing that to your vision of their ideal potential expression, to identify gaps between the current reality and a potential you sense (each gap is a **_“Tension”_**). You are also responsible for trying to resolve those Tensions by using the authorities and other mechanisms available to you under this Constitution.
+You are responsible for monitoring how your Role’s Purpose and Accountabilities are expressed, and comparing that to your vision of their ideal potential expression, to identify gaps between the current reality and a potential you sense (each gap is a **_“Tension”_**). You are also responsible for trying to resolve those Tensions by using the pathways available to you under this Constitution.
 
 #### 2.2.2 Processing Purpose & Accountabilities
 
