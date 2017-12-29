@@ -96,7 +96,9 @@ In any given instance where a surrogate is needed, the surrogate is, in this ord
 
 ### 1.5 Role Assignment
 
-The Lead Link of a Circle may assign people to fill the Roles defined by that Circle and may revoke these assignments at any time, unless these authorities have been limited or delegated. When a Role is really a Sub-Circle, whoever is assigned to fill that Role also becomes the Lead Link of that Sub-Circle.
+The Lead Link of a Circle may assign people to fill the Roles defined by that Circle and may revoke these assignments at any time, unless these authorities have been limited or delegated. A Policy of a Circle may constrain Role assignment within that Circle and within Sub-Circles, recursively.
+
+When a Role is really a Sub-Circle, whoever is assigned to fill that Role also becomes the Lead Link of that Sub-Circle.
 
 #### 1.5.1 Unfilled Roles
 
