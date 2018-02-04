@@ -72,7 +72,7 @@ A Role assigner may further focus a Role assignment on just a specific area or c
 
 When multiple people are assigned to fill a Role with no focus or within the same focus, then the Role assigner may designate some of those assignees as a ***Role Supporter*** instead of a Role Lead. A Role Supporter gains most of the authorities of a Role-filler, but only holds the duties of a Role-filler when requested by a Role Lead, as further detailed in Article 2.
 
-Role Supporters are typically not invited to participate in the containing Circle's Governance Process. However, when a Role includes one or more Partners serving as Role Supporters, they may choose one of themselves to participate in the containing Circle's Governance Process as a ***"Rep Link"*** for that Role, with the definition given in Appendix A. No more than one Partner may serve as a Role's Rep Link, unless allowed by the containing Circle's Lead Link. The Partners serving as Role Leads for that Role may participate in the selection process, but are not eligble to serve as its Rep Link. By default, choosing a Rep Link happens via the election process and rules defined in Article 3, however a Policy of the Role may specify an alternate process.
+Role Supporters are typically not invited to participate in the containing Circle's Governance Process. However, when a Role includes one or more Partners serving as Role Supporters, they may choose one of themselves to participate in the containing Circle's Governance Process as a ***"Rep Link"*** for that Role, with the definition given in Appendix A. No more than one Partner may serve as a Role's Rep Link, unless allowed by the containing Circle's Lead Link. The Partners serving as Role Leads for that Role may participate in the selection process, but are not eligible to serve as its Rep Link. By default, choosing a Rep Link happens via the election process and rules defined in Article 3, however a Policy of the Role may specify an alternate process.
 
 ### 1.5 Sub-Circles
 
@@ -86,7 +86,7 @@ Once a Role becomes a Sub-Circle, it has Circle Members instead of Role Supporte
 
 #### 1.5.2 Circle Rep Link
 
-The selection of a Rep Link for a Sub-Circle works exactly as it does for selecting a Rep Link for any other eligible Role in the Super-Circle, but with Circle Members participating in lieu of Role Supporters. Further, only those Circle Members who serve as Role Lead or Rep Link for a Role within the Sub-Circle are eligble to participate unless otherwise specified in a relevant Policy. Any Circle Member is eligible to serve as the Sub-Circle's Rep Link, except for any already serving as its Lead Link.
+The selection of a Rep Link for a Sub-Circle works exactly as it does for selecting a Rep Link for any other eligible Role in the Super-Circle, but with Circle Members participating in lieu of Role Supporters. Further, only those Circle Members who serve as Role Lead or Rep Link for a Role within the Sub-Circle are eligible to participate unless otherwise specified in a relevant Policy. Any Circle Member is eligible to serve as the Sub-Circle's Rep Link, except for any already serving as its Lead Link.
 
 A Circle may add Accountabilities or Domains to its own Rep Link Role, as well as amend or remove those additions. However, no Circle may amend or remove the Purpose or any Accountabilities granted to a Rep Link Role by this Constitution, nor remove the Role entirely.
 
