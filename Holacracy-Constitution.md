@@ -76,7 +76,7 @@ Role Supporters are typically not invited to participate in the containing Circl
 
 ### 1.5 Sub-Circles
 
-Any Partner serving as Role Lead for a Role may initiate the Governance Process for that Role as if it were a Circle. If the Governance Process results in that Role containing any of its own Roles, beyond those automatically defined by this Constitution, then that Role automatically becomes a full Circle. When that happens, the new Circle is considered a **_“Sub-Circle”_** of the Circle containing it, while the Circle containing it becomes its **_“Super-Circle”_**. However, this only applies to Roles defined by a Circle's Governance Process; Roles defined in this Constitution are not eligible to themselves become Sub-Circles.
+Any Partner serving as Role Lead for a Role may initiate the Governance Process for that Role as if it were a Circle. If that Governance Process results in the creation of any Roles, then it automatically becomes a full Circle. When that happens, the new Circle is considered a **_“Sub-Circle”_** of the Circle containing it, while the Circle containing it becomes its **_“Super-Circle”_**. However, this only applies to Roles defined by a Circle's Governance Process; Roles defined in this Constitution are not eligible to themselves become Sub-Circles.
 
 A Sub-Circle is still considered a normal Role within its Super-Circle, and behaves accordingly for the purpose of applying any rule or process in this Constitution. Further, the Role Leads for that Role become the Role Leads of the Lead Link Role within the Sub-Circle. Changing those Role Leads in the Super-Circle automatically changes the Sub-Circle's Lead Links accordingly.
 
@@ -86,7 +86,7 @@ Once a Role becomes a Sub-Circle, it has Circle Members instead of Role Supporte
 
 #### 1.5.2 Circle Rep Link
 
-The selection of a Rep Link for a Sub-Circle works exactly as it does for selecting a Rep Link for any other eligible Role in the Super-Circle, but with Circle Members participating in lieu of Role Supporters. Further, only those Circle Members who serve as Role Lead or Rep Link for a Role within the Sub-Circle are eligble to participate unless otherwise specified in a relevant Policy. Any Circle Member is eligible to serve as the Sub-Circle's Rep Link, except for any already serving as its Lead Link.
+The selection of a Rep Link for a Sub-Circle works exactly as it does for selecting a Rep Link for any other eligible Role in the Super-Circle, but with Circle Members participating in lieu of Role Supporters. However, only those Circle Members who serve as a Role Lead or Rep Link for a Role within the Sub-Circle may participate in the selection process, unless otherwise specified in a relevant Policy. They may select any Circle Member as the Circle's Rep Link, unless that person is already its Lead Link.
 
 A Circle may add Accountabilities or Domains to its own Rep Link Role, as well as amend or remove those additions. However, no Circle may amend or remove the Purpose or any Accountabilities granted to a Rep Link Role by this Constitution, nor remove the Role entirely.
 
