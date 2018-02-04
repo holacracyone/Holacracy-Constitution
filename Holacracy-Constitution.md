@@ -50,11 +50,11 @@ However, a Circle may remove any Accountabilities, Domains, authorities, or func
 
 ### 1.4 Role Assignment
 
-A Lead Link of a Circle may assign people to fill Roles in that Circle and may revoke these assignments at any time, unless these authorities have been limited or delegated. Anyone so assigned becomes the ***"Role Lead"*** for that Role, unless otherwise specified by a rule in this Constitution or a relevant Policy. A Role may be assigned to multiple people simultaneously.
+A Lead Link of a Circle may assign people to fill Roles in that Circle and may revoke these assignments at any time, unless these authorities have been limited or delegated. Anyone so assigned becomes the ***"Role Lead"*** for that Role, unless otherwise specified by  a relevant Policy. A Role may be assigned to multiple people simultaneously.
 
 #### 1.4.1 Candidates for Assignments
 
-A Role may only be assigned to a Circle Member of the Circle, or to an external contractor or volunteer who is not a Partner of the Organization but who has agreed to enact the Accountabilities of the Role.
+A Role may only be assigned to a Partner of the Organization, or to an external contractor or volunteer who is not a Partner of the Organization but who has agreed to enact the Accountabilities of the Role.
 
 #### 1.4.2 Resigning from Roles
 
