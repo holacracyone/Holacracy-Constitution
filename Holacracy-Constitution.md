@@ -106,9 +106,9 @@ As soon as a Sub-Circle contains no Roles other than those Roles automatically d
 
 ### 1.6 Delegating Domains
 
-When a Circle grants a Domain to one of its Roles, the Role Leads of that Role may control that Domain on behalf of the Circle, including defining Policies for that Domain outside of the Circle's Governance Process.
+When a Circle grants a Domain to one of its Roles, the Role Leads of that Role may control that Domain on behalf of the Circle. A Circle may only grant Domains to its Roles that fall fully within the Circle's own Domains, or that are only relevant within its own internal processes.
 
-The Circle also retains the right to define or modify Policies acting upon a delegated Domain. Any such Policies defined by the Circle trump any Policies defined by the Role, and these Circle-level Policies may only be modified through the Circle's Governance Process.
+Once a Role controls a Domain, its Role Leads may define Policies governing that Domain within their own Governance Process, without the Circle's involvement. However, the Circle also retains the right to define or modify its own Policies governing that Domain, and any such Policies trump those defined by the Role and may only be modified through the Circle's Governance Process.
 
 Like a Circle, a Role also holds an automatic Domain over its own internal functions and activities, which may be governed by Role Leads solely to constrain the authority of the Role's Role Supporters.
 
