@@ -20,7 +20,7 @@ The Organization’s Partners will typically perform the work of the Organizatio
 
 A **_“Circle”_** is a Role that has further broken itself down by defining its own contained Roles to achieve its Purpose, control its Domains, and enact its Accountabilities. Its ***"Circle Members"*** are those Partners charged with stewarding the Circle and its Purpose for the Organization.
 
-A Circle may also contain **_“Policies”_**, which are either grants of authority that allow others to control or cause a material impact within one of the Circle's Domains, or limits on how others may do so when otherwise authorized. Solely for the purpose of limiting a Circle’s own Roles, each Circle has an automatic Domain over its own internal functions and activities.
+A Circle may also contain **_“Policies”_**, which are grants or constraints of authority or special rules that apply within the Circle, as further defined in Article 3.
 
 The collection of Roles and Policies within a Circle make up its acting **_“Governance”_**. No one may change the Governance of a Circle except through the **_“Governance Process”_** described in Article 3 or the process for defining an initial Governance structure described in Article 4.
 
@@ -54,7 +54,7 @@ A Lead Link of a Circle may assign people to fill Roles in that Circle and may r
 
 #### 1.4.1 Candidates for Assignments
 
-A Role may only be assigned to a Circle Member of the Circle, or to an external contractor or volunteer who is not a Partner of the Organization but who has agreed to enact the Accountabilities of the Role.
+A Role may only be assigned to a Circle Member of the Circle, or to an external contractor or volunteer who is not a Partner of the Organization but who has agreed to enact the Accountabilities of the Role. A Policy may further constrain Role assignment within the Circle.
 
 #### 1.4.2 Resigning from Roles
 
@@ -110,8 +110,6 @@ When a Circle grants a Domain to one of its Roles, the Role Leads of that Role m
 
 Once a Role controls a Domain, its Role Leads may define Policies governing that Domain within their own Governance Process, without the Circle's involvement. However, the Circle also retains the right to define or modify its own Policies governing that Domain, and any such Policies trump those defined by the Role and may only be modified through the Circle's Governance Process.
 
-Like a Circle, a Role also holds an automatic Domain over its own internal functions and activities, which may be governed by Role Leads solely to constrain the authority of the Role's Role Supporters.
-
 ### 1.7 Facilitator and Secretary
 
 Each Circle includes a **_“Facilitator Role”_** and a **_“Secretary Role”_** with the definitions given in Appendix A. The person filling each becomes the Circle’s **_“Facilitator”_** and **_“Secretary”_** respectively when acting in that capacity.
@@ -160,7 +158,7 @@ You cannot exert control or cause a material impact within a Domain delegated to
 
 #### 2.1.3 Don't Dispose of Resources
 
-While energizing your Role, you may not dispose of any significant property or spend any tangible resources of the Organization, nor may you significantly limit any rights of the Organization, unless you are authorized to do so by a Role or Policy with the explicit authority to allow it. This even applies to property, rights, and tangible resources within Domains assigned to your Role.
+While energizing your Role, you may not dispose of any significant property or spend any tangible resources of the Organization, nor may you significantly limit any rights of the Organization, unless you are authorized to do so by a Role with the explicit authority to allow it. This even applies to property, rights, and tangible resources within Domains assigned to your Role.
 
 ### 2.2 Responsibilities of Role-Fillers
 
@@ -289,6 +287,17 @@ The Governance Process of a Circle has the power to:
 - **(c)** hold elections for any elected Role within the Circle.
 
 Only these outputs are valid Governance for a Circle; no one may capture other outputs within the Circle’s Governance records.
+
+#### 3.1.1 Scope of Policy
+
+A Policy may only be one or more of the following:
+
+- **(a)** a grant of an authority the Circle holds to one or more Roles; or
+- **(b)** a constraint on the authority of one or more of the Circle's own Roles; or
+- **(c)** a grant of authority that allows those not otherwise authorized to control or impact one of the Circle's Domains, or a constraint on how they may do so when otherwise authorized; or
+- **(d)** a rule that changes a default rule or process in this Constitution, when that change is explicitly allowed.
+
+A Policy that changes a default rule or process in the Constitution applies only within the Circle that holds the Policy, or, if explicitly stated, within all Sub-Circles as well, recursively. In the latter case, a Sub-Circle may still override that Policy via one of its own, unless explicitly forbidden in the original Policy.
 
 ### 3.2 Governance Participants
 
