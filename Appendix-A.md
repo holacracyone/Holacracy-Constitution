@@ -3,10 +3,10 @@
 ## Pre-Defined Roles
 
 
-### Lead Link
+### Circle Lead
 
 **Purpose:**
-_The Lead Link holds the Purpose of the overall Circle._
+_The Circle Lead holds the Purpose of the overall Circle._
 
 **Domains:**
 
@@ -19,7 +19,7 @@ _The Lead Link holds the Purpose of the overall Circle._
 - Allocating the Circle’s resources across its various Projects and/or Roles
 - Judging the relative priority of Circle efforts on request to resolve priority conflicts across Roles
 
-_The Lead Link also holds all un-delegated Circle-level Domains and Accountabilities._
+_The Circle Lead also holds all un-delegated Circle-level Domains and Accountabilities._
 
 
 ### Rep Link
