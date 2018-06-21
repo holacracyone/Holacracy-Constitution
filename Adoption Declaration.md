@@ -5,11 +5,11 @@ The Ratifier(s) signed below hereby adopt the Holacracy Constitution, attached h
 
 Further, the Ratifier(s) (choose one):
 
-- Appoint the following person as Lead Link for the Anchor Circle: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+	- Appoint the following person as Circle Lead for the Anchor Circle: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 OR
 
-- Leave the Anchor Circle without a Lead Link.
+	- Leave the Anchor Circle without a Circle Lead.
 
 ---
 
