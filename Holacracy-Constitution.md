@@ -291,21 +291,13 @@ Any Circle Member of a Circle may propose changing its Governance by circulating
 
 Proposals are considered adopted and amend Governance only once no Objections are so raised. If Objections are raised, the Proposer and each Objector must find a way to address the Objections before the Proposal is adopted. After any such effort, all Circle Members of the Circle must have another opportunity to raise further Objections to the Proposal before its adoption.
 
-#### 3.3.1 Making Proposals
-
-A Proposer may make a Proposal within a **_“Governance Meeting”_** of the Circle.
-
-Alternatively, a Proposer may distribute a Proposal to all Circle Members asynchronously, outside of a Governance Meeting, using any written communication channel allowed by the Circle’s Secretary. Each Circle Member may then ask clarifying questions, share reactions, or raise Objections asynchronously. At any point before the Proposal is adopted, any participant may stop the asynchronous processing by requesting the Proposer bring the Proposal to a Governance Meeting instead. The asynchronous processing also stops if any Objections are raised, at which point the Proposer may seek an integration and repropose, or bring the Proposal to the a Governance Meeting for further processing.
-
-A Circle may adopt Policies to further constrain when or how Proposals may be made or processed outside of a Governance Meeting. However, no Policy may limit the right to stop asynchronous processing by escalating to a Governance Meeting. A Circle may also use a Policy to create a time limit for responding to asynchronous Proposals, upon which any asynchronous Proposal is automatically adopted if no Objections or escalation requests are raised.
-
-#### 3.3.2 Criteria for Valid Proposals
+#### 3.3.1 Criteria for Valid Proposals
 
 For a Proposal to be valid for processing, the Proposer must be able to describe a Tension that the Proposer senses, and give an example of an actual past or present situation in which the Proposal would have reduced that Tension. Further, the Proposer must be able to describe how reducing that Tension would help to better express the Purpose or an Accountability of the Circle, and of a Role in the Circle that the Proposer represents or has permission to temporarily represent from one of its normally authorized representatives. However, a Proposal is always valid regardless of the preceding criteria if it is made solely to evolve the Circle’s Governance to more clearly reflect activity that is already happening, or to trigger a new election for any elected Role.
 
 If at any point the Facilitator becomes clear that a Proposal does not meet this criteria, then the Facilitator must discard the Proposal. However, in making this assessment, the Facilitator may only judge whether the Proposer presented the required example and explanations, and whether they were presented with logical reasoning and are thus reasonable. The Facilitator may not discard a Proposal based on the accuracy of the Proposer's argument, nor on whether the Proposal would adequately address the Tension.
 
-#### 3.3.3 Criteria for Valid Objections
+#### 3.3.2 Criteria for Valid Objections
 
 Some concerns do not count as Objections, and may be ignored during the processing of a Proposal. A concern only counts as an Objection if the Objector can provide a reasonable argument for why it meets **all** of the criteria defined in (a) through (d) below, or the special criteria defined in (e):
 
@@ -318,13 +310,13 @@ However, regardless of the above criteria, a concern about adopting a Proposal a
 
 - **(e)** Processing or adopting the Proposal breaks the rules defined in this Constitution, or requires the Circle or its members to act outside of the authority granted under this Constitution. For example, Next-Actions, Projects, and specific operational decisions are typically not valid Governance outputs as defined in Section 3.1, so anyone involved could raise an Objection that a Proposal to enact these outputs would violate the rules of the Constitution.
 
-#### 3.3.4 Testing Objections
+#### 3.3.3 Testing Objections
 
 The Facilitator may test the validity of a claimed Objection by asking the Objector whether the Objection meets one or more criteria, and asking the Objector to explain the reasoning behind the answer. When assessing the validity of a claimed Objection, the Facilitator may only judge whether the Objector presented arguments for why the Objection meets each requested criteria using logical reasoning. The Facilitator may not judge on the basis of an argument’s accuracy or the importance of addressing it.
 
 However, when an Objection is claimed on the basis of a Proposal violating the Constitution, the Facilitator may ask the Circle’s Secretary to interpret if the Proposal does indeed violate the Constitution. If the Secretary rules that it does not, the Facilitator must then dismiss the Objection.
 
-#### 3.3.5 Rules of Integration
+#### 3.3.4 Rules of Integration
 
 When an Objection to a Proposal is raised, the following additional rules apply during the search for a resolution:
 
@@ -335,7 +327,7 @@ When an Objection to a Proposal is raised, the following additional rules apply 
 
 ### 3.4 Governance Meetings
 
-The Secretary of a Circle is responsible for scheduling Governance Meetings to enact the Circle’s Governance Process.
+The Secretary of a Circle is responsible for scheduling ***"Governance Meetings"*** to enact the Circle’s Governance Process.
 
 In addition to any regular Governance Meetings the Secretary schedules, the Secretary is responsible for scheduling additional special Governance Meetings promptly upon request of any Circle Member of the Circle.
 
@@ -399,25 +391,31 @@ The Facilitator must enact the Integrative Election Process as follows:
 - **(e) Make a Proposal:** Next, the Facilitator must count the nominations and make a Proposal to elect the candidate with the most nominations for the specified term. If there is a tie for the most nominations, then the Facilitator may do any one of the following: (i) if only one of the tied candidates has nominated himself or herself, propose that person; or (ii) if the person currently filling the Role is among those tied, propose that person; or (iii) blindly select one of the tied candidates randomly, and propose that person; or (iv) go back to the previous step and require each participant who nominated someone other than a tied candidate to change that nomination to one of the tied candidates, then continue back to this step and re-apply its rules.
 - **(f) Process Proposal:** Once the Facilitator makes a Proposal to elect a candidate, the Facilitator must move to the Integrative Decision-Making Process to resolve that Proposal. However, the Facilitator must start directly with the Objection round, and, if the proposed candidate is present, the Facilitator must ask the candidate for Objections last. If any Objections are raised, the Facilitator may choose to process them normally, or to discard the Proposal either immediately after the Objection round or at any point during the integration step. If the Facilitator opts to discard the Proposal, the Facilitator must go back to the prior step in this process, discard all nominations for the prior candidate, and follow the rules of the prior step to select another candidate to propose instead.
 
-### 3.5 Interpreting the Constitution & Governance
+### 3.5 Asynchronous Governance
+
+Instead of using a Governance Meeting, a Proposer may make a Proposal by distributing it to all Circle Members asynchronously using any written communication channel allowed by the Circle’s Secretary. Each Circle Member may then ask clarifying questions, share reactions, or raise Objections asynchronously. At any point before the Proposal is adopted, any participant may stop the asynchronous processing by escalating the Proposal to a Governance Meeting instead. The asynchronous processing also stops if any Objections are raised, at which point the Proposer may seek an integration and repropose, or bring the Proposal to the a Governance Meeting for further processing.
+
+A Circle may adopt Policies to further constrain when or how Proposals may be made or processed outside of a Governance Meeting. However, no Policy may limit the right to stop asynchronous processing by escalating to a Governance Meeting. A Circle may also use a Policy to create a time limit for responding to asynchronous Proposals, upon which any asynchronous Proposal is automatically adopted if no Objections or escalation requests are raised.
+
+### 3.6 Interpreting the Constitution & Governance
 
 As a Partner of the Organization, you may use your reasonable judgment to interpret this Constitution and any Governance within the Organization, including how these apply within a specific situation, and then act based on your interpretation. However, the following additional terms apply:
 
-#### 3.5.1 Secretaries May Rule on Interpretation
+#### 3.6.1 Secretaries May Rule on Interpretation
 
 If your interpretation conflicts with another Partner's, either party may ask the Secretary of any affected Circle to rule on which interpretation to use. Once a Secretary has made such a ruling, it trumps your own and you are responsible for aligning with it until any underlying Governance changes.
 
-#### 3.5.2 Super-Circle Secretary May Overrule
+#### 3.6.2 Super-Circle Secretary May Overrule
 
 A Circle’s Secretary may overrule an interpretation given by a Secretary of any Sub-Circle. If two Secretaries give conflicting rulings and one is from the Secretary of a Circle that ultimately contains the other Circle, then you are responsible for aligning with the interpretation given by the broader Circle’s Secretary.
 
-#### 3.5.3 Interpretations Become Standards
+#### 3.6.3 Interpretations Become Standards
 
 When ruling on an interpretation, a Secretary may choose to publish that interpretation and the logic behind it in writing. If published, the Secretary of that Circle and the Secretaries of any contained Circles are responsible for attempting to align any future rulings with the previously published logic and interpretations.
 
 A Secretary may only contradict previously published logic or interpretations once a compelling new argument or circumstance supports a reversal. If such a contradiction is also published, its logic and interpretations become the new standard that all future rulings must align with.
 
-#### 3.5.4 Striking Invalid Governance
+#### 3.6.4 Striking Invalid Governance
 
 Anyone filling a Role in a Circle may ask its Secretary to rule on the validity of any Governance of the Circle or any Role or Sub-Circle ultimately contained by the Circle. Upon such a request, if the Secretary concludes the Governance conflicts with the rules of this Constitution, the Secretary must then strike the offending Governance from the acting Governance record. After doing so, the Secretary must promptly communicate what was struck and why to all Partners filling Roles within the Circle that held the offending Governance.
 
