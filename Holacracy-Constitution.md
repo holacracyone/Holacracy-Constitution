@@ -432,6 +432,8 @@ By adopting this Constitution, the Ratifiers cede their authority to govern and 
 
 Upon adopting this Constitution, the Ratifiers must establish an initial Circle to express the overall Purpose of the Organization. This **_“Anchor Circle”_** becomes the broadest Circle in the Organization, and automatically controls all Domains that the Organization itself controls. The Anchor Circle has no Super-Circle, and does not elect a Rep Link.
 
+The Ratifiers may further define an initial structure and other Governance within the Anchor Circle for the Organization to start with upon adopting this Constitution.
+
 #### 4.2.1 Circle Leads for the Anchor Circle
 
 The Ratifiers may either appoint one or more Circle Leads for the Anchor Circle, or leave the Anchor Circle without any Circle Leads.
@@ -452,29 +454,25 @@ The Circle Lead Role of the Anchor Circle has the authority to name the Circle, 
 
 The Circle Lead Role of the Anchor Circle may also appoint his or her own replacement as desired, unless otherwise specified by the Ratifiers.
 
-### 4.3 Initial Structure
-
-Either the Ratifiers or a Circle Lead of the Anchor Circle may define an initial structure and other Governance for the Organization, outside of the usual Governance Process required by this Constitution. If that initial structure includes any other Circles, the Circle Leads of those Circles may do the same within their Circles. This authority may only be used to define an initial structure for a Circle to start from, before the Circle has begun conducting its Governance Process.
-
-### 4.4 Legacy Policies and Systems
+### 4.3 Legacy Policies and Systems
 
 Any existing policies and systems the Organization has in effect before adopting this Constitution continue in full force after adoption, even if they include constraints or authorities that are not reflected in Governance records. This may include compensation systems, hiring and firing processes, work-related policies, etc.
 
 However, these legacy policies and systems will lose all weight and authority as soon as Governance is defined that replaces or contradicts them. In addition, they may not be modified or added to in their legacy form. Anyone wishing to do so must first capture or otherwise empower the policy or system using the Governance Process defined in this Constitution.
 
-### 4.5 Process Breakdown
+### 4.4 Process Breakdown
 
 A **_“Process Breakdown”_** occurs when a Circle shows a pattern of behavior that conflicts with the rules of this Constitution.
 
-#### 4.5.1 Breakdown from Failed Governance
+#### 4.4.1 Breakdown from Failed Governance
 
 The Facilitator of a Circle may declare a Process Breakdown in the Circle if the participants in one of its Governance Meetings fail to successfully process a Proposal, even after a reasonably long time is spent trying to do so. If the Proposer specially requested that Governance Meeting specifically for processing that Proposal, then the Proposer may also declare a Process Breakdown in this case.
 
-#### 4.5.2 Breakdown from Unconstitutional Behavior
+#### 4.4.2 Breakdown from Unconstitutional Behavior
 
 The Facilitator or Secretary of a Circle may declare a Process Breakdown within that Circle or one of its Sub-Circles upon discovering a pattern of behavior or outputs that conflicts with the rules of this Constitution.
 
-#### 4.5.3 Process Restoration
+#### 4.4.3 Process Restoration
 
 Whenever an authorized party declares a Process Breakdown within a Circle, the following occurs:
 
@@ -484,13 +482,13 @@ Whenever an authorized party declares a Process Breakdown within a Circle, the f
 
 These authorities are temporary and cease as soon as the Facilitator of the Super-Circle concludes that due process has been restored within the Circle. If there is no Super-Circle of the Circle experiencing a Process Breakdown, then all of these powers instead vest with the Facilitator of the Circle itself.
 
-#### 4.5.4 Escalation of Process Breakdown
+#### 4.4.4 Escalation of Process Breakdown
 
 A Process Breakdown of one Circle may not be considered a Process Breakdown of its Super-Circle, as long as the Super-Circle’s Facilitator is working to resolve the Process Breakdown promptly and diligently.
 
 However, if the Process Breakdown is not resolved within a reasonable timeframe, then the Facilitator of any Super-Circle that ultimately contains the offending Circle may declare a Process Breakdown within the offending Circle’s Super-Circle as well.
 
-### 4.6 Constitution Amendments and Repeal
+### 4.5 Constitution Amendments and Repeal
 
 The Ratifiers or their successors may amend this Constitution or repeal it entirely, using whatever authority and process they relied upon to adopt it. Amendments must be in writing and published where all Partners of the Organization can access them.
 
