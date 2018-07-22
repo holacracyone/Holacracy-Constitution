@@ -159,7 +159,7 @@ You are responsible for capturing and tracking all Projects and Next-Actions for
 
 #### 2.2.5 Prioritizing Your Attention
 
-Whenever you have time available to act in your Role, you are responsible for considering the potential Next-Actions you could efficiently and effectively do at that point in time, and executing whichever you believe would add the most value to the Organization. You must further integrate and align with any official prioritizations or Strategies of the Circle, such as those specified by a Circle Lead, when assessing how to deploy your time, attention, and other resources to your work within the Circle.
+Whenever you have time available to act in your Role, you are responsible for considering the potential Next-Actions you could efficiently and effectively do at that point in time, and executing whichever you believe would add the most value to the Organization. You must further integrate and align with any official prioritizations or Strategies of the Circle, such as those specified by a Circle Lead or whoever controls, when assessing how to deploy your time, attention, and other resources to your work within the Circle.
 
 ### 2.3 Duties to Other Role-Fillers
 
