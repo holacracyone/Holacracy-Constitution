@@ -90,7 +90,7 @@ Each Circle with more than one Partner filling its Roles automatically includes 
 
 #### 1.6.1 Elections & Eligibility
 
-The Facilitator of a Circle will facilitate elections using the process and rules defined in Article 3 to elect one person into its Facilitator Role and one into its Secretary Role. No Role or Policy may assign these Roles or remove an assignment via any other means, nor modify the required process. The only candidates normally eligible for these elections are those Partners filling Roles within the Circle. However, a Policy of the Circle or any Circle ultimately containing the Circle may allow additional candidates or further limit the candidates eligible for election.
+The Facilitator of a Circle will facilitate elections using the process and rules defined in Article 3 to elect one person into its Facilitator Role and one into its Secretary Role. No Role or Policy may assign these Roles or remove an assignment via any other means, nor modify the required process. The only candidates normally eligible for these elections are those Partners filling Roles within the Circle. However, a Policy of the Circle or any Circle ultimately containing the Circle may allow additional candidates and/or further limit the candidates eligible for election.
 
 #### 1.6.2 Election Term
 
