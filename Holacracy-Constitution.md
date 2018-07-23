@@ -44,7 +44,7 @@ When a Role is unfilled or led only by external parties who are not Partners of 
 
 ### 1.3 Circles
 
-Each Role except those defined in Appendix A is also a ***“Circle”*** internally, and may contain its own Roles to further break down how it achieves its Purpose, controls its Domains, and enacts its Accountabilities. A Circle is considered a **_“Sub-Circle”_** of the broader Circle containing it, while that broader Circle is its **_“Super-Circle”_**.
+Each Role except those defined in Appendix A is also a ***“Circle”*** internally, and may contain its own Policies and its own Roles to further break down how it achieves its Purpose, controls its Domains, and enacts its Accountabilities. A Circle is considered a **_“Sub-Circle”_** of the broader Circle containing it, while that broader Circle is its **_“Super-Circle”_**.
 
 The collection of Roles and Policies contained within a Circle make up its acting **_“Governance”_**. No one may change a Circle's Governance except through its **_“Governance Process”_**, described in Article 3.
 
