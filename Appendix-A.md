@@ -14,7 +14,7 @@ _The Circle Lead holds the Purpose of the overall Circle._
 
 **Accountabilities:**
 
-- Defining Roles via the Circle's Governance Process to enact its Purpose and Accountabilities
+- Defining Roles and/or Policies via the Circle's Governance Process to enact its Purpose and Accountabilities
 - Assigning Partners to the Circle’s Roles, monitoring the fit, and re-assigning Roles to other Partners to optimize fit
 - Allocating the Circle’s resources across its various Projects and/or Roles
 - Judging the relative priority of Circle efforts on request to resolve priority conflicts across Roles
