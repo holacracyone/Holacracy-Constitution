@@ -132,7 +132,7 @@ You cannot exert control or cause a material impact within a Domain delegated to
 
 #### 2.1.3 Don't Dispose of Resources
 
-While energizing your Role, you may not dispose of any significant property or spend any tangible resources of the Organization, nor may you significantly limit any rights of the Organization, unless you are authorized to do so by a Role with the explicit authority to allow it. This even applies to property, rights, and tangible resources within Domains assigned to your Role.
+While energizing your Role, you may not dispose of any significant property or spend any tangible resources of the Organization, nor may you significantly limit any rights of the Organization, unless you are authorized to do so by a Role or Policy with the explicit authority to allow it. This even applies to property, rights, and tangible resources within Domains assigned to your Role.
 
 ### 2.2 Responsibilities of Role-Fillers
 
