@@ -78,29 +78,33 @@ A Circle may not add Accountabilities or other functions to its own Circle Lead 
 
 However, a Circle may remove any Accountabilities, Domains, authorities, or functions of its Circle Lead Role, either by placing them on another Role within the Circle, or by defining an alternate means of enacting them. When this occurs, it automatically removes the relevant element or authority from the Circle Lead Role, for as long as the delegation remains in place.
 
-### 1.5 Rep Links
+### 1.5 Circle Supporters
+
+Any Partner assigned as Role Supporter for a Role automatically fills a **_“Circle Supporter Role”_** within that Role's internal Circle, and is thus the ***“Circle Supporter”*** while acting in that capacity.
+
+### 1.6 Rep Links
 
 If a Circle contains Roles filled by Partners beyond just the Circle Lead(s) of the Circle, one of those Partners may be selected to represent the Circle within its Super-Circle's Governance Process as a ***"Rep Link"***, with the definition given in Appendix A. No more than one Partner may serve as that Role/Circle's Rep Link, unless allowed by the Circle Lead of the containing Circle. All Partners serving as Role Lead for a Role within the Circle may participate in the selection process, unless excluded from the Circle's Governance Process under another rule in this Constitution. By default, selecting a Rep Link happens via the election process and rules defined in Article 3, however a Policy may specify an alternate process. Anyone serving as a Circle Lead for the Circle may not also serve as its Rep Link.
 
 A Circle may add Accountabilities or Domains to its own Rep Link Role, as well as amend or remove those additions. However, no Circle may amend or remove the Purpose or any Accountabilities granted to a Rep Link Role by this Constitution, nor remove the Role entirely.
 
-### 1.6 Facilitator and Secretary
+### 1.7 Facilitator and Secretary
 
 Each Circle with more than one Partner filling its Roles automatically includes a ***“Facilitator Role”*** and a ***“Secretary Role”***, with the definitions given in Appendix A. The person filling each becomes the Circle’s ***“Facilitator”*** and ***“Secretary”*** respectively when acting in that capacity.
 
-#### 1.6.1 Elections & Eligibility
+#### 1.7.1 Elections & Eligibility
 
 The Facilitator of a Circle will facilitate elections using the process and rules defined in Article 3 to elect one person into its Facilitator Role and one into its Secretary Role. No Role or Policy may assign these Roles or remove an assignment via any other means, nor modify the required process. The only candidates normally eligible for these elections are those Partners filling Roles within the Circle. However, a Policy of the Circle or any Circle ultimately containing the Circle may allow additional candidates or further limit the candidates eligible for election.
 
-#### 1.6.2 Election Term
+#### 1.7.2 Election Term
 
 During the election process, the Facilitator will specify a term for each election. After a term expires, the Secretary is responsible for promptly triggering a new election for that Role. However, even before a term has expired, any participant in the Circle's Governance Process may trigger a new election at any time, using the process defined in Article 3.
 
-#### 1.6.3 Amending Facilitator or Secretary
+#### 1.7.3 Amending Facilitator or Secretary
 
 A Circle may add Accountabilities or Domains to its own Facilitator or Secretary Role, as well as amend or remove those additions. However, no Circle may amend or remove any Purpose, Domain, Accountabilities, or authorities granted to one of these Roles by this Constitution, nor remove the Role entirely.
 
-#### 1.6.4 Surrogates
+#### 1.7.4 Surrogates
 
 A surrogate may temporarily act as Facilitator or Secretary if the Role is unfilled, or when the person who normally fills the Role is unavailable for a Circle meeting or feels unable or unwilling to enact the Role’s duties.
 
