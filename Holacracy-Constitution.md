@@ -32,7 +32,7 @@ Whoever controls assignments to a Role may further focus an assignment on just a
 
 #### 1.2.3 Supporting Assignments
 
-When multiple people are assigned to fill a Role with no focus or within the same focus, then the Role assigner may designate some of those assignees as a ***Role Supporter*** instead of a Role Lead. A Role Supporter gains the authorities of the Role, but only holds the duties when requested by a Role Lead, as further detailed in Article 2.
+When multiple people are assigned to fill a Role with no focus or within the same focus, the Role assigner may designate some of those assignees as a ***Role Supporter*** instead of a Role Lead. A Role Supporter gains the authorities of the Role, but only holds the duties when requested by a Role Lead, as further detailed in Article 2.
 
 #### 1.2.4 Resigning from Roles
 
