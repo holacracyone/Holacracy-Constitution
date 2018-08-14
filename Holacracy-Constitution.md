@@ -32,7 +32,7 @@ Whoever controls assignments to a Role may further focus an assignment on just a
 
 #### 1.2.3 Supporting Assignments
 
-When multiple people are assigned to fill a Role with no focus or within the same focus, then the Role assigner may designate some of those assignees as a ***Role Supporter*** instead of a Role Lead. A Role Supporter gains most of the authorities of a Role-filler, but only holds the duties of a Role-filler when requested by a Role Lead, as further detailed in Article 2.
+When multiple people are assigned to fill a Role with no focus or within the same focus, then the Role assigner may designate some of those assignees as a ***Role Supporter*** instead of a Role Lead. A Role Supporter gains the authorities of the Role, but only holds the duties when requested by a Role Lead, as further detailed in Article 2.
 
 #### 1.2.4 Resigning from Roles
 
@@ -50,7 +50,7 @@ The collection of Roles and Policies contained within a Circle make up its actin
 
 #### 1.3.1 Delegating Domains
 
-When a Circle grants a Domain to one of its Roles, the Role-fillers of that Role may control that Domain on behalf of the Circle. A Circle may only grant Domains to its Roles that fall fully within the Circle's own Domains, or that are only relevant within its own internal processes.
+When a Circle grants a Domain to one of its Roles, anyone filling that Role may control that Domain on behalf of the Circle. A Circle may only grant Domains to its Roles that fall fully within the Circle's own Domains, or that are only relevant within its own internal processes.
 
 Once a Role controls a Domain, it may create its own Policies governing that Domain within its own Governance Process. However, the Circle that delegated the Domain still retains the right to define or modify its own Policies governing that Domain, and any such Policies trump those defined by the Role in the event of a conflict.
 
@@ -80,7 +80,7 @@ However, a Circle may remove any Accountabilities, Domains, authorities, or func
 
 ### 1.5 Rep Links
 
-If a Circle contains Roles filled by Partners beyond just the Circle Lead(s) of the Circle, one of those Partners may be selected to represent the Circle within its Super-Circle's Governance Process as a ***"Rep Link"***, with the definition given in Appendix A. No more than one Partner may serve as that Role/Circle's Rep Link, unless allowed by the Circle Lead of the containing Circle. All Partners serving as Role Lead for a Role within the Circle may participate in the selection process, unless excluded from the Circle's Governance Process under another rule in this Constitution. By default, selecting a Rep Link happens via the election process and rules defined in Article 3, however a Policy may specify an alternate process. Anyone serving as a Circle Lead for the Circle may not also serve as its Rep Link.
+If a Circle contains Roles filled by Partners beyond just the Circle Lead(s) of the Circle, one of those Partners may be selected to represent the Circle within its Super-Circle's Governance Process as a ***"Rep Link"***, with the definition given in Appendix A. No more than one Partner may serve as that Role/Circle's Rep Link, unless allowed by a Circle Lead of the Super-Circle. All Partners serving as Role Lead for a Role within the Circle may participate in the selection process, unless excluded from the Circle's Governance Process under another rule in this Constitution. By default, selecting a Rep Link happens via the election process and rules defined in Article 3, however a Policy may specify an alternate process. Anyone serving as a Circle Lead for the Circle may not also serve as its Rep Link.
 
 A Circle may add Accountabilities or Domains to its own Rep Link Role, as well as amend or remove those additions. However, no Circle may amend or remove the Purpose or any Accountabilities granted to a Rep Link Role by this Constitution, nor remove the Role entirely.
 
@@ -134,9 +134,9 @@ You cannot exert control or cause a material impact within a Domain delegated to
 
 While energizing your Role, you may not dispose of any significant property or spend any tangible resources of the Organization, nor may you significantly limit any rights of the Organization, unless you are authorized to do so by a Role or Policy with the explicit authority to allow it. This even applies to property, rights, and tangible resources within Domains assigned to your Role.
 
-### 2.2 Responsibilities of Role-Fillers
+### 2.2 Responsibilities of Role Leads
 
-As a Partner filling a Role, you have the following responsibilities:
+When serving as Role Lead for a Role, you have the following responsibilities:
 
 #### 2.2.1 Processing Tensions
 
@@ -149,23 +149,27 @@ You are responsible for regularly considering how to enact your Role's Purpose a
 - **(a)** **_“Next-Actions”_**, which are actions you could execute immediately and that would be useful to execute immediately, at least in the absence of competing priorities; and
 - **(b)** **_“Projects”_**, which are specific outcomes that require multiple actions to achieve and that would be useful to work towards, at least in the absence of competing priorities.
 
-#### 2.2.3 Processing Projects
+### 2.3 Responsibilities of All Role-Fillers
+
+When filling a Role in any capacity, you have the following responsibilities:
+
+#### 2.3.1 Breaking Down Projects
 
 You are responsible for regularly considering how to complete each Project you are actively working towards for your Role, including by defining any Next-Actions useful to move the Project forward.
 
-#### 2.2.4 Tracking Projects, Next-Actions, & Tensions
+#### 2.3.2 Tracking Projects, Next-Actions, & Tensions
 
 You are responsible for capturing and tracking all Projects and Next-Actions for your Role in a database or similar tangible form, and for regularly reviewing and updating that database to maintain it as a trusted list of the Role’s active and potential work. You are also responsible for tracking any Tensions you identify for your Role, at least until you process them into desired Projects or Next-Actions, or otherwise resolve them.
 
-#### 2.2.5 Prioritizing Your Attention
+#### 2.3.2 Prioritizing Your Attention
 
 Whenever you have time available to act in your Role, you are responsible for considering the potential Next-Actions you could efficiently and effectively do at that point in time, and executing whichever you believe would add the most value to the Organization. You must further integrate and align with any official prioritizations or Strategies of the Circle, such as those specified by a Circle Lead, when assessing how to deploy your time, attention, and other resources to your work within the Circle.
 
-### 2.3 Duties to Other Role-Fillers
+### 2.4 Duties to Other Role-Fillers
 
 As a Partner filling a Role as Role Lead, you have the following duties to all others in the Organization. As a Partner serving as a Role Supporter, you have the following duties but only upon request of a Role Lead for that Role. In either case, these duties only apply when the other party is acting on behalf of one of their own Roles in the Organization, and names that Role in any explicit request. 
 
-#### 2.3.1 Duty of Transparency
+#### 2.4.1 Duty of Transparency
 
 You have a duty to provide transparency in any of the following areas upon request:
 
@@ -176,7 +180,7 @@ You have a duty to provide transparency in any of the following areas upon reque
 - **(e) Metrics:** You must publish any metrics related to the work of your role or your other duties to the Organization, if you have access to the requested data without significant overhead beyond what's otherwise required of you. If explicitly requested, you must continue to share these metrics regularly, until you determine they are no longer relevant or useful.
 - **(f) Progress Updates:** You must share a brief summary of progress you've made towards any Accountability or Project of one of your Roles since the last update you published or shared with the requester. If explicitly requested, you must continue to share these updates regularly for the specific Accountability or Project so requested, until you determine they are no longer relevant or useful.
 
-#### 2.3.2 Duty of Processing
+#### 2.4.2 Duty of Processing
 
 You have a duty to promptly process messages and requests from your fellow Partners, as follows:
 
@@ -185,26 +189,26 @@ You have a duty to promptly process messages and requests from your fellow Partn
 - **(c) Requests to Impact Domain:** Other Partners may ask to impact a Domain controlled by one of your Roles, and you must allow it if you see no Objections to the request (as defined in Article 3). If you do, you must explain any Objections to the requester.
 - **(d) Requests for Information:** Other Partners may ask you questions or request information, and you must respond in good faith with at least brief answers or relevant information that's readily available to you.
 
-#### 2.3.3 Duty of Prioritization
+#### 2.4.3 Duty of Prioritization
 
 You have a duty to prioritize where to focus your attention and resources in alignment with the following constraints:
 
 - **(a) Processing Over Execution:** You must generally prioritize processing inbound messages from fellow Partners over executing your own Next-Actions. However, you may temporarily defer processing in order to batch process messages in a single time block or at a more convenient time, as long as your processing is still reasonably prompt. Processing means engaging in the duties described in this section, including considering the message, defining and capturing Next-Actions or Projects when appropriate, and, upon request, responding with how the message was processed. Processing does not mean executing upon captured Next-Actions and Projects, which is not covered by this prioritization rule.
 - **(b) Requested Meetings Over Execution:** On request of a fellow Partner, you must prioritize attending any meeting defined in this Constitution over executing your own Next-Actions. However, you may still decline the request if you already have plans scheduled over the meeting time, or if the request was for an ongoing series or pattern of meetings rather than a specific meeting instance.
 
-### 2.4 Implicit Expectations Hold No Weight
+### 2.5 Implicit Expectations Hold No Weight
 
 All of your responsibilities and constraints as a Partner of the Organization are defined in this Constitution, and in the Governance that results from it. No former or implicit expectations or constraints carry any weight or authority, unless a Circle’s Governance explicitly empowers them, or they come from a basic obligation or contractual agreement you personally have to or with the Organization.
 
-### 2.5 Tactical Meetings
+### 2.6 Tactical Meetings
 
 In service of one of their Roles, any Partner may convene a **_“Tactical Meeting”_** to facilitate engaging other Roles in their responsibilities and duties.
 
-#### 2.5.1 Attendance
+#### 2.6.1 Attendance
 
 The Partner convening a Tactical Meeting must name the specific Roles invited to that Tactical Meeting, and the Role Leads of those Roles are invited to attend and participate in the meeting. The convener may also invite the Facilitator of a relevant Circle to lead the meeting. There is no advance notice or quorum required for a Tactical Meeting, unless a relevant Policy says otherwise.
 
-#### 2.5.2 Facilitation & Process
+#### 2.6.2 Facilitation & Process
 
 Unless a Policy says otherwise, anyone facilitating a Tactical Meeting must use the following process:
 
@@ -218,15 +222,15 @@ Unless a Policy says otherwise, anyone facilitating a Tactical Meeting must use 
 
 A Policy may specify an alternate process or amend this default process for any standing Tactical Meeting within its authority to govern.
 
-#### 2.5.3 Surrogate for Absent Members
+#### 2.6.3 Surrogate for Absent Members
 
 If an unelected Role invited to a Tactical Meeting is unrepresented in the meeting for any reason, a Circle Lead of the Circle holding that Role may act within that Role to cover the gap. If the Circle Lead Role is also unrepresented, any Next-Actions or Projects captured for the Role become requests for the Role to process after the meeting.
 
-### 2.6 Individual Action
+### 2.7 Individual Action
 
 As a Partner of the Organization, in some cases you are authorized to act outside of the authority of your Roles, or even to break the rules of this Constitution. By acting under this extended authority you are taking **_“Individual Action”_**, and you are bound by the following rules:
 
-#### 2.6.1 Allowed Situations
+#### 2.7.1 Allowed Situations
 
 You may only take Individual Action when all of the following are true:
 
@@ -235,17 +239,17 @@ You may only take Individual Action when all of the following are true:
 - **(c)** Your action would not cause the Organization to spend tangible resources, dispose of its assets, or limit its rights, beyond what you’re already authorized to so cause.
 - **(d)** If your action would violate any Policies or impact any Domains you aren't already authorized to impact, you reasonably believe that you can’t delay the action long enough to request any permissions normally required, or to propose a Governance change to allow your action, without losing much of its potential value.
 
-#### 2.6.2 Communication & Restoration
+#### 2.7.2 Communication & Restoration
 
 Upon taking Individual Action, you have a duty to explain your action and the intent behind it to any Partner who fills a Role that may be significantly impacted. Upon the request of any of those Partners, you also have a duty to take any reasonable additional actions to assist in resolving any Tensions created by your Individual Action.
 
 If your Individual Action was effectively acting within another Role, or violated a Domain or a Policy, then you must cease from continuing to take similar Individual Action upon request of whoever normally controls that Role, Domain, or Policy, or upon request of a Circle Lead of the Circle holding the affected entity.
 
-#### 2.6.3 Clarifying Governance
+#### 2.7.3 Clarifying Governance
 
 If your Individual Action is an instance of a recurring activity or ongoing function needed by a Circle, and that activity or function is not already explicitly called for by the Circle’s Governance, then you are responsible for taking follow-up steps to remove that gap. That follow-up could include proposing Governance to cover the need, or taking steps to remove the need for this activity or function to happen in the first place.
 
-#### 2.6.4 Priority of Corollary Requirements
+#### 2.7.4 Priority of Corollary Requirements
 
 After taking Individual Action, you have a duty to prioritize doing the corollary requirements defined in this section higher than doing any of your regular work. However, a Circle Lead of whatever Circle fully contains all Roles that were significantly impacted by your action may still change this default priority.
 
