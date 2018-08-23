@@ -56,7 +56,7 @@ Once a Role controls a Domain, it may create its own Policies governing that Dom
 
 ### 1.4 Circle Leads
 
-Any Partner assigned as Role Lead for a Role automatically fills a **_“Circle Lead Role”_** within that Role's internal Circle, and is thus the ***“Circle Lead”*** while acting in that capacity. The Circle Lead Role has the definition given in Appendix A, and the further responsibilities and authorities defined in this Section.
+Any Partner assigned as Role Lead for a Role automatically fills a **_“Circle Lead Role”_** within that Role's internal Circle, and is thus a ***“Circle Lead”*** while acting in that capacity. The Circle Lead Role has the definition given in Appendix A, and the further responsibilities and authorities defined in this Section.
 
 #### 1.4.1 Circle Lead Holds Undifferentiated Functions
 
