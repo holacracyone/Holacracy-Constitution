@@ -29,9 +29,9 @@ Tensions relevant to process in the broader Circle channeled out and resolved.
 
 **Accountabilities:**
 
-- Seeking to understand Tensions conveyed by Role-fillers within the represented Role or Circle
-- Discerning Tensions appropriate to process within the Circle that holds the represented Role or Circle
-- Processing Tensions within the broader Circle to remove constraints on the represented Role or Circle
+- Seeking to understand Tensions conveyed by Role-fillers within the represented Role/Circle
+- Discerning Tensions appropriate to process within the Circle that holds the represented Role/Circle
+- Processing Tensions within the broader Circle to remove constraints on the represented Role/Circle
 
 
 ### Facilitator
