@@ -98,15 +98,15 @@ A Circle may add Accountabilities or Domains to its own Rep Link Role, as well a
 
 ### 1.6 Facilitator and Secretary
 
-Each Circle with more than one Partner filling its Roles automatically includes a ***“Facilitator Role”*** and a ***“Secretary Role”***, with the definitions given in Appendix A. The person filling each becomes the Circle’s ***“Facilitator”*** and ***“Secretary”*** respectively when acting in that capacity.
+Each Circle with more than one Circle Member automatically includes a ***“Facilitator Role”*** and a ***“Secretary Role”***, with the definitions given in Appendix A. The person filling each becomes the Circle’s ***“Facilitator”*** and ***“Secretary”*** respectively when acting in that capacity.
 
 #### 1.6.1 Elections & Eligibility
 
-The Facilitator of a Circle will facilitate elections using the process and rules defined in Article 3 to elect one person into its Facilitator Role and one into its Secretary Role. No Role or Policy may assign these Roles or remove an assignment via any other means, nor modify the required process. The only candidates normally eligible for these elections are those Partners filling Roles within the Circle. However, a Policy of the Circle or any Circle ultimately containing the Circle may allow additional candidates or further limit the candidates eligible for election.
+Upon request of any Circle Member, the Facilitator of a Circle will facilitate elections using the process and rules defined in Article 3 to elect one person into its Facilitator Role and one into its Secretary Role. No Role or Policy may assign these Roles or remove an assignment via any other means, nor modify the required process. The only candidates normally eligible for these elections are those Partners filling Roles within the Circle. However, a Policy of the Circle or any Circle ultimately containing the Circle may allow additional candidates or further limit the candidates eligible for election.
 
 #### 1.6.2 Election Term
 
-During the election process, the Facilitator will specify a term for each election. After a term expires, the Secretary is responsible for promptly triggering a new election for that Role. However, even before a term has expired, any participant in the Circle's Governance Process may trigger a new election at any time, using the process defined in Article 3.
+During the election process, the Facilitator will specify a term for each election. After a term expires, the Secretary is responsible for promptly triggering a new election for that Role. However, even before a term has expired, any Circle Member may trigger a new election at any time.
 
 #### 1.6.3 Amending Facilitator or Secretary
 
@@ -121,7 +121,7 @@ In any given instance where a surrogate is needed, the surrogate is, in this ord
 - **(a)** someone explicitly specified by the person to be replaced; or
 - **(b)** for Facilitator, the acting Secretary of the Circle, and for Secretary, the acting Facilitator of the Circle;
 - **(c)** the Circle Lead of the Circle, or, if there are multiple Circle Leads, the first one to declare themselves acting as surrogate; or
-- **(d)** the first Partner filling a Role within the Circle to declare themselves acting as surrogate.
+- **(d)** the first Circle Member to declare themselves acting as surrogate.
 
 
 ## Article 2: Operations
