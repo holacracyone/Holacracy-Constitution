@@ -274,8 +274,8 @@ Within a Circle's Governance Process, the Circle may:
 
 - **(a)** define, amend, or remove its own Roles; and
 - **(b)** define, amend, or remove its own Policies; and
-- **(c)** move its own Roles or Policies into a Sub-Circle, but only if they primarily enact the Purpose or Accountabilities of the Sub-Circle; and
-- **(d)** move Roles or Policies from within a Sub-Circle out into itself, but only if they are no longer needed to enact the Purpose or Accountabilities of the Sub-Circle; and
+- **(c)** move its own Roles or Policies into a Sub-Circle or any Sub-Circle thereof, but only if they primarily enact the Purpose or Accountabilities of that Circle; and
+- **(d)** move Roles or Policies from within a Sub-Circle or any Sub-Circle thereof out into itself, but only if they are no longer relevant to enacting the Purpose or Accountabilities of that Circle; and
 - **(e)** hold elections for any elected Role within the Circle.
 
 Only these outputs are valid Governance for a Circle; no one may capture other outputs within the Circle’s Governance records. A Circle may not modify any Roles or Policies held within a Sub-Circle.
