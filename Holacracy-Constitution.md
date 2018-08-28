@@ -24,7 +24,7 @@ A Role may control assignments into another Role as a Domain. Anyone filling a R
 
 #### 1.2.1 Eligibility
 
-A Role may only be assigned to a Partner of the Organization, or to someone who has agreed to enact the Accountabilities of the Role. A Role may be assigned to multiple people simultaneously. 
+A Role may only be assigned to a Partner of the Organization, or to someone who has agreed to enact all of the duties required of the assignment. A Role may be assigned to multiple people simultaneously. 
 
 #### 1.2.2 Resigning from Roles
 
