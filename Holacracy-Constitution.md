@@ -60,7 +60,7 @@ Any Partner assigned to fill a Role also automatically fills a **_“Circle Lead
 
 #### 1.4.1 Circle Lead Holds Undifferentiated Functions
 
-The Circle Lead Role inherits the Purpose and any Accountabilities on the Circle itself, and controls any Domains defined on the Circle. However, within a Circle this only applies to the extent that those Accountabilities and Domains have not been placed upon one of the Circle's Roles or otherwise delegated.
+The Circle Lead Role inherits the Purpose and any Accountabilities on the Circle itself. However, within a Circle this only applies to the extent that those Accountabilities have not been placed upon one of the Circle's Roles or otherwise delegated.
 
 #### 1.4.2 Circle Lead Defines Priorities & Strategies
 
@@ -140,7 +140,7 @@ In service of your Role, you have the authority to use and impact your Role's Do
 
 You may also use and impact any Domain that the Circle containing your Role owns, or any Domain the Circle itself is authorized to impact, as long as that Domain has not been further delegated to another Role within your Circle.
 
-You cannot exert control or cause a material impact within a Domain delegated to another Role within your Circle or any Super-Circle of your Circle, or one owned by another sovereign entity, unless you have their permission. You may ask for permission directly, or you may announce your intent to take a specific action and invite anyone with a relevant Domain to object. If no one does within a reasonable timeframe, then, while taking that specific action, you have permission to impact any Domains owned by any Role in the Organization that your announcement reached. If your announcement was in writing, you may assume it reached anyone who customarily processes messages in the communication channel you used.
+You cannot exert control or cause a material impact within a Domain delegated to another Role within your Circle or any Super-Circle of your Circle, or one owned by another sovereign entity, unless you have their permission. You may ask for permission directly, or you may announce your intent to take a specific action and invite anyone with a relevant Domain to object. If no one does within a reasonable timeframe, then, while taking that specific action, you have permission to impact any Domains owned by any Role in the Organization that your announcement reached. If your announcement was in writing, you may assume it reached anyone who customarily processes messages in the communication channel you used. A Policy may further modify or constrain this process.
 
 #### 2.1.3 Don't Dispose of Resources
 
