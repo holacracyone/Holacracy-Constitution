@@ -480,9 +480,10 @@ The Facilitator or Secretary of a Circle may declare a Process Breakdown within 
 
 Whenever an authorized party declares a Process Breakdown within a Circle, the following occurs:
 
-- **(a)** the Facilitator of the Super-Circle gains a Project to restore due-process within the Circle; and
-- **(b)** the Facilitator of the Super-Circle gains the authority to take over as Facilitator or Secretary of the Circle, or to appoint someone else to do so; and
-- **(c)** the Facilitator of the Circle gains the authority to judge the accuracy of any arguments presented to validate Proposals or Objections within the Circle’s Governance Process.
+- **(a)** the Facilitator of the Circle gains the authority to judge the accuracy of any arguments presented to validate Proposals or Objections within the Circle’s Governance Process; and
+- **(b)** the Facilitator of the Super-Circle gains a Project to restore due-process within the Circle; and
+- **(c)** the Facilitator of the Super-Circle gains the authority to take over as Facilitator or Secretary of the Circle, or to appoint someone else to do so; and
+- **(d)** the Facilitator of the Super-Circle gains the authority to assign themself or someone else as an additional Circle Lead of the Circle, and any decision that person makes as Circle Lead trumps and prevents any conflicting decision by another Circle Lead for the duration of the Process Breakdown.
 
 These authorities are temporary and cease as soon as the Facilitator of the Super-Circle concludes that due process has been restored within the Circle. If there is no Super-Circle of the Circle experiencing a Process Breakdown, then all of these powers instead vest with the Facilitator of the Circle itself.
 
