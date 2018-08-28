@@ -314,7 +314,7 @@ Some concerns do not count as Objections, and may be ignored during the processi
 
 However, regardless of the above criteria, a concern about adopting a Proposal always counts as an Objection if:
 
-- **(e)** Processing or adopting the Proposal breaks the rules defined in this Constitution, or requires the Circle or its members to act outside of the authority granted under this Constitution. For example, Next-Actions, Projects, and specific operational decisions are typically not valid Governance outputs as defined in Section 3.1, so anyone involved could raise an Objection that a Proposal to enact these outputs would violate the rules of the Constitution.
+- **(e)** Processing or adopting the Proposal breaks the rules defined in this Constitution, or requires the Circle or its members to act outside of the authority granted under this Constitution. For example, Next-Actions, Projects, and specific operational decisions are typically not valid Governance outputs, so anyone involved could raise an Objection that a Proposal to enact these outputs would violate the rules of the Constitution.
 
 #### 3.2.3 Testing Objections
 
@@ -373,7 +373,7 @@ The Facilitator must build an agenda of Tensions to process within a Governance 
 
 - **(a) Agenda Item Format:** Each agenda item in a Governance Meeting represents one Tension to process, sensed by the participant who added it to the agenda. When adding an agenda item, a participant may only provide a short label for the Tension, and may not explain or discuss the Tension further until processing of that agenda item actually begins.
 - **(b) Ordering the Agenda:** The Facilitator may determine the order in which to process agenda items, using any process or criteria the Facilitator deems appropriate. However, the Facilitator must place any agenda item calling for an election of any of the Circle’s elected Roles before all other agenda items, if requested by any meeting participant. Further, if the meeting is a special Governance Meeting scheduled at the request of one participant, the Facilitator must place all agenda items raised by that participant before any raised by others, unless that participant allows otherwise.
-- **(c) Processing Agenda Items:** Once the Facilitator determines an initial order for the agenda, the Facilitator must lead participants through processing each agenda item, one at a time. To process an agenda item that calls for an election, the Facilitator must use the **_“Integrative Election Process”_** defined in Section 3.4.6. To process any other agenda item, the Facilitator must use the **_“Integrative Decision-Making Process”_** defined in Section 3.4.5.
+- **(c) Processing Agenda Items:** Once the Facilitator determines an initial order for the agenda, the Facilitator must lead participants through processing each agenda item, one at a time. To process an agenda item that calls for an election, the Facilitator must use the **_“Integrative Election Process”_** defined below. To process any other agenda item, the Facilitator must use the **_“Integrative Decision-Making Process”_** defined below.
 
 #### 3.3.5 Integrative Decision-Making Process
 
