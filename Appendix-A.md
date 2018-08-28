@@ -41,6 +41,7 @@ Tensions relevant to process in the broader Circle channeled out and resolved.
 **Accountabilities:**
 
 - Facilitating the Governance Process and Tactical Meetings of the Circle or for its Roles
+- Coaching other Circle Members on the Constitution's rules and processes, either on request or when needed for effective meetings
 - Auditing the meetings and records of Sub-Circles on request, and declaring a Process Breakdown upon discovering a pattern of behavior that conflicts with the rules of the Constitution
 
 
