@@ -26,21 +26,21 @@ A Role may control assignments into another Role as a Domain. Anyone filling a R
 
 A Role may only be assigned to a Partner of the Organization, or to someone who has agreed to enact the Accountabilities of the Role. A Role may be assigned to multiple people simultaneously. 
 
-#### 1.2.2 Focusing an Assignment
-
-A Role assigner may further focus an assignment on just a specific area or context, as long as the Purpose and all Accountabilities and Domains defined on that Role are still relevant within that focus. When a focus is used, each assignment focus of a Role is treated like an entirely separate Role, and the Purpose, Accountabilities, and Domains of the Role apply only within the focus specified for that particular assignment.
-
-#### 1.2.3 Supporting Assignments
-
-As a Partner, when you serve as Role Lead for a Role, you may assign other people to fill the Role as well as ***Role Supporters***, and you may remove these assignments at any time. A Role Supporter gains the authorities of the Role, but only holds most of the duties when requested by a Role Lead, as further detailed in Article 2. You may only assign Role Supporters within your specific Role assignment focus, if any.
-
-#### 1.2.4 Resigning from Roles
+#### 1.2.2 Resigning from Roles
 
 As a Partner, you may decline to accept a new Role assignment, or resign from a Role you already fill at any time, unless you’ve agreed otherwise.
 
-#### 1.2.5 Default Role Lead
+#### 1.2.3 Default Role Lead
 
 When a Role is unfilled or led only by external parties who are not Partners of the Organization, then any Partner who controls assignments into that Role is automatically considered to fill it as a Role Lead.
+
+#### 1.2.4 Focusing an Assignment
+
+A Role assigner may further focus an assignment on just a specific area or context, as long as the Purpose and all Accountabilities and Domains defined on that Role are still relevant within that focus. When a focus is used, each assignment focus of a Role is treated like an entirely separate Role, and the Purpose, Accountabilities, and Domains of the Role apply only within the focus specified for that particular assignment.
+
+#### 1.2.5 Supporting Assignments
+
+As a Partner, when you serve as Role Lead for a Role, you may assign other people to fill the Role as well as ***Role Supporters***, and you may remove these assignments at any time. A Role Supporter gains the authorities of the Role, but only holds most of the duties when requested by a Role Lead, as further detailed in Article 2. You may only assign Role Supporters within your specific Role assignment focus, if any.
 
 ### 1.3 Circles
 
