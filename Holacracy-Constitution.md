@@ -68,9 +68,9 @@ A Circle Lead may define relative priorities for the Circle.
 
 In addition, a Circle Lead may define a more general **_“Strategy”_** for the Circle, or multiple Strategies, which are heuristics that guide the Circle’s Roles in self-identifying priorities on an ongoing basis.
 
-#### 1.4.3 Circle Lead Controls Circle Resources
+#### 1.4.3 Circle Lead Controls Circle Assets
 
-To the extent the Circle itself has the authority to dispose of the Organization's property, limit its rights, or spend its tangible resources, this authority vests with the Circle Lead Role, which may then further authorize its Roles to do so.
+To the extent the Circle itself has the authority to dispose of the Organization's property, limit its rights, or spend its money, this authority vests with the Circle Lead Role, which may then further authorize its Roles to do so.
 
 #### 1.4.4 Amending the Circle Lead Role
 
@@ -142,9 +142,9 @@ You may also use and impact any Domain that the Circle containing your Role owns
 
 You cannot exert control or cause a material impact within a Domain delegated to another Role within your Circle or any Super-Circle of your Circle, or one owned by another sovereign entity, unless you have their permission. You may ask for permission directly, or you may announce your intent to take a specific action and invite anyone with a relevant Domain to object. If no one does within a reasonable timeframe, then, while taking that specific action, you have permission to impact any Domains owned by any Role in the Organization that your announcement reached. If your announcement was in writing, you may assume it reached anyone who customarily processes messages in the communication channel you used. A Policy may further modify or constrain this process.
 
-#### 2.1.3 Don't Dispose of Resources
+#### 2.1.3 Don't Dispose of Assets
 
-While energizing your Role, you may not dispose of any significant property or spend any tangible resources of the Organization, nor may you significantly limit any rights of the Organization, unless you are authorized to do so by a Role or Policy with the explicit authority to allow it. This even applies to property, rights, and tangible resources within Domains assigned to your Role.
+While energizing your Role, you may not spend any money or dispose of any significant property of the Organization, nor may you significantly limit any rights of the Organization, unless you are authorized to do so by a Role or Policy with the explicit authority to allow it. This even applies to property, rights, and other assets within Domains assigned to your Role.
 
 ### 2.2 Responsibilities of Role Leads
 
@@ -248,7 +248,7 @@ You may only take Individual Action when all of the following are true:
 
 - **(a)** You are acting in good faith to serve the Purpose or express the Accountabilities of some Role within the Organization, or of the overall Organization itself.
 - **(b)** You reasonably believe your action would resolve or prevent more Tension for the Organization than it would likely create.
-- **(c)** Your action would not cause the Organization to spend tangible resources, dispose of its assets, or limit its rights, beyond what you’re already authorized to so cause.
+- **(c)** Your action would not cause the Organization to spend its money, dispose of its assets, or limit its rights, beyond what you’re already authorized to so cause.
 - **(d)** If your action would violate any Policies or impact any Domains you aren't already authorized to impact, you reasonably believe that you can’t delay the action long enough to request any permissions normally required, or to propose a Governance change to allow your action, without losing much of its potential value.
 
 #### 2.7.2 Communication & Restoration
