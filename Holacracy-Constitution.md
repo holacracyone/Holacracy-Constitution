@@ -16,23 +16,23 @@ The Organization’s Partners will typically perform the work of the Organizatio
 - **(b)** one or more **_“Domains”_**, which are assets, processes, or other things the Role may exclusively control and regulate as its property, on behalf of the Organization.
 - **(c)** one or more **_“Accountabilities”_**, which are ongoing activities the Role will enact, either in service of other Roles in the Organization or to support its own Purpose.
 
-A Role may also contain **_“Policies”_**, which are grants or constraints of authority, or special rules that apply to operations within the Circle, as further defined in Article 3.
+A Role may also contain **_“Policies”_**, which are grants or constraints of authority, or special rules that apply to operations within that Role, as further defined in Article 3.
 
 ### 1.2 Role Assignment
 
-Whoever controls assignments to a Role may assign people to fill that Role and may revoke the assignment at any time. Anyone so assigned becomes the ***"Role Lead"*** for that Role, unless otherwise specified by a rule in this Constitution or a relevant Policy. A Role may be assigned to multiple people simultaneously.
+A Role may control assignments into another Role as a Domain. Anyone filling a Role with such a Domain may assign people to fill the target Role or remove people from that Role at any time. Anyone so assigned becomes the ***"Role Lead"*** for that Role. A Policy may further constrain Role assignments or assignment removals.
 
 #### 1.2.1 Eligibility
 
-A Role may only be assigned to a Partner of the Organization, or to someone who has agreed to enact the Accountabilities of the Role. A Policy may further constrain Role assignment within the Circle.
+A Role may only be assigned to a Partner of the Organization, or to someone who has agreed to enact the Accountabilities of the Role. A Role may be assigned to multiple people simultaneously. 
 
-#### 1.2.2 Focus of Assignments
+#### 1.2.2 Focusing an Assignment
 
-Whoever controls assignments to a Role may further focus an assignment on just a specific area or context, as long as the Purpose and all Accountabilities and Domains defined on that Role are still relevant within that focus. When a focus is used, each assignment focus of a Role is treated like an entirely separate Role, and the Purpose, Accountabilities, and Domains of the Role apply only within the focus specified for that particular assignment.
+A Role assigner may further focus an assignment on just a specific area or context, as long as the Purpose and all Accountabilities and Domains defined on that Role are still relevant within that focus. When a focus is used, each assignment focus of a Role is treated like an entirely separate Role, and the Purpose, Accountabilities, and Domains of the Role apply only within the focus specified for that particular assignment.
 
 #### 1.2.3 Supporting Assignments
 
-When multiple people are assigned to fill a Role with no focus or within the same focus, the Role assigner may designate some of those assignees as a ***Role Supporter*** instead of a Role Lead. A Role Supporter gains the authorities of the Role, but only holds the duties when requested by a Role Lead, as further detailed in Article 2.
+As a Partner, when you serve as Role Lead for a Role, you may assign other people to fill the Role as well as ***Role Supporters***, and you may remove these assignments at any time. A Role Supporter gains the authorities of the Role, but only holds most of the duties when requested by a Role Lead, as further detailed in Article 2. You may only assign Role Supporters within your specific Role assignment focus, if any.
 
 #### 1.2.4 Resigning from Roles
 
