@@ -44,7 +44,7 @@ As a Partner, when you serve as Role Lead for a Role, you may assign other peopl
 
 ### 1.3 Circles
 
-Each Role except those defined in Appendix A is also a ***“Circle”*** internally, and may contain its own Roles and Policies to further break down how it achieves its Purpose, controls its Domains, and enacts its Accountabilities. A Circle is considered a **_“Sub-Circle”_** of the broader Circle containing it, while that broader Circle is its **_“Super-Circle”_**.
+The inside of each Role is a ***“Circle”***, except for those Roles defined in Appendix A. A Circle may contain its own Roles and Policies to further break down how it achieves its Purpose, controls its Domains, and enacts its Accountabilities. A Circle is considered a **_“Sub-Circle”_** of the broader Circle containing it, while that broader Circle is its **_“Super-Circle”_**.
 
 The collection of Roles and Policies contained within a Circle make up its acting **_“Governance”_**. No one may change a Circle's Governance except through its **_“Governance Process”_**, described in Article 3.
 
