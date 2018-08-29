@@ -448,13 +448,11 @@ Further, in an Anchor Circle with no Circle Lead, the authority Roles normally h
 
 #### 4.2.3 Organization’s Purpose
 
-The Purpose of the Organization is the deepest creative potential it can sustainably express in the world, given all of the constraints acting upon it and everything available to it. That includes its history, current capacities, available resources, Partners, character, culture, business structure, brand, market awareness, and all other relevant resources or factors.
-
-The Circle Lead Role of the Anchor Circle holds an Accountability for discovering the Purpose of the Organization, and controls this Purpose definition as its Domain. If the Anchor Circle has no Circle Lead, this Accountability is retained by the Ratifiers until delegated to a Role within the Circle, and the Domain is held by the Anchor Circle itself.
+The Organization's purpose is the deepest creative potential it can sustainably express in the world, given all of the constraints acting upon it and everything available to it. This becomes the Purpose of the Anchor Circle, and the Circle Lead Role of the Anchor Circle holds an Accountability for discovering this Purpose. If the Anchor Circle has no Circle Lead, this Accountability is retained by the Ratifiers until delegated to a Role within the Anchor Circle.
 
 #### 4.2.4 Updating the Anchor Circle
 
-The Circle Lead Role of the Anchor Circle has the authority to name the Circle, clarify its Domains, and add or modify its Accountabilities.
+The Circle Lead Role of the Anchor Circle has the authority to name the Circle, clarify its Purpose and Domains, and add or modify its Accountabilities.
 
 The Circle Lead Role of the Anchor Circle may also appoint his or her own replacement as desired, unless otherwise specified by the Ratifiers.
 
