@@ -56,27 +56,19 @@ Once a Role controls a Domain, it may create its own Policies governing that Dom
 
 ### 1.4 Circle Leads
 
-Any Partner assigned to fill a Role also automatically fills a **_“Circle Lead Role”_** within that Role's internal Circle, and is thus a ***“Circle Lead”*** while acting in that capacity. The Circle Lead Role has the definition given in Appendix A, and the further responsibilities and authorities defined in this Section.
+Any Partner assigned to fill a Role also automatically fills a **_“Circle Lead Role”_** within that Role's internal Circle, and is thus a ***“Circle Lead”*** while acting in that capacity. The Circle Lead Role has the definition given in Appendix A, and also inherits the Purpose and any Accountabilities on the Circle itself. However, within the Circle this only applies to the extent that those Accountabilities have not been placed upon one of the Circle's Roles or otherwise delegated.
 
-#### 1.4.1 Circle Lead Holds Undifferentiated Functions
+#### 1.4.1 Defining Priorities & Strategies
 
-The Circle Lead Role inherits the Purpose and any Accountabilities on the Circle itself. However, within a Circle this only applies to the extent that those Accountabilities have not been placed upon one of the Circle's Roles or otherwise delegated.
+A Circle Lead may define relative priorities for the Circle. In addition, a Circle Lead may define a more general **_“Strategy”_** for the Circle, or multiple Strategies, which are heuristics that guide the Circle’s Roles in self-identifying priorities on an ongoing basis.
 
-#### 1.4.2 Circle Lead Defines Priorities & Strategies
-
-A Circle Lead may define relative priorities for the Circle.
-
-In addition, a Circle Lead may define a more general **_“Strategy”_** for the Circle, or multiple Strategies, which are heuristics that guide the Circle’s Roles in self-identifying priorities on an ongoing basis.
-
-#### 1.4.3 Circle Lead Controls Circle Assets
+#### 1.4.2 Controling Circle Assets
 
 To the extent the Circle itself has the authority to dispose of the Organization's property, limit its rights, or spend its money, this authority vests with the Circle Lead Role, which may then further authorize its Roles to do so.
 
-#### 1.4.4 Amending the Circle Lead Role
+#### 1.4.3 Amending the Circle Lead Role
 
-A Circle may not add Accountabilities or other functions to its own Circle Lead Role, or modify the Role’s Purpose, or remove the Role entirely. 
-
-However, a Circle may remove any Accountabilities, Domains, authorities, or functions of its Circle Lead Role, either by placing them on another Role within the Circle, or by defining an alternate means of enacting them. When this occurs, it automatically removes the relevant element or authority from the Circle Lead Role, for as long as the delegation remains in place.
+A Circle may not add Accountabilities or other functions to its own Circle Lead Role, or modify the Role’s Purpose, or remove the Role entirely. However, a Circle may remove any Accountabilities, Domains, authorities, or functions of its Circle Lead Role, either by placing them on another Role within the Circle, or by defining an alternate means of enacting them. When this occurs, it automatically removes the relevant element or authority from the Circle Lead Role, for as long as the delegation remains in place.
 
 ### 1.5 Circle Members
 
