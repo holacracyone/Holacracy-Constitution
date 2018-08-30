@@ -88,11 +88,11 @@ A Circle may also adopt a Policy to invite an external Role to participate in it
 
 #### 1.5.1 Rep Links
 
-Any Circle Member of a Circle may call for the selection of a ***"Rep Link"*** to represent the Circle within its Super-Circle's Governance Process. The selected Rep Link fills the Rep Link Role within the Circle, with the definition given in Appendix A. The Rep Link automatically becomes a Circle Member of the Super-Circle, with the authority to represent the whole Circle within the Super-Circle's Governance Process, just like a Role Lead.
+Any Circle Member of a Circle may call for the selection of a ***"Rep Link"*** to represent the Circle within its Super-Circle's Governance Process. The selected Rep Link fills the Rep Link Role within the Circle, with the definition given in Appendix A.
 
-No more than one person may serve as a Circle's Rep Link at a time, unless allowed by a Policy of the Super-Circle.
+The Rep Link automatically becomes a Circle Member of the Super-Circle, with the authority to represent the whole Circle within the Super-Circle's Governance Process, just like a Role Lead. The Super-Circle may limit or prevent this via a Policy, but only to the extent the Circle's Roles have another way to enjoy comparable representation within the Super-Circle.
 
-By default, selecting a Rep Link happens via the election process and rules defined in Article 3, however a Policy may specify an alternate process. Anyone serving as a Circle Lead for the Circle may not also serve as its Rep Link.
+By default, selecting a Rep Link happens via the election process and rules defined in Article 3, however a Policy may specify an alternate process. Anyone serving as a Circle Lead for the Circle may not also serve as its Rep Link. No more than one person may serve as a Circle's Rep Link at a time, unless allowed by a Policy of the Super-Circle.
 
 A Circle may add Accountabilities or Domains to its own Rep Link Role, as well as amend or remove those additions. However, no Circle may amend or remove the Purpose or any Accountabilities granted to a Rep Link Role by this Constitution, nor remove the Role entirely.
 
