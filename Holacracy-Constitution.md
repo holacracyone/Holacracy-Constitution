@@ -341,7 +341,7 @@ The Facilitator is responsible for presiding over all Governance Meetings in ali
 
 #### 3.3.1 Attendance
 
-The Circle Members of a Circle are entitled to fully participate in all Governance Meetings of a Circle. The acting Facilitator and Secretary are also entitled to fully participate for the duration of a Governance Meeting and become Circle Members representing those Roles, even if they are not normally Circle Members of the Circle.
+The Circle Members of a Circle are entitled to fully participate in all Governance Meetings of the Circle. The acting Facilitator and Secretary are also entitled to fully participate for the duration of a Governance Meeting and become Circle Members representing those Roles, even if they are not normally Circle Members of the Circle.
 
 In addition, as a Circle Lead for a Circle or a Rep Link into the Circle, you may invite someone into that Circle's Governance Meeting, and your invited guest becomes a full participant for the duration of the Governance Meeting or until you withdraw the invitation. You may only extend this invitation to one person at a time, and only to aid in the processing of a specific Tension affecting your Circle Lead or Rep Link Role. You must sense this Tension yourself as well, and believe it makes sense to process in the Circle. If these conditions are met, your guest becomes a Circle Member representing your Circle Lead or Rep Link Role in the Governance Meeting, but only while directly processing that specific Tension.
 
