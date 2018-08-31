@@ -391,9 +391,11 @@ The Facilitator must enact the Integrative Election Process as follows:
 
 ### 3.4 Asynchronous Governance
 
-Instead of using a Governance Meeting, a Proposer may make a Proposal by distributing it to all Circle Members asynchronously using any written communication channel allowed by the Circle’s Secretary. Each Circle Member may then ask clarifying questions, share reactions, or raise Objections asynchronously. At any point before the Proposal is adopted, any participant may stop the asynchronous processing by escalating the Proposal to a Governance Meeting instead. The asynchronous processing also stops if any Objections are raised, at which point the Proposer may seek an integration and repropose, or bring the Proposal to the a Governance Meeting for further processing.
+Instead of using a Governance Meeting, a Circle Member may make a Proposal by distributing it to all other Circle Members asynchronously using any written communication channel allowed by the Circle’s Secretary. Each Circle Member may then ask clarifying questions, share reactions, or raise Objections asynchronously. At any point before the Proposal is adopted, any Circle Member may stop the asynchronous processing by escalating the Proposal to a Governance Meeting instead. The asynchronous processing also stops if any Objections are raised, at which point the Proposer may seek an integration and repropose, or bring the Proposal to the a Governance Meeting for further processing.
 
-A Circle may adopt Policies to further constrain when or how Proposals may be made or processed outside of a Governance Meeting. However, no Policy may limit the right to stop asynchronous processing by escalating to a Governance Meeting. A Circle may also use a Policy to create a time limit for responding to asynchronous Proposals, upon which any asynchronous Proposal is automatically adopted if no Objections or escalation requests are raised.
+A Circle Member may also request the Facilitator run an election outside of a Governance Meeting, and the Facilitator may do so by enacting the Integrative Election Process asynchronously, or whatever other process is required by Policy and allowed by this Constitution.
+
+A Circle may adopt Policies to further constrain when or how Proposals or elections may happen outside of a Governance Meeting. A Circle may also adopt a Policy to define a time limit for responding to asynchronous Proposals or election nominations, after which anyone who has not responded is assumed to have declined to raise an Objection or provide a nomination. However, no Policy may limit the right to stop asynchronous processing of a Proposal by escalating it to a Governance Meeting. 
 
 ### 3.5 Interpreting the Constitution & Governance
 
