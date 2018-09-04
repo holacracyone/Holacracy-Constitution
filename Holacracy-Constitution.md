@@ -426,7 +426,9 @@ By adopting this Constitution, the Ratifiers cede their authority to govern and 
 
 ### 4.2 Anchor Circle
 
-Upon adopting this Constitution, the Ratifiers must establish an initial Circle to express the overall Purpose of the Organization. This **_“Anchor Circle”_** becomes the broadest Circle in the Organization, and automatically controls all Domains that the Organization itself controls. The Anchor Circle has no Super-Circle, and does not elect a Rep Link.
+Upon adopting this Constitution, the Ratifiers must establish an initial Circle to express the overall Purpose of the Organization. This **_“Anchor Circle”_** becomes the broadest Circle in the Organization; it has no Super-Circle, and does not elect a Rep Link.
+
+Unless otherwise specified by the Ratifiers, the Anchor Circle automatically controls all Domains that the Organization itself controls, and has all the authority that the Organization itself has, including authorities to dispose of the Organization's property, limit its rights, and spend its money.
 
 The Ratifiers may further define an initial structure and other Governance within the Anchor Circle for the Organization to start with upon adopting this Constitution.
 
@@ -438,11 +440,11 @@ If the Ratifiers leave the Anchor Circle without a Circle Lead, all decisions th
 
 Further, in an Anchor Circle with no Circle Lead, the authority Roles normally have to impact undelegated Circle Domains is revoked. Instead, the Circle’s Roles may only impact its Domains if a Policy explicitly allows the impact, or, alternatively, by making a Proposal to allow a specific impact using the Circle’s Governance Process.
 
-#### 4.2.3 Organization’s Purpose
+#### 4.2.2 Organization’s Purpose
 
 The Organization's purpose is the deepest creative potential it can sustainably express in the world, given all of the constraints acting upon it and everything available to it. This becomes the Purpose of the Anchor Circle, and the Circle Lead Role of the Anchor Circle holds an Accountability for discovering this Purpose. If the Anchor Circle has no Circle Lead, this Accountability is retained by the Ratifiers until delegated to a Role within the Anchor Circle.
 
-#### 4.2.4 Updating the Anchor Circle
+#### 4.2.3 Updating the Anchor Circle
 
 The Circle Lead Role of the Anchor Circle has the authority to name the Circle, clarify its Purpose and Domains, and add or modify its Accountabilities.
 
