@@ -60,7 +60,7 @@ Any Partner assigned to fill a Role also automatically fills a **_“Circle Lead
 
 #### 1.4.1 Defining Priorities & Strategies
 
-A Circle Lead may define relative priorities for the Circle. In addition, a Circle Lead may define a more general **_“Strategy”_** for the Circle, or multiple Strategies, which are heuristics that guide the Circle’s Roles in self-identifying priorities on an ongoing basis.
+A Circle Lead may judge the relative value of potential Circle efforts, to help clarify and align priorities across Roles. In addition, a Circle Lead may define a more general **_“Strategy”_** for the Circle, or multiple Strategies, which are heuristics that guide the Circle’s Roles in self-identifying priorities on an ongoing basis.
 
 #### 1.4.2 Controling Circle Assets
 
@@ -167,7 +167,7 @@ You are responsible for capturing and tracking all Projects and Next-Actions for
 
 #### 2.3.2 Prioritizing Your Attention
 
-Whenever you have time available to act in your Role, you are responsible for considering the potential Next-Actions you could efficiently and effectively do at that point in time, and executing whichever you believe would add the most value to the Organization. You must further consider and integrate any official prioritizations and Strategies of the Circle or acting upon the Circle, such as those specified by a Circle Lead, when assessing how to deploy your time, attention, and other resources to your work within the Circle. If your judgment of how to integrate these leads you to prioritize in a way that's substantially opposed to them, you must also notify the Circle Lead of your decision.
+Whenever you have time available to act in a Role, you are responsible for considering the potential Next-Actions you could efficiently and effectively do at that point in time, and executing whichever you believe would add the most value to the Organization. In assessing that, you must further consider and integrate any relative value judgments and Strategies defined by a Circle Lead or other officially authorized source of the Circle holding the Role, as well as any acting upon that Circle itself. If for any reason you intend to prioritize in a way that you believe is substantially opposed to the published priorities of the Circle holding your Role, you must notify the Circle Lead of your intent.
 
 ### 2.4 Duties to Other Role-Fillers
 
