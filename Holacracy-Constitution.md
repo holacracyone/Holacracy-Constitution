@@ -327,9 +327,9 @@ When an Objection to a Proposal is raised, the following additional rules apply 
 
 The Secretary of a Circle is responsible for scheduling ***"Governance Meetings"*** to enact the Circle’s Governance Process.
 
-In addition to any regular Governance Meetings the Secretary schedules, the Secretary is responsible for scheduling additional special Governance Meetings promptly upon request of any Circle Member of the Circle.
+In addition to any regular Governance Meetings the Secretary schedules, the Secretary is responsible for scheduling additional special Governance Meetings promptly upon request of any Circle Member of the Circle. 
 
-The Facilitator is responsible for presiding over all Governance Meetings in alignment with the following rules and any relevant Policies of the Circle.
+The Facilitator is responsible for presiding over all Governance Meetings in alignment with the following rules.
 
 #### 3.3.1 Attendance
 
