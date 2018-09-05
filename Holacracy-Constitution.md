@@ -62,11 +62,7 @@ Any Partner assigned to fill a Role also automatically fills a **_“Circle Lead
 
 A Circle Lead may judge the relative value of potential Circle efforts, to help clarify and align priorities across Roles. In addition, a Circle Lead may define a more general **_“Strategy”_** for the Circle, or multiple Strategies, which are heuristics that guide the Circle’s Roles in self-identifying priorities on an ongoing basis.
 
-#### 1.4.2 Controling Circle Assets
-
-To the extent the Circle itself has the authority to dispose of the Organization's property, limit its rights, or spend its money, this authority vests with the Circle Lead Role, which may then further authorize its Roles to do so.
-
-#### 1.4.3 Amending the Circle Lead Role
+#### 1.4.2 Amending the Circle Lead Role
 
 A Circle may not add Accountabilities or other functions to its own Circle Lead Role, or modify the Role’s Purpose, or remove the Role entirely. However, a Circle may remove any Accountabilities, Domains, authorities, or functions of its Circle Lead Role, either by placing them on another Role within the Circle, or by defining an alternate means of enacting them. When this occurs, it automatically removes the relevant element or authority from the Circle Lead Role, for as long as the delegation remains in place.
 
@@ -136,7 +132,11 @@ You cannot exert control or cause a material impact within a Domain delegated to
 
 #### 2.1.3 Don't Dispose of Assets
 
-While energizing your Role, you may not spend any money or dispose of any significant property of the Organization, nor may you significantly limit any rights of the Organization, unless you are authorized to do so by a Role or Policy with the explicit authority to allow it. This even applies to property, rights, and other assets within Domains assigned to your Role.
+While energizing your Role, you may not spend any money or dispose of any significant property of the Organization, nor may you significantly limit any rights of the Organization, unless you are explicitly authorized to do so. This even applies to property, rights, and other assets within Domains assigned to your Role.
+
+You can get this authorization by announcing your intent to spend in writing to all Circle Members of whatever Circle has the right to spend the money or assets you intend to spend, and naming the Role you're acting in. You must then allow a reasonable timeframe for them to consider the potential expense before proceeding, and any of them may block your ability to proceed by escalating the expense for additional consideration. Once escalated, a Circle Lead of that Circle may further assess and choose to reverse the escalation. After you've allowed reasonable time for consideration and no escalations stand, your Role gains control of spending the stated resource, but only for whatever purpose and within any parameters you've announced. From there, you may either proceed with the spending, directly authorize another Role to do so, or allow other Roles to further gain control using this same process.
+
+A Policy may change this process in any way, or directly authorize a Role to control spending of the Circle's resources without going through this process.
 
 ### 2.2 Responsibilities of Role Leads
 
