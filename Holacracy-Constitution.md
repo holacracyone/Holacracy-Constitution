@@ -305,7 +305,7 @@ Some concerns do not count as Objections, and may be ignored during the processi
 
 - **(a)** If the Proposal were adopted without addressing the concern, it would harm the capacity of the Circle to express its Purpose or enact its Accountabilities. Thus, the concern is not just triggered by a better idea or a potential for further improvement, but because the Proposal would actually reduce the Circle's current capacity. For this criteria, decreasing clarity counts as reducing capacity, although merely failing to improve clarity does not.
 - **(b)** The concern does not already exist even in the absence of the Proposal. Thus, a new Tension would be created specifically by adopting the Proposal, and would not exist were the Proposal withdrawn.
-- **(c)** The concern is triggered just by presently known facts or events, without regard to a prediction of what might happen in the future. However, relying on predictions is allowed when no opportunity to adequately sense and respond is likely to exist in the future before significant harm could result.
+- **(c)** The proposal would immediately or necessarily cause the harm, or it might cause harm but that possibility still needs to be dealt with now because the Circle won't have an adequate opportunity to adapt before significant harm could result.
 - **(d)** The Proposal would limit the Objector's capacity to express the Purpose or an Accountability of one of the Objector's Roles in the Circle, even if the Objector filled no other Roles in the Organization.
 
 However, regardless of the above criteria, a concern about adopting a Proposal always counts as an Objection if:
