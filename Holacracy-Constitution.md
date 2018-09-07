@@ -62,7 +62,11 @@ Any Partner assigned to fill a Role also automatically fills a **_“Circle Lead
 
 A Circle Lead may judge the relative value of potential Circle efforts, to help clarify and align priorities across Roles. In addition, a Circle Lead may define a more general **_“Strategy”_** for the Circle, or multiple Strategies, which are heuristics that guide the Circle’s Roles in self-identifying priorities on an ongoing basis.
 
-#### 1.4.2 Amending the Circle Lead Role
+#### 1.4.2 Routing External References
+
+Whenever Governance outside the Circle references the Circle itself or any Role ultimately contained within the Circle, a Circle Lead may update that reference to refer to another Role within the Circle instead. This does not require using the Governance Process of any Circle.
+
+#### 1.4.3 Amending the Circle Lead Role
 
 A Circle may not add Accountabilities or other functions to its own Circle Lead Role, or modify the Role’s Purpose, or remove the Role entirely. However, a Circle may remove any Accountabilities, Domains, authorities, or functions of its Circle Lead Role, either by placing them on another Role within the Circle, or by defining an alternate means of enacting them. When this occurs, it automatically removes the relevant element or authority from the Circle Lead Role, for as long as the delegation remains in place.
 
