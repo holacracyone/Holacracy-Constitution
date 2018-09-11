@@ -403,11 +403,13 @@ A Circle may adopt Policies to further constrain when or how Proposals or electi
 
 As a Partner of the Organization, you may use your reasonable judgment to interpret this Constitution and any Governance within the Organization, including how these apply within a specific situation, and then act based on your interpretation. In so doing, you must interpret all Governance in the context of the Purpose and Accountabilities of the Circle containing it, and avoid using any interpretation that conflicts with that context.
 
-#### 3.5.1 Secretaries Resolve Interpretation Conflicts
+#### 3.5.1 Meaning of Deadlines in Governance
+
+If the Governance of a Circle includes a deadline specifying when something must be completed by, you do not necessarily have to meet that deadline. However, you must interpret that Governance as an official declaration that any actions needed to hit the deadline are more important than any other actions you could take within that Circle, unless otherwise specified by a Circle Lead or another Role or process with the authority to make official prioritization judgments for the Circle.
+
+#### 3.5.2 Secretaries Resolve Interpretation Conflicts
 
 If your interpretation of Governance conflicts with another Partner's, either party may ask the Secretary of any affected Circle to rule on which interpretation to use. Once a Secretary has made such a ruling, it trumps your own and you are responsible for aligning with it until any underlying Governance changes.
-
-#### 3.5.2 Super-Circle Secretary May Overrule
 
 A Circle’s Secretary may overrule an interpretation given by a Secretary of any Sub-Circle. If two Secretaries give conflicting rulings and one is from the Secretary of a Circle that ultimately contains the other Circle, then you are responsible for aligning with the interpretation given by the broader Circle’s Secretary.
 
