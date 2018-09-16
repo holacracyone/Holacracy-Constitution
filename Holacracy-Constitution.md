@@ -32,7 +32,7 @@ As a Partner, you may decline to accept a new Role assignment, or resign from a 
 
 #### 1.2.3 Default Role Lead
 
-When a Role is unfilled or led only by external parties who are not Partners of the Organization, then any Partner who controls assignments into that Role is automatically considered to fill it as a Role Lead.
+When a Role is unfilled, any Partner who controls assignments into that Role is automatically considered to fill it as a Role Lead.
 
 #### 1.2.4 Focusing an Assignment
 
