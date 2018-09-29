@@ -165,9 +165,11 @@ You are responsible for regularly considering how to complete each Project you a
 
 You are responsible for capturing and tracking all Projects and Next-Actions for your Role in a database or similar tangible form, and for regularly reviewing and updating that database to maintain it as a trusted list of the Role’s active and potential work. You are also responsible for tracking any Tensions you identify for your Role, at least until you process them into desired Projects or Next-Actions, or otherwise resolve them.
 
-#### 2.3.2 Prioritizing Your Attention
+#### 2.3.3 Prioritizing Your Attention
 
 Whenever you have time available to act in a Role, you are responsible for considering the potential Next-Actions you could efficiently and effectively do at that point in time, and executing whichever you believe would add the most value to the Organization. In assessing that, you must further consider and integrate any relative value judgments and Strategies defined by a Circle Lead or other officially authorized source of the Circle holding the Role, as well as any acting upon that Circle itself. If for any reason you intend to prioritize in a way that you believe is substantially opposed to the published priorities of the Circle holding your Role, you must notify the Circle Lead of your intent.
+
+If the Governance of a Circle includes a deadline specifying when something must be completed by, you do not necessarily have to meet that deadline. However, you must interpret that Governance as an official declaration that any actions needed to hit the deadline are more important than any other actions you could take within that Circle, unless otherwise specified by a Circle Lead or another Role or process with the authority to make official prioritization judgments for the Circle.
 
 ### 2.4 Duties to Other Role-Fillers
 
@@ -399,23 +401,19 @@ A Circle may adopt Policies to further constrain when or how Proposals or electi
 
 As a Partner of the Organization, you may use your reasonable judgment to interpret this Constitution and any Governance within the Organization, including how these apply within a specific situation, and then act based on your interpretation. In so doing, you must interpret all Governance in the context of the Purpose and Accountabilities of the Circle containing it, and avoid using any interpretation that conflicts with that context.
 
-#### 3.5.1 Meaning of Deadlines in Governance
-
-If the Governance of a Circle includes a deadline specifying when something must be completed by, you do not necessarily have to meet that deadline. However, you must interpret that Governance as an official declaration that any actions needed to hit the deadline are more important than any other actions you could take within that Circle, unless otherwise specified by a Circle Lead or another Role or process with the authority to make official prioritization judgments for the Circle.
-
-#### 3.5.2 Secretaries Resolve Interpretation Conflicts
+#### 3.5.1 Secretaries Resolve Interpretation Conflicts
 
 If your interpretation of Governance conflicts with another Partner's, either party may ask the Secretary of any affected Circle to rule on which interpretation to use. Once a Secretary has made such a ruling, it trumps your own and you are responsible for aligning with it until any underlying Governance changes.
 
 A Circle’s Secretary may overrule an interpretation given by a Secretary of any Sub-Circle. If two Secretaries give conflicting rulings and one is from the Secretary of a Circle that ultimately contains the other Circle, then you are responsible for aligning with the interpretation given by the broader Circle’s Secretary.
 
-#### 3.5.3 Interpretations Become Standards
+#### 3.5.2 Interpretations Become Standards
 
 When ruling on an interpretation, a Secretary may choose to publish that interpretation and the logic behind it in writing. If published, the Secretary of that Circle and the Secretaries of any contained Circles are responsible for attempting to align any future rulings with the previously published logic and interpretations.
 
 A Secretary may only contradict previously published logic or interpretations once a compelling new argument or circumstance supports a reversal. If such a contradiction is also published, its logic and interpretations become the new standard that all future rulings must align with.
 
-#### 3.5.4 Striking Invalid Governance
+#### 3.5.3 Striking Invalid Governance
 
 Anyone filling a Role in a Circle may ask its Secretary to rule on the validity of any Governance of the Circle or any Role or Sub-Circle ultimately contained by the Circle. Upon such a request, if the Secretary concludes the Governance conflicts with the rules of this Constitution, the Secretary must then strike the offending Governance from the acting Governance record. After doing so, the Secretary must promptly communicate what was struck and why to all Partners filling Roles within the Circle that held the offending Governance.
 
