@@ -28,7 +28,7 @@ A Role may only be assigned to a Partner of the Organization, or to someone who 
 
 #### 1.2.2 Resigning from Roles
 
-As a Partner, you may decline to accept a new Role assignment, or resign from a Role you already fill at any time, unless you’ve agreed otherwise.
+As a current or potential Role-filler, you may decline to accept a Role assignment or resign from a Role you already fill at any time, unless you’ve agreed otherwise.
 
 #### 1.2.3 Default Role Lead
 
