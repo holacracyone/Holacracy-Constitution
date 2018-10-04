@@ -82,7 +82,7 @@ The Rep Link automatically becomes a Circle Member of the Super-Circle, with the
 
 By default, selecting a Rep Link happens via the election process and rules defined in Article 3, however a Policy may specify an alternate process. Anyone serving as a Circle Lead for the Circle may not also serve as its Rep Link. No more than one person may serve as a Circle's Rep Link at a time, unless allowed by a Policy of the Super-Circle.
 
-A Circle may add Accountabilities or Domains to its own Rep Link Role, as well as amend or remove those additions. However, no Circle may amend or remove the Purpose or any Accountabilities granted to a Rep Link Role by this Constitution, nor remove the Role entirely.
+A Circle may add Accountabilities or Domains to its own Rep Link Role, as well as amend or remove those additions. However, no Circle may amend or remove the Purpose or any Accountabilities granted to a Rep Link Role by this Constitution, nor remove the Role.
 
 ### 1.6 Facilitator and Secretary
 
@@ -98,7 +98,7 @@ During the election process, the Facilitator will specify a term for each electi
 
 #### 1.6.3 Amending Facilitator or Secretary
 
-A Circle may add Accountabilities or Domains to its own Facilitator or Secretary Role, as well as amend or remove those additions. However, no Circle may amend or remove any Purpose, Domain, Accountabilities, or authorities granted to one of these Roles by this Constitution, nor remove the Role entirely.
+A Circle may add Accountabilities or Domains to its own Facilitator or Secretary Role, as well as amend or remove those additions. However, no Circle may amend or remove any Purpose, Domain, Accountabilities, or authorities granted to one of these Roles by this Constitution, nor remove the Role.
 
 #### 1.6.4 Surrogates
 
