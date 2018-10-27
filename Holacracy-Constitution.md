@@ -173,7 +173,7 @@ If the Governance of a Circle includes a deadline specifying when something must
 
 ### 2.4 Duties to Other Role-Fillers
 
-As a Partner filling a Role as Role Lead, you have the following duties to all others in the Organization. As a Partner serving as a Role Supporter, you have the following duties but only upon request of a Role Lead for that Role. In either case, these duties only apply when the other party is acting on behalf of one of their own Roles in the Organization, and names that Role in any explicit request. 
+As a Role Lead, you have the following duties to all others filling Roles in the Organization. As a Role Supporter, you have the following duties but only upon request of a Role Lead for that Role. In either case, these duties only apply when the other party is acting on behalf of one of their own Roles in the Organization, and names that Role in any explicit request. 
 
 #### 2.4.1 Duty of Transparency
 
@@ -188,19 +188,19 @@ You have a duty to provide transparency in any of the following areas upon reque
 
 #### 2.4.2 Duty of Processing
 
-You have a duty to promptly process messages and requests from your fellow Partners, as follows:
+You have a duty to promptly process messages and requests, as follows:
 
-- **(a) Requests for Processing:** Other Partners may ask you to process the Purpose or any Accountability or Project of a Role you fill. If you have no Next-Actions tracked to enact it, you must identify, capture, and communicate a Next-Action if there are any reasonable ones you could take. If there are not, you must instead share what you’re waiting on, which must be a Next-Action or Project tracked by another Role, or a specific event or condition that must happen before you can take further Next-Actions. Additionaly, if the Next-Action or waiting-on you share is one step towards a broader outcome and you aren't already tracking that as a Project, you must also capture and communicate that Project.
-- **(b) Requests for Projects & Next-Actions:** Other Partners may ask you to take on a specific Next-Action or Project in one of your Roles. You must accept and track it if you believe that Next-Action or Project would make sense to work towards to express your Role's Purpose or Accountabilities, at least in the absence of competing priorities. If not, then you must either explain your reasoning, or capture and communicate a different Next-Action or Project that you believe will meet the requester’s objective.
-- **(c) Requests to Impact Domain:** Other Partners may ask to impact a Domain controlled by one of your Roles, and you must allow it if you see no Objections to the request (as defined in Article 3). If you do, you must explain any Objections to the requester.
-- **(d) Requests for Information:** Other Partners may ask you questions or request information, and you must respond in good faith with at least brief answers or relevant information that's readily available to you.
+- **(a) Requests for Processing:** Others may ask you to process the Purpose or any Accountability or Project of a Role you fill. If you have no Next-Actions tracked to enact it, you must identify, capture, and communicate a Next-Action if there are any reasonable ones you could take. If there are not, you must instead share what you’re waiting on, which must be a Next-Action or Project tracked by another Role, or a specific event or condition that must happen before you can take further Next-Actions. Additionaly, if the Next-Action or waiting-on you share is one step towards a broader outcome and you aren't already tracking that as a Project, you must also capture and communicate that Project.
+- **(b) Requests for Projects & Next-Actions:** Others may ask you to take on a specific Next-Action or Project in one of your Roles. You must accept and track it if you believe that Next-Action or Project would make sense to work towards to express your Role's Purpose or Accountabilities, at least in the absence of competing priorities. If not, then you must either explain your reasoning, or capture and communicate a different Next-Action or Project that you believe will meet the requester’s objective.
+- **(c) Requests to Impact Domain:** Others may ask to impact a Domain controlled by one of your Roles, and you must allow it if you see no Objections to the request (as defined in Article 3). If you do, you must explain any Objections to the requester.
+- **(d) Requests for Information:** Others may ask you questions or request information, and you must respond in good faith with at least brief answers or relevant information that's readily available to you.
 
 #### 2.4.3 Duty of Prioritization
 
 You have a duty to prioritize where to focus your attention and resources in alignment with the following constraints:
 
-- **(a) Processing Over Execution:** You must generally prioritize processing inbound messages from fellow Partners over executing your own Next-Actions. However, you may temporarily defer processing in order to batch process messages in a single time block or at a more convenient time, as long as your processing is still reasonably prompt. Processing means engaging in the duties described in this section, including considering the message, defining and capturing Next-Actions or Projects when appropriate, and, upon request, responding with how the message was processed. Processing does not mean executing upon captured Next-Actions and Projects, which is not covered by this prioritization rule.
-- **(b) Requested Meetings Over Execution:** On request of a fellow Partner, you must prioritize attending any meeting defined in this Constitution over executing your own Next-Actions. However, you may still decline the request if you already have plans scheduled over the meeting time, or if the request was for an ongoing series or pattern of meetings rather than a specific meeting instance.
+- **(a) Processing Over Execution:** You must generally prioritize processing inbound messages from other Roles over executing your own Next-Actions. However, you may temporarily defer processing in order to batch process messages in a single time block or at a more convenient time, as long as your processing is still reasonably prompt. Processing means engaging in the duties described in this section, including considering the message, defining and capturing Next-Actions or Projects when appropriate, and, upon request, responding with how the message was processed. Processing does not mean executing upon captured Next-Actions and Projects, which is not covered by this prioritization rule.
+- **(b) Requested Meetings Over Execution:** On request, you must prioritize attending any meeting defined in this Constitution over executing your own Next-Actions. However, you may still decline the request if you already have plans scheduled over the meeting time, or if the request was for an ongoing series or pattern of meetings rather than a specific meeting instance.
 
 ### 2.5 Working Agreements
 
