@@ -72,7 +72,7 @@ Each Circle has a group of ***"Circle Members"*** who may represent its Roles in
 
 By default, the Circle Members of a Circle include all Partners filling its Circle Lead Role, as well as each Partner serving as Role Lead for a Role within the Circle. If a Role has multiple Role Leads, a Circle may adopt a Policy to limit how many of them represent that Role as Circle Members in its Governance Process.
 
-A Circle may also adopt a Policy to invite an external Role to participate in its Governance Process, or to require one of its Sub-Circles to do so. While such a Policy exists, any Partners authorized to represent the invited Role as Circle Members within its own Circle also become Circle Members of the Circle so inviting.
+A Circle may also adopt a Policy to invite an external Role to join its Governance Process, or the Governance Process of one of its Sub-Circles. In that case, any Partners authorized to represent that Role in the Governance Process of its containing Circle also become Circle Members of the Circle the Role was invited to join, unless the inviting Policy says otherwise.
 
 #### 1.5.1 Rep Links
 
