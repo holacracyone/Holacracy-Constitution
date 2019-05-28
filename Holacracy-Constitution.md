@@ -218,7 +218,7 @@ In service of one of their Roles, any Partner may convene a **_“Tactical Meeti
 
 #### 2.7.1 Attendance
 
-The Partner convening a Tactical Meeting must name the specific Roles invited to that Tactical Meeting, and the Role Leads of those Roles are invited to attend and participate in the meeting. The convener may also invite the Facilitator of a relevant Circle to lead the meeting. There is no advance notice or quorum required for a Tactical Meeting, unless a relevant Policy says otherwise.
+The Partner convening a Tactical Meeting must name the specific Roles included in that meeting. The Role Leads of those Roles are then invited to attend and represent their Roles, unless the convener further narrows the invite to include only a subset of those Role Leads. The convener must also name someone to act as Facilitator for that meeting, which may be the elected Facilitator of any Circle with a Role represented in that meeting, or someone else of the convener's choosing.
 
 #### 2.7.2 Facilitation & Process
 
@@ -229,14 +229,14 @@ Unless a Policy says otherwise, anyone facilitating a Tactical Meeting must use 
 - **(c) Metrics Review:** The Facilitator asks each participant to share data for any metrics that any other participant has asked them to regularly report on.
 - **(d) Progress Updates:** The Facilitator asks each participant to highlight progress towards achieving any Project or expressing any Accountability of any of the participant’s Roles invited to the meeting. Participants may only share progress made since the last report given, and not the general status of a Project or Accountability. Each participant may decide which Projects or Accountabilities are worth reporting on, however if another participant has an active request for regular updates on a specific Project or Accountability, that one must be included.
 - **(e) Build Agenda:** The Facilitator builds an agenda of Tensions to process in the Tactical Meeting by soliciting agenda items from all participants. This must be done within the meeting and not beforehand. Each participant may add as many agenda items as desired by providing a short label for each, without explanation or discussion. Participants may add additional agenda items even once processing one has started, in between the processing of any existing agenda items.
-- **(f) Triage Tensions:** To process each agenda item, the Facilitator holds space for the agenda item owner to engage others and make requests given the Roles and duties of other participants, until the agenda item owner finds an adequate way to resolve their Tension. However, the agenda item owner may only process Tensions and make requests to serve a Role that was explicitly invited to the meeting. Further, within the meeting each participant only has duties that come from Roles they fill that were explicitly invited to the meeting, or that exist regardless of the Roles they fill. The Facilitator manages the time allocated to each agenda item to allow space for processing every item on the agenda, and may cut off the processing of any item that’s taking more than its due share of the remaining meeting time.
+- **(f) Triage Tensions:** To process each agenda item, the Facilitator holds space for the agenda item owner to engage others and make requests given the Roles and duties of other participants. However, the agenda item owner may only request Next-Actions and Projects from others to serve a Role they were invited to represent in the meeting. Further, each participant only has duties that come from Roles they were invited to represent in the meeting, or that exist regardless of the Roles they fill. The Facilitator manages the time allocated to each agenda item to allow space for processing every item on the agenda, and may cut off the processing of any item that’s taking more than its due share of the remaining meeting time.
 - **(g) Closing Round:** The Facilitator allows each participant in turn to share a closing reflection or other thought triggered by the meeting. Responses are not allowed.
 
-A Policy may specify an alternate process or amend this default process for any standing Tactical Meeting within its authority to govern.
+A Policy of a Circle may specify an alternate process or amend this default process for Tactical Meetings called by any of the Circle's Roles.
 
 #### 2.7.3 Surrogate for Absent Members
 
-If an unelected Role invited to a Tactical Meeting is unrepresented in the meeting for any reason, a Circle Lead of the Circle holding that Role may act within that Role to cover the gap. If the Circle Lead Role is also unrepresented, any Next-Actions or Projects captured for the Role become requests for the Role to process after the meeting.
+If an unelected Role invited to a Tactical Meeting is unrepresented in the meeting for any reason, a Circle Lead of the Circle holding that Role may represent the Role during the meeting instead, if such a Circle Lead is present.
 
 ### 2.8 Individual Action
 
