@@ -257,11 +257,7 @@ Upon taking Individual Action, you have a duty to explain your action and the in
 
 If your Individual Action was effectively acting within another Role, or violated a Domain or a Policy, then you must cease from continuing to take similar Individual Action upon request of whoever normally controls that Role, Domain, or Policy, or upon request of a Circle Lead of the Circle holding the affected entity.
 
-#### 2.8.3 Clarifying Governance
-
-If your Individual Action is an instance of a recurring activity or ongoing function needed by a Circle, and that activity or function is not already explicitly called for by the Circle’s Governance, then you are responsible for taking follow-up steps to remove that gap. That follow-up could include proposing Governance to cover the need, or taking steps to remove the need for this activity or function to happen in the first place.
-
-#### 2.8.4 Priority of Corollary Requirements
+#### 2.8.3 Priority of Corollary Requirements
 
 After taking Individual Action, you have a duty to prioritize doing the corollary requirements defined in this section higher than doing any of your regular work. However, a Circle Lead of whatever Circle fully contains all Roles that were significantly impacted by your action may still change this default priority.
 
@@ -299,7 +295,7 @@ Proposals are considered adopted and amend Governance only once no Objections ar
 
 #### 3.2.1 Criteria for Valid Proposals
 
-For a Proposal to be valid for processing, the Proposer must be able to describe a Tension that the Proposer senses, and give an example of an actual past or present situation in which the Proposal would have reduced that Tension. Further, the Proposer must be able to describe how reducing that Tension would help to better express the Purpose or an Accountability of the Circle, and of a Role in the Circle that the Proposer represents or has permission to temporarily represent from one of its normally authorized representatives. However, a Proposal is always valid regardless of the preceding criteria if it is made solely to evolve the Circle’s Governance to more clearly reflect activity that is already happening, or to trigger a new election for any elected Role.
+For a Proposal to be valid for processing, the Proposer must be able to describe a Tension that the Proposer senses, and give an example of an actual past or present situation in which the Proposal would have reduced that Tension. Further, the Proposer must be able to describe how reducing that Tension would help to better express the Purpose or an Accountability of the Circle, and of a Role in the Circle that the Proposer represents or has permission to temporarily represent from one of its normally authorized representatives.
 
 If at any point the Facilitator becomes clear that a Proposal does not meet this criteria, then the Facilitator must discard the Proposal. However, in making this assessment, the Facilitator may only judge whether the Proposer presented the required example and explanations, and whether they were presented with logical reasoning and are thus reasonable. The Facilitator may not discard a Proposal based on the accuracy of the Proposer's argument, nor on whether the Proposal would adequately address the Tension.
 
