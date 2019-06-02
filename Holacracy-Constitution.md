@@ -359,7 +359,9 @@ The Facilitator must use the following process for Governance Meetings:
 
 At any point during this process, a participant may request a **_"Time Out"_** pause, which the Facilitator may choose to grant or deny. During a Time Out, participants may discuss administrative issues or the rules of this Constitution, but may not discuss the content of a Tension, Proposal, or Objection to work towards a resolution. The Facilitator may end a Time Out at any point and resume the normal meeting process.
 
-A Policy of the Circle may add to this process, but may not conflict with any of the steps or other rules defined in this Article of the Constitution.
+The Facilitator may enforce any Working Agreements in effect while facilitating this process, provided they do not conflict with the rules and requirements defined herein for the relevant step of the process, or any other rule in this Article of the Constitution.
+
+A Policy of the Circle may add to this process, but may not conflict with any rules or requirements defined in this Article of the Constitution.
 
 #### 3.3.4 Agenda Building
 
