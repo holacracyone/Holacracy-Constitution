@@ -238,28 +238,26 @@ A Policy of a Circle may specify an alternate process or amend this default proc
 
 If an unelected Role invited to a Tactical Meeting is unrepresented in the meeting for any reason, a Circle Lead of the Circle holding that Role may represent the Role during the meeting instead, if such a Circle Lead is present.
 
-### 2.8 Individual Action
+### 2.8 Individual Initiative
 
-As a Partner of the Organization, in some cases you are authorized to act outside of the authority of your Roles, or even to break the rules of this Constitution. By acting under this extended authority you are taking **_“Individual Action”_**, and you are bound by the following rules:
+As a Partner of the Organization, in some cases you are authorized to act outside of the authority of your Roles, or even to break the rules of this Constitution. By acting under this extended authority you are taking **_“Individual Initiative”_**, and you are bound by the following rules:
 
 #### 2.8.1 Allowed Situations
 
-You may only take Individual Action when all of the following are true:
+You may only take Individual Initiative when all of the following are true:
 
-- **(a)** You are acting in good faith to serve the Purpose or express the Accountabilities of some Role within the Organization, or of the overall Organization itself.
+- **(a)** You are acting in good faith to serve the Purpose or express the Accountabilities of some Role within the Organization.
 - **(b)** You reasonably believe your action would resolve or prevent more Tension for the Organization than it would likely create.
 - **(c)** Your action would not cause the Organization to spend its money, dispose of its assets, or limit its rights, beyond what you’re already authorized to so cause.
 - **(d)** If your action would violate any Policies or impact any Domains you aren't already authorized to impact, you reasonably believe that you can’t delay the action long enough to request any permissions normally required, or to propose a Governance change to allow your action, without losing much of its potential value.
 
 #### 2.8.2 Communication & Restoration
 
-Upon taking Individual Action, you have a duty to explain your action and the intent behind it to any Partner who fills a Role that may be significantly impacted. Upon the request of any of those Partners, you also have a duty to take any reasonable additional actions to assist in resolving any Tensions created by your Individual Action.
-
-If your Individual Action was effectively acting within another Role, or violated a Domain or a Policy, then you must cease from continuing to take similar Individual Action upon request of whoever normally controls that Role, Domain, or Policy, or upon request of a Circle Lead of the Circle holding the affected entity.
+Upon taking Individual Initiative, you have a duty to explain your action and the intent behind it to any Partner who fills a Role that may be significantly impacted. Upon the request of any of those Partners, you also have a duty to take any reasonable additional actions to assist in resolving any Tensions created by your Individual Initiative. You must also refrain from continuing to take similar Individual Initiative upon the request of a Role Lead for whichever Role you were acting in, or, if you violated a Domain or Policy, upon the request of a Role Lead for any Role impacted by the violation.
 
 #### 2.8.3 Priority of Corollary Requirements
 
-After taking Individual Action, you have a duty to prioritize doing the corollary requirements defined in this section higher than doing any of your regular work. However, a Circle Lead of whatever Circle fully contains all Roles that were significantly impacted by your action may still change this default priority.
+After taking Individual Initiative, you have a duty to prioritize doing the corollary requirements defined in this section higher than doing any of your regular work. However, a Circle Lead of whatever Circle fully contains all Roles that were significantly impacted by your action may still change this default priority.
 
 
 ## Article 3: Governance
