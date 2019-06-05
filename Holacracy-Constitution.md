@@ -3,20 +3,20 @@
 
 ## Preamble
 
-This **_“Constitution”_** defines rules and processes for the governance and operations of an organization. The **_“Ratifiers”_** are adopting these rules as the formal authority structure for the **_“Organization”_** specified upon the Constitution’s adoption, which may be an entire entity or a part of one that the Ratifiers have authority to govern and run. The Ratifiers and anyone else who agrees to take part in the governance and operations of the Organization (its **_“Partners”_**) may rely upon the authorities granted by this Constitution, and also agree to be bound by its duties and constraints.
+This ***“Constitution”*** defines rules and processes for the governance and operations of an organization. The ***“Ratifiers”*** are adopting these rules as the formal authority structure for the ***“Organization”*** specified upon the Constitution’s adoption, which may be an entire entity or a part of one that the Ratifiers have authority to govern and run. The Ratifiers and anyone else who agrees to take part in the governance and operations of the Organization (its ***“Partners”***) may rely upon the authorities granted by this Constitution, and also agree to be bound by its duties and constraints.
 
 
 ## Article 1: Organizational Structure
 
 ### 1.1 Roles
 
-The Organization’s Partners will typically perform the work of the Organization while acting in explicitly defined Roles. A **_“Role”_** definition has a descriptive name and one or more of the following:
+The Organization’s Partners will typically perform the work of the Organization while acting in explicitly defined Roles. A ***“Role”*** definition has a descriptive name and one or more of the following:
 
-- **(a)** a **_“Purpose”_**, which is a capacity, potential, or goal that the Role will pursue or express on behalf of the Organization.
-- **(b)** one or more **_“Domains”_**, which are assets, processes, or other things the Role may exclusively control and regulate as its property, on behalf of the Organization.
-- **(c)** one or more **_“Accountabilities”_**, which are ongoing activities the Role will enact, either in service of other Roles in the Organization or to support its own Purpose.
+- **(a)** a ***“Purpose”***, which is a capacity, potential, or goal that the Role will pursue or express on behalf of the Organization.
+- **(b)** one or more ***“Domains”***, which are assets, processes, or other things the Role may exclusively control and regulate as its property, on behalf of the Organization.
+- **(c)** one or more ***“Accountabilities”***, which are ongoing activities the Role will enact, either in service of other Roles in the Organization or to support its own Purpose.
 
-A Role may also contain **_“Policies”_**, which are grants or constraints of authority, or special rules that apply to operations within that Role, as further defined in Article 3.
+A Role may also contain ***“Policies”***, which are grants or constraints of authority, or special rules that apply to operations within that Role, as further defined in Article 3.
 
 ### 1.2 Role Assignment
 
@@ -40,9 +40,9 @@ As a current or potential Role Lead or Role Supporter, you may decline to accept
 
 ### 1.3 Circles
 
-The inside of each Role is a ***“Circle”***, except for those Roles defined in Appendix A. A Circle may contain its own Roles and Policies to further break down how it achieves its Purpose, controls its Domains, and enacts its Accountabilities. A Circle is considered a **_“Sub-Circle”_** of the broader Circle containing it, while that broader Circle is its **_“Super-Circle”_**.
+The inside of each Role is a ***“Circle”***, except for those Roles defined in Appendix A. A Circle may contain its own Roles and Policies to further break down how it achieves its Purpose, controls its Domains, and enacts its Accountabilities. A Circle is considered a ***“Sub-Circle”*** of the broader Circle containing it, while that broader Circle is its ***“Super-Circle”***.
 
-The collection of Roles and Policies contained within a Circle make up its acting **_“Governance”_**. No one may change a Circle's Governance except through its **_“Governance Process”_**, described in Article 3.
+The collection of Roles and Policies contained within a Circle make up its acting ***“Governance”***. No one may change a Circle's Governance except through its ***“Governance Process”***, described in Article 3.
 
 #### 1.3.1 Delegating Domains
 
@@ -52,11 +52,11 @@ Once a Role controls a Domain, it may create its own Policies governing that Dom
 
 ### 1.4 Circle Leads
 
-Any Partner assigned to fill a Role also automatically fills a **_“Circle Lead Role”_** within that Role's internal Circle, and is thus a ***“Circle Lead”*** while acting in that capacity. The Circle Lead Role has the definition given in Appendix A, and also inherits any Accountabilities on the Circle itself to the extent they are not covered by the Circle's Roles or processes.
+Any Partner assigned to fill a Role also automatically fills a ***“Circle Lead Role”*** within that Role's internal Circle, and is thus a ***“Circle Lead”*** while acting in that capacity. The Circle Lead Role has the definition given in Appendix A, and also inherits any Accountabilities on the Circle itself to the extent they are not covered by the Circle's Roles or processes.
 
 #### 1.4.1 Defining Priorities & Strategies
 
-A Circle Lead may judge the relative value of potential Circle efforts, to help clarify and align priorities across Roles. In addition, a Circle Lead may define a more general **_“Strategy”_** for the Circle, or multiple Strategies, which are heuristics that guide the Circle’s Roles in self-identifying priorities on an ongoing basis.
+A Circle Lead may judge the relative value of potential Circle efforts, to help clarify and align priorities across Roles. In addition, a Circle Lead may define a more general ***“Strategy”*** for the Circle, or multiple Strategies, which are heuristics that guide the Circle’s Roles in self-identifying priorities on an ongoing basis.
 
 #### 1.4.2 Routing External References
 
@@ -144,14 +144,14 @@ When serving as Role Lead for a Role, you have the following responsibilities:
 
 #### 2.2.1 Processing Tensions
 
-You are responsible for monitoring how your Role’s Purpose and Accountabilities are expressed, and comparing that to your vision of their ideal potential expression, to identify gaps between the current reality and a potential you sense (each gap is a **_“Tension”_**). You are also responsible for trying to resolve those Tensions by using the pathways available to you under this Constitution.
+You are responsible for monitoring how your Role’s Purpose and Accountabilities are expressed, and comparing that to your vision of their ideal potential expression, to identify gaps between the current reality and a potential you sense (each gap is a ***“Tension”***). You are also responsible for trying to resolve those Tensions by using the pathways available to you under this Constitution.
 
 #### 2.2.2 Processing Purpose & Accountabilities
 
 You are responsible for regularly considering how to enact your Role's Purpose and each of your Role’s Accountabilities, by defining:
 
-- **(a)** **_“Next-Actions”_**, which are actions you could execute immediately and that would be useful to execute immediately, at least in the absence of competing priorities; and
-- **(b)** **_“Projects”_**, which are specific outcomes that require multiple actions to achieve and that would be useful to work towards, at least in the absence of competing priorities.
+- **(a)** ***“Next-Actions”***, which are actions you could execute immediately and that would be useful to execute immediately, at least in the absence of competing priorities; and
+- **(b)** ***“Projects”***, which are specific outcomes that require multiple actions to achieve and that would be useful to work towards, at least in the absence of competing priorities.
 
 ### 2.3 Responsibilities of All Role-Fillers
 
@@ -214,7 +214,7 @@ All of your responsibilities and constraints as a Partner of the Organization ar
 
 ### 2.7 Tactical Meetings
 
-In service of one of their Roles, any Partner may convene a **_“Tactical Meeting”_** to facilitate engaging other Roles in their responsibilities and duties.
+In service of one of their Roles, any Partner may convene a ***“Tactical Meeting”*** to facilitate engaging other Roles in their responsibilities and duties.
 
 #### 2.7.1 Attendance
 
@@ -240,7 +240,7 @@ If an unelected Role invited to a Tactical Meeting is unrepresented in the meeti
 
 ### 2.8 Individual Initiative
 
-As a Partner of the Organization, in some cases you are authorized to act outside of the authority of your Roles, or even to break the rules of this Constitution. By acting under this extended authority you are taking **_“Individual Initiative”_**, and you are bound by the following rules:
+As a Partner of the Organization, in some cases you are authorized to act outside of the authority of your Roles, or even to break the rules of this Constitution. By acting under this extended authority you are taking ***“Individual Initiative”***, and you are bound by the following rules:
 
 #### 2.8.1 Allowed Situations
 
@@ -287,7 +287,7 @@ A Policy that changes a default rule or process in the Constitution applies only
 
 ### 3.2 Changing Governance
 
-Any Circle Member of a Circle may propose changing its Governance by circulating a **_“Proposal”_** to all of its other Circle Members, thus acting as **_“Proposer”_**. Before the Proposal is adopted, those other Circle Members must have the opportunity to raise concerns about adopting the Proposal. Each concern so raised is considered an **_“Objection”_** if it meets the criteria defined herein, and the person who raised it becomes the **_“Objector”_**. When making Proposals or raising Objections, each Circle Member may only represent the Roles in the Circle for which they serve as Role Lead or Rep Link.
+Any Circle Member of a Circle may propose changing its Governance by circulating a ***“Proposal”*** to all of its other Circle Members, thus acting as ***“Proposer”***. Before the Proposal is adopted, those other Circle Members must have the opportunity to raise concerns about adopting the Proposal. Each concern so raised is considered an ***“Objection”*** if it meets the criteria defined herein, and the person who raised it becomes the ***“Objector”***. When making Proposals or raising Objections, each Circle Member may only represent the Roles in the Circle for which they serve as Role Lead or Rep Link.
 
 Proposals are considered adopted and amend Governance only once no Objections are so raised. If Objections are raised, the Proposer and each Objector must find a way to address the Objections before the Proposal is adopted. After any such effort, all Circle Members of the Circle must have another opportunity to raise further Objections to the Proposal before its adoption.
 
@@ -355,7 +355,7 @@ The Facilitator must use the following process for Governance Meetings:
 - **(b) Agenda Building & Processing:** The Facilitator builds an agenda of Tensions to process, then processes each agenda item in turn.
 - **(c) Closing Round:** The Facilitator allows each participant in turn to share a closing reflection or other thought triggered by the meeting. Responses are not allowed.
 
-At any point during this process, a participant may request a **_"Time Out"_** pause, which the Facilitator may choose to grant or deny. During a Time Out, participants may discuss administrative issues or the rules of this Constitution, but may not discuss the content of a Tension, Proposal, or Objection to work towards a resolution. The Facilitator may end a Time Out at any point and resume the normal meeting process.
+At any point during this process, a participant may request a ***"Time Out"*** pause, which the Facilitator may choose to grant or deny. During a Time Out, participants may discuss administrative issues or the rules of this Constitution, but may not discuss the content of a Tension, Proposal, or Objection to work towards a resolution. The Facilitator may end a Time Out at any point and resume the normal meeting process.
 
 The Facilitator may enforce any Working Agreements in effect while facilitating this process, provided they do not conflict with the rules and requirements defined herein for the relevant step of the process, or any other rule in this Article of the Constitution.
 
@@ -367,7 +367,7 @@ The Facilitator must build an agenda of Tensions to process within a Governance 
 
 - **(a) Agenda Item Format:** Each agenda item in a Governance Meeting represents one Tension to process, sensed by the participant who added it to the agenda. When adding an agenda item, a participant may only provide a short label for the Tension, and may not explain or discuss the Tension further until processing of that agenda item actually begins.
 - **(b) Ordering the Agenda:** The Facilitator may determine the order in which to process agenda items, using any process or criteria the Facilitator deems appropriate. However, the Facilitator must place any agenda item calling for an election of any of the Circle’s elected Roles before all other agenda items, if requested by any meeting participant. Further, if the meeting is a special Governance Meeting scheduled at the request of one participant, the Facilitator must place all agenda items raised by that participant before any raised by others, unless that participant allows otherwise.
-- **(c) Processing Tensions:** Once the Facilitator determines an initial order for the agenda, the Facilitator must lead participants through processing each agenda item, one at a time. To process an agenda item that calls for an election, the Facilitator must use the **_“Integrative Election Process”_** defined below. To process any other agenda item, the Facilitator must use the **_“Integrative Decision-Making Process”_** defined below.
+- **(c) Processing Tensions:** Once the Facilitator determines an initial order for the agenda, the Facilitator must lead participants through processing each agenda item, one at a time. To process an agenda item that calls for an election, the Facilitator must use the ***“Integrative Election Process”*** defined below. To process any other agenda item, the Facilitator must use the ***“Integrative Decision-Making Process”*** defined below.
 
 #### 3.3.5 Integrative Decision-Making Process
 
@@ -428,7 +428,7 @@ By adopting this Constitution, the Ratifiers cede their authority to govern and 
 
 ### 4.2 Anchor Circle
 
-Upon adopting this Constitution, the Ratifiers must establish an initial Circle to express the overall Purpose of the Organization. This **_“Anchor Circle”_** becomes the broadest Circle in the Organization; it has no Super-Circle, and does not elect a Rep Link.
+Upon adopting this Constitution, the Ratifiers must establish an initial Circle to express the overall Purpose of the Organization. This ***“Anchor Circle”*** becomes the broadest Circle in the Organization; it has no Super-Circle, and does not elect a Rep Link.
 
 Unless otherwise specified by the Ratifiers, the Anchor Circle automatically controls all Domains that the Organization itself controls, and has all the authority that the Organization itself has, including authorities to dispose of the Organization's property, limit its rights, and spend its money.
 
@@ -460,7 +460,7 @@ However, these legacy policies and systems will lose all weight and authority as
 
 ### 4.4 Process Breakdown
 
-A **_“Process Breakdown”_** occurs when a Circle shows a pattern of behavior that conflicts with the rules of this Constitution.
+A ***“Process Breakdown”*** occurs when a Circle shows a pattern of behavior that conflicts with the rules of this Constitution.
 
 #### 4.4.1 Breakdown from Failed Governance
 
