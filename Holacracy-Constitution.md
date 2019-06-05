@@ -32,7 +32,7 @@ A Role assigner may further focus an assignment on just a specific area or conte
 
 #### 1.2.3 Supporting Assignments
 
-As a Partner, when you serve as Role Lead for a Role, you may assign other people to fill the Role as well as ***Role Supporters***, and you may remove these assignments at any time. A Role Supporter gains the authorities of the Role, but only holds the duties to others when requested by a Role Lead, as further detailed in Article 2. You may only assign Role Supporters within your specific Role assignment focus, if any.
+As a Partner, when you serve as Role Lead for a Role, you may assign other people to fill the Role as well as ***Role Supporters***, and you may remove these assignments at any time. A Role Supporter gains the authorities of the Role, but only holds the duties to others when requested by a Role Lead, as further detailed in Article 2.
 
 #### 1.2.4 Resigning from Roles
 
