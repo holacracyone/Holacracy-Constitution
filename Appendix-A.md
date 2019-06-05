@@ -18,7 +18,7 @@ _The Circle Lead holds the Purpose of the overall Circle._
 - Assigning Partners to the Circle’s Roles, monitoring the fit, and re-assigning Roles to other Partners to optimize fit
 - Judging the relative value of Circle efforts on request to resolve priority conflicts across Roles
 
-_The Circle Lead also holds all un-delegated Circle-level Domains and Accountabilities._
+_The Circle Lead also holds all Accountabilities on the Circle to the extent they are not covered by the Circle's Roles or processes._
 
 
 ### Rep Link
