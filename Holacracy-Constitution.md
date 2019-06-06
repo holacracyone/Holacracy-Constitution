@@ -40,19 +40,35 @@ As a current or potential Role Lead or Role Supporter, you may decline to accept
 
 ### 1.3 Circles
 
-The inside of each Role is a ***“Circle”***, except for those Roles defined in Appendix A. A Circle may contain its own Roles and Policies to further break down how it achieves its Purpose, controls its Domains, and enacts its Accountabilities. A Circle is considered a ***“Sub-Circle”*** of the broader Circle containing it, while that broader Circle is its ***“Super-Circle”***.
+A ***“Circle”*** is a container that can hold and create interconnected Roles and Policies to organize around a common Purpose. The collection of Roles and Policies within a Circle make up its acting ***“Governance”***. No one may change a Circle's Governance except through its ***“Governance Process”***, described in Article 3.
 
-The collection of Roles and Policies contained within a Circle make up its acting ***“Governance”***. No one may change a Circle's Governance except through its ***“Governance Process”***, described in Article 3.
+#### 1.3.1 Breaking Down Roles
 
-#### 1.3.1 Delegating Domains
+The inside of every Role is a Circle, which can be used to further break down how that Role achieves its Purpose, controls its Domains, and enacts its Accountabilities. This does not apply to the Roles defined in Appendix A however, which may not be broken down further.
+
+A Role and its inner Circle is considered a ***“Sub-Circle”*** of the broader Circle that created the Role, while that broader Circle is its ***“Super-Circle”***. If a Role is later moved into a different Circle, that Circle becomes its new Super-Circle and it becomes a Sub-Circle to that new Super-Circle, replacing the original designations.
+
+#### 1.3.2 Delegating Domains
 
 When a Circle grants a Domain to one of its Roles, anyone filling that Role may control that Domain on behalf of the Circle. A Circle may only grant Domains to its Roles that fall fully within the Circle's own Domains, or that are only relevant within its own internal processes.
 
 Once a Role controls a Domain, it may create its own Policies governing that Domain within its own Governance Process. However, the Circle that delegated the Domain still retains the right to define or modify its own Policies governing that Domain, and any such Policies trump those defined by the Role in the event of a conflict.
 
+#### 1.3.3 Linking Into Circles
+
+A Role Lead of a Role may opt to link that Role into another Circle in addition to its Super-Circle, if a Policy of that other Circle or one acting upon that other Circle invites it. A Role Lead must accept such an invitation if a Policy of its own Super-Circle or any Super-Circle thereof demands it.
+
+Once linked into another Circle, a Role is considered part of the Governance of that other Circle, and that Circle's Governance Process may add to the Role and later change or remove what it adds. However, it may not change or remove the Purpose or any elements added to that Role by another Circle, and nor may another Circle change or remove anything that Circle adds. Linking a Role into another Circle does not change the designation of that Role's Super-Circle, and nor is the Role considered a Sub-Circle of that other Circle. A linked Role's original Super-Circle also retains all control over Role assignments for the linked Role, unless a Policy acting in or upon that Circle says otherwise.
+
+A Circle may not delete a Role linked into it, but it may unlink the Role and remove it from its own Governance by removing the Policy that invited it in, or by another mechanism defined in that Policy. A Role Lead may also opt to unlink their Role from any Circle except its own Super-Circle at any time, unless a Policy within or acting upon its Super-Circle says otherwise. Once unlinked, any Governance added to that Role by that Circle is automatically removed.
+
+#### 1.3.4 Creating Circles Across Roles
+
+Two or more Roles may create a new Circle at any time to govern a shared Purpose across the Roles. To do so, the founding Roles must all agree on an initial Purpose for the new Circle and any Accountabilities it will enact. They must also agree to link into the Circle upon its creation, and the Circle automatically starts with a Policy inviting these Roles to do so. A Circle created this way has no Super-Circle and no Domains, and may later change its own Purpose or Accountabilities via a Policy adopted within its Governance Process. Such a Circle is immediately dissolved if it has no Roles linked into it at any point.
+
 ### 1.4 Circle Leads
 
-Any Partner assigned to fill a Role also automatically fills a ***“Circle Lead Role”*** within that Role's internal Circle, and is thus a ***“Circle Lead”*** while acting in that capacity. The Circle Lead Role has the definition given in Appendix A, and also inherits any Accountabilities on the Circle itself to the extent they are not covered by the Circle's Roles or processes.
+Any Partner assigned to fill a Role also automatically fills a ***“Circle Lead Role”*** within that Role's internal Circle, and is thus a ***“Circle Lead”*** while acting in that capacity. A Circle with no Super-Circle has no Circle Leads, unless a Policy of the Circle says otherwise. The Circle Lead Role has the definition given in Appendix A, and also inherits any Accountabilities on the Circle itself to the extent they are not covered by the Circle's Roles or processes. 
 
 #### 1.4.1 Defining Priorities & Strategies
 
@@ -72,13 +88,11 @@ Each Circle has a group of ***"Circle Members"*** who may represent its Roles in
 
 By default, the Circle Members of a Circle include all Partners filling its Circle Lead Role, as well as each Partner serving as Role Lead for a Role within the Circle. If a Role has multiple Role Leads, a Circle may adopt a Policy to limit how many of them represent that Role as Circle Members in its Governance Process.
 
-A Circle may also adopt a Policy to invite an external Role to join its Governance Process, or the Governance Process of one of its Sub-Circles. In that case, any Partners authorized to represent that Role in the Governance Process of its containing Circle also become Circle Members of the Circle the Role was invited to join, unless the inviting Policy says otherwise.
-
 #### 1.5.1 Rep Links
 
-Any Circle Member of a Circle may call for the selection of a ***"Rep Link"*** to represent the Circle within its Super-Circle's Governance Process. The selected Rep Link fills the Rep Link Role within the Circle, with the definition given in Appendix A.
+Any Circle Member of a Circle inside a Role may call for the selection of a ***"Rep Link"*** to represent that overall Role within the Governance Process of any other Circle containing that Role. The selected Rep Link fills the Rep Link Role within the Circle, with the definition given in Appendix A.
 
-The Rep Link automatically becomes a Circle Member of the Super-Circle, with the authority to represent the whole Circle within the Super-Circle's Governance Process, just like a Role Lead. The Super-Circle may limit or prevent this via a Policy, but only to the extent the Circle's Roles have another way to enjoy comparable representation within the Super-Circle.
+The Rep Link automatically becomes a Circle Member of any Circle containing that Role, with the authority to represent the Role just like a Role Lead. A Circle may limit or prevent its Roles from including their Rep Links as its Circle Members via a Policy, but only to the extent those Roles have another way to enjoy comparable representation within the Circle.
 
 By default, selecting a Rep Link happens via the election process and rules defined in Article 3, however a Policy may specify an alternate process. Anyone serving as a Circle Lead for the Circle may not also serve as its Rep Link. No more than one person may serve as a Circle's Rep Link at a time, unless allowed by a Policy of the Super-Circle.
 
@@ -120,15 +134,15 @@ When filling a Role, you have the authority to take any action or make any decis
 
 #### 2.1.1 Don't Violate Policies
 
-While acting in a Role, you may not violate any constraints defined in a Policy of the Role or the Circle containing the Role, or enforced upon the Circle itself.
+While acting in a Role, you may not violate any Policies of the Role itself or of a Circle containing the Role, or of any Circle containing that Circle, recursively.
 
 #### 2.1.2 Don't Violate Domains
 
 In service of your Role, you have the authority to use and impact your Role's Domains.
 
-You may also use and impact any Domain that the Circle containing your Role owns, or any Domain the Circle itself is authorized to impact, as long as that Domain has not been further delegated to another Role within your Circle.
+You may also use and impact any Domain that a Circle containing your Role owns, or any Domain such a Circle itself is authorized to impact, as long as that Domain has not been further delegated to another Role within that Circle.
 
-You cannot exert control or cause a material impact within a Domain delegated to another Role within your Circle or any Super-Circle of your Circle, or one owned by another sovereign entity, unless you have their permission. You may ask for permission directly, or you may announce your intent to take a specific action and invite anyone with a relevant Domain to object. If no one does within a reasonable timeframe, then, while taking that specific action, you have permission to impact any Domains owned by any Role in the Organization that your announcement reached. If your announcement was in writing, you may assume it reached anyone who customarily processes messages in the communication channel you used. A Policy may further modify or constrain this process.
+You cannot exert control or cause a material impact within a Domain owned by another sovereign entity, or one delegated to another Role within a Circle containing your Role, or any Circle containing that Circle, recusively, unless you have their permission. You may ask for permission directly, or you may announce your intent to take a specific action and invite anyone with a relevant Domain to object. If no one does within a reasonable timeframe, then, while taking that specific action, you have permission to impact any Domains owned by any Role in the Organization that your announcement reached. If your announcement was in writing, you may assume it reached anyone who customarily processes messages in the communication channel you used. A Policy may further modify or constrain this process.
 
 #### 2.1.3 Don't Dispose of Assets
 
@@ -236,7 +250,7 @@ A Policy of a Circle may specify an alternate process or amend this default proc
 
 #### 2.7.3 Surrogate for Absent Members
 
-If an unelected Role invited to a Tactical Meeting is unrepresented in the meeting for any reason, a Circle Lead of the Circle holding that Role may represent the Role during the meeting instead, if such a Circle Lead is present.
+If an unelected Role invited to a Tactical Meeting is unrepresented in the meeting for any reason, a Circle Lead of that Role's Super-Circle may represent the Role during the meeting instead, if such a Circle Lead is present.
 
 ### 2.8 Individual Initiative
 
@@ -279,7 +293,7 @@ Only these outputs are valid Governance for a Circle; no one may capture other o
 A Policy may only be one or more of the following:
 
 - **(a)** a grant of an authority the Circle holds to one or more Roles; or
-- **(b)** a constraint on the authority of one or more of the Circle's own Roles; or
+- **(b)** a constraint on the authority of one or more of the Circle's contained Roles; or
 - **(c)** a grant of authority that allows those not otherwise authorized to control or impact one of the Circle's Domains, or a constraint on how they may do so when otherwise authorized; or
 - **(d)** a rule that changes a default rule or process in this Constitution, when that change is explicitly allowed.
 

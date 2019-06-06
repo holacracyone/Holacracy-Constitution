@@ -10,7 +10,7 @@ _The Circle Lead holds the Purpose of the overall Circle._
 
 **Domains:**
 
-- Role assignments within the Circle
+- Role assignments for the Circle's Roles
 
 **Accountabilities:**
 
