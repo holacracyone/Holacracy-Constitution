@@ -40,11 +40,11 @@ As a current or potential Role Lead or Role Supporter, you may decline to accept
 
 ### 1.3 Circles
 
-A ***“Circle”*** is a container that can hold and create interconnected Roles and Policies to organize around a common Purpose. The collection of Roles and Policies within a Circle make up its acting ***“Governance”***. No one may change a Circle's Governance except through its ***“Governance Process”***, described in Article 3.
+A ***“Circle”*** is a container for organizing Roles and Policies around a common Purpose. The Roles and Policies within a Circle make up its acting ***“Governance”***. No one may change a Circle's Governance except through its ***“Governance Process”***, described in Article 3.
 
 #### 1.3.1 Breaking Down Roles
 
-The inside of every Role is a Circle, which can be used to further break down how that Role achieves its Purpose, controls its Domains, and enacts its Accountabilities. This does not apply to the Roles defined in Appendix A however, which may not be broken down further.
+Every Role is also a Circle internally. A Role's inner Circle can hold Roles and Policies to further break down how that Role achieves its Purpose, controls its Domains, and enacts its Accountabilities. This does not apply to the Roles defined in Appendix A however, which may not be broken down further.
 
 A Role and its inner Circle is considered a ***“Sub-Circle”*** of the broader Circle that created the Role, while that broader Circle is its ***“Super-Circle”***. If a Role is later moved into a different Circle, that Circle becomes its new Super-Circle and it becomes a Sub-Circle to that new Super-Circle, replacing the original designations.
 
