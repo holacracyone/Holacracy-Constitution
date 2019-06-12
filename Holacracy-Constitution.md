@@ -90,11 +90,11 @@ By default, the Circle Members of a Circle include all Partners filling its Circ
 
 #### 1.5.1 Rep Links
 
-Any Circle Member of a Circle inside a Role may call for the selection of a ***"Rep Link"*** to represent that overall Role within the Governance Process of any other Circle containing that Role. The selected Rep Link fills the Rep Link Role within the Circle, with the definition given in Appendix A.
+Any Circle Member of a Circle may call for the selection of a ***"Rep Link"*** to help represent that Circle within the Governance Process of any broader Circle containing it. The selected Rep Link fills the Rep Link Role within the Circle, with the definition given in Appendix A.
 
-The Rep Link automatically becomes a Circle Member of any Circle containing that Role, with the authority to represent the Role just like a Role Lead. A Circle may limit or prevent its Roles from including their Rep Links as its Circle Members via a Policy, but only to the extent those Roles have another way to enjoy comparable representation within the Circle.
+The Rep Link automatically becomes a Circle Member of any broader Circle that holds the Role that Circle breaks down, with the authority to represent that Role just like a Role Lead. A broader Circle may limit or prevent its Roles from including their Rep Links as its Circle Members via a Policy, but only to the extent those Roles have another way to enjoy comparable representation within that Circle.
 
-By default, selecting a Rep Link happens via the election process and rules defined in Article 3, however a Policy may specify an alternate process. Anyone serving as a Circle Lead for the Circle may not also serve as its Rep Link. No more than one person may serve as a Circle's Rep Link at a time, unless allowed by a Policy of the Super-Circle.
+By default, selecting a Rep Link happens via the election process and rules defined in Article 3, however a Policy may specify an alternate process. Anyone serving as a Circle Lead for the Circle may not also serve as its Rep Link. No more than one person may serve as a Circle's Rep Link at a time, unless allowed by a Policy of a containing Circle.
 
 A Circle may add Accountabilities or Domains to its own Rep Link Role, as well as amend or remove those additions. However, no Circle may amend or remove the Purpose or any Accountabilities granted to a Rep Link Role by this Constitution, nor remove the Role.
 

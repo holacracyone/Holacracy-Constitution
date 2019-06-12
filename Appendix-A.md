@@ -24,13 +24,13 @@ _The Circle Lead also holds all Accountabilities on the Circle to the extent the
 ### Rep Link
 
 **Purpose:**
-Tensions relevant to process in the broader Circle channeled out and resolved.
+Tensions relevant to process in a broader Circle channeled out and resolved.
 
 **Accountabilities:**
 
-- Seeking to understand Tensions conveyed by Role-fillers within the represented Role/Circle
-- Discerning Tensions appropriate to process within the Circle that holds the represented Role/Circle
-- Processing Tensions within the broader Circle to remove constraints on the represented Role/Circle
+- Seeking to understand Tensions conveyed by Role-fillers within the Circle
+- Discerning Tensions appropriate to process within a broader Circle that holds the Circle
+- Processing Tensions within a broader Circle to remove constraints on the Circle
 
 
 ### Facilitator
