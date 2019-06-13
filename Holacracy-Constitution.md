@@ -136,7 +136,7 @@ When filling a Role, you have the authority to take any action or make any decis
 
 While acting in a Role, you may not violate any Policies of the Role itself or of a Circle containing the Role, or of any Circle containing that Circle, recursively.
 
-#### 2.1.2 Don't Violate Domains
+#### 2.1.2 Don't Impact Domains
 
 In service of your Role, you have the authority to use and impact your Role's Domains.
 
