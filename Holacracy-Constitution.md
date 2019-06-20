@@ -216,11 +216,11 @@ You have a duty to prioritize where to focus your attention and resources in ali
 - **(a) Processing Over Execution:** You must generally prioritize processing inbound messages from other Roles over executing your own Next-Actions. However, you may temporarily defer processing in order to batch process messages in a single time block or at a more convenient time, as long as your processing is still reasonably prompt. Processing means engaging in the duties described in this section, including considering the message, defining and capturing Next-Actions or Projects when appropriate, and, upon request, responding with how the message was processed. Processing does not mean executing upon captured Next-Actions and Projects, which is not covered by this prioritization rule.
 - **(b) Requested Meetings Over Execution:** On request, you must prioritize attending any meeting defined in this Constitution over executing your own Next-Actions. However, you may still decline the request if you already have plans scheduled over the meeting time, or if the request was for an ongoing series or pattern of meetings rather than a specific meeting instance.
 
-### 2.5 Working Agreements
+### 2.5 Partner Agreements
 
-The Organization's Partners may make ***“Working Agreements”*** about how they will interact with each other or fulfill their general functions as Partners. Working Agreements are for shaping Partner behaviors that underpin Role-based work, and may not define expectations only relevant when a Partner is already energizing a specific Role, nor expectations around how a Partner will prioritize across different Roles. Working Agreements may only specify concrete acts to do or behavioral constraints to honor, and may not include promises to achieve specific outcomes or embody abstract qualities.
+The Organization's Partners may make ***“Partner Agreements”*** about how they will interact with each other or fulfill their general functions as Partners. Partner Agreements are for shaping Partner behaviors that underpin Role-based work, and may not define expectations only relevant when a Partner is already energizing a specific Role, nor expectations around how a Partner will prioritize across different Roles. Partner Agreements may only specify concrete acts to do or behavioral constraints to honor, and may not include promises to achieve specific outcomes or embody abstract qualities.
 
-You may request a Working Agreement of any Partner, either in service of a Role you fill or more generally as a Partner. That Partner may choose to accept or reject the requested Working Agreement based on their personal preferences. If accepted, that Partner has a duty to align their behavior with the agreement. A Partner who has agreed to a Working Agreement may later terminate it at any time without the consent of any other party, unless otherwise agreed in a relevant Working Agreement.
+You may request a Partner Agreement of any Partner, either in service of a Role you fill or more generally as another Partner. That Partner may choose to accept or reject the requested Partner Agreement based on their personal preferences. If accepted, that Partner has a duty to align their behavior with the agreement. A Partner who has agreed to a Partner Agreement may later terminate it at any time without the consent of any other party, unless otherwise agreed in a relevant Partner Agreement.
 
 ### 2.6 Implicit Expectations Hold No Weight
 
@@ -371,7 +371,7 @@ The Facilitator must use the following process for Governance Meetings:
 
 At any point during this process, a participant may request a ***"Time Out"*** pause, which the Facilitator may choose to grant or deny. During a Time Out, participants may discuss administrative issues or the rules of this Constitution, but may not discuss the content of a Tension, Proposal, or Objection to work towards a resolution. The Facilitator may end a Time Out at any point and resume the normal meeting process.
 
-The Facilitator may enforce any Working Agreements in effect while facilitating this process, provided they do not conflict with the rules and requirements defined herein for the relevant step of the process, or any other rule in this Article of the Constitution.
+The Facilitator may enforce any Partner Agreements in effect while facilitating this process, provided they do not conflict with the rules and requirements defined herein for the relevant step of the process, or any other rule in this Article of the Constitution.
 
 A Policy of the Circle may add to this process, but may not conflict with any rules or requirements defined in this Article of the Constitution.
 
