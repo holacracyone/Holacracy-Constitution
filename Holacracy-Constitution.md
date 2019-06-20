@@ -316,9 +316,9 @@ If at any point the Facilitator becomes clear that a Proposal does not meet this
 Some concerns do not count as Objections, and may be ignored during the processing of a Proposal. A concern only counts as an Objection if the Objector can provide a reasonable argument for why it meets **all** of the criteria defined in (a) through (d) below, or the special criteria defined in (e):
 
 - **(a)** If the Proposal were adopted without addressing the concern, it would harm the capacity of the Circle to express its Purpose or enact its Accountabilities. Thus, the concern is not just triggered by a better idea or a potential for further improvement, but because the Proposal would actually reduce the Circle's current capacity.
-- **(b)** The concern does not already exist even in the absence of the Proposal. Thus, a new Tension would be created specifically by adopting the Proposal, and would not exist were the Proposal withdrawn.
-- **(c)** The proposal would immediately or necessarily cause the harm, or it might cause harm but that possibility still needs to be dealt with now because the Circle won't have an adequate opportunity to adapt before significant harm could result.
-- **(d)** The Proposal would limit the Objector's capacity to express the Purpose or an Accountability of one of the Objector's Roles in the Circle, even if the Objector filled no other Roles in the Organization.
+- **(b)** The Proposal would limit the Objector's capacity to express the Purpose or an Accountability of one of the Objector's Roles in the Circle, even if the Objector filled no other Roles in the Organization.
+- **(c)** The concern does not already exist even in the absence of the Proposal. Thus, a new Tension would be created specifically by adopting the Proposal, and would not exist were the Proposal withdrawn.
+- **(d)** The proposal would immediately or necessarily cause the harm, or it might cause harm but that possibility still needs to be dealt with now because the Circle won't have an adequate opportunity to adapt before significant harm could result.
 
 However, regardless of the above criteria, a concern about adopting a Proposal always counts as an Objection if:
 
