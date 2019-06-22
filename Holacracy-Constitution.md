@@ -56,11 +56,11 @@ Once a Role controls a Domain, it may create its own Policies governing that Dom
 
 #### 1.3.3 Linking Into Circles
 
-A Role Lead of a Role may opt to link that Role into another Circle in addition to its Super-Circle, if a Policy of that other Circle or one acting upon that other Circle invites it. A Role Lead must accept such an invitation if a Policy of its own Super-Circle or any Super-Circle thereof demands it.
+A Role may opt to link into another Circle if a Policy of that other Circle or one acting upon that other Circle invites it. A Role must accept such an invitation if a Policy of its own Super-Circle or any Super-Circle thereof demands it.
 
-Once linked into another Circle, a Role is considered part of the Governance of that other Circle, and that Circle's Governance Process may add to the Role and later change or remove what it adds. However, it may not change or remove the Purpose or any elements added to that Role by another Circle, and nor may another Circle change or remove anything that Circle adds. Linking a Role into another Circle does not change the designation of that Role's Super-Circle, and nor is the Role considered a Sub-Circle of that other Circle. A linked Role's original Super-Circle also retains all control over Role assignments for the linked Role, unless a Policy acting in or upon that Circle says otherwise.
+Once linked into another Circle, a Role is considered part of the Governance of that other Circle. That Circle's Governance Process may add to the Role and later change what it adds, however it may not edit the Purpose or change anything added by another Circle, nor may another Circle change or remove anything it adds. Linking a Role into another Circle does not change the designation of that Role's Super-Circle, nor is the Role considered a Sub-Circle of that other Circle. A linked Role's Super-Circle retains all control over assignments into the Role, unless a Policy acting in or upon that Circle says otherwise.
 
-A Circle may not delete a Role linked into it, but it may unlink the Role and remove it from its own Governance by removing the Policy that invited it in, or by another mechanism defined in that Policy. A Role Lead may also opt to unlink their Role from any Circle except its own Super-Circle at any time, unless a Policy within or acting upon its Super-Circle says otherwise. Once unlinked, any Governance added to that Role by that Circle is automatically removed.
+A Circle may not delete a Role linked into it, but it may unlink the Role and remove it from its own Governance by removing the Policy that invited it in, or by another mechanism defined in that Policy. A Role may also opt to unlink itself from any Circle that invited the link, unless a Policy within or acting upon the Role's Super-Circle says otherwise. Once unlinked from a Circle, any Governance added to that Role by that Circle is automatically removed.
 
 #### 1.3.4 Creating Circles Across Roles
 
