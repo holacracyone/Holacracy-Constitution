@@ -56,7 +56,7 @@ Once a Role controls a Domain, it may create its own Policies governing that Dom
 
 #### 1.3.3 Linking Into Circles
 
-A Role may opt to link into another Circle if a Policy of that other Circle or one acting upon that other Circle invites it. A Role must accept such an invitation if a Policy of its own Super-Circle or any Super-Circle thereof demands it.
+A Role may opt to link into another Circle if a Policy of that other Circle or any Super-Circle thereof invites it. A Role must accept such an invitation if a Policy of its own Super-Circle or any Super-Circle thereof demands it.
 
 Once linked into another Circle, a Role is considered part of the Governance of that other Circle. That Circle's Governance Process may add to the Role and later change what it adds, however it may not edit the Purpose or change anything added by another Circle, nor may another Circle change or remove anything it adds. Linking a Role into another Circle does not change the designation of that Role's Super-Circle, nor is the Role considered a Sub-Circle of that other Circle. A linked Role's Super-Circle retains all control over assignments into the Role, unless a Policy acting in or upon that Circle says otherwise.
 
