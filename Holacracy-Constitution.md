@@ -5,6 +5,8 @@
 
 The ***“Ratifiers”*** are adopting this ***“Constitution”*** as the formal authority structure of the ***“Organization”*** they specify. In so doing, the Ratifiers cede their power to govern and run the Organization into the Constitution's rules and processes, except for any powers that the Ratifiers lack the authority to delegate. All ***“Partners”*** the Organization has engaged to take part in its governance and operations may rely upon the authorities granted by this Constitution to the extent the Ratifiers held such authorities prior to adopting the Constitution.
 
+Any existing policies and systems the Organization has in effect before adopting this Constitution continue in full force after adoption, even if they include constraints or authorities that were not created under the Constitution's processes. This may include compensation systems, hiring and firing processes, work-related policies, etc. However, these legacy policies and systems may not be expanded or modified, and lose all weight and authority as soon as this Constitution's processes create something that replaces or contradicts them.
+
 The Ratifiers or their successors may amend this Constitution or repeal it entirely, using whatever authority and process they relied upon to adopt it. Amendments must be in writing and published where all Partners of the Organization can access them.
 
 ## Article 1: Organizational Structure
@@ -55,7 +57,15 @@ When a Circle grants a Domain to one of its Roles, anyone filling that Role may 
 
 Once a Role controls a Domain, it may create its own Policies governing that Domain within its own Governance Process. However, the Circle that delegated the Domain still retains the right to define or modify its own Policies governing that Domain, and any such Policies trump those defined by the Role in the event of a conflict.
 
-#### 1.3.3 Linking Into Circles
+#### 1.3.3 Anchor Circle
+
+Upon adopting this Constitution, the Ratifiers must establish an initial Circle to express the overall Purpose of the Organization. This ***“Anchor Circle”*** becomes the broadest Circle in the Organization, and has no Super-Circle.
+
+Unless otherwise specified by the Ratifiers, the Anchor Circle automatically controls all Domains that the Organization itself controls, and has all the authority that the Organization itself has, including authorities to dispose of the Organization's property, limit its rights, and spend its money. The Anchor Circle's Purpose is the Organization's overall Purpose, and the Anchor Circle may later change its own Purpose or Accountabilities via a Policy adopted within its Governance Process.
+
+The Ratifiers may further define an initial structure and other Governance within the Anchor Circle for the Organization to start with upon adopting this Constitution.
+
+#### 1.3.4 Linking Into Circles
 
 A Role may opt to link into another Circle if a Policy of that other Circle or any Super-Circle thereof invites it. A Role must accept such an invitation if a Policy of its own Super-Circle or any Super-Circle thereof demands it.
 
@@ -63,7 +73,7 @@ Once linked into another Circle, a Role is considered part of the Governance of 
 
 A Circle may not delete a Role linked into it, but it may unlink the Role and remove it from its own Governance by removing the Policy that invited it in, or by another mechanism defined in that Policy. A Role may also opt to unlink itself from any Circle that invited the link, unless a Policy within or acting upon the Role's Super-Circle says otherwise. Once unlinked from a Circle, any Governance added to that Role by that Circle is automatically removed.
 
-#### 1.3.4 Creating Circles Across Roles
+#### 1.3.5 Creating Circles Across Roles
 
 Two or more Roles may create a new Circle at any time to govern a shared Purpose across the Roles. To do so, the founding Roles must all agree on an initial Purpose for the new Circle and any Accountabilities it will enact. They must also agree to link into the Circle upon its creation, and the Circle automatically starts with a Policy inviting these Roles to do so. A Circle created this way has no Super-Circle and no Domains, and may later change its own Purpose or Accountabilities via a Policy adopted within its Governance Process. Such a Circle is immediately dissolved if it has no Roles linked into it at any point.
 
@@ -434,36 +444,19 @@ A Secretary may only contradict previously published logic or interpretations on
 
 Anyone filling a Role in a Circle may ask its Secretary to rule on the validity of any Governance of the Circle or any Role or Sub-Circle ultimately contained by the Circle. Upon such a request, if the Secretary concludes the Governance conflicts with the rules of this Constitution, the Secretary must then strike the offending Governance from the acting Governance record. After doing so, the Secretary must promptly communicate what was struck and why to all Partners filling Roles within the Circle that held the offending Governance.
 
-
-## Article 4: Adoption Matters
-
-### 4.1 Anchor Circle
-
-Upon adopting this Constitution, the Ratifiers must establish an initial Circle to express the overall Purpose of the Organization. This ***“Anchor Circle”*** becomes the broadest Circle in the Organization, and has no Super-Circle.
-
-Unless otherwise specified by the Ratifiers, the Anchor Circle automatically controls all Domains that the Organization itself controls, and has all the authority that the Organization itself has, including authorities to dispose of the Organization's property, limit its rights, and spend its money. The Anchor Circle's Purpose is the Organization's overall Purpose, and the Anchor Circle may later change its own Purpose or Accountabilities via a Policy adopted within its Governance Process.
-
-The Ratifiers may further define an initial structure and other Governance within the Anchor Circle for the Organization to start with upon adopting this Constitution.
-
-### 4.2 Legacy Policies and Systems
-
-Any existing policies and systems the Organization has in effect before adopting this Constitution continue in full force after adoption, even if they include constraints or authorities that are not reflected in Governance records. This may include compensation systems, hiring and firing processes, work-related policies, etc.
-
-However, these legacy policies and systems will lose all weight and authority as soon as Governance is defined that replaces or contradicts them. In addition, they may not be modified or added to in their legacy form. Anyone wishing to do so must first capture or otherwise empower the policy or system using the Governance Process defined in this Constitution.
-
-### 4.3 Process Breakdown
+### 3.6 Process Breakdown
 
 A ***“Process Breakdown”*** occurs when a Circle shows a pattern of behavior that conflicts with the rules of this Constitution.
 
-#### 4.3.1 Breakdown from Failed Governance
+#### 3.6.1 Breakdown from Failed Governance
 
 The Facilitator of a Circle may declare a Process Breakdown in the Circle if the participants in one of its Governance Meetings fail to successfully process a Proposal, even after a reasonably long time is spent trying to do so. If the Proposer specially requested that Governance Meeting specifically for processing that Proposal, then the Proposer may also declare a Process Breakdown in this case.
 
-#### 4.3.2 Breakdown from Unconstitutional Behavior
+#### 3.6.2 Breakdown from Unconstitutional Behavior
 
 The Facilitator or Secretary of a Circle may declare a Process Breakdown within that Circle or one of its Sub-Circles upon discovering a pattern of behavior or outputs that conflicts with the rules of this Constitution.
 
-#### 4.3.3 Process Restoration
+#### 3.6.3 Process Restoration
 
 Whenever an authorized party declares a Process Breakdown within a Circle, the following occurs:
 
@@ -474,7 +467,7 @@ Whenever an authorized party declares a Process Breakdown within a Circle, the f
 
 These authorities are temporary and cease as soon as the Facilitator of the Super-Circle concludes that due process has been restored within the Circle. If there is no Super-Circle of the Circle experiencing a Process Breakdown, then all of these powers instead vest with the Facilitator of the Circle itself.
 
-#### 4.3.4 Escalation of Process Breakdown
+#### 3.6.4 Escalation of Process Breakdown
 
 A Process Breakdown of one Circle may not be considered a Process Breakdown of its Super-Circle, as long as the Super-Circle’s Facilitator is working to resolve the Process Breakdown promptly and diligently.
 
