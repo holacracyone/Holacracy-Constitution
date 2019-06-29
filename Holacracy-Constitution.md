@@ -3,8 +3,9 @@
 
 ## Preamble
 
-This ***“Constitution”*** defines rules and processes for the governance and operations of an organization. The ***“Ratifiers”*** are adopting these rules as the formal authority structure for the ***“Organization”*** specified upon the Constitution’s adoption, which may be an entire entity or a part of one that the Ratifiers have authority to govern and run. The Ratifiers and anyone else who agrees to take part in the governance and operations of the Organization (its ***“Partners”***) may rely upon the authorities granted by this Constitution, and also agree to be bound by its duties and constraints.
+The ***“Ratifiers”*** are adopting this ***“Constitution”*** as the formal authority structure of the ***“Organization”*** they specify. In so doing, the Ratifiers cede their power to govern and run the Organization into the Constitution's rules and processes, except for any powers that the Ratifiers lack the authority to delegate. All ***“Partners”*** the Organization has engaged to take part in its governance and operations may rely upon the authorities granted by this Constitution to the extent the Ratifiers held such authorities prior to adopting the Constitution.
 
+The Ratifiers or their successors may amend this Constitution or repeal it entirely, using whatever authority and process they relied upon to adopt it. Amendments must be in writing and published where all Partners of the Organization can access them.
 
 ## Article 1: Organizational Structure
 
@@ -436,11 +437,7 @@ Anyone filling a Role in a Circle may ask its Secretary to rule on the validity 
 
 ## Article 4: Adoption Matters
 
-### 4.1 Ratifiers Cede Authority
-
-By adopting this Constitution, the Ratifiers cede their authority to govern and run the Organization or direct its Partners, and may no longer do so except through authority granted to them under the Constitution’s rules and processes. However, as an exception to this rule, the Ratifiers may continue to hold and exercise any authority that they do not have the power to delegate, such as anything required by policies outside of their control, or by the Organization’s bylaws.
-
-### 4.2 Anchor Circle
+### 4.1 Anchor Circle
 
 Upon adopting this Constitution, the Ratifiers must establish an initial Circle to express the overall Purpose of the Organization. This ***“Anchor Circle”*** becomes the broadest Circle in the Organization, and has no Super-Circle.
 
@@ -448,25 +445,25 @@ Unless otherwise specified by the Ratifiers, the Anchor Circle automatically con
 
 The Ratifiers may further define an initial structure and other Governance within the Anchor Circle for the Organization to start with upon adopting this Constitution.
 
-### 4.3 Legacy Policies and Systems
+### 4.2 Legacy Policies and Systems
 
 Any existing policies and systems the Organization has in effect before adopting this Constitution continue in full force after adoption, even if they include constraints or authorities that are not reflected in Governance records. This may include compensation systems, hiring and firing processes, work-related policies, etc.
 
 However, these legacy policies and systems will lose all weight and authority as soon as Governance is defined that replaces or contradicts them. In addition, they may not be modified or added to in their legacy form. Anyone wishing to do so must first capture or otherwise empower the policy or system using the Governance Process defined in this Constitution.
 
-### 4.4 Process Breakdown
+### 4.3 Process Breakdown
 
 A ***“Process Breakdown”*** occurs when a Circle shows a pattern of behavior that conflicts with the rules of this Constitution.
 
-#### 4.4.1 Breakdown from Failed Governance
+#### 4.3.1 Breakdown from Failed Governance
 
 The Facilitator of a Circle may declare a Process Breakdown in the Circle if the participants in one of its Governance Meetings fail to successfully process a Proposal, even after a reasonably long time is spent trying to do so. If the Proposer specially requested that Governance Meeting specifically for processing that Proposal, then the Proposer may also declare a Process Breakdown in this case.
 
-#### 4.4.2 Breakdown from Unconstitutional Behavior
+#### 4.3.2 Breakdown from Unconstitutional Behavior
 
 The Facilitator or Secretary of a Circle may declare a Process Breakdown within that Circle or one of its Sub-Circles upon discovering a pattern of behavior or outputs that conflicts with the rules of this Constitution.
 
-#### 4.4.3 Process Restoration
+#### 4.3.3 Process Restoration
 
 Whenever an authorized party declares a Process Breakdown within a Circle, the following occurs:
 
@@ -477,15 +474,11 @@ Whenever an authorized party declares a Process Breakdown within a Circle, the f
 
 These authorities are temporary and cease as soon as the Facilitator of the Super-Circle concludes that due process has been restored within the Circle. If there is no Super-Circle of the Circle experiencing a Process Breakdown, then all of these powers instead vest with the Facilitator of the Circle itself.
 
-#### 4.4.4 Escalation of Process Breakdown
+#### 4.3.4 Escalation of Process Breakdown
 
 A Process Breakdown of one Circle may not be considered a Process Breakdown of its Super-Circle, as long as the Super-Circle’s Facilitator is working to resolve the Process Breakdown promptly and diligently.
 
 However, if the Process Breakdown is not resolved within a reasonable timeframe, then the Facilitator of any Super-Circle that ultimately contains the offending Circle may declare a Process Breakdown within the offending Circle’s Super-Circle as well.
-
-### 4.5 Constitution Amendments and Repeal
-
-The Ratifiers or their successors may amend this Constitution or repeal it entirely, using whatever authority and process they relied upon to adopt it. Amendments must be in writing and published where all Partners of the Organization can access them.
 
 ---
 
