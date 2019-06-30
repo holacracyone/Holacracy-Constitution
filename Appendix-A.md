@@ -21,7 +21,7 @@ _The Circle Lead holds the Purpose of the overall Circle._
 _The Circle Lead also holds all Accountabilities on the Circle to the extent they are not covered by the Circle's Roles or processes._
 
 
-### Rep Link
+### Circle Rep
 
 **Purpose:**
 Tensions relevant to process in a broader Circle channeled out and resolved.

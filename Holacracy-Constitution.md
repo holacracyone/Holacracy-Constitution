@@ -99,15 +99,15 @@ Each Circle has a group of ***"Circle Members"*** who may represent its Roles in
 
 By default, the Circle Members of a Circle include all Partners filling its Circle Lead Role, as well as each Partner serving as Role Lead for a Role within the Circle. If a Role has multiple Role Leads, a Circle may adopt a Policy to limit how many of them represent that Role as Circle Members in its Governance Process.
 
-#### 1.5.1 Rep Links
+#### 1.5.1 Circle Reps
 
-Any Circle Member of a Circle may call for the selection of a ***"Rep Link"*** to help represent that Circle within the Governance Process of any broader Circle containing it. The selected Rep Link fills the Rep Link Role within the Circle, with the definition given in Appendix A.
+Any Circle Member of a Circle may call for the selection of a ***"Circle Rep"*** to help represent that Circle within the Governance Process of any broader Circle containing it. The selected Circle Rep fills the Circle Rep Role within the Circle, with the definition given in Appendix A.
 
-The Rep Link automatically becomes a Circle Member of any broader Circle that holds the Role that Circle breaks down, with the authority to represent that Role just like a Role Lead. A broader Circle may limit or prevent its Roles from including their Rep Links as its Circle Members via a Policy, but only to the extent those Roles have another way to enjoy comparable representation within that Circle.
+The Circle Rep automatically becomes a Circle Member of any broader Circle containing that Circle's outer Role, with the authority to represent that Role just like a Role Lead. A broader Circle may limit or prevent its Roles from including their Circle Reps as its Circle Members via a Policy, but only to the extent those Roles have another way to enjoy comparable representation within that Circle.
 
-By default, selecting a Rep Link happens via the election process and rules defined in Article 3, however a Policy may specify an alternate process. The only candidates eligible to serve as a Circle's Rep Link are those Partners filling Roles within the Circle. However, anyone serving as a Circle Lead for the Circle may not also serve as its Rep Link. No more than one person may serve as a Circle's Rep Link at a time, unless allowed by a Policy of a containing Circle.
+By default, selecting a Circle Rep happens via the election process and rules defined in Article 3, however a Policy may specify an alternate process. The only candidates eligible to serve as a Circle's Circle Rep are those Partners filling Roles within the Circle. However, anyone serving as a Circle Lead for the Circle may not also serve as its Circle Rep. No more than one person may serve as a Circle's Circle Rep at a time, unless allowed by a Policy of a containing Circle.
 
-A Circle may add Accountabilities or Domains to its own Rep Link Role, as well as amend or remove those additions. However, no Circle may amend or remove the Purpose or any Accountabilities granted to a Rep Link Role by this Constitution, nor remove the Role.
+A Circle may add Accountabilities or Domains to its own Circle Rep Role, as well as amend or remove those additions. However, no Circle may amend or remove the Purpose or any Accountabilities granted to a Circle Rep Role by this Constitution, nor remove the Role.
 
 ### 1.6 Facilitator and Secretary
 
@@ -312,13 +312,13 @@ A Policy that changes a default rule or process in the Constitution applies only
 
 ### 3.2 Changing Governance
 
-Any Circle Member of a Circle may propose changing its Governance by circulating a ***“Proposal”*** to all of its other Circle Members, thus acting as ***“Proposer”***. Before the Proposal is adopted, those other Circle Members must have the opportunity to raise concerns about adopting the Proposal. Each concern so raised is considered an ***“Objection”*** if it meets the criteria defined herein, and the person who raised it becomes the ***“Objector”***. When making Proposals or raising Objections, each Circle Member may only represent the Roles in the Circle for which they serve as Role Lead or Rep Link.
+Any Circle Member of a Circle may propose changing its Governance by circulating a ***“Proposal”*** to all of its other Circle Members, thus acting as ***“Proposer”***. Before the Proposal is adopted, those other Circle Members must have the opportunity to raise concerns about adopting the Proposal. Each concern so raised is considered an ***“Objection”*** if it meets the criteria defined herein, and the person who raised it becomes the ***“Objector”***. When making Proposals or raising Objections, each Circle Member may only represent the Roles in the Circle that they either fill as Role Lead or represent as Circle Rep from the Role's inner Circle. However, a Circle Member may also represent a Role that they have permission to temporarily represent from one of its normally authorized representatives, until that permission expires or is withdrawn.
 
 Proposals are considered adopted and amend Governance only once no Objections are so raised. If Objections are raised, the Proposer and each Objector must find a way to address the Objections before the Proposal is adopted. After any such effort, all Circle Members of the Circle must have another opportunity to raise further Objections to the Proposal before its adoption.
 
 #### 3.2.1 Criteria for Valid Proposals
 
-For a Proposal to be valid for processing, the Proposer must be able to describe a Tension that the Proposer senses, and give an example of an actual past or present situation in which the Proposal would have reduced that Tension. Further, the Proposer must be able to describe how reducing that Tension would help to better express the Purpose or an Accountability of the Circle, and of a Role in the Circle that the Proposer represents or has permission to temporarily represent from one of its normally authorized representatives.
+For a Proposal to be valid for processing, the Proposer must be able to describe a Tension that the Proposer senses, and give an example of an actual past or present situation in which the Proposal would have reduced that Tension. Further, the Proposer must be able to describe how reducing that Tension would help to better express the Purpose or an Accountability of the Circle, and of a Role in the Circle that the Proposer represents.
 
 If at any point the Facilitator becomes clear that a Proposal does not meet this criteria, then the Facilitator must discard the Proposal. However, in making this assessment, the Facilitator may only judge whether the Proposer presented the required example and explanations, and whether they were presented with logical reasoning and are thus reasonable. The Facilitator may not discard a Proposal based on the accuracy of the Proposer's argument, nor on whether the Proposal would adequately address the Tension.
 
@@ -327,7 +327,7 @@ If at any point the Facilitator becomes clear that a Proposal does not meet this
 Some concerns do not count as Objections, and may be ignored during the processing of a Proposal. A concern only counts as an Objection if the Objector can provide a reasonable argument for why it meets **all** of the criteria defined in (a) through (d) below, or the special criteria defined in (e):
 
 - **(a)** If the Proposal were adopted without addressing the concern, it would harm the capacity of the Circle to express its Purpose or enact its Accountabilities. Thus, the concern is not just triggered by a better idea or a potential for further improvement, but because the Proposal would actually reduce the Circle's current capacity.
-- **(b)** The Proposal would limit the Objector's capacity to express the Purpose or an Accountability of one of the Objector's Roles in the Circle, even if the Objector filled no other Roles in the Organization.
+- **(b)** The Proposal would limit the Objector's capacity to express the Purpose or an Accountability of a Role the Objector represents in the Circle, even if the Objector filled no other Roles in the Organization.
 - **(c)** The concern does not already exist even in the absence of the Proposal. Thus, a new Tension would be created specifically by adopting the Proposal, and would not exist were the Proposal withdrawn.
 - **(d)** The proposal would immediately or necessarily cause the harm, or it might cause harm but that possibility still needs to be dealt with now because the Circle won't have an adequate opportunity to adapt before significant harm could result.
 
@@ -360,7 +360,7 @@ In addition to any regular Governance Meetings the Secretary schedules, the Secr
 
 The Circle Members of a Circle are entitled to fully participate in all Governance Meetings of the Circle. The acting Facilitator and Secretary are also entitled to fully participate for the duration of a Governance Meeting and become Circle Members representing those Roles, even if they are not normally Circle Members of the Circle.
 
-In addition, as a Circle Lead for a Circle or a Rep Link into the Circle, you may invite someone into that Circle's Governance Meeting, and your invited guest becomes a full participant for the duration of the Governance Meeting or until you withdraw the invitation. You may only extend this invitation to one person at a time, and only to aid in the processing of a specific Tension affecting your Circle Lead or Rep Link Role. You must sense this Tension yourself as well, and believe it makes sense to process in the Circle. If these conditions are met, your guest becomes a Circle Member representing your Circle Lead or Rep Link Role in the Governance Meeting, but only while directly processing that specific Tension.
+In addition, as a Circle Rep for a Circle, you may invite someone into the Governance Meeting for any Circle immediately containing your Circle, and your invited guest becomes a full participant for the duration of the Governance Meeting or until you withdraw the invitation. You may only extend this invitation to one person at a time, and only to aid in the processing of a specific Tension affecting the Circle you represent. You must sense this Tension yourself as well, and believe it makes sense to process in the Circle. If these conditions are met, your guest becomes a Circle Member in the Governance Meeting with permission to represent your Circle along with you, but only while directly processing that specific Tension.
 
 Beyond the above, no one else is allowed to participate in a Circle’s Governance Meetings.
 
