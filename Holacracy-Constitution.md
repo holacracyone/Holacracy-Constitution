@@ -222,10 +222,10 @@ You have a duty to promptly process messages and requests, as follows:
 
 #### 2.4.3 Duty of Prioritization
 
-You have a duty to prioritize where to focus your attention and resources in alignment with the following constraints:
+You have a duty to prioritize your attention in alignment with the following constraints:
 
 - **(a) Processing Over Execution:** You must generally prioritize processing inbound messages from other Roles over executing your own Next-Actions. However, you may temporarily defer processing in order to batch process messages in a single time block or at a more convenient time, as long as your processing is still reasonably prompt. Processing means engaging in the duties described in this section, including considering the message, defining and capturing Next-Actions or Projects when appropriate, and, upon request, responding with how the message was processed. Processing does not mean executing upon captured Next-Actions and Projects, which is not covered by this prioritization rule.
-- **(b) Requested Meetings Over Execution:** On request, you must prioritize attending any meeting defined in this Constitution over executing your own Next-Actions. However, you may still decline the request if you already have plans scheduled over the meeting time, or if the request was for an ongoing series or pattern of meetings rather than a specific meeting instance.
+- **(b) Meetings Over Execution:** You must prioritize attending any meeting defined in this Constitution over executing your own Next-Actions, but only if this prioritization was explicitly requested for a specific meeting. You may still decline the request if you already have plans scheduled over the meeting time.
 
 ### 2.5 Partner Agreements
 
