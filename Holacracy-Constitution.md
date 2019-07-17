@@ -5,7 +5,7 @@
 
 The ***“Ratifiers”*** are adopting this ***“Constitution”*** as the formal authority structure of the ***“Organization”*** they specify. In so doing, the Ratifiers cede their power to govern and run the Organization into the Constitution's rules and processes, except for any powers that the Ratifiers lack the authority to delegate. All ***“Partners”*** the Organization has engaged to take part in its governance and operations may rely upon the authorities granted by this Constitution to the extent the Ratifiers held such authorities prior to adopting the Constitution.
 
-Any existing policies and systems the Organization has in effect before adopting this Constitution continue in full force after adoption, even if they include constraints or authorities that were not created under the Constitution's processes. This may include compensation systems, hiring and firing processes, work-related policies, etc. However, these legacy policies and systems may not be expanded or modified, and lose all weight and authority as soon as this Constitution's processes create something that replaces or contradicts them.
+Any existing policies and systems the Organization has in effect before adopting this Constitution continue in full force after adoption, even if they include constraints or authorities that were not created under the Constitution's processes. However, these legacy policies and systems may not be expanded or modified, and lose all weight and authority as soon as this Constitution's processes create something that replaces or contradicts them.
 
 The Ratifiers or their successors may amend this Constitution or repeal it entirely, using whatever authority and process they relied upon to adopt it. Amendments must be in writing and published where all Partners of the Organization can access them.
 
@@ -227,25 +227,15 @@ You have a duty to prioritize your attention in alignment with the following con
 - **(a) Processing Over Execution:** You must generally prioritize processing inbound messages from other Roles over executing your own Next-Actions. However, you may temporarily defer processing in order to batch process messages in a single time block or at a more convenient time, as long as your processing is still reasonably prompt. Processing means engaging in the duties described in this section, including considering the message, defining and capturing Next-Actions or Projects when appropriate, and, upon request, responding with how the message was processed. Processing does not mean executing upon captured Next-Actions and Projects, which is not covered by this prioritization rule.
 - **(b) Meetings Over Execution:** You must prioritize attending any meeting defined in this Constitution over executing your own Next-Actions, but only if this prioritization was explicitly requested for a specific meeting. You may still decline the request if you already have plans scheduled over the meeting time.
 
-### 2.5 Partner Agreements
-
-The Organization's Partners may make ***“Partner Agreements”*** about how they will interact with each other or fulfill their general functions as Partners. Partner Agreements are for shaping Partner behaviors that underpin Role-based work, and may not define expectations only relevant when a Partner is already energizing a specific Role, nor expectations around how a Partner will prioritize across different Roles. Partner Agreements may only specify concrete acts to do or behavioral constraints to honor, and may not include promises to achieve specific outcomes or embody abstract qualities.
-
-You may request a Partner Agreement of any Partner, either in service of a Role you fill or more generally as another Partner. That Partner may choose to accept or reject the requested Partner Agreement based on their personal preferences. If accepted, that Partner has a duty to align their behavior with the agreement. A Partner who has agreed to a Partner Agreement may later terminate it at any time without the consent of any other party, unless otherwise agreed in a relevant Partner Agreement.
-
-### 2.6 Implicit Expectations Hold No Weight
-
-All of your responsibilities and constraints as a Partner of the Organization are defined in this Constitution, and in the Governance that results from it. No former or implicit expectations or constraints carry any weight or authority, unless a Circle’s Governance explicitly empowers them, or they come from a basic obligation or contractual agreement you personally have to or with the Organization.
-
-### 2.7 Tactical Meetings
+### 2.5 Tactical Meetings
 
 In service of one of their Roles, any Partner may convene a ***“Tactical Meeting”*** to facilitate engaging other Roles in their responsibilities and duties.
 
-#### 2.7.1 Attendance
+#### 2.5.1 Attendance
 
 The Partner convening a Tactical Meeting must name the specific Roles included in that meeting. The Role Leads of those Roles are then invited to attend and represent their Roles, unless the convener further narrows the invite to include only a subset of those Role Leads. The convener must also name someone to act as Facilitator for that meeting, which may be the elected Facilitator of any Circle with a Role represented in that meeting, or someone else of the convener's choosing.
 
-#### 2.7.2 Facilitation & Process
+#### 2.5.2 Facilitation & Process
 
 Unless a Policy says otherwise, anyone facilitating a Tactical Meeting must use the following process:
 
@@ -259,15 +249,15 @@ Unless a Policy says otherwise, anyone facilitating a Tactical Meeting must use 
 
 A Policy of a Circle may specify an alternate process or amend this default process for Tactical Meetings called by any of the Circle's Roles.
 
-#### 2.7.3 Surrogate for Absent Members
+#### 2.5.3 Surrogate for Absent Members
 
 If an unelected Role invited to a Tactical Meeting is unrepresented in the meeting for any reason, a Circle Lead of that Role's Super-Circle may represent the Role during the meeting instead, if such a Circle Lead is present.
 
-### 2.8 Individual Initiative
+### 2.6 Individual Initiative
 
 As a Partner of the Organization, in some cases you are authorized to act outside of the authority of your Roles, or even to break the rules of this Constitution. By acting under this extended authority you are taking ***“Individual Initiative”***, and you are bound by the following rules:
 
-#### 2.8.1 Allowed Situations
+#### 2.6.1 Allowed Situations
 
 You may only take Individual Initiative when all of the following are true:
 
@@ -276,11 +266,11 @@ You may only take Individual Initiative when all of the following are true:
 - **(c)** Your action would not cause the Organization to spend its money, dispose of its assets, or limit its rights, beyond what you’re already authorized to so cause.
 - **(d)** If your action would violate any Policies or impact any Domains you aren't already authorized to impact, you reasonably believe that you can’t delay the action long enough to request any permissions normally required, or to propose a Governance change to allow your action, without losing much of its potential value.
 
-#### 2.8.2 Communication & Restoration
+#### 2.6.2 Communication & Restoration
 
 Upon taking Individual Initiative, you have a duty to explain your action and the intent behind it to any Partner who fills a Role that may be significantly impacted. Upon the request of any of those Partners, you also have a duty to take any reasonable additional actions to assist in resolving any Tensions created by your Individual Initiative. You must also refrain from continuing to take similar Individual Initiative upon the request of a Role Lead for whichever Role you were acting in, or, if you violated a Domain or Policy, upon the request of a Role Lead for any Role impacted by the violation.
 
-#### 2.8.3 Priority of Corollary Requirements
+#### 2.6.3 Priority of Corollary Requirements
 
 After taking Individual Initiative, you have a duty to prioritize doing the corollary requirements defined in this section higher than doing any of your regular work. However, a Circle Lead of whatever Circle fully contains all Roles that were significantly impacted by your action may still change this default priority.
 
@@ -382,8 +372,6 @@ The Facilitator must use the following process for Governance Meetings:
 
 At any point during this process, a participant may request a ***"Time Out"*** pause, which the Facilitator may choose to grant or deny. During a Time Out, participants may discuss administrative issues or the rules of this Constitution, but may not discuss the content of a Tension, Proposal, or Objection to work towards a resolution. The Facilitator may end a Time Out at any point and resume the normal meeting process.
 
-The Facilitator may enforce any Partner Agreements in effect while facilitating this process, provided they do not conflict with the rules and requirements defined herein for the relevant step of the process, or any other rule in this Article of the Constitution.
-
 A Policy of the Circle may add to this process, but may not conflict with any rules or requirements defined in this Article of the Constitution.
 
 #### 3.3.4 Agenda Building
@@ -472,6 +460,24 @@ These authorities are temporary and cease as soon as the Facilitator of the Supe
 A Process Breakdown of one Circle may not be considered a Process Breakdown of its Super-Circle, as long as the Super-Circle’s Facilitator is working to resolve the Process Breakdown promptly and diligently.
 
 However, if the Process Breakdown is not resolved within a reasonable timeframe, then the Facilitator of any Super-Circle that ultimately contains the offending Circle may declare a Process Breakdown within the offending Circle’s Super-Circle as well.
+
+## Article 4: People & Partnership
+
+### 4.1 Partner Relationships
+
+The Organization may grant Partner status to anyone who has agreed to enact all of the responsibilities and duties of a Partner defined in this Constitution, thus creating a ***“Partner Relationship”*** between that person and the Organization. Any promises either party makes as part of that grant become part of that Partner Relationship, and may only later be changed with the other party's consent. However, either the Organization or a Partner may terminate their Partner Relationship without the consent of the other party, and doing so immediately ends that person's rights and responsibilities as a Partner.
+
+### 4.2 Working Agreements
+
+The Organization's Partners may make ***“Working Agreements”*** about how they will interact with each other or fulfill their general functions as Partners. Working Agreements are for shaping Partner behaviors that underpin Role-based work, and may not define expectations only relevant when a Partner is already energizing a specific Role, nor expectations around how a Partner will prioritize across different Roles. Working Agreements may only specify concrete acts to do or behavioral constraints to honor, and may not include promises to achieve specific outcomes or embody abstract qualities.
+
+As a Partner, you may request a Working Agreement of another Partner for your own personal preferences or to serve a Role you fill, and that Partner may accept or reject the requested Working Agreement based on their own personal preferences. Either party may later terminate that Working Agreement at any time without the consent of the other party, unless otherwise agreed in a relevant Working Agreement.
+
+As a Partner, you have a duty to align your behavior with any Working Agreements you have made. A Facilitator may also enforce any relevant Working Agreement while facilitating a Circle's Governance Process or a Tactical Meeting, provided they do not conflict with the prescribed process or any rule in this Constitution.
+
+### 4.3 Implicit Expectations Hold No Weight
+
+All of your responsibilities and constraints as a Partner of the Organization are defined in this Constitution, and in the Governance and Working Agreements it empowers. No implicit expectations or constraints carry any weight or authority, unless a Circle’s Governance explicitly empowers them, or they come from a basic obligation or contractual agreement you personally have to or with the Organization.
 
 ---
 
