@@ -477,7 +477,7 @@ As a Partner, you have a duty to align your behavior with any Working Agreements
 
 ### 4.3 Implicit Expectations Hold No Weight
 
-All of your responsibilities and constraints as a Partner of the Organization are defined in this Constitution, and in the Governance and Working Agreements it empowers. No implicit expectations or constraints carry any weight or authority, unless a Circle’s Governance explicitly empowers them, or they come from a basic obligation or contractual agreement you personally have to or with the Organization.
+All of your responsibilities and constraints as a Partner of the Organization are defined in this Constitution, and in the Governance and Working Agreements it empowers. No implicit expectations or constraints carry any weight or authority, unless they come from a basic obligation or contractual agreement you personally have to or with the Organization.
 
 ---
 
