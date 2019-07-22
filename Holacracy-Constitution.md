@@ -3,17 +3,17 @@
 
 ## Preamble
 
-The ***“Ratifiers”*** are adopting this ***“Constitution”*** as the formal authority structure of the ***“Organization”*** they specify. In so doing, the Ratifiers cede their power to govern and run the Organization into the Constitution's rules and processes, except for any powers that the Ratifiers lack the authority to delegate. All ***“Partners”*** the Organization has engaged to take part in its governance and operations may rely upon the authorities granted by this Constitution to the extent the Ratifiers held such authorities prior to adopting the Constitution.
+The ***“Ratifiers”*** are adopting this ***“Constitution”*** as the formal authority structure of the ***“Organization”*** they specify. In so doing, the Ratifiers cede their power to govern and run the Organization into the Constitution's rules and processes, except for any powers that the Ratifiers lack the authority to delegate. The Ratifiers and all other ***“Partners”*** the Organization has engaged to take part in its governance and operations must do so under the authorities and constraints defined herein.
 
-Any existing policies and systems the Organization has in effect before adopting this Constitution continue in full force after adoption, even if they include constraints or authorities that were not created under the Constitution's processes. However, these legacy policies and systems may not be expanded or modified, and lose all weight and authority as soon as this Constitution's processes create something that replaces or contradicts them.
+Any existing policies and systems the Organization has in effect before adopting this Constitution continue in full force after adoption, even if they include authorities or constraints that were not created under the Constitution's processes. However, these legacy policies and systems may not be expanded or modified, and lose all weight and authority as soon as this Constitution's processes create something that replaces or contradicts them.
 
-The Ratifiers or their successors may amend this Constitution or repeal it entirely, using whatever authority and process they relied upon to adopt it. Amendments must be in writing and published where all Partners of the Organization can access them.
+The Ratifiers or their successors may amend this Constitution or repeal it entirely, using whatever authority and process they relied upon to adopt it. Amendments must be in writing and published where all Partners can access them.
 
 ## Article 1: Organizational Structure
 
 ### 1.1 Roles
 
-The Organization’s Partners will typically perform the work of the Organization while acting in explicitly defined Roles. A ***“Role”*** definition has a descriptive name and one or more of the following:
+The Organization’s Partners will perform its work while acting in explicitly defined Roles. A ***“Role”*** definition has a descriptive name and one or more of the following:
 
 - **(a)** a ***“Purpose”***, which is a capacity, potential, or goal that the Role will pursue or express on behalf of the Organization.
 - **(b)** one or more ***“Domains”***, which are assets, processes, or other things the Role may exclusively control and regulate as its property, on behalf of the Organization.
@@ -465,7 +465,7 @@ However, if the Process Breakdown is not resolved within a reasonable timeframe,
 
 ### 4.1 Partner Relationships
 
-The Organization may grant Partner status to anyone who has agreed to enact all of the responsibilities and duties of a Partner defined in this Constitution, thus creating a ***“Partner Relationship”*** between that person and the Organization. Any promises either party makes as part of that grant become part of that Partner Relationship, and may only later be changed with the other party's consent. However, either the Organization or a Partner may terminate their Partner Relationship without the consent of the other party, and doing so immediately ends that person's rights and responsibilities as a Partner.
+The Organization may grant Partner status to anyone who has agreed to enact all of the responsibilities and duties of a Partner defined in this Constitution, thus creating a ***“Partner Relationship”*** between that person and the Organization. Any other promises either party makes as part of that grant become part of that Partner Relationship, and may only later be changed with the other party's consent. However, either the Organization or a Partner may terminate their Partner Relationship without the consent of the other party, and doing so immediately ends that person's rights and responsibilities as a Partner.
 
 ### 4.2 Working Agreements
 
@@ -475,9 +475,9 @@ As a Partner, you may request a Working Agreement of another Partner for your ow
 
 As a Partner, you have a duty to align your behavior with any Working Agreements you have made. A Facilitator may also enforce any relevant Working Agreement while facilitating a Circle's Governance Process or a Tactical Meeting, provided they do not conflict with the prescribed process or any rule in this Constitution.
 
-### 4.3 Implicit Expectations Hold No Weight
+### 4.3 Power Shift
 
-All of your responsibilities and constraints as a Partner of the Organization are defined in this Constitution, and in the Governance and Working Agreements it empowers. No implicit expectations or constraints carry any weight or authority, unless they come from a basic obligation or contractual agreement you personally have to or with the Organization.
+All of your responsibilities and constraints as a Partner of the Organization come from this Constitution and the Governance and Working Agreements it empowers, or from your legal duties to the Organization or while acting on its behalf. No implicit expectations or constraints carry any weight or authority, nor any dictates issued under the Organization's previous power structure before adopting this Constitution. As a Partner, you may rely upon the authorities granted by this Constitution to the full extent the Ratifiers held such authorities prior to adopting the Constitution.
 
 ---
 
