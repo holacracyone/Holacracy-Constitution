@@ -151,9 +151,11 @@ While acting in a Role, you may not violate any Policies of the Role itself or o
 
 In service of your Role, you have the authority to use and impact your Role's Domains.
 
-You may also use and impact any Domain that a Circle containing your Role owns, or any Domain such a Circle itself is authorized to impact, as long as that Domain has not been further delegated to another Role within that Circle.
+You may also use and impact any Domain that a Circle containing your Role owns, or any Domain such a Circle itself is authorized to impact, as long as that Domain has not been further delegated to another Role within that Circle. However, if you believe your impact will be substantially difficult or expensive to undo, you must first get permission from a Circle Lead of the Circle that owns that Domain.
 
-You cannot exert control or cause a material impact within a Domain owned by another sovereign entity, or one delegated to another Role within a Circle containing your Role, or any Circle containing that Circle, recursively, unless you have their permission. You may ask for permission directly, or you may announce your intent to take a specific action and invite anyone with a relevant Domain to object. If no one does within a reasonable timeframe, then, while taking that specific action, you have permission to impact any Domains owned by any Role in the Organization that your announcement reached. If your announcement was in writing, you may assume it reached anyone who customarily processes messages in the communication channel you used. A Policy may further modify or constrain this process.
+You cannot exert control or cause a material impact within a Domain owned by another sovereign entity, or one delegated to another Role within a Circle containing your Role, or any Circle containing that Circle, recursively, unless you have their permission.
+
+Whenever you need someone's permission to impact a Domain, you may ask for it directly, or you may announce your intent to take a specific action and invite anyone with a relevant Domain to object. If no one does within a reasonable timeframe, then, while taking that specific action, you have permission to impact any Domains owned by any Role in the Organization that your announcement reached. If your announcement was in writing, you may assume it reached anyone who customarily processes messages in the communication channel you used. A Policy may further modify or constrain this process.
 
 #### 2.1.3 Don't Dispose of Assets
 
