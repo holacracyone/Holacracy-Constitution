@@ -54,6 +54,6 @@ Tensions relevant to process in a broader Circle channeled out and resolved.
 
 **Accountabilities:**
 
-- Scheduling Governance Meetings and Tactical Meetings of the Circle or called by its Roles, and notifying all invited participants
-- Capturing and publishing the outputs of Governance Meetings and Tactical Meetings of the Circle or called by its Roles
+- Scheduling Governance Meetings and Tactical Meetings for the Circle and its Roles, and notifying all invited participants
+- Capturing and publishing the outputs of Governance Meetings and Tactical Meetings for the Circle and its Roles
 - Interpreting Governance and the Constitution upon request
