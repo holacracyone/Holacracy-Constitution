@@ -408,23 +408,19 @@ A Circle may adopt Policies to further constrain when or how Proposals or electi
 
 ### 3.5 Interpreting the Constitution & Governance
 
-As a Partner of the Organization, you may use your reasonable judgment to interpret this Constitution and any Governance within the Organization, including how these apply within a specific situation, and then act based on your interpretation. In so doing, you must interpret all Governance in the context of the Purpose and Accountabilities of the Circle containing it, and avoid using any interpretation that conflicts with that context.
+As a Partner of the Organization, you may use your reasonable judgment to interpret this Constitution and anything created under its authority, including how these apply within a specific situation, and then act based on your interpretation. In so doing, you must interpret all Governance in the context of the Purpose and Accountabilities of the Circle containing it, and avoid using any interpretation that conflicts with that context.
 
-#### 3.5.1 Secretaries Resolve Interpretation Conflicts
+#### 3.5.1 Interpretation Conflicts
 
-If your interpretation of Governance conflicts with another Partner's, either party may ask the Secretary of any affected Circle to rule on which interpretation to use. Once a Secretary has made such a ruling, it trumps your own and you are responsible for aligning with it until any underlying Governance changes.
+If your interpretation conflicts with another Partner's, you may ask the Secretary of any affected Circle to rule on which interpretation to use. Once a Secretary has made such a ruling, it trumps your own interpretation and all Partners must align with it until changes are made to whatever was interpreted. You may appeal an interpretation ruling to the Secretary of any Super-Circle, who may overrule the interpretation of any Sub-Circle Secretary.
 
-A Circle’s Secretary may overrule an interpretation given by a Secretary of any Sub-Circle. If two Secretaries give conflicting rulings and one is from the Secretary of a Circle that ultimately contains the other Circle, then you are responsible for aligning with the interpretation given by the broader Circle’s Secretary.
+#### 3.5.2 Interpretation Precedents
 
-#### 3.5.2 Interpretations Become Standards
-
-When ruling on an interpretation, a Secretary may choose to publish that interpretation and the logic behind it in writing. If published, the Secretary of that Circle and the Secretaries of any contained Circles are responsible for attempting to align any future rulings with the previously published logic and interpretations.
-
-A Secretary may only contradict previously published logic or interpretations once a compelling new argument or circumstance supports a reversal. If such a contradiction is also published, its logic and interpretations become the new standard that all future rulings must align with.
+When ruling on an interpretation, a Secretary may publish that interpretation and the logic behind it in writing. If published, the Secretary of that Circle and any contained Circles must attempt to align any future rulings with the previously published logic and interpretations, until a compelling new argument or circumstance supports a reversal.
 
 #### 3.5.3 Striking Invalid Governance
 
-Anyone filling a Role in a Circle may ask its Secretary to rule on the validity of any Governance of the Circle or any Role or Sub-Circle ultimately contained by the Circle. Upon such a request, if the Secretary concludes the Governance conflicts with the rules of this Constitution, the Secretary must then strike the offending Governance from the acting Governance record. After doing so, the Secretary must promptly communicate what was struck and why to all Partners filling Roles within the Circle that held the offending Governance.
+Any Circle Member may ask their Circle's Secretary to rule on the validity of any Governance within the Circle or any Sub-Circle thereof. If the Secretary concludes the Governance conflicts with the rules of this Constitution, the Secretary must strike the offending Governance from the Governance records. After doing so, the Secretary must promptly communicate what was struck and why to all Circle Members within the Circle that held the offending Governance.
 
 ### 3.6 Process Breakdown
 
