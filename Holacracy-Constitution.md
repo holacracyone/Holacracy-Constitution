@@ -64,7 +64,7 @@ The Ratifiers may define an initial structure and other Governance within the An
 
 A Role may opt to link into another Circle if a Policy of that other Circle or any Super-Circle thereof invites it. A Role must accept such an invitation if a Policy of its own Super-Circle or any Super-Circle thereof demands it.
 
-Once linked into another Circle, a Role is considered part of the Governance of that other Circle. That Circle's Governance Process may add to the Role and later change what it adds. However, it may not delete the Role nor change anything added by another Circle, and nor may another Circle change or remove anything it adds. The Circle a Role links into is not considered its Super-Circle, and nor is the Role's inner Circle considered its Sub-Circle.
+Once linked into another Circle, a Role is considered part of the Governance of that other Circle. That Circle's Governance Process may add to the Role and later change what it adds. However, it may not delete the Role nor change anything added by another Circle, and nor may another Circle change or remove anything it adds. The authority to add or change assignments into the Role stays with its source Circle. The Circle a Role links into is not considered its Super-Circle, and nor is the Role's inner Circle considered its Sub-Circle.
 
 A Circle may unlink a Role by removing the Policy that invited it to link, or by another mechanism defined in that Policy. A Role may also opt to remove itself from a Circle it linked into, unless a Policy within or acting upon the Role's Super-Circle says otherwise. Once unlinked from a Circle, any Governance added to the Role by that Circle is automatically removed.
 
