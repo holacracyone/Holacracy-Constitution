@@ -56,4 +56,4 @@ Tensions relevant to process in a broader Circle channeled out and resolved.
 
 - Scheduling Governance Meetings and Tactical Meetings of the Circle
 - Capturing and publishing the outputs of Governance Meetings and Tactical Meetings
-- Interpreting Governance and the Constitution upon request
+- Interpreting the Constitution and anything under its authority upon request
