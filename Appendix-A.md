@@ -2,11 +2,9 @@
 
 ## Pre-Defined Roles
 
-
 ### Circle Lead
 
-**Purpose:**
-_The Circle Lead holds the Purpose of the overall Circle._
+**Purpose:** _The Circle Lead holds the Purpose of the overall Circle._
 
 **Domains:**
 
@@ -20,18 +18,15 @@ _The Circle Lead holds the Purpose of the overall Circle._
 
 _The Circle Lead also holds all Accountabilities on the Circle to the extent they are not covered by the Circle's Roles or processes._
 
-
 ### Circle Rep
 
-**Purpose:**
-Tensions relevant to process in a broader Circle channeled out and resolved.
+**Purpose:** Tensions relevant to process in a broader Circle channeled out and resolved.
 
 **Accountabilities:**
 
 - Seeking to understand Tensions conveyed by Role-fillers within the Circle
 - Discerning Tensions appropriate to process within a broader Circle that holds the Circle
 - Processing Tensions within a broader Circle to remove constraints on the Circle
-
 
 ### Facilitator
 
@@ -41,8 +36,7 @@ Tensions relevant to process in a broader Circle channeled out and resolved.
 
 - Facilitating the Governance Process and Tactical Meetings of the Circle or for its Roles
 - Coaching other Circle Members on the Constitution's rules and processes, either on request or when needed for effective meetings
-- Auditing the meetings and records of Sub-Circles on request, and declaring a Process Breakdown upon discovering a pattern of behavior that conflicts with the rules of the Constitution
-
+- Auditing the meetings and records of Sub-Circles on request, and declaring a Process Breakdown if one is discovered
 
 ### Secretary
 
