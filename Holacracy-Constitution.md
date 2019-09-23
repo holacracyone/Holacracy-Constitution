@@ -1,5 +1,4 @@
-# **Holacracy Constitution - Development Version**
-
+# **Holacracy Constitution**
 
 ## Preamble
 
