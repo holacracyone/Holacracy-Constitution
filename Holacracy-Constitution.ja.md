@@ -17,7 +17,7 @@
 
 *組織*の*パートナー*は、明示的に定義された役割で行動しながら作業を実行します。 ***ロール(Roles)***の定義には、わかりやすい名前と、次のうち少なくとも1つ以上が含まれます。
 
-- **(a)** 1つの***目的(Purpose)***: *ロール*が追求または表現する、能力、可能性、または目標。
+- **(a)** 1つの***目的(Purpose)***: *ロール*が追求または体現する、能力、可能性、または目標。
 - **(b)** 1つまたは複数の***領域(Domain)***: *ロール*がその*目的*のために、排他的にコントロールし、所有物として規制する資産、プロセス、またはその他のもの。
 - **(c)** 1つまたは複数の***責務(Accountability)***: *ロール*が管理し、他の*ロール*を補助するため、または自身の*目的*をサポートするために、継続的に行われる活動。
 
@@ -93,7 +93,7 @@
 #### 1.4.1 Defining Priorities & Strategies
 (1.4.1 優先順位と方針の定義)
 
-*サークルリード*は、*ロール*間の優先順位を明確にし、調整するために、*サークル*の可能な取り組みの相対的な価値を判断することができます。*サークルリード*は、1つまたは複数の***方針***を定義することもできます。これは、*サークル*の優先順位付けを導くための経験則です。
+*サークルリード*は、*ロール*間の優先順位を明確にし、調整するために、*サークル*の可能な取り組みの相対的な価値を判断することができます。*サークルリード*は、1つまたは複数の***方針(Strategy)***を定義することもできます。これは、*サークル*の優先順位付けを導くための経験則です。
 
 #### 1.4.2 Routing External References
 (1.4.2 外部からの参照の振り分け)
@@ -159,137 +159,163 @@
 - **(d)** 最初に代理として立候補した*サークルメンバー*。
 
 ## Article 2: Operations
+(第2章: オペレーション)
 
 ### 2.1 Authority of Role-Fillers
+(2.1 ロールに就いている人の権限)
 
-When filling a Role, you have the authority to take any action or make any decision to enact your Role’s Purpose or Accountabilities, as long as you don't break a rule defined in this Constitution.
+あなたは、この*憲法*で定義されたルールに違反しない限り、あなたが就いている*ロール*の*目的*または*責務*を全うするためのあらゆる行動や決定を行う権限があります。
 
 #### 2.1.1 Don't Violate Policies
+(2.1.1 ポリシーに違反しないこと)
 
-While acting in a Role, you may not violate any Policies of the Role itself or of any Circle containing the Role.
+*ロール*として行動しているとき、あなたは、*ロール*や*ロール*を含む*サークル*の*ポリシー*に違反することはできません。
 
 #### 2.1.2 Don't Impact Domains
+(2.1.2 領域に影響を与えないこと)
 
-In service of your Role, you have the authority to impact and control your Role's Domains.
+*ロール*として行動している時、あなたは、その*ロール*の所有する*領域*に影響を与え、コントロールする権限があります。
 
-You may also impact any Domain held by a Circle containing your Role and not further delegated, or any Domain such a Circle itself may impact. But if you believe your impact will be substantially difficult or expensive to undo, you need advance permission.
+あなたは、さらに、あなたの*ロール*を含む*サークル*が所有し他に委譲されていない*領域*や、*サークル*自体が影響する可能性がある*領域*に影響を与える事ができます。ただし、このとき、あなたが与えた影響を取り消すのが実質的に困難であったり、取り消すのにコストがかかると思われる場合は、事前の許可が必要です。
 
-You may not exert control or cause a material impact on a Domain delegated to a Role or Circle that doesn't contain your Role, unless you get permission. Nor may you do so on a Domain owned by another sovereign entity without permission.
+あなたは、許可を得ないかぎり、あなたのロールを含まない*ロール*や*サークル*に委譲された*領域*をコントロールしたり、重大な影響を与えることはできません。また、その他の独立した存在が所有する*領域*についても同様です。
 
-When you need permission to impact a Domain, you may get it from whomever controls that Domain. You may also get permission by announcing your intent to take a specific action, and inviting anyone with a relevant Domain to object. You must then wait a reasonable time to allow responses. If no one objects in that time, you then have permission to impact any Domains owned by any Role in the Organization that your announcement reached. You may assume a written announcement reached anyone who typically reads messages in the channel you used. Any permission so granted only applies while taking the specific action you announced. A Policy may further change or constrain this process.
+*領域*に影響を与える許可が必要な場合は、あなたは、その*領域*をコントロールしている人なら誰からでも許可を得ることができます。
+
+また、あなたは、特定の行動を行う意図をアナウンスし、関連する*領域*をもつ人に反論を促すことによっても、許可を得たとみなすことができます。このとき、あなたは、応答するうえで合理的な期間、返事を待たなければなりません。その期間が経過した時点で誰も異議を唱えなかった場合、*組織*の中でアナウンスが届いた全ての*ロール*が所有する*領域*に影響を与える許可を得たことになります。書面によるアナウンスの場合、そのアナウンスは、使用したチャネルのメッセージを普段読んでいる人全員に届いたものと見做すことができます。これにより付与された許可は、アナウンスした特定の行動を実行している間のみ適用されます。*ポリシー*により、このプロセスをさらに変更または制限することができます。
 
 #### 2.1.3 Don't Spend Money
+(2.1.3 金銭を支出しないこと)
 
-While energizing your Role, you may not spend any money or other assets unless you first get authorized to do so. This authorization must come from a Circle that already has control of those resources for spending purposes. It counts as spending if you dispose of significant property of the Circle, or significantly limit any of its rights.
+*ロール*として行動しているとき、先に承認されない限り、あなたは金銭や資産を支出することはできません。この承認は、これらのリソースを支出する目的で既にコントロールしている*サークル*から取得する必要があります。*サークル*の重要な財産を処分することや、*サークル*の権利を著しく制限することも、リソースを支出することに含まれます。
 
-To get authorized to spend, you must announce your intent to spend in writing to the Circle you're seeking authorization from. You must share this announcement where all Circle Members of that Circle will typically see it. Your statement must include the reason for the spending, and the Role you'll spend from. You must then wait a reasonable time to allow consideration and responses. Any recipient of your announcement may escalate the spending for extra consideration. You may not proceed with the spending if escalated, however a Circle Lead of that Circle may reverse an escalation, as may the person who escalated it. Once a reasonable time has passed and no escalations stand, your Role gains control of those resources. You may spend them for your stated purpose, or further authorize others to. The Circle you got authorization from in turn looses this control, however a Circle Lead of that Circle may revoke the authorization at any time.
+支出の承認を得るには、あなたは、承認を求めている*サークル*に対し、支出を行う意思を書面によってアナウンスする必要があります。このアナウンスは、この*サークル*のすべての*サークルメンバー*が通常表示する場所で共有しなければならず、その内容には、支出の理由と、支出を行う*ロール*を含めなければなりません。その後、あなたは、検討と応答をするうえで合理的な期間、返事を待たなければなりません。アナウンスを受けた人はだれでも、追加の検討のために支出の可否をエスカレートすることができます。エスカレートされた場合、あなたは支出を進めることはできませんが、その*サークル*の*サークルリード*は、エスカレートした人と同じように、エスカレーションを取り消すことができます。合理的な期間が経過し、エスカレーションが発生していない状態となると、あなたのロールは*ロール*はそれらのリソースのコントロールを得ます。これにより、あなたは指定した目的のためにそれらを使用するか、さらに他の人に承認を与えることができます。承認を与えた*サークル*はそれらのリソースのコントロールを失いますが、その*サークル*の*サークルリード*はいつでも承認を取り消すことができます。
 
-A Policy may change this process in any way, or directly authorize a Role to control spending of the Circle's resources.
+*ポリシー*によってこのプロセスを別の何らかの方法に変更することができ、また、ポリシーによって*ロール*に直接*サークル*のリソースの支出をコントロールする承認を与えることも可能です。
 
 ### 2.2 Responsibility of Role-Fillers
+(2.2 ロールに就く人の責任)
 
-When filling a Role, you have the following responsibilities:
+*ロール*に就いるとき、あなたは以下の責任を負います。
 
 #### 2.2.1 Processing Tensions
+(2.2.1 ひずみを処理する責任)
 
-You are responsible for comparing the actual expression of your Role’s Purpose and Accountabilities to your vision for their ideal potential expression, to identify gaps between the two (each gap is a ***“Tension”***). You are then responsible for trying to resolve those Tensions.
+あなたは、*ロール*の*目的*や*責務*の現在の状態と、それらがあるべき理想的な状態との間のギャップ(これらのギャップは***ひずみ(Tension)***と呼ばれます)を比較し、特定する責任があります。さらに、あなたは、それらの*ひずみ*を解決する責任があります。
 
 #### 2.2.2 Processing Purpose & Accountabilities
+(2.2.2 目的と責務を処理する責任)
 
-You are responsible for regularly considering how to enact your Role's Purpose and each Accountability, by defining:
+あなたは、*ロール*の*目的*および各*責務*をどのように処理するか、以下の項目を定義することで定期的に検討する責任があります。
 
-- **(a)** ***“Next-Actions”***, which are useful actions that you could take immediately, at least in the absence of competing priorities; and
-- **(b)** ***“Projects”***, which are specific outcomes that would be useful to work towards, at least in the absence of competing priorities.
+- **(a)** ***ネクストアクション(Nex-Action)***: 優先順位を抜きに考えれば、すぐにでも実行できる有用な行動。
+- **(b)** ***プロジェクト(Project)***: 優先順位を抜きに考えれば、取り組むべきと思われる特定の成果。
 
 #### 2.2.3 Breaking Down Projects
+(2.2.3 プロジェクトを分解する責任)
 
-You are responsible for regularly defining Next-Actions for each of your Role's active Projects.
+あなたは、あなたの*ロール*の進行中の*プロジェクト*ごとに、*ネクストアクション*を定期的に定義する責任があります。
 
 #### 2.2.4 Tracking Projects, Next-Actions, & Tensions
+(2.4.4 プロジェクト、ネクストアクション、ひずみを追跡する責任)
 
-You are responsible for capturing and tracking all Projects and Next-Actions for your Role in written lists. You must also track Tensions you intend to resolve, at least until you process them into Projects or Next-Actions. You are also responsible for regularly reviewing and updating these lists, to maintain them as a trusted source of the Role’s potential work.
+あなたは、あなたの*ロール*のすべての*プロジェクト*と*ネクストアクション*をリストに捉えて追跡する責任があります。また、あなたは、解消しようとする*ひずみ*が、*プロジェクト*または*ネクストアクション*として処理処理されるまで、その*ひずみ*を追跡しなければなりません。さらに、あなたは、これらのリストを定期的に確認および更新することで、*ロール*が行おうとしている仕事の信頼できる情報源として維持する責任もあります。
 
 #### 2.2.5 Prioritizing Your Attention
+(2.2.5 関心事の優先順位付けの責任)
 
-Whenever you have time available to act in a Role, you are responsible for considering the Next-Actions you could take, and executing whichever you believe would add the most value to the Organization. In assessing that, you must integrate any relative prioritizations and Strategies of the Circle holding your Role, as well as any acting upon that Circle itself. If you intend to prioritize in a way that is substantially opposed to these priorities, you must notify the relevant Circle Leads of your intent.
+*ロール*で行動する時間があるときはいつでも、実行できる*ネクストアクション*を検討し、*組織*に最も価値を加えると思われるものを実行する責任があります。その評価をするにあたり、あなたは自分の役割を保持しているサークルの相対的な優先順位付けと*方針*、およびその*サークル*で起きているあらゆる動きを統合しなければなりません。これらの優先順位に実質的に反する方法で優先順位を付ける場合は、関連するサークルリードにその意図を通知しなければなりません。
 
-If the Governance of a Circle includes a deadline specifying when something must be done by, you do not necessarily have to meet that deadline. Instead, you must interpret it as an official Circle prioritization of any actions needed to hit that deadline over any other actions for that Circle. A Circle Lead or another Role or process with the authority to judge Circle priorities may overrule this prioritization.
+*サークル*の*ガバナンス*に、いつまでに何かをすることを指定する期限が含まれている場合、あなたは、必ずしもその期限を守る必要はありません。ただし、あなたは、その期限を期限を守るために必要なすべての行動が、そのサークルにおける他のあらゆる行動よりも優先度が高いという、*サークル*の公式の優先順位付けとして解釈する必要があります。*サークル*における優先順位を判断する権限を持つ*サークルリード*や別の*ロール*、またはプロセスが、この優先順位を無効にすることができます。
 
 ### 2.3 Duties to Other Role-Fillers
+(2.3 他のロールに対する義務)
 
-As a Role Lead, you have the following duties to all others filling Roles in the Organization. These duties only apply when the other party is acting on behalf of one of their own Roles in the Organization, and names that Role on request. 
+あなたは、*ロールリード*として、*組織*の*ロール*に就いている他のすべての人に対して次の義務を負います。これらの義務は、相手が*組織*内で自分が就いている*ロール*のいずれかの代表として行動している場合であって、要求に応じて*ロール*名を名乗った場合にのみ適用されます。
 
 #### 2.3.1 Duty of Transparency
+(2.3.1 透明性の義務)
 
-You have a duty to provide transparency in any of the following areas upon request:
+あなたは、要求に応じて、次のいずれの項目においても透明性を確保する義務があります。
 
-- **(a) Projects & Next-Actions:** You must share any Projects and Next-Actions you are tracking for your Roles.
-- **(b) Relative Priority:** You must share your judgment of the relative priority of any of your Role's Projects or Next-Actions vs. anything else competing for your attention.
-- **(c) Projections:** You must provide a projection of when you expect to complete any of your Role's Projects or Next-Actions. A rough estimate is enough, considering your current context and priorities. Detailed analysis or planning is not required, and this projection is not a commitment in any way. Unless Governance says otherwise, you have no duty to track the projection or follow-up with the recipient if it changes.
-- **(d) Checklist Items:** You must verify completion of any recurring actions that you perform for your Roles or as a Partner of the Organization. If requested, you must continue to share these verifications regularly, until you believe they are no longer useful.
-- **(e) Metrics:** You must share any metrics you collect in your Roles or as a Partner of the Organization. If requested, you must continue to share these metrics regularly, until you determine they are no longer useful.
-- **(f) Progress Updates:** You must share a summary of progress you've made in a Role or towards any of your Role's Projects since the last update you shared. If requested, you must continue to share these updates regularly, until you determine they are no longer useful.
+- **(a) プロジェクトとネクストアクション:** あなたは、あなたの*ロール*が追跡している全ての*プロジェクト*と*ネクストアクション*を共有しなければなりません。
+-**（b）相対的な優先度:** あなたは、あなたの*ロール*の*プロジェクト*または*ネクストアクション*のいずれかと、あなたの注意を惹く他のあらゆるものとの相対的な優先度の判断を共有しなければなりません。
+- **(c) 見積もり:** あなたは、あなたの*ロール*の*プロジェクト*または*ネクストアクション*を完了すると見込まれる時期の見積もりを提供しなければなりません。それは、現在のコンテキストと優先順位を考慮した大まかな見込みで十分です。詳細な分析や計画は必要ありません。また、この見積もりは決して約束ではありません。*ガバナンス*による定めのない限り、見積もりの変更があった場合にそれを追跡する必要はありませんし、見積もりの提供した先に報告しにいく義務もありません。
+- **(d) チェックリスト項目:** あなたは、あなたの*ロール*のため、または*組織の*の*パートナー*として、繰り返し行われる行動が完了しているかを確認する必要があります。これを要求された場合、あなたは、これらの確認事項の共有がもはや有用でないと思うまで、定期的にこれらの確認事項を共有し続けなければなりません。
+- **(e) メトリクス:** あなたは、あなたの*ロール*や、*組織*の*パートナー*として収集した指標を共有しなければなりません。これを要求された場合、あなたは、これらの指標の共有がもはや有用ではないと判断するまで、これらの指標を定期的に共有しなければなりません。
+- **(f) 進捗状況:** あなたは、最後に共有してからあなたの*ロール*で行った行動や、あなたの*ロール*のいずれかの*プロジェクト*のために行った行動の進捗状況の概要を共有しなければなりません。これを要求された場合、あなたは、これらの進捗状況の共有がもはや有用ではないと判断するまで、これらの進捗状況を定期的に共有しなければなりません。
 
 #### 2.3.2 Duty of Processing
+(2.3.2 処理の義務)
 
-You have a duty to promptly process messages and requests, as follows:
+あなたは、以下のように、メッセージと要求を迅速に処理する義務があります。
 
-- **(a) Requests for Processing:** Others may ask you to process the Purpose or any Accountability or Project of a Role you fill. You must then determine and communicate a Next-Action to move it forward, if there are any you could take. If there are not, you must instead share what you’re waiting on before you can take a Next-Action. If the Next-Action or waiting-on you share is part of a broader outcome for your Role to pursue, you must also capture and communicate that as a Project.
-- **(b) Requests for Projects & Next-Actions:** Others may ask you to take on a specific Next-Action or Project in one of your Roles. You must accept and track it if you believe it would make sense to work towards in your Role, at least in the absence of competing priorities. If you don't, then you must either explain your reasoning, or suggest something else that you believe will meet the requester’s goal instead.
-- **(c) Requests to Impact Domain:** Others may ask to impact a Domain controlled by one of your Roles. You must allow the impact if you see no Objections to the request, as defined in Article 3. If you do, you must explain any Objections to the requester.
-- **(d) Requests for Information:** Others may ask you questions or request information. You must respond in good faith with at least brief answers or relevant information that's readily available to you.
+- **(a) 処理の要求:** 他の人は、あなたが就いている*ロール*の*目的*またはいずれかの*責務*や*プロジェクト*の処理を依頼することができます。このとき、あなたは、もし実行できる*ネクストアクション*がある場合、その中から取り組むものを決め、それを伝えなければなりません。もしそれがない場合、*ネクストアクション*を実行できるようになるために、何を待っているのかを代わりに共有しなければなりません。ここで共有する*ネクストアクション*または待っているものが*ロール*が追求するより広範な成果の一部である場合、あなたは、それをプロジェクトとして捉え、伝えなければなりません。
+- **(b) プロジェクトとネクストアクションの要求:** 他の人は、あなたの*ロール*のいずれかで特定の*ネクストアクション*または*プロジェクト*を引き受けるように求めることができます。少なくとも優先順位を抜きに考えたときに*ロール*で取り組むことが理にかなっていると思われる場合は、その要求を受け入れて追跡しなければなりません。そうしない場合は、その理由を説明するか、要求者の目標を達成すると思われる別の何かを提案する必要があります。
+- **(c) ドメインに影響を与える要求:** 他の人は、あなたの*ロール*のいずれかがコントロールしている*領域*に影響を与える許可を求めることができます。あなたは、第3章で定義されているように、要求に対する*反論*が見つからない場合は、影響を許可しなければなりません。もし*反論*がある場合は、要求者に説明しなければなりません。
+<!-- TODO: 第三章で書かれている事を確認 -->
+- **(d) 情報のリクエスト:** 他の人は、あなたに質問したり、情報提供を要求することができます。あなたは、少なくとも簡単な回答やすぐに利用可能な関連情報によって誠実に回答しなければなりません。
 
 #### 2.3.3 Duty of Prioritization
+(2.3.2 優先の義務)
 
 You have a duty to prioritize your attention in alignment with the following:
+あなたは、以下にしたがって、あなたの関心事の優先度を決める義務があります。
 
-- **(a) Processing Over Execution:** You must generally prioritize processing inbound messages from other Roles over executing your own Next-Actions. However, you may delay processing messages until you can batch process at a convenient time, as long as your processing is still prompt. Processing includes engaging in any duties in this section, and then sharing how you processed the message upon request. Processing does not include executing upon any Next-Actions or Projects you capture.
-- **(b) Meetings Over Execution:** You must prioritize attending any meeting defined in this Constitution over executing your own Next-Actions, but only if this prioritization was explicitly requested for a specific meeting. You may still decline the request if you already have plans scheduled over the meeting time.
+- **(a) 処理は実行よりも優先する:** あなたは、あなたの*ネクストアクション*の実行よりも、他の*ロール*からのメッセージの処理を優先しなければなりません。ただし、処理時間が十分に迅速である範囲において、都合の良い時間にまとめて処理できるまでメッセージの処理を遅らせることはできます。メッセージの処理には、この節で挙げられているあらゆるの義務に従い、要求に応じてメッセージをどのように処理したか共有することも含まれます。メッセージの処理には、捉えた*ネクストアクション*または*プロジェクト*の実行は含まれません。
+- **(b) ミーティングは実行よりも優先する:** あなたは、あなたの*ネクストアクション*の実行よりも、この*憲法*で定義されたミーティングへの参加を優先しなければなりません。ただし、これは特定の会議でこの優先度が明示的に要求された場合に限ります。さらに、会議の時間に既に予定がある場合には、その要求を拒否できます。
 
 ### 2.4 Tactical Meetings
+(2.4 タクティカルミーティング)
 
-In service of a Role, any Partner may convene a ***“Tactical Meeting”*** to engage other Roles in their responsibilities and duties.
+*ロール*として、任意の*パートナー*は、***タクティカルミーティング***を招集し、他の*ロール*の責任と義務を果たさせることができます。
 
 #### 2.4.1 Attendance
+(2.4.1 参加者)
 
-The Partner convening a Tactical Meeting must name the Roles desired in that meeting. All Role Leads of those Roles are then invited to attend, unless the convener narrows the invite to include only a subset of Role Leads for a Role. The convener may choose the Facilitator of any relevant Circle to run the meeting.
+*タクティカルミーティング*を招集する*パートナー*は、そのミーティングに参加することが望ましい*ロール*を選ばなければなりません。その後、これらの*ロール*のすべての*ロールリード*が出席に招待されます(招集者が*ロール*の*ロールリード*の一部のみを招待する場合を除く)。招集者は、会議を進行する*ファシリテーター*を、関連するいずれかの*サークル*から選ぶことができます。
 
 #### 2.4.2 Facilitation & Process
+(2.4.1 ファシリテーションとプロセス)
 
-Unless a Policy says otherwise, anyone facilitating a Tactical Meeting must use the following process:
+*ポリシー*による別段の指示がない限り、*タクティカルミーティング*を進行する人は次のプロセスを使用しなければなりません。
 
-- **(a) Check-in Round:** Each participant in turn shares their current state, or offers another opening comment for the meeting. Responses are not allowed.
-- **(b) Checklist Review:** Each participant verifies completion of any recurring actions that they are regularly reporting on for their Roles in the meeting.
-- **(c) Metrics Review:** Each participant shares any metrics that they are regularly reporting on for their Roles in the meeting.
-- **(d) Progress Updates:** Each participant highlights progress in any Role or Project that they are regularly reporting on for their Roles in the meeting. Participants may only share progress made since a prior report, and not the general status of any work.
-- **(e) Build Agenda:** The Facilitator builds an agenda of Tensions to process by soliciting agenda items from all participants. The Facilitator must do this in the meeting and not beforehand. Each participant may add as many agenda items as desired by providing a short label for each, with no explanation or discussion allowed. Participants may add more agenda items after this step, between the processing of any existing agenda items.
-- **(f) Triage Tensions:** To process each agenda item, the agenda item owner may make requests of the other participants. However, the agenda item owner may only make requests to serve a Role they were invited to represent in the meeting. Further, each participant only has duties that come from Roles they were invited to represent in the meeting, or that exist regardless of the Roles they fill. The Facilitator manages the time allowed for each agenda item to allow space for processing every item on the agenda. To that end, the Facilitator may cut off the processing of any item after its due share of the meeting time.
-- **(g) Closing Round:** Each participant in turn shares a closing reflection on the meeting. Responses are not allowed.
+- **(a) チェックインラウンド:** 各参加者は、順番に自分の状況を共有したり会議の開始に際してコメントをしたりします。これに対する応答は許可されていません。
+- **(b) チェックリストレビュー:** 各参加者は、ミーティングに参加している*ロール*に関して定期的に報告している、繰り返し行われる行動が完了しているかを確認します。
+- **(c) メトリクスレビュー:** 各参加者は、ミーティングに参加している*ロール*に関して定期的に報告しているメトリクスを共有します。
+- **(d) 進捗の更新:** 各参加者は、会議に参加している*ロール*に関して定期的に報告している、*ロール*または*プロジェクト*の進捗状況の概要を示します。参加者は、以前の報告以降に行われた進捗のみを共有し、作業の一般的な状況の共有をしてはいけません。
+- **(e) アジェンダ構築:** *ファシリテーター*は、すべての参加者からアジェンダアイテムを求めることにより、処理すべき*ひずみ*のアジェンダを作成します。*ファシリテーター*は、事前にではなく、会議中にこれを行わなければなりません。各参加者は、望む数のアジェンダを、それぞれに短いラベルをつけることで追加できますが、ここでは説明や議論は許されません。参加者は、この手順の後も、既存のアジェンダアイテムの処理中に、さらに議題項目を追加できます。
+- **(f) ひずみのトリアージ:** 各アジェンダアイテムを処理するために、アジェンダアイテムの提案者は他の参加者に要求を行うことができます。ただし、アジェンダアイテムの提案者は、会議に代表として招集された*ロール*としてのみ要求を行うことができます。さらに、各参加者には、会議に代表として招集された*ロール*に関する義務、または*ロール*とは無関係に存在する義務のみを負います。*ファシリテーター*は、各アジェンダアイテムに許可されている時間を管理し、アジェンダのすべてのアイテムを処理するための時間を確保します。そのために、*ファシリテーター*は、割り当てられた時間の後、アイテムの処理をいつでも中断することができます。
+- **(g) クロージングラウンド:** 各参加者は、順番に会議の振り返りを共有します。これに対する応答は許可されていません。
 
-A Policy of a Circle may specify an alternate process or amend this default process for Tactical Meetings called by any of the Circle's Roles.
+*サークル*の*ポリシー*により、その*サークル*のいずれかの*ロール*が招致する*タクティカルミーティング*に対し、この既定のプロセスの代わりのわりのプロセスを指定したり、修正したりすることができます。
+
 
 #### 2.4.3 Surrogate for Absent Members
+(2.4.3 不在メンバーの代理)
 
-If an unelected Role invited to a Tactical Meeting is unrepresented in the meeting for any reason, a Circle Lead of that Role's Super-Circle may instead represent the Role during the meeting.
+*タクティカルミーティング*に招待された選出ロールでない*ロール*が、何らかの理由でミーティング中の代表者が居ない場合、代わりに、その*ロール*の*親サークル*の*サークルリード*はミーティング間その*ロール*を代表することができます。
 
 ### 2.5 Individual Initiative
 
-As a Partner of the Organization, in some cases you are authorized to act beyond the authority of your Roles, or break the rules of this Constitution. By acting under this extended authority you are taking ***“Individual Initiative”***, and you are bound by the following rules:
+*組織*の*パートナー*として、あなたは、場合によっては*ロール*の権限を超えて行動したり、この*憲法*の規則に違反したりすることが許容されます。
+この拡張された権限の下で行動することは、***個人イニシアティブ(Individual Initiative)***を発動することであり、以下のルールに従うことになります。
 
 #### 2.5.1 Allowed Situations
+(2.5.1 許容される状況)
 
-You may only take Individual Initiative when all of the following are true:
+あなたは、次のすべての項目に該当する場合にのみ、*個人イニシアティブ*を発動できます。
 
-- **(a)** You are acting in good faith to serve the Purpose or express the Accountabilities of some Role within the Organization.
-- **(b)** You believe your action would resolve or prevent more Tension for the Organization than it would likely create.
-- **(c)** Your action would not commit the Organization to any spending beyond what you’re already authorized to spend.
-- **(d)** If your action would violate any Policies or Domains, you believe much value would be lost from delaying to get permission or change Governance.
+- **(a)** *組織*内の*ロール*の*目的*に資するか、*責務*を体現するために誠実に行動していること。
+- **(b)** あなたは、あなたの行動が作り出す可能性のある*組織*の*ひずみ*よりも、多くの*ひずみ*を解決または防止すると確信していること。
+- **(c)** あなたの行動は、あなたがすでに支出することを許可されている金額を超えて、*組織*に支出させることがないこと。
+- **(d)** あなたの行動が*ポリシー*または*領域*に違反する場合、許可の発動や*ガバナンス*の変更を待っている間に多くの価値が失われてしまうだろうと確信していること。
 
 #### 2.5.2 Communication & Restoration
+(2.5.2 コミュニケーションと復旧)
 
-Upon taking Individual Initiative, you must explain your action to any Role Leads who may be significantly affected. Upon request of any such Role Lead, you must take further actions to help resolve any Tensions created by your Individual Initiative. You must also refrain from taking similar Individual Initiative upon request of any such Role Lead.
-
-You must prioritize the communication and restoration required by this section over your regular work. However, a Circle Lead of a Circle that contains all Roles affected by your action may change this default priority.
+*個人イニシアティブ*を発動したら、あなたは重大な影響を受ける可能性のある*ロールリード*にあなたの行動を説明する必要があります。影響を受ける*ロールリード*の要求に応じて、あなたは*個人イニシアティブ*によって生じた*ひずみ*を解決するための行動をさらに行わなければなりません。また、影響を受ける*ロールリード*の要求に応じて、あなたは似たような*個人イニシアティブ*を発動することも控えなければなりません。
+あなたは、通常の作業よりも、この節で必要とされるコミュニケーションと復旧を優先しなければなりません。ただし、行動の影響を受けるすべての*ロール*を含む*サークル*の*サークルリード*は、この既定の優先順位を変更することができます。
 
 
 ## Article 3: Governance
