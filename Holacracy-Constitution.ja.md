@@ -39,7 +39,7 @@
 *ロール*の割り当てを行う人は特定の分野やコンテキストのみにフォーカスして割り当てを行うことができます。ただし、*ロール*定義のすべての項目がそのフォーカスに関連している必要があります。フォーカスが用いられる場合、各割り当てのフォーカスは完全に独立した*ロール*のように扱われ、*ロール*の*目的*、*責務*、および*領域*は、各割り当てに指定されたフォーカス内でのみ適用されます。
 
 #### 1.2.3 Resigning from Roles
-(1.2.3: ロールの辞任)
+(1.2.3 ロールの辞任)
 
 *パートナー*は、別段の合意がない限り、いつでも*ロール*の割り当てを辞退したり、*ロール*から辞任することができます。
 
@@ -259,7 +259,6 @@
 #### 2.3.3 Duty of Prioritization
 (2.3.2 優先の義務)
 
-You have a duty to prioritize your attention in alignment with the following:
 あなたは、以下にしたがって、あなたの関心事の優先度を決める義務があります。
 
 - **(a) 処理は実行よりも優先する:** あなたは、あなたの*ネクストアクション*の実行よりも、他の*ロール*からのメッセージの処理を優先しなければなりません。ただし、処理時間が十分に迅速である範囲において、都合の良い時間にまとめて処理できるまでメッセージの処理を遅らせることはできます。メッセージの処理には、この節で挙げられているあらゆるの義務に従い、要求に応じてメッセージをどのように処理したか共有することも含まれます。メッセージの処理には、捉えた*ネクストアクション*または*プロジェクト*の実行は含まれません。
@@ -285,7 +284,7 @@ You have a duty to prioritize your attention in alignment with the following:
 - **(c) メトリクスレビュー:** 各参加者は、ミーティングに参加している*ロール*に関して定期的に報告しているメトリクスを共有します。
 - **(d) 進捗の更新:** 各参加者は、会議に参加している*ロール*に関して定期的に報告している、*ロール*または*プロジェクト*の進捗状況の概要を示します。参加者は、以前の報告以降に行われた進捗のみを共有し、作業の一般的な状況の共有をしてはいけません。
 - **(e) アジェンダ構築:** *ファシリテーター*は、すべての参加者からアジェンダアイテムを募集して処理する*ひずみ*のアジェンダを作成します。*ファシリテーター*は、事前にではなく、会議中にこれを行わなければなりません。各参加者は、望む数のアジェンダを、それぞれに短いラベルをつけることで追加できますが、ここでは説明や議論は許されません。参加者は、この手順の後も、既存のアジェンダアイテムの処理中に、さらにアジェンダアイテムを追加できます。
-- **(f) ひずみのトリアージ:** 各アジェンダアイテムを処理するために、アジェンダアイテムの所有者は他の参加者に要求を行うことができます。ただし、アジェンダアイテムの所有者は、会議に代表として招集された*ロール*としてのみ要求を行うことができます。さらに、各参加者には、会議に代表として招集された*ロール*に関する義務、または*ロール*とは無関係に存在する義務のみを負います。*ファシリテーター*は、各アジェンダアイテムに許可されている時間を管理し、アジェンダのすべてのアイテムを処理するための時間を確保します。そのために、*ファシリテーター*は、割り当てられた時間の後、アイテムの処理をいつでも中断することができます。
+- **(f) ひずみのトリアージ:** 各アジェンダアイテムを処理するために、アジェンダアイテムの所有者は他の参加者に要求を行うことができます。ただし、アジェンダアイテムの所有者は、会議に代表として招集された*ロール*に供する要求のみを行うことができます。さらに、各参加者には、会議に代表として招集された*ロール*に関する義務、または*ロール*とは無関係に存在する義務のみを負います。*ファシリテーター*は、各アジェンダアイテムに許可されている時間を管理し、アジェンダのすべてのアイテムを処理するための時間を確保します。そのために、*ファシリテーター*は、割り当てられた時間の後、アイテムの処理をいつでも中断することができます。
 - **(g) クロージングラウンド:** 各参加者は、順番に会議の振り返りを共有します。これに対する応答は許可されていません。
 
 *サークル*の*ポリシー*により、その*サークル*のいずれかの*ロール*が招致する*タクティカルミーティング*に対し、この既定のプロセスの代わりのわりのプロセスを指定したり、修正したりすることができます。
@@ -306,7 +305,7 @@ You have a duty to prioritize your attention in alignment with the following:
 
 あなたは、次のすべての項目に該当する場合にのみ、*個人イニシアティブ*を発動できます。
 
-- **(a)** *組織*内の*ロール*の*目的*に資するか、*責務*を体現するために誠実に行動していること。
+- **(a)** *組織*内の*ロール*の*目的*に供するか、*責務*を体現するために誠実に行動していること。
 - **(b)** あなたは、あなたの行動が作り出す可能性のある*組織*の*ひずみ*よりも、多くの*ひずみ*を解決または防止すると確信していること。
 - **(c)** あなたの行動は、あなたがすでに支出することを許可されている金額を超えて、*組織*に支出させることがないこと。
 - **(d)** あなたの行動が*ポリシー*または*領域*に違反する場合、許可の発動や*ガバナンス*の変更を待っている間に多くの価値が失われてしまうだろうと確信していること。
@@ -324,7 +323,6 @@ You have a duty to prioritize your attention in alignment with the following:
 ### 3.1 Scope of Governance
 (3.1 ガバナンスの範囲)
 
-Within a Circle's Governance Process, the Circle may:
 *サークル*の*ガバナンスプロセス*により、*サークル*は以下ことを実行できます。
 
 - **(a)** 保有する*ロール*を定義、修正、または削除すること。
@@ -337,7 +335,6 @@ Within a Circle's Governance Process, the Circle may:
 
 #### 3.1.1 Scope of Policy
 
-<!--A Policy may only be one or more of the following:-->
 *ポリシー*は、次のいずれか1つまたはそれらの組み合わせに限られます。
 
 - **(a)** *サークル*に含まれる1つまたは複数の*ロール*の権限に対する制約。
@@ -533,22 +530,26 @@ Within a Circle's Governance Process, the Circle may:
 ある*サークル*内の*プロセス障害*は、自動的に*親サークル*の*プロセス障害*でもあるとはみなされません。ただし、それが合理的な時間を掛けても依然解決されない場合、*親サークル*でも*プロセス障害*が発生しているとみなされます。
 
 ## Article 4: People & Partnership
+(第4章: 人々とパートナーシップ)
 
 ### 4.1 Partner Relationships
+(4.1 パートナー関係)
 
-The Organization may grant Partner status to anyone who has agreed to abide by this Constitution while working on its behalf. This creates a ***“Partner Relationship”*** between that person and the Organization. Any promises either party makes to the other in conjunction with the grant of Partner status are part of that Partner Relationship. Unless otherwise agreed, each party needs the other's consent to change these agreements. However, either party may still end the Partner Relationship without the consent of the other. Doing so immediately ends that person's rights and responsibilities as a Partner.
+*組織*は、この*憲法*を順守することに同意したすべての人に*パートナー*の地位を付与することができます。これにより、その人と*組織*の間に***パートナー関係(Partner Relationship)***が成立します。*パートナー*の地位の付与に際して、一方の当事者が他方に対して行う約束は、その*パートナー関係*の一部です。別段の合意がない限り、各当事者は、これらの協定を変更するために相手の同意を必要とします。ただし、どちらの当事者も、他方の同意なしに*パートナー関係*を終了することができます。そうすることで、*パートナー*としてのその人の権利と責任は直ちに終了します。
 
 ### 4.2 Working Agreements
+（4.2 労働契約）
 
-The Organization's Partners may make ***“Working Agreements”*** with each other. These are agreements about how the Partners will relate together or fulfill their general functions as Partners. They must focus on shaping behaviors that generally underpin work. They may not set expectations of work to do in a Role, nor expectations about how a Partner will prioritize across different Roles. Further, they may only specify concrete acts to do or behavioral constraints to honor. They may not include promises to achieve specific outcomes or embody abstract qualities.
+*組織*の*パートナー*は、お互いに ***ワーキングアグリーメント(Working Agreement)*** を結ぶことができます。これらは、*パートナー*がどのように関連したり、*パートナー*としての一般的な機能を果たすかについての協定です。この協定は、一般に仕事を支える振る舞いを具体化することに焦点を合わせなければなりません。この協定は、*ロール*の中で行うべき仕事への期待も、異なる*ロール*における*パートナー*の優先順位付けについての期待も設定することはできません。さらに、この協定は、具体的な行為や、行動の制約のみを指定することができます。この協定は、特定の成果の達成や、抽象的な性質の体現に関する約束を含んではいけません。
 
-As a Partner, you may request a Working Agreement of another Partner for your own personal preferences or to serve a Role you fill. That Partner may accept or reject the requested Working Agreement based on their own personal preferences. Either party may later terminate the agreement without the consent of the other party, unless otherwise agreed.
+*パートナー*として、あなたは、自身の個人的な好みのために、またはあなたが就いている*ロール*に供するために、別の*パートナー*に*ワーキングアグリーメント*の締結を要求することができます。その*パートナー*は、自身の個人的な好みに基づいて、要求された*ワーキングアグリーメント*を受け入れるか拒否することができます。別段の合意がない限り、いずれかの当事者は相手方の同意なしに後からこの協定を終了することができます。
 
-As a Partner, you have a duty to align your behavior with any Working Agreements you have made. A Facilitator may also enforce Working Agreements while facilitating meetings, as long as they don't conflict with the processes and rules in this Constitution.
+*パートナー*として、あなたは自分の行動を自分が作成した*ワーキングアグリーメント*に従う義務があります。*ファシリテーター*は、会議を進行しているとき、この*憲法*のプロセスやルールと矛盾しない限り、*ワーキングアグリーメント*を強制することもできます。
 
 ### 4.3 Power Shift
+(4.3 権限委譲)
 
-All of your responsibilities and constraints as a Partner of the Organization come from this Constitution and the Governance and Working Agreements it empowers, or from your legal duties to the Organization or while acting on its behalf. No implicit expectations or constraints carry any weight or authority. Nor do any dictates issued under the Organization's old power structure before it adopted this Constitution. As a Partner, you may rely upon the authorities granted by this Constitution to the full extent the Ratifiers held such authorities before adopting it.
+*組織*の*パートナー*としてのあなたの責任と制約は、この*憲法*およびそれが権限を与える*ガバナンス*および*ワーキングアグリーメント*から、または*組織*またはその代表として振る舞う際のあなたの法的義務からのみ発生します。暗黙の期待や制約に一切の重みや権威はありません。この*憲法*を採用する前の*組織*の古い権力構造の下で発令された命令もまた同様です。あなたは、*パートナー*として、*憲法*によって許可された権限について、*批准者*が*憲法*を採用する前にそのような権限を保有していた限りにおいて完全に、その権限に依拠することができます。
 
 ---
 
