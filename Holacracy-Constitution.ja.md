@@ -21,7 +21,7 @@
 - **(b)** 1つまたは複数の ***領域(Domain)***: *ロール*がその*目的*のために、排他的にコントロールし、所有物として規制する資産、プロセス、またはその他のもの。
 - **(c)** 1つまたは複数の ***責務(Accountability)***: *ロール*が管理し、他の*ロール*を補助するため、または自身の*目的*をサポートするために、継続的に行われる活動。
 
-*ロール*は、さらにいくつかの ***ポリシー(Policy)*** を含む場合があります。これは、権限の付与や制限、またはその*ロール*内のオペレーションに適用される特別なルールです。
+*ロール*は、さらにいくつかの ***ポリシー(Policy)*** を含む場合があります。これは、権限の付与や制限、またはその*ロール*内のオペレーションに採用される特別なルールです。
 
 ### 1.2 Role Assignment
 (1.2 ロールへの割り当て)
@@ -115,11 +115,11 @@
 #### 1.5.1 Circle Reps
 (1.5.1 サークルレップ)
 
-*サークル*の*サークルメンバー*は、それを含むより広い*サークル*においてその*サークル*を代表する***サークルレップ(Circle Rep)***の選出を要求できます。選出された*サークルレップ*は、*サークル*において、付録Aで定義された*サークルレップロール*を埋めます。
+*サークル*の*サークルメンバー*は、それを含むより広い*サークル*においてその*サークル*を代表する***サークルレップ(Circle Rep)***の選挙を要求できます。選出された*サークルレップ*は、*サークル*において、付録Aで定義された*サークルレップロール*を埋めます。
 
 *サークルレップ*は、*ロール*としての*サークル*を含むより広い全ての*サークル*の*サークルメンバー*となり、*ロールリード*と同様に*ロール*を代表する権限を持ちます。これらのより広い*サークル*は、*ポリシー*によって*サークルレップ*が*サークルメンバー*になるのを制限または阻止できますが、これは、内側の*サークル*の*ロール*が外側の*サークル*において、*サークルレップ*と同等の代理手段をもつ場合のみ許されます。
 
-*サークル*の選出は、*ポリシー*により代替プロセスが定義されていない限り、第3章で定義されている選出のプロセスとルールによって行われます。*サークル*の*サークルレップ*としての資格がある候補者は、*サークル*内の*ロール*に就いている*パートナー*のみです。*サークル*の*サークルリード*の役割をもつ人は、同時に*サークルレップ*の役割をもつことはできません。その*サークル*を含む*サークル*の*ポリシー*で許可されていない限り、*サークル*の*サークルレップ*の役割を同時にもつことができるのは1人だけです。
+*サークル*の選挙は、*ポリシー*により代替プロセスが定義されていない限り、第3章で定義されている選挙のプロセスとルールによって行われます。*サークル*の*サークルレップ*としての適格な候補者は、*サークル*内の*ロール*に就いている*パートナー*のみです。*サークル*の*サークルリード*の役割をもつ人は、同時に*サークルレップ*の役割をもつことはできません。その*サークル*を含む*サークル*の*ポリシー*で許可されていない限り、*サークル*の*サークルレップ*の役割を同時にもつことができるのは1人だけです。
 
 *サークル*は、その*サークルレップロール*に*責務*または*領域*を追加したり、追加されたそれらを修正または削除することができます。しかし、*サークル*は、*サークルレップロール*の元からある*目的*や*責務*を修正または削除することはできず、また*ロール*自体を削除することもできません。
 
@@ -130,15 +130,15 @@
 
 
 #### 1.6.1 Elections & Eligibility
-(1.6.1 選出と非選出権)
+(1.6.1 選挙と被選挙権)
 
 
-*サークルメンバー*の要求に応じて、*サークル*の*ファシリテーター*は、*ファシリテーター*または*セクレタリーロール*に就く人を選ぶための選出を行います。いかなる*ロール*や*ポリシー*も、この方法以外でこれらの*ロール*に人を割り当てたり、割り当てを削除したり、このプロセスを変更したりすることはできません。これらの*ロール*に選出される資格がある候補者は、通常、*サークル*の*サークルメンバー*だけです。ただし、*サークル*または*親サークル*は、*ポリシー*により、資格がある候補者を追加または制限することができます。
+*サークルメンバー*の要求に応じて、*サークル*の*ファシリテーター*は、*ファシリテーター*または*セクレタリーロール*に就く人を選ぶための選挙を行います。いかなる*ロール*や*ポリシー*も、この方法以外でこれらの*ロール*に人を割り当てたり、割り当てを削除したり、このプロセスを変更したりすることはできません。これらの*ロール*に選出される適格な候補者は、通常、*サークル*の*サークルメンバー*だけです。ただし、*サークル*または*親サークル*は、*ポリシー*により、適格な候補者を追加または制限することができます。
 
 #### 1.6.2 Election Term
-(1.6.2 選出期間)
+(1.6.2 選挙の任期)
 
-選出プロセスの中で、*ファシリテーター*は各選出の任期を指定しなければなりません。任期が切れた後、*セクレタリー*はその*ロール*の新しい選出を開始しなければなりません。任期が切れる前であっても、任意の*サークルメンバー*はいつでも新しい選出を開始できます。
+選挙プロセスの中で、*ファシリテーター*は各選挙の任期を指定しなければなりません。任期が切れた後、*セクレタリー*はその*ロール*の新しい選挙を開始しなければなりません。任期が切れる前であっても、任意の*サークルメンバー*はいつでも新しい選挙を開始できます。
 
 #### 1.6.3 Amending Facilitator or Secretary
 (1.6.3 ファシリテーターとセクレタリーの修正)
@@ -284,8 +284,8 @@ You have a duty to prioritize your attention in alignment with the following:
 - **(b) チェックリストレビュー:** 各参加者は、ミーティングに参加している*ロール*に関して定期的に報告している、繰り返し行われる行動が完了しているかを確認します。
 - **(c) メトリクスレビュー:** 各参加者は、ミーティングに参加している*ロール*に関して定期的に報告しているメトリクスを共有します。
 - **(d) 進捗の更新:** 各参加者は、会議に参加している*ロール*に関して定期的に報告している、*ロール*または*プロジェクト*の進捗状況の概要を示します。参加者は、以前の報告以降に行われた進捗のみを共有し、作業の一般的な状況の共有をしてはいけません。
-- **(e) アジェンダ構築:** *ファシリテーター*は、すべての参加者からアジェンダアイテムを求めることにより、処理すべき*ひずみ*のアジェンダを作成します。*ファシリテーター*は、事前にではなく、会議中にこれを行わなければなりません。各参加者は、望む数のアジェンダを、それぞれに短いラベルをつけることで追加できますが、ここでは説明や議論は許されません。参加者は、この手順の後も、既存のアジェンダアイテムの処理中に、さらに議題項目を追加できます。
-- **(f) ひずみのトリアージ:** 各アジェンダアイテムを処理するために、アジェンダアイテムの提案者は他の参加者に要求を行うことができます。ただし、アジェンダアイテムの提案者は、会議に代表として招集された*ロール*としてのみ要求を行うことができます。さらに、各参加者には、会議に代表として招集された*ロール*に関する義務、または*ロール*とは無関係に存在する義務のみを負います。*ファシリテーター*は、各アジェンダアイテムに許可されている時間を管理し、アジェンダのすべてのアイテムを処理するための時間を確保します。そのために、*ファシリテーター*は、割り当てられた時間の後、アイテムの処理をいつでも中断することができます。
+- **(e) アジェンダ構築:** *ファシリテーター*は、すべての参加者からアジェンダアイテムを募集して処理する*ひずみ*のアジェンダを作成します。*ファシリテーター*は、事前にではなく、会議中にこれを行わなければなりません。各参加者は、望む数のアジェンダを、それぞれに短いラベルをつけることで追加できますが、ここでは説明や議論は許されません。参加者は、この手順の後も、既存のアジェンダアイテムの処理中に、さらにアジェンダアイテムを追加できます。
+- **(f) ひずみのトリアージ:** 各アジェンダアイテムを処理するために、アジェンダアイテムの所有者は他の参加者に要求を行うことができます。ただし、アジェンダアイテムの所有者は、会議に代表として招集された*ロール*としてのみ要求を行うことができます。さらに、各参加者には、会議に代表として招集された*ロール*に関する義務、または*ロール*とは無関係に存在する義務のみを負います。*ファシリテーター*は、各アジェンダアイテムに許可されている時間を管理し、アジェンダのすべてのアイテムを処理するための時間を確保します。そのために、*ファシリテーター*は、割り当てられた時間の後、アイテムの処理をいつでも中断することができます。
 - **(g) クロージングラウンド:** 各参加者は、順番に会議の振り返りを共有します。これに対する応答は許可されていません。
 
 *サークル*の*ポリシー*により、その*サークル*のいずれかの*ロール*が招致する*タクティカルミーティング*に対し、この既定のプロセスの代わりのわりのプロセスを指定したり、修正したりすることができます。
@@ -294,11 +294,11 @@ You have a duty to prioritize your attention in alignment with the following:
 #### 2.4.3 Surrogate for Absent Members
 (2.4.3 不在メンバーの代理)
 
-*タクティカルミーティング*に招待された選出ロールでない*ロール*が、何らかの理由でミーティング中の代表者が居ない場合、代わりに、その*ロール*の*親サークル*の*サークルリード*はミーティング間その*ロール*を代表することができます。
+*タクティカルミーティング*に招待された選出されたロールでない*ロール*が、何らかの理由でミーティング中の代表者が居ない場合、代わりに、その*ロール*の*親サークル*の*サークルリード*はミーティング間その*ロール*を代表することができます。
 
 ### 2.5 Individual Initiative
 
-*組織*の*パートナー*として、あなたは、場合によっては*ロール*の権限を超えて行動したり、この*憲法*の規則に違反したりすることが許容されます。
+*組織*の*パートナー*として、あなたは、いくつかの場合において、*ロール*の権限を超えて行動したり、この*憲法*の規則に違反したりする権限が与えられます。
 この拡張された権限の下で行動することは、 ***個人イニシアティブ(Individual Initiative)*** を発動することであり、以下のルールに従うことになります。
 
 #### 2.5.1 Allowed Situations
@@ -319,189 +319,218 @@ You have a duty to prioritize your attention in alignment with the following:
 
 
 ## Article 3: Governance
+(第3章: ガバナンス)
 
 ### 3.1 Scope of Governance
+(3.1 ガバナンスの範囲)
 
 Within a Circle's Governance Process, the Circle may:
+*サークル*の*ガバナンスプロセス*により、*サークル*は以下ことを実行できます。
 
-- **(a)** define, amend, or remove its own Roles; and
-- **(b)** define, amend, or remove its own Policies; and
-- **(c)** move its own Roles or Policies into a Sub-Circle or any Sub-Circle thereof, but only if they enact the Purpose or Accountabilities of that Circle; and
-- **(d)** move Roles or Policies from within a Sub-Circle or any Sub-Circle thereof out into itself, but only if they are no longer relevant to enacting the Purpose or Accountabilities of that Circle; and
-- **(e)** hold elections for any elected Role within the Circle.
+- **(a)** 保有する*ロール*を定義、修正、または削除すること。
+- **(b)** 保有する*ポリシー*を定義、修正、または削除すること。
+- **(c)** 保有する*ロール*または*ポリシー*を、*子サークル*やそのさらに*子サークル*へと移動すること。ただし、これはその*ロール*や*ポリシー*が*子サークル*の*目的*または*責務*を規定する場合に限られます。
+-**（d）** *ロール*または*ポリシー*を、*子サークル*やそのさらに*子サークル*から、この*サークル*自体に移動すること。ただし、これはその*ロール*や*ポリシー*が*子サークル*の*目的*または*責務*の制定に関連しなくなった場合に限られます。
+- **(e)** *サークル*内で選出される*ロール*の選挙の実施。
 
-No other decisions are valid outputs from a Circle's Governance Process.
+上記以外の決定は*サークル*の*ガバナンスプロセス*の有効な成果物ではありません。
 
 #### 3.1.1 Scope of Policy
 
-A Policy may only be one or more of the following:
+<!--A Policy may only be one or more of the following:-->
+*ポリシー*は、次のいずれか1つまたはそれらの組み合わせに限られます。
 
-- **(a)** a constraint on the authority of one or more of the Circle's contained Roles; or
-- **(b)** a grant of an authority the Circle or Circle Lead holds to one or more Roles; or
-- **(c)** a grant of authority that allows people or Roles not otherwise authorized to control or impact one of the Circle's Domains, or a constraint on how they may do so when otherwise authorized; or
-- **(d)** a rule that changes a default rule or process in this Constitution, if that change is explicitly allowed.
+- **(a)** *サークル*に含まれる1つまたは複数の*ロール*の権限に対する制約。
+- **(b)** 1つまたは複数の*ロール*に対する、*サークル*または*サークルリード*が保有している権限の付与。
+- **(c)** 人々または*ロール*に対し、*サークル*のいずれかの*領域*をコントロールしたり影響を与える権限が無い場合には、それらの権限の付与。または、権限がある場合にはその方法の制約。
+- **(d)** 変更することが明示的に許可されている場合、この*憲法*の既定のルールやプロセスを変更するルール。
 
-A Policy that grants or constrains authority applies in all Sub-Circles as well, recursively, unless otherwise stated. A Policy that changes a default rule or process in the Constitution applies only within the Circle that holds the Policy, or, if explicitly stated, within all Sub-Circles as well, recursively. In the latter case, a Sub-Circle may still override that Policy via one of its own, unless explicitly forbidden in the original Policy.
+特に明記しない限り、権限を付与または制限する*ポリシー*は、すべての*子サークル*にも再帰的に適用されます。
+*憲法*の既定のルールまたはプロセスを変更する*ポリシー*は、特に明記しない限りは*ポリシー*を保有する*サークル*にのみ適用され、明示的に指定されている場合はすべての*子サークル*でも再帰的に適用されます。
+後者の場合、元の*ポリシー*で明示的に禁止されていない限り、*子サークル*は自身の*ポリシー*により、元の*ポリシー*を上書きできます。
 
 ### 3.2 Changing Governance
+(3.2 ガバナンスの変更)
 
-Any Circle Member of a Circle may propose changing its Governance. The ***“Proposer”*** may do this by circulating a ***“Proposal”*** to all other Circle Members. Those other Circle Members must then have the opportunity to raise concerns about adopting the Proposal. Each concern is an ***“Objection”*** if it meets the criteria herein, and the person who raised it is the ***“Objector”***. When making Proposals or raising Objections, a Circle Member may only represent the Roles in the Circle that they either fill as Role Lead or represent as Circle Rep. A Circle Member may also represent a Role that they have permission to temporarily represent from one of its Role Leads, until that permission expires or is withdrawn.
+*サークル*のすべての*サークルメンバー*は、*ガバナンス*の変更を提案できます。これは、 ***提案者(Proposer)*** が ***提案(Proposal)*** を他のすべての*サークルメンバー*に公布することにより、行うことができます。そのとき、他の*サークルメンバー*は、*提案*の採択に対して懸念を表明する機会が与えられなければなりません。この章で定義された基準を満たしている場合、これらの懸念は ***反論(Objection)*** であり、それを提起した人物は ***反論者(Objector)*** です。*提案*または*反論*を作成するとき、*サークルメンバー*は、*サークル*内の、*ロールリード*として就いているか*サークルレップ*として代表している*ロール*のみを代表して行わなければなりません。
+また、*サークルメンバー*は、*ロールリード*のいずれかから一時的に代表することを許可された場合、その許可が期限切れになるか取り消されるまで、その*ロール*を代表することも許されます。
 
-If no Objections are raised to a Proposal, it is adopted and amends the Circle's Governance. If Objections are raised, the Proposer and each Objector must find a way to address the Objections before the Circle adopts the Proposal. After any such effort, all Circle Members must then be given an opportunity to raise Objections again.
+*提案*に対して*反論*が提起されない場合、それは採択され、*サークル*の*ガバナンス*が修正されます。*反論*が提起された場合、*提案者*と各*反論者*は、*サークル*が*提案*を採択する前に*反論*に対処する方法を見つけなければなりません。このような努力が行われた後、再度すべての*サークルメンバー*に*反論*を提起する機会が与えられなければなりません。
 
 #### 3.2.1 Criteria for Valid Proposals
+(3.2.1 有効な提案の基準)
 
-For a Proposal to be valid, the Proposer must be able to:
+*提案*を有効にするには、*提案者*は以下のすべての項目を満たさなければなりません。
 
-- **(a)** describe a Tension that the Proposal would address for one of the Proposer's Roles; and
-- **(b)** share an example of an actual past or present situation illustrating that Tension; and
-- **(c)** give a reasonable explanation of how the Proposal would have reduced the Tension in that example.
+- **(a)** *提案者*の*ロール*のいずれかのためにこの*提案*が対処しようとする*ひずみ*を記述できること。
+- **(b)** その*ひずみ*を記述する過去または現在の状況の実例を共有できること。
+- **(c)** その実例について、この*提案*がその*ひずみ*をどのように軽減するかについての合理的な説明ができること。
 
-If at any point the Facilitator becomes clear that a Proposal does not meet this criteria, the Facilitator must discard the Proposal.
+*提案*がこの基準を満たさないことが*ファシリテーター*にとって明白となった時点で、*ファシリテーター*は*提案*を棄却しなければなりません。
 
 #### 3.2.2 Criteria for Valid Objections
+(3.2.2 有効な反論の基準)
 
-A concern about adopting a Proposal only counts as an Objection if the Objector can provide a reasonable argument for why it meets **all** of the following criteria:
+*提案*の採択に対する懸念は、*反論者*が以下の基準の**すべて**を満たす理由の合理的な説明を提供できる場合にのみ*反論*として扱われます。
 
-- **(a)** The Proposal would reduce the capacity of the Circle to enact its Purpose or Accountabilities.
-- **(b)** The Proposal would limit the Objector's capacity to enact the Purpose or an Accountability of a Role the Objector represents in the Circle, even if the Objector filled no other Roles in the Organization.
-- **(c)** The concern does not already exist even in the absence of the Proposal. Thus, a new Tension would be created specifically by adopting the Proposal.
-- **(d)** The Proposal would necessarily cause the impact, or, if it might cause the impact, the Circle wouldn't have an adequate opportunity to adapt before significant harm could result.
+- **(a)** *提案*が、*サークル*が*目的*または*責務*を全うする能力を低下させること。
+-**（b）** *提案*が、*サークル*において*反論者*が代表する*ロール*の*目的*または*責務*を全うする能力を制限すること(たとえ*反論者*が*組織*の他の*ロール*に就いていなかったとしても)。
+- **(c)** *提案*が存在しなかったとしても、懸念がすでに存在してはいないこと。すなわち、*提案*を採択することによってはじめて、新しい*ひずみ*が生じること。
+- **(d)** *提案*は必然的に影響を及ぼすか、またはそれが可能性である場合、*サークル*に重大な危害が及ぶ前にそれに対応する十分な機会が得られないこと。
 
-However, regardless of the above criteria, a concern always counts as a valid Objection if adopting the Proposal would violate a rule in this Constitution.
+ただし、上記の基準に関係なく、*提案*の採択がこの*憲法*のルールに違反する場合、懸念は常に有効な*反論*として扱われます。
 
 #### 3.2.3 Testing Objections
+(3.2.3 反論のテスト)
 
-The Facilitator may test the validity of a claimed Objection by asking the Objector if the Objection meets the required criteria, and how. When assessing responses, the Facilitator may only judge whether the Objector presented arguments for each criteria using logical reasoning. The Facilitator may not judge on the basis of an argument’s accuracy or the importance of addressing it.
+*ファシリテーター*は、*反論*が満たすべき基準を満たしているかどうか、およびどのように満たしているかを*反論者*に質問することにより、主張された*反論*の有効性をテストすることができます。*ファシリテーター*は、質問の応答を評価する際、*反論者*が各基準に対して論理的な主張を提示できたかどうかでのみ判断することができます。*ファシリテーター*は、主張の正確さや、対処することの重要性に基づいて判断してはいけません。
 
-When an Objection is claimed because adopting a Proposal would violate the Constitution, the Facilitator may ask the Circle’s Secretary to interpret if that's true. If the Secretary rules that it is not, the Facilitator must then dismiss the Objection.
+*提案*を採択すると*憲法*に違反するため*反論*が主張された場合、*ファシリテーター*は*サークル*の*セクレタリー*にそれが事実か否かを解釈するよう求めることができます。*セクレタリー*がそうではないと判断した場合、*ファシリテーター*は*提案*を却下しなければなりません。
 
 #### 3.2.4 Rules of Integration
+(3.2.4 統合のルール)
 
-While attempting to resolve an Objection, the following rules apply:
+*反論*を解消しようとするとき、以下のルールが適用されます。
 
-- **(a)** The Facilitator must test an Objection if requested by any participant. If it fails to meet the validity criteria, the Facilitator must discard it.
-- **(b)** The Objector must attempt to find an amendment to the Proposal that will resolve the Objection and still address the Proposer’s Tension. If the Facilitator believes the Objector is not making a good faith attempt to do so, the Facilitator must deem the Objection abandoned and drop it.
-- **(c)** Any participant may ask the Proposer clarifying questions about the Tension behind the Proposal, or about any examples the Proposer shared to illustrate the Tension. If the Facilitator believes the Proposer is not answering them in good faith, the Facilitator must deem the Proposal dropped.
-- **(d)** The Objector may suggest an amended Proposal, and offer reasonable arguments for why it should resolve the Tension. Then, upon the Objector’s request, the Proposer must present a reasonable argument for why the amended Proposal would fail to resolve the Tension in at least one of the examples the Proposer used to illustrate the Tension. If needed, the Proposer may add another example to illustrate why the amended Proposal would fail to resolve the Tension. If the Facilitator believes the Proposer is unable or unwilling to do so, the Facilitator must deem the Proposal dropped.
+- **(a)** *ファシリテーター*は、参加者から要求された場合、*反論*をテストしなければなりません。有効性の基準を満たしていない場合、*ファシリテーター*はそれを却下しなければなりません。
+- **(b)** *反論者*は、*反論*を解消し、なおかつもとの*提案者*の*ひずみ*にも対処するように*提案*を修正することに努めなければなりません。*反論者*がこれを行うための誠実な努力を行っていないと*ファシリテーター*が判断した場合、*ファシリテーター*はこの*反論*が取り下げられたものとみなし、それを却下しなければなりません。
+- **(c)** すべての参加者は、*提案者*に対して、*提案*の背後にある*ひずみ*または*提案者*が*ひずみ*を説明するために共有した例について、明瞭化のための質問をすることができます。*提案者*が誠意を持って回答していないと*ファシリテーター*が判断した場合、*ファシリテーター*はこの*提案*が取り下げられたものとみなさなければなりません。
+- **(d)** *反論者*は、*提案*の修正案を示し、これが*ひずみ*を解決する理由について合理的な主張を提供することができます。次に、*反論者*の要求に応じて、*提案者*は、*提案者*がもとの*ひずみ*を説明するために使用した例のうち少なくとも1つについて、*提案*の修正案が*ひずみ*の解決に失敗する理由について合理的な主張を提示しなければなりません。必要に応じて、*提案者*は、*提案*の修正案がもとの*ひずみ*の解決に失敗する理由を示す別の例を追加することができます。*提案者*がそうすることができない、またはそうする気がないと*ファシリテーター*が判断した場合、*ファシリテーター*はもとの*提案*が取り下げられたものとみなさなければなりません。
 
 ### 3.3 Governance Meetings
+(3.3 ガバナンスミーティング)
 
-The Secretary of a Circle is responsible for scheduling ***"Governance Meetings"*** to enact the Circle’s Governance Process. The Circle's Facilitator is responsible for facilitating Governance Meetings in alignment with the rules herein.
+*サークル*の*セクレタリー*は、*サークル*の*ガバナンスプロセス*を遂行するために ***ガバナンスミーティング(Governance Meeting)*** の予定を立てる責任があります。*サークル*の*ファシリテーター*は、この節のルールに沿って*ガバナンスミーティング*を進行する責任があります。
 
-In addition to any regular Governance Meetings of the Circle, the Secretary must schedule special Governance Meetings promptly upon request of any Circle Member. The requester may further specify an intention for a special Governance Meeting and any limits on what the meeting may change. This may include focusing the meeting on a specific Tension, or limiting it to only modifying certain Roles. In that case, the authority of that special Governance Meeting is constrained to only processing Proposals for the stated intent, and only making changes within the stated limits.
+*サークル*の通常の*ガバナンスミーティング*に加えて、*セクレタリー*は、*サークルメンバー*の要求に応じて、速やかに特別な*ガバナンスミーティング*の予定を立てなければなりません。要求する人は、さらに、特別な*ガバナンスミーティング*の開催意図と、ミーティングにより変更できる事柄に関して制限を指定できます。これには、会議の焦点を特定の*ひずみ*に絞ることや、特定の*ロール*のみが変更できるように制限することが含まれます。その場合、その特別な*ガバナンスミーティング*の権限は指定された開催意図のための*提案*の処理のみに制限され、指定された制限内の変更のみが許されます。
 
 #### 3.3.1 Attendance
+(3.3.1 参加者)
 
-All Circle Members of a Circle may participate in its Governance Meetings. The acting Facilitator and Secretary may also participate even if they are not Circle Members of the Circle. In that case, they become temporary Circle Members for the duration of the meeting.
+*サークル*のすべての*サークルメンバー*は、その*サークル*の*ガバナンスミーティング*に参加できます。*ファシリテーター*と*セクレタリー*となる人は、*サークル*の*サークルメンバー*でなくても参加できます。この場合、ミーティング中は一時的な*サークルメンバー*になります。
 
-As a Circle Rep for a Circle, you may invite any Partner to join the Governance Meeting of any Circle immediately containing your Circle. You may only extend this invitation to one Partner at a time, and only to aid in the processing of a specific Tension affecting the Circle you represent. You must sense this Tension yourself as well, and believe it makes sense to process in the Circle. Your invited guest becomes a temporary Circle Member for the duration of the meeting, or until you withdraw the invitation. Your guest may represent your Circle along with you in the meeting, but only while processing that specific Tension.
+*サークル*の*サークルレップ*として、あなたは、あなたの*サークル*を直接含む*サークル*の*ガバナンスミーティング*に、任意の*パートナー*を招待して参加させることができます。この招待は、一度に1人の*パートナー*にのみ適用できます。また、あなたが代表する*サークル*に影響を与える特定の*ひずみ*の処理するのに役立てるためにのみ利用できます。あなたは、その*ひずみ*を自分でも感知していなければならず、その*サークル*で処理するのが理にかなっていると信じていなければなりません。招待された人は、会議中または招待を取り消すまで、一時的な*サークルメンバー*になります。招待された人は、会議中にあなたと共に*サークル*を代表することができますが、これは、その特定の*ひずみ*を処理している間のみです。
 
-Beyond the above, no one else may participate in a Circle’s Governance Meetings.
+上記以外の人は、誰もその*サークル*の*ガバナンスミーティング*に参加することはできません。
 
 #### 3.3.2 Notice & Duration
+(3.3.2 通知と継続時間)
 
-A Circle may only conduct a Governance Meeting if the Secretary gave all Circle Members reasonable advance notice of the meeting. Beyond that, there is no quorum required for a Circle to conduct a Governance Meeting, unless a Policy specifies one.
+*サークル*は、*セクレタリー*がすべての*サークルメンバー*に対して事前に合理的な通知を行った場合に限り、*カンファレンスミーティング*を開催できます。この他には、*ポリシー*で指定されていない限り、*サークル*が*ガバナンスミーティング*を実施するために必要な定足数はありません。
 
-Governance Meetings end once they reach the duration initially scheduled by the Secretary. The Secretary may choose to extend the duration within the meeting, but only if no Circle Member requests otherwise.
+*ガバナンスミーティング*は、*セクレタリー*によって最初に予定された時間に達すると終了します。
+*セクレタリー*は、会議内で時間を延長することを選択できますが、これは、ミーティングを終了することをどの*サークルメンバー*も要求しない場合のみです。
 
-Any Circle Member who misses part or all of a Governance Meeting counts as having had a chance to raise concerns about any Proposals made therein. Thus, a Circle may adopt Proposals in a Governance Meeting without regard for absent members.
+*ガバナンスミーティング*の一部またはすべてを欠席した*サークルメンバー*は、その中で行われた*提案*について懸念を提起する機会があったものとみなされます。
+したがって、*サークル*は、欠席している人に関係なく、*ガバナンスミーティング*で*提案*を採択できます。
 
 #### 3.3.3 Meeting Process
+(3.3.3 ミーティングプロセス)
 
-The Facilitator must use the following process for Governance Meetings:
+*ファシリテーター*は、*ガバナンスミーティング*において以下のプロセスを使用しなければなりません。
 
-- **(a) Check-in Round:** Each participant in turn shares their current state, or offers another opening comment for the meeting. Responses are not allowed.
-- **(b) Agenda Building & Processing:** The Facilitator builds an agenda of Tensions to process, then processes each agenda item in turn.
-- **(c) Closing Round:** Each participant in turn shares a closing reflection on the meeting. Responses are not allowed.
+- **(a) チェックインラウンド:** 各参加者は、順番に自分の状況を共有したり会議の開始に際してコメントをしたりします。これに対する応答は許可されていません。
+- **(b) アジェンダの構築と処理:** *ファシリテーター*は、処理する*ひずみ*のアジェンダを作成してから、各アジェンダアイテムを順番に処理します。
+- **(g) クロージングラウンド:** 各参加者は、順番に会議の振り返りを共有します。これに対する応答は許可されていません。
 
-At any point during this process, a participant may request a ***“Time Out”*** pause. The Facilitator may choose to grant or deny this request. During the Time Out, participants may discuss administrative issues or the rules of this Constitution. They may not use the Time Out to work towards the resolution of a Tension, Proposal, or Objection. The Facilitator may end a Time Out at any point and resume the normal meeting process.
+このプロセス中の任意の時点で、参加者は ***タイムアウト(Time Out)*** 休止を要求できます。*ファシリテーター*は、この要求を許可または拒否することを選択できます。*タイムアウト*の間に、参加者は管理上の問題や、この*憲法*の規則について話し合うことができます。*タイムアウト*を使用して、*ひずみ*、*提案*、または*反論*の解消に取り組むことはできません。*ファシリテーター*は、いつでも*タイムアウト*を終了し、通常のミーティングプロセスを再開できます。
 
-A Policy of the Circle may add to this process, but may not conflict with any rules or requirements defined in this Article of the Constitution.
+*サークル*の*ポリシー*により、このプロセスに何かを追加することができますが、*憲法*のこの章で定義されている規則や要件と競合してはいけません。
 
 #### 3.3.4 Agenda Building
+(3.3.4 アジェンダ構築)
 
-The Facilitator builds an agenda of Tensions to process by soliciting agenda items from all participants. The Facilitator must do this in the meeting and not beforehand. Each participant may add as many agenda items as desired by providing a short label for each, with no explanation or discussion allowed. Participants may add more agenda items during the meeting, between the processing of any existing agenda items.
+*ファシリテーター*は、すべての参加者からアジェンダアイテムを募集して処理する*ひずみ*のアジェンダを作成します。*ファシリテーター*は、事前にではなく、会議中にこれを行わなければなりません。各参加者は、望む数のアジェンダを、それぞれに短いラベルをつけることで追加できますが、ここでは説明や議論は許されません。参加者は、この手順の後も、既存のアジェンダアイテムの処理中に、さらにアジェンダアイテムを追加できます。
 
-For a regular Governance Meeting, the Facilitator may choose the order in which to process agenda items. However, on request of a meeting participant, any agenda item calling for an election must go before all others. For a special Governance Meeting scheduled on request of a participant, that participant may choose the agenda order.
+通常の*ガバナンスミーティング*の場合、*ファシリテーター*はアジェンダアイテムを処理する順番を選択できます。ただし、参加者の要求に応じて、選挙を求めるアジェンダアイテムを他のすべてのアジェンダアイテムより優先しなければなりません。参加者の要求に応じて予定された特別な*ガバナンスミーティング*の場合、その参加者がアジェンダの順序を選択できます。
 
-Agenda items are processed one at a time. To process a request for an election, the Facilitator uses the ***“Integrative Election Process”*** defined below. To process anything else, the Facilitator uses the ***“Integrative Decision-Making Process”*** defined below.
+アジェンダアイテムは一度に1つずつ処理されます。選挙を要求するアジェンダアイテムを処理するためには、*ファシリテーター*は、以下で定義される ***統合選挙プロセス(Integrative Election Process)*** を用います。その他のアジェンダアイテムを処理するためには、*ファシリテーター*は、以下で定義される ***統合意思決定プロセス(Integrative Decision-Making Process)*** を使用します。
 
 #### 3.3.5 Integrative Decision-Making Process
+(3.3.5 統合意思決定プロセス)
 
-The Facilitator must enact the Integrative Decision-Making Process as follows:
+*ファシリテーター*は、以下のように*統合意思決定プロセス*を実施しなければなりません。
 
-- **(a) Present Proposal:** First, the Proposer may describe the Tension and present a Proposal to address it. On the Proposer's request, the Facilitator may allow others to help craft a Proposal. However, the Facilitator must focus this help solely on getting to an initial Proposal to address the Proposer's Tension. The Facilitator must disallow discussing other Tensions or concerns about the Proposal.
-- **(b) Clarifying Questions:** Once the Proposer makes a Proposal, others may ask clarifying questions. These must be to better understand the Proposal or the Tension behind it. The Proposer may answer each question, or may decline to do so. The Facilitator must stop any reactions or opinions expressed about the Proposal, and prevent discussion of any kind. Participants may also ask the Secretary to read the Proposal or show any existing Governance, during this step or at any other time when the participant is allowed to speak, and the Secretary must do so.
-- **(c) Reaction Round:** Next, each participant except the Proposer may share reactions to the Proposal, one person at a time. The Facilitator must immediately stop any out-of-turn comments, any attempts to engage others in a dialog, and any reactions to other reactions instead of to the Proposal.
-- **(d) Amend & Clarify:** Next, the Proposer may share comments in response to the reactions and make amendments to the Proposal. However, the primary intent of any amendments must be to better address the Proposer’s Tension, and not Tensions raised by others. The Facilitator must immediately stop comments by anyone other than the Proposer or Secretary. Any engagement by the Secretary must focus solely on capturing the amended Proposal.
-- **(e) Objection Round:** Next, each participant, one at a time, may raise potential Objections to adopting the Proposal. The Facilitator must stop and disallow discussion or responses of any kind. The Facilitator may test Objections, and must capture any valid Objections. If there are no valid Objections, the Proposal is adopted.
-- **(f) Integration:** If there are valid Objections, the Facilitator then focuses on each one, one at a time. For each, the participants brainstorm to find a potential change to the Proposal to resolve the Objection. The Facilitator marks an Objection resolved once the Objector confirms that the amended Proposal would not trigger the Objection, and the Proposer confirms that it still addresses the Tension. During this step, the Facilitator must apply the rules of integration described in this Article. Once all Objections are resolved, the Facilitator moves back to the Objection round with the amended Proposal.
+- **(a) 提案の提示:** 最初に、*提案者*は*ひずみ*を説明し、それに対処するための*提案*を提示できます。*提案者*の要求に応じて、*ファシリテーター*は、他の参加者が*提案*の作成に助言することを許可できます。ただし、*ファシリテーター*は、*提案者*の*ひずみ*に対処するための最初の*提案*にたどり着くことのみに、この助言を集中させなければなりません。*ファシリテーター*は、他の*ひずみ*や*提案*に関する懸念について議論することを禁止しなければなりません。
+- **(b) 明瞭化のための質問:** *提案者*が*提案*を作成すると、他の参加者は明瞭化のための質問をすることができます。これらの質問は、*提案*やその背後にある*ひずみ*をよりよく理解するためのものでなければなりません。*提案者*は各質問に回答するか、回答を拒否することができます。*ファシリテーター*は、*提案*に対して表明されるあらゆるリアクションや意見を止め、あらゆる種類の議論が行われるのを阻止しなければなりません。参加者は、このステップの間や、その他発言を許可されている任意の時点で、*セクレタリー*に対し、*提案*を読み上げたり、既存の*ガバナンス*を表示するよう求めることがができ、セクレタリはそのようにしなければなりません。
+- **(c) リアクションラウンド:** 次に、*提案者*を除く各参加者は、1人ずつ*提案*に対するリアクションを共有できます。*ファシリテーター*は、順番外のコメントや、他人を会話に引き込もうとするあらゆる試み、および、*提案*ではなく他のリアクションに対してなされるリアクションをただちに止めなければなりません。
+- **(d) 修正と明確化:** 次に、*提案者*は、リアクションに対してコメントを共有したり、*提案*を修正したりすることができます。ただし、修正の主な目的は、*提案者*の*ひずみ*をより適切に対処するためのものでなければならず、他の人に提起された*ひずみ*に対処するためものであってはなりません。*ファシリテーター*は、*提案者*または*セクレタリー*以外の人によるコメントをただちに止めなければなりません。*セクレタリー*による関与の場合も、*提案*の修正を記録することのみに集中しなければなりません。
+- **(e) 反論ラウンド:** 次に、各参加者は、1人ずつ、*提案*の採択に対する潜在的な*反論*を上げることができます。*ファシリテーター*は、あらゆる種類の議論やリアクションを止め、禁止しなければなりません。*ファシリテーター*は*反論*をテストすることができ、有効な*反論*を捕捉しなければなりません。有効な*反論*がない場合、*提案*が適用されます。
+- **(f) 統合:** 有効な*反論*が存在する場合、*ファシリテーター*は、それらを1つずつ着目します。それぞれについて、参加者はブレインストーミングを行い、*反論*を解消するための*提案*の修正案を探します。*ファシリテーター*は、*提案*の修正案により*反論*が起こらなくなることを*反論者*が確認し、かつ、もとの*ひずみ*にも対処していることを*提案者*が確認すると、*反論*が解消したものとしてマークします。このステップでは、*ファシリテーター*は本章で説明されている統合のルール(3.2.4)を適用しなければなりません。すべての*反論*が解消されたならば、*ファシリテーター*は*提案*を修正し、再び*反論*ラウンドに戻ります。
 
 #### 3.3.6 Integrative Election Process
+(3.3.6 統合選挙プロセス)
 
-The Facilitator must enact the Integrative Election Process as follows:
+*ファシリテーター*は、以下のように*統合選挙プロセス*を実施しなければなりません。
 
-- **(a) Describe Role:** First, the Facilitator identifies the target Role and term for the election. The Facilitator may also present other information relevant to the election. During this step and the next, no one may comment on any potential candidates.
-- **(b) Fill Out Ballots:** Each participant fills out a ballot to nominate the eligible candidate whom the participant believes is best for the Role. Each participant must label the ballot with his or her own name as well, and no one may abstain or nominate multiple people.
-- **(c) Nomination Round:** During this step, the Facilitator shares the contents of each ballot, one at a time, with all participants. For each ballot, the nominator states why he or she believes their nominee would be a good fit for the Role. No one else speaks. The nominator may not comment on other potential candidates beyond their nominee.
-- **(d) Nomination Change Round:** Once all nominations are shared, any participant may change their nomination. A participant making a change may explain the reason for the change, but the Facilitator must stop any other comments or discussion.
-- **(e) Make a Proposal:** The Facilitator counts the nominations, and makes a Proposal to elect the candidate with the most. If there is a tie, the Facilitator may do any one of the following: (i) if only one of the tied candidates has nominated himself or herself, propose that person; or (ii) if the person currently filling the Role is among those tied, propose that person; or (iii) blindly select one of the tied candidates randomly, and propose that person; or (iv) go back to the previous step and ask each participant who nominated someone other than a tied candidate to change that nomination to one of the tied candidates.
-- **(f) Process Proposal:** The Facilitator moves to the Integrative Decision-Making Process to resolve the Proposal, but starts with the Objection round. If any Objections surface, the Facilitator may choose to process them normally, or discard the Proposal. If discarded, the Facilitator must then go back to the prior step in this process, ignore all nominations for the discarded candidate, and apply the rules of the prior step to select another candidate to propose instead.
+- **(a) ロールの説明:** 最初に、*ファシリテーター*は、対象となる*ロール*と選挙の任期を指定します。*ファシリテーター*は、選挙に関連する他の情報を提示することもできます。このステップと次のステップの間、誰も候補者に関するコメントをしてはいけません。
+- **(b) 投票用紙に記入する:** 各参加者は、*ロール*に最適と思われる、適格な候補者を投票用紙に記入することで指名します。各参加者は自分の名前を投票に記入しなければならず、また、棄権したり、複数の人を指名することはできません。
+- **(c) 指名ラウンド:** このステップでは、*ファシリテーター*は一度に1つずつ、各投票用紙の内容をすべての参加者に共有します。各投票用紙ごとに、投票者は、候補者が*ロール*に適していると考える理由を述べます。他の人は話をしません。投票者は、指名した人以外の、潜在的な候補者についてコメントしてはいけません。
+- **(d) 指名変更ラウンド:** すべての指名が共有されると、参加者は指名を変更できます。変更を行う参加者は変更理由を説明できますが、*ファシリテーター*はその他のコメントや議論を止めなければなりません。
+- **(e) 提案の作成:** *ファシリテーター*は指名数を数え、最多の指名を集めた候補者を選出する*提案*を作成します。同点の場合、*ファシリテーター*は以下のいずれかを行うことができます。(i) 同点の候補者のうち1人だけが自分自身を指名した場合、その人を提案する。(ii) 同点の候補者の中に、その*ロール*に現在就いている人がいる場合、その人を提案する。(iii) 同点の候補者を無作為に1人選択し、その人を提案する。(iv) 前のステップに戻り、同点の候補者以外の人を指名した各参加者に、その指名を同点の候補者の誰かに変更するよう依頼する。
+- **(f) 提案の処理:** *ファシリテーター*は*統合意思決定プロセス*を行い*提案*を解決しますが、これは*反論*ラウンドから始まります。*反論*が表出した場合、*ファシリテーター*はそれらを通常の方法で処理するか、*提案*を取り下げるかを選択できます。取り下げた場合、*ファシリテーター*は、このプロセスの前のステップに戻り、取り下げられた候補者へのすべての指名を無視し、前のステップのルールを適用し、代わりに提案する別の候補者を選択しなければなりません。
 
 ### 3.4 Asynchronous Governance
+(3.4 非同期ガバナンス)
 
-Circle Members may make Proposals asynchronously instead of waiting for a Governance Meeting. To do so, the Proposer must distribute a Proposal in writing to all other Circle Members. The Circle’s Secretary decides which communication channels are allowed for asynchronous Proposals. Each Circle Member may then ask clarifying questions, share reactions, or raise Objections. At any point before the process is complete, any Circle Member may stop the process by requesting the Proposal go to a Governance Meeting.
+*サークルメンバー*は、*ガバナンスミーティング*を待つ代わりに、非同期で*提案*を行うことができます。そのためには、*提案者*は*提案*を書面で他のすべての*サークルメンバー*に公布する必要があります。*サークル*の*セクレタリー*は、非同期の*提案*のために許される通信チャネルを決定します。各*サークルメンバー*は、その後、明瞭化のための質問をしたり、リアクションを共有したり、*反論*を提起したりできます。このプロセスが完了する前の任意の時点で、いずれの*サークルメンバー*も、この*提案*を*ガバナンスミーティング*に移すように要求することで、このプロセスを止めることができます。
 
-A Circle Member may also request the Facilitator run an election outside of a Governance Meeting. The Facilitator may do so by enacting the required election process asynchronously.
+*サークルメンバー*は、*ファシリテーター*に対し、*ガバナンスミーティング*の外で選挙を行うよう要求することもできます。*ファシリテーター*は、必要な選挙のプロセスを非同期に実施することで、*ガバナンスミーティング*外での選挙を行うことができます。
 
-A Circle may adopt Policies to further constrain when or how Proposals or elections may happen outside of a Governance Meeting. However, no Policy may limit the right to stop asynchronous processing of a Proposal by requesting it go to a Governance Meeting.
+*サークル*は、*提案*や選挙が*ガバナンスミーティング*の外でいつ、どのように行われるかをさらに制限する*ポリシー*を採用することができます。ただし、いかなるポリシーによっても、*提案*を*ガバナンスミーティング*に移すように要求することで非同期の*提案*プロセスを止める権利を制限することはできません。
 
-A Circle may also adopt a Policy to define a time limit for responding to asynchronous Proposals or election nominations. After that time limit, anyone who has not responded is assumed to have declined to raise an Objection or provide a nomination.
+*サークル*は、非同期の*提案*や選挙の指名に応答するための制限時間を定義する*ポリシー*を採用することもできます。この制限時間が経過した後、応答しなかった人は、*提案*に*反論*を提起したり、選挙に指名したりすることを辞退したものとみなされます。
 
 ### 3.5 Interpreting the Constitution & Governance
+(3.5 憲法とガバナンスの解釈)
 
-As a Partner, you may use reasonable judgment to interpret this Constitution and anything under its authority. You may also interpret how these apply within any specific situation you face, and act based on your interpretations.
+*パートナー*として、あなたはこの*憲法*およびその権限の下にあるものを解釈するために合理的な判断を下すことができます。また、直面している特定の状況で、これらがどのように適用されるかを解釈し、その解釈に基づいて行動することもできます。
 
-You must interpret all Governance in the context of the Purpose and Accountabilities of the Circle containing it. You may not use any interpretation that conflicts with this context.
+あなたは、全てのガバナンスについて、それを含む*サークル*の*目的*と*責務*の文脈でそれを解釈しなければなりません。この文脈と矛盾する解釈を使用してはいけません。
 
 #### 3.5.1 Interpretation Conflicts
+(3.5.1 解釈の競合)
 
-Your interpretation may sometimes conflict with another Partner's. If that happens, you may ask the Secretary of any affected Circle to rule on which interpretation to use. All Partners must then align with that ruling until the relevant text or context changes. You may appeal a Secretary's interpretation to the Secretary of any Super-Circle. A Super-Circle Secretary may overrule the interpretation of any Sub-Circle Secretary.
+あなたの解釈が他の*パートナー*の解釈と矛盾する場合があるかもしれません。その場合、影響を受けるいずれかの*サークル*の*セクレタリー*に、どの解釈を使用するかの裁定を下すよう依頼することができます。そして、すべての*パートナー*は、関連する文書または文脈が変更されるまで、その裁定に従わなければなりません。あなたは、*セクレタリー*の解釈を*親サークル*の*セクレタリー*に訴えることができます。*親サークル*の*セクレタリー*は、*子サークル*の*セクレタリー*の解釈を覆すことができます。
 
 #### 3.5.2 Interpretation Precedents
+(3.5.2 解釈の前例)
 
-After ruling on an interpretation, a Secretary may publish the ruling and the logic behind it. If published, the Secretary of that Circle and any contained Circles must attempt to align with that logic in any future rulings. However, a Secretary may still contradict it once a compelling new circumstance renders the logic obsolete.
+解釈について裁定した後、*セクレタリー*は、その裁定と背後にある論理を公開することができます。これが公開された場合、その*サークル*や、それに含まれている*サークル*の*セクレタリー*は、将来の裁定でその論理と整合するように努めなければなりません。しかし、やむを得ない新しい状況によってその論理が陳腐化したとき、*セクレタリー*は、その論理と矛盾することもできます。
 
 #### 3.5.3 Striking Invalid Governance
+(3.5.3 無効なガバナンスの削除)
 
-Any Partner may ask a Circle's Secretary to rule on the validity of any Governance within that Circle or any Sub-Circle thereof. If the Secretary concludes it violates the rules of this Constitution, the Secretary must strike it from the Circle's records. After doing so, the Secretary must promptly communicate what they struck and why to all of that Circle's Circle Members.
+すべての*パートナー*は、*サークル*の*セクレタリー*に対し、その*サークル*やその*子サークル*内の*ガバナンス*の有効性に関する裁定を依頼することができます。*セクレタリー*は、その*ガバナンス*がこの*憲法*の規則に違反すると判断した場合、*サークル*の記録からそれを削除しなければなりません。その後、*セクレタリー*は、削除した項目とその理由を、その*サークル*の*サークルメンバー*全員に速やかに伝えなければなりません。
 
 ### 3.6 Process Breakdown
+(3.6 プロセス障害)
 
-A ***“Process Breakdown”*** occurs when a Circle shows a pattern of behavior or output that violates the rules of this Constitution. The Facilitator or Secretary of a Circle may declare a Process Breakdown in their own Circle or any Sub-Circle, using their reasonable judgment.
+***プロセス障害(Process Breakdown)*** は、*サークル*がこの*憲法*の規則に違反する振る舞いや結果のパターンを示している場合に発生します。*サークル*の*ファシリテーター*または*セクレタリー*は、合理的な判断により、自分の*サークル*やその*子サークル*において*プロセス障害*を宣言できます。
 
 #### 3.6.1 Breakdown from Failed Governance
+(3.6.1 ガバナンスの失敗による障害)
 
-A Circle's Facilitator may also declare a Process Breakdown in the Circle if a Proposal made in a Governance Meeting fails to reach a resolution. If the Proposer specially requested the meeting, then the Proposer may also declare the Process Breakdown. In either case, the participants must first spend a reasonably long time trying to find a resolution.
+*サークル*の*ファシリテーター*は、*ガバナンスミーティング*で作成された*提案*の解決に失敗した場合にも、その*サークル*で*プロセス障害*を宣言することができます。*提案者*がそのミーティングの開催を特別に要請していた場合、その*提案者*もまた*プロセス障害*を宣言することができます。いずれの場合においても、その前に、参加者は解決策を見つけるために合理的な長さの時間を費やして居なければなりません。
 
 #### 3.6.2 Process Restoration
+(3.6.2 プロセス復旧)
 
-Whenever an authorized party declares a Process Breakdown within a Circle, the following occurs:
+権限を持つ当事者が*サークル*内で*プロセス障害*を宣言するたび、以下の全てが発生します。
 
-- **(a)** the Facilitator gains the authority to judge the accuracy of any arguments made to validate Proposals or Objections in the Circle; and
-- **(b)** the Facilitator of the Super-Circle gains a Project to restore due-process within the Circle; and
-- **(c)** the Facilitator of the Super-Circle gains the authority to take over as Facilitator or Secretary of the Circle; and
-- **(d)** the Facilitator of the Super-Circle may assign an additional Circle Lead to the Circle for the duration of the Process Breakdown. Any decisions that person makes as Circle Lead trumps and prevents any conflicting decision by another Circle Lead.
+- **(a)** *ファシリテーター*は、その*サークル*内の*提案*または*反論*を検証するために行われた主張の正確さを判断する権限を取得します。
+- **(b)** *親サークル*の*ファシリテーター*は、その*サークル*の正当なプロセスを復元する*プロジェクト*を取得します。
+- **(c)** *親サークル*の*ファシリテーター*は、その*サークル*の*ファシリテーター*または*セクレタリー*を代替する権限を取得します。
+- **(d)** *親サークル*の*ファシリテーター*は、*プロセス障害*の間、追加の*サークルリード*をその*サークル*に割り当てることができます。その人が*サークルリード*として下した決定は、別の*サークルリード*が下した矛盾する決定に勝り、それを阻止します。
 
-These authorities end as soon as due process is restored in the Circle, as assessed by the Facilitator of the Super-Circle.
+これらの権限は、*親サークル*の*ファシリテーター*の評価基準のもとで、*サークル*の正当なプロセスが復元されたととき、ただちに終了します。
 
-If the Circle in Process Breakdown has no Super-Circle, then the powers above all vest with its own Facilitator instead.
+*プロセス障害*が発生している*サークル*に*親サークル*がない場合、上記の全ての権限は、代わりにその*サークル*自身の*ファシリテーター*に与えられます。
 
 #### 3.6.3 Escalation of Process Breakdown
+(プロセス障害のエスカレーション)
 
-A Process Breakdown in one Circle is not automatically considered a Process Breakdown of its Super-Circle. However, if it remains unresolved for an unreasonable time, then the Super-Circle is also considered in a Process Breakdown.
-
+ある*サークル*内の*プロセス障害*は、自動的に*親サークル*の*プロセス障害*でもあるとはみなされません。ただし、それが合理的な時間を掛けても依然解決されない場合、*親サークル*でも*プロセス障害*が発生しているとみなされます。
 
 ## Article 4: People & Partnership
 
