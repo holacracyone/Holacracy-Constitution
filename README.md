@@ -25,6 +25,13 @@ Contributors to v4.1 include Brian Robertson, Rashid Gilanpour, Alexia Bowers, d
 
 For a list of contributors to v5.0, please see the history of submissions to the Constitution's GitHub repo and issue database.
 
+### 日本語訳
+
+日本語訳バージョンは <a href="./Holacracy-Constitution.ja.md" target="_blank">Holacracy-Constitution.ja.md</a> にあります。
+本家様のライセンスに従い、日本語訳バージョンもまたクリエイティブ・コモンズ(CC BY-SA 4.0)でライセンスされています。
+
+翻訳者: Ryota Suzuki
+
 ---
 
 #### For More Information or Support with the Holacracy Framework: <a href="http://holacracy.org" target="_blank">holacracy.org</a>
