@@ -96,7 +96,7 @@ A Circle's Circle Members include all Partners filling its Circle Lead Role, as 
 
 #### 1.5.1 Circle Reps
 
-Any Circle Member of a Circle may call for the selection of a ***"Circle Rep"*** to help represent that Circle within any broader Circle containing it. The selected Circle Rep fills the Circle Rep Role in the Circle, as defined in Appendix A.
+Any Circle Member of a Circle may call for the selection of a ***"Circle Rep"*** to help represent that Circle within any broader Circle containing it. The selected Circle Rep fills the ***"Circle Rep Role"*** in the Circle, as defined in Appendix A.
 
 The Circle Rep becomes a Circle Member of any broader Circle containing that Circle's outer Role, with the authority to represent that Role just like a Role Lead. A containing Circle may limit or prevent these Circle Reps from becoming its Circle Members via a Policy, but only if its Roles have another way to enjoy comparable representation within that Circle.
 
