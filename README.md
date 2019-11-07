@@ -28,9 +28,10 @@ For a list of contributors to v5.0, please see the history of submissions to the
 ### 日本語訳
 
 日本語訳バージョンは <a href="./Holacracy-Constitution.ja.md" target="_blank">Holacracy-Constitution.ja.md</a> にあります。
+固有表現などの対訳表は<a href="./Translation-Note.ja.md" target="_blank">こちら</a>。
 本家様のライセンスに従い、日本語訳バージョンもまたクリエイティブ・コモンズ(CC BY-SA 4.0)でライセンスされています。
 
-翻訳者: Ryota Suzuki
+翻訳者: [Ryota Suzuki](https://github.com/nunukim)
 
 ---
 
