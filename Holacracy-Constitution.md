@@ -86,7 +86,7 @@ Whenever Governance outside the Circle references the Circle itself or any Role 
 
 #### 1.4.3 Amending the Circle Lead Role
 
-A Circle may not add Accountabilities or other functions to its own Circle Lead Role, nor change the Role’s Purpose, nor remove the Role. A Circle may remove any Accountabilities, Domains, authorities, or functions of its Circle Lead Role. It can do this either by placing them on another Role in the Circle, or by defining an alternate means of enacting them. Doing this automatically removes the relevant element from the Circle Lead Role, for as long as the delegation remains in place.
+A Circle may not add Accountabilities or other functions to its own Circle Lead Role, nor amend the Role’s Purpose, nor remove the Role. A Circle may remove any Accountabilities, Domains, authorities, or functions of its Circle Lead Role. It can do this either by placing them on another Role in the Circle, or by defining an alternate means of enacting them. Doing this automatically removes the relevant element from the Circle Lead Role, for as long as the delegation remains in place.
 
 ### 1.5 Circle Members
 
@@ -150,7 +150,7 @@ You may also impact any Domain held by a Circle containing your Role and not fur
 
 You may not exert control or cause a material impact on a Domain delegated to a Role or Circle that doesn't contain your Role, unless you get permission. Nor may you do so on a Domain owned by another sovereign entity without permission.
 
-When you need permission to impact a Domain, you may get it from whomever controls that Domain. You may also get permission by announcing your intent to take a specific action, and inviting anyone with a relevant Domain to object. You must then wait a reasonable time to allow responses. If no one objects in that time, you then have permission to impact any Domains owned by any Role in the Organization that your announcement reached. You may assume a written announcement reached anyone who typically reads messages in the channel you used. Any permission so granted only applies while taking the specific action you announced. A Policy may further change or constrain this process.
+When you need permission to impact a Domain, you may get it from whomever controls that Domain. You may also get permission by announcing your intent to take a specific action, and inviting anyone with a relevant Domain to object. You must then wait a reasonable time to allow responses. If no one objects in that time, you then have permission to impact any Domains owned by any Role in the Organization that your announcement reached. You may assume a written announcement reached anyone who typically reads messages in the channel you used. Any permission so granted only applies while taking the specific action you announced. A Policy may change or constrain this process.
 
 #### 2.1.3 Don't Spend Money
 
@@ -384,7 +384,7 @@ The Facilitator must enact the Integrative Decision-Making Process as follows:
 - **(c) Reaction Round:** Next, each participant except the Proposer may share reactions to the Proposal, one person at a time. The Facilitator must immediately stop any out-of-turn comments, any attempts to engage others in a dialog, and any reactions to other reactions instead of to the Proposal.
 - **(d) Amend & Clarify:** Next, the Proposer may share comments in response to the reactions and make amendments to the Proposal. However, the primary intent of any amendments must be to better address the Proposer’s Tension, and not Tensions raised by others. The Facilitator must immediately stop comments by anyone other than the Proposer or Secretary. Any engagement by the Secretary must focus solely on capturing the amended Proposal.
 - **(e) Objection Round:** Next, each participant, one at a time, may raise potential Objections to adopting the Proposal. The Facilitator must stop and disallow discussion or responses of any kind. The Facilitator may test Objections, and must capture any valid Objections. If there are no valid Objections, the Proposal is adopted.
-- **(f) Integration:** If there are valid Objections, the Facilitator then focuses on each one, one at a time. For each, the participants brainstorm to find a potential change to the Proposal to resolve the Objection. The Facilitator marks an Objection resolved once the Objector confirms that the amended Proposal would not trigger the Objection, and the Proposer confirms that it still addresses the Tension. During this step, the Facilitator must apply the rules of integration described in this Article. Once all Objections are resolved, the Facilitator moves back to the Objection round with the amended Proposal.
+- **(f) Integration:** If there are valid Objections, the Facilitator then focuses on each one, one at a time. For each, the participants brainstorm to find a potential amendment to the Proposal to resolve the Objection. The Facilitator marks an Objection resolved once the Objector confirms that the amended Proposal would not trigger the Objection, and the Proposer confirms that it still addresses the Tension. During this step, the Facilitator must apply the rules of integration described in this Article. Once all Objections are resolved, the Facilitator moves back to the Objection round with the amended Proposal.
 
 #### 3.3.6 Integrative Election Process
 
