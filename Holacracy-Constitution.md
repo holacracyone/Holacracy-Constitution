@@ -12,7 +12,7 @@ The Ratifiers or their successors may amend this Constitution or repeal it using
 
 ### 1.1 Roles
 
-The Organization’s Partners will perform its work while acting in explicitly defined Roles. A ***“Role”*** definition has a descriptive name and one or more of the following:
+The Organization’s Partners will perform its work while acting in explicitly defined Roles. A ***“Role”*** definition has a descriptive name and one or more of the following elements:
 
 - **(a)** a ***“Purpose”***, which is a capacity, potential, or goal that the Role will pursue or express.
 - **(b)** one or more ***“Domains”***, which are assets, processes, or other things the Role may exclusively control and regulate as its property, for its purpose.
@@ -30,7 +30,7 @@ A Role may only be assigned to a Partner of the Organization, or to someone who 
 
 #### 1.2.2 Focusing an Assignment
 
-A Role assigner may focus an assignment on only a specific area or context, if all fields in the Role definition are still relevant within that focus. When a focus is used, each assignment focus is treated like an entirely separate Role, and the Role's Purpose, Accountabilities, and Domains apply only within the focus specified for each assignment.
+A Role assigner may focus an assignment on only a specific area or context, if all elements in the Role definition are still relevant within that focus. When a focus is used, each assignment focus is treated like an entirely separate Role, and the Role's Purpose, Accountabilities, and Domains apply only within the focus specified for each assignment.
 
 #### 1.2.3 Resigning from Roles
 
