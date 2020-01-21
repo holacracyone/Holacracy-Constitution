@@ -22,7 +22,7 @@ A Role may also contain ***“Policies”***, which are grants or constraints of
 
 ### 1.2 Role Assignment
 
-A Circle may amend its Circle Lead Role (as described in 1.1.4.3), Roles assignment domain can be placed to another Role, which can then assign or remove people to that Role at any time. Any person thus assigned then becomes the ***"Role Lead "*** of that Role. As for Circle Leads, any unfilled Role automatically reverts to the Role Leads who control the assignment domain.
+A Circle may amend its Circle Lead Role (as described in 1.1.4.3), by placing Roles assignment domain another Role, which can then assign or remove people to that Role at any time. Any person thus assigned then becomes the ***"Role Lead "*** of that Role. As for Circle Leads, any unfilled Role automatically reverts to the Role Leads who controls the assignment domain.
 
 #### 1.2.1 Eligibility
 
