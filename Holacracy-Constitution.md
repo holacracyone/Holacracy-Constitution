@@ -96,7 +96,7 @@ A Circle's Circle Members include all Partners filling its Circle Lead Role, as 
 
 #### 1.5.1 Circle Reps
 
-Any Circle Member of a Circle may call for the selection of a ***"Circle Rep"*** to help represent that Circle within any broader Circle containing it. The selected Circle Rep fills the Circle Rep Role in the Circle, as defined in Appendix A.
+Any Circle Member of a Circle may call for the selection of a ***"Circle Rep"*** to help represent that Circle within any broader Circle containing it. The selected Circle Rep fills the ***"Circle Rep Role"*** in the Circle, as defined in Appendix A.
 
 The Circle Rep becomes a Circle Member of any broader Circle containing that Circle's outer Role, with the authority to represent that Role just like a Role Lead. A containing Circle may limit or prevent these Circle Reps from becoming its Circle Members via a Policy, but only if its Roles have another way to enjoy comparable representation within that Circle.
 
@@ -156,7 +156,7 @@ When you need permission to impact a Domain, you may get it from whomever contro
 
 While energizing your Role, you may not spend any money or other assets unless you first get authorized to do so. This authorization must come from a Circle that already has control of those resources for spending purposes. It counts as spending if you dispose of significant property of the Circle, or significantly limit any of its rights.
 
-To get authorized to spend, you must announce your intent to spend in writing to the Circle you're seeking authorization from. You must share this announcement where all Circle Members of that Circle will typically see it. Your statement must include the reason for the spending, and the Role you'll spend from. You must then wait a reasonable time to allow consideration and responses. Any recipient of your announcement may escalate the spending for extra consideration. You may not proceed with the spending if escalated, however a Circle Lead of that Circle may reverse an escalation, as may the person who escalated it. Once a reasonable time has passed and no escalations stand, your Role gains control of those resources. You may spend them for your stated purpose, or further authorize others to. The Circle you got authorization from in turn looses this control, however a Circle Lead of that Circle may revoke the authorization at any time.
+To get authorized to spend, you must announce your intent to spend in writing to the Circle you're seeking authorization from. You must share this announcement where all Circle Members of that Circle will typically see it. Your statement must include the reason for the spending, and the Role you'll spend from. You must then wait a reasonable time to allow consideration and responses. Any recipient of your announcement may escalate the spending for extra consideration. You may not proceed with the spending if escalated, however a Circle Lead of that Circle may reverse an escalation, as may the person who escalated it. Once a reasonable time has passed and no escalations stand, your Role gains control of those resources. You may spend them for your stated purpose, or further authorize others to. The Circle you got authorization from in turn loses this control, however a Circle Lead of that Circle may revoke the authorization at any time.
 
 A Policy may change this process in any way, or directly authorize a Role to control spending of the Circle's resources.
 
@@ -328,9 +328,9 @@ When an Objection is claimed because adopting a Proposal would violate the Const
 
 While attempting to resolve an Objection, the following rules apply:
 
-- **(a)** The Facilitator must test an Objection if requested by any participant. If it fails to meet the validity criteria, the Facilitator must discard it.
+- **(a)** The Facilitator must test an Objection if requested by any Circle Member. If it fails to meet the validity criteria, the Facilitator must discard it.
 - **(b)** The Objector must attempt to find an amendment to the Proposal that will resolve the Objection and still address the Proposer’s Tension. If the Facilitator believes the Objector is not making a good faith attempt to do so, the Facilitator must deem the Objection abandoned and drop it.
-- **(c)** Any participant may ask the Proposer clarifying questions about the Tension behind the Proposal, or about any examples the Proposer shared to illustrate the Tension. If the Facilitator believes the Proposer is not answering them in good faith, the Facilitator must deem the Proposal dropped.
+- **(c)** Any Circle Member may ask the Proposer clarifying questions about the Tension behind the Proposal, or about any examples the Proposer shared to illustrate the Tension. If the Facilitator believes the Proposer is not answering them in good faith, the Facilitator must deem the Proposal dropped.
 - **(d)** The Objector may suggest an amended Proposal, and offer reasonable arguments for why it should resolve the Tension. Then, upon the Objector’s request, the Proposer must present a reasonable argument for why the amended Proposal would fail to resolve the Tension in at least one of the examples the Proposer used to illustrate the Tension. If needed, the Proposer may add another example to illustrate why the amended Proposal would fail to resolve the Tension. If the Facilitator believes the Proposer is unable or unwilling to do so, the Facilitator must deem the Proposal dropped.
 
 ### 3.3 Governance Meetings
