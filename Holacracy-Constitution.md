@@ -305,7 +305,7 @@ For a Proposal to be valid, the Proposer must be able to:
 - **(b)** share an example of an actual past or present situation illustrating that Tension; and
 - **(c)** give a reasonable explanation of how the Proposal would have reduced the Tension in that example.
 
-If at any point the Facilitator becomes clear that a Proposal does not meet this criteria, the Facilitator must discard the Proposal.
+If at any point the Facilitator becomes clear that a Proposal does not meet these criteria, the Facilitator must discard the Proposal.
 
 #### 3.2.2 Criteria for Valid Objections
 
