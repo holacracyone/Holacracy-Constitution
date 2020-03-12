@@ -228,7 +228,7 @@ In service of a Role, any Partner may convene a ***“Tactical Meeting”*** to 
 
 The Partner convening a Tactical Meeting must name the Roles desired in that meeting. All Role Leads of those Roles are then invited to attend, unless the convener narrows the invite to include only a subset of Role Leads for a Role. The convener may choose the Facilitator of any relevant Circle to run the meeting.
 
-#### 2.4.2 Facilitation & Process
+#### 2.4.2 Meeting Process
 
 Unless a Policy says otherwise, anyone facilitating a Tactical Meeting must use the following process:
 
@@ -237,7 +237,7 @@ Unless a Policy says otherwise, anyone facilitating a Tactical Meeting must use 
 - **(c) Metrics Review:** Each participant shares any metrics that they are regularly reporting on for their Roles in the meeting.
 - **(d) Progress Updates:** Each participant highlights progress in any Role or Project that they are regularly reporting on for their Roles in the meeting. Participants may only share progress made since a prior report, and not the general status of any work.
 - **(e) Build Agenda:** The Facilitator builds an agenda of Tensions to process by soliciting agenda items from all participants. The Facilitator must do this in the meeting and not beforehand. Each participant may add as many agenda items as desired by providing a short label for each, with no explanation or discussion allowed. Participants may add more agenda items after this step, between the processing of any existing agenda items.
-- **(f) Triage Tensions:** To process each agenda item, the agenda item owner may make requests of the other participants. However, the agenda item owner may only make requests to serve a Role they were invited to represent in the meeting. Further, each participant only has duties that come from Roles they were invited to represent in the meeting, or that exist regardless of the Roles they fill. The Facilitator manages the time allowed for each agenda item to allow space for processing every item on the agenda. To that end, the Facilitator may cut off the processing of any item after its due share of the meeting time.
+- **(f) Triage Tensions:** To process each agenda item, the agenda item owner may make requests of another participant, either in that participant's general capacity as a Partner, or to a Role that participant represents in the meeting. However, requests to a Role may only be made in service of a Role the requester represents in the meeting. The Facilitator manages the time allowed for each agenda item to allow space for processing every item on the agenda. To that end, the Facilitator may cut off the processing of any item after its due share of the meeting time.
 - **(g) Closing Round:** Each participant in turn shares a closing reflection on the meeting. Responses are not allowed.
 
 A Policy of a Circle may specify an alternate process or amend this default process for Tactical Meetings called by any of the Circle's Roles.
