@@ -22,7 +22,7 @@ A Role may also contain ***“Policies”***, which are grants or constraints of
 
 ### 1.2 Role Assignment
 
-A Role may control assignments into another Role as a Domain. Anyone filling a Role with such a Domain may assign people to fill the target Role or remove people from that Role at any time. Anyone so assigned becomes the ***"Role Lead"*** for that Role. When a Role is unfilled, the Role Leads of the assigning Role are automatically considered the Role Leads of the unfilled Role as well.
+A Role may control who fills another Role through a Domain of Role assignment for that Role. Anyone controlling such a Domain may assign people to fill the target Role or remove people from that Role at any time. Anyone so assigned becomes the ***"Role Lead"*** for that Role. When a Role is unfilled, the Role Leads of the assigning Role are automatically considered the Role Leads of the unfilled Role as well.
 
 #### 1.2.1 Eligibility
 
