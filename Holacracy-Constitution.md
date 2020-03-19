@@ -455,7 +455,7 @@ A Process Breakdown in one Circle is not automatically considered a Process Brea
 
 ### 4.1 Partner Relationships
 
-The Organization may grant Partner status to anyone who has agreed to abide by this Constitution while working on its behalf. This creates a ***“Partner Relationship”*** between that person and the Organization. Any promises either party makes to the other in conjunction with the grant of Partner status are part of that Partner Relationship. Unless otherwise agreed, each party needs the other's consent to change these agreements. However, either party may still end the Partner Relationship without the consent of the other. Doing so immediately ends that person's rights and responsibilities as a Partner.
+The Organization may grant Partner status to anyone who has agreed to abide by all relevant terms of this Constitution. This creates a ***“Partner Relationship”*** between that person and the Organization. Any promises either party makes to the other in conjunction with the grant of Partner status are part of that Partner Relationship. Unless otherwise agreed, each party needs the other's consent to change these agreements. However, either party may still end the Partner Relationship without the consent of the other. Doing so immediately ends that person's rights and responsibilities as a Partner.
 
 ### 4.2 Working Agreements
 
