@@ -154,7 +154,6 @@
 
 - **(a)** 代理されるの人によって指定された人。
 - **(b)** *ファシリテーター*には*サークル*の*セクレタリー*。*セクレタリー*には*サークル*の*ファシリテーター*
-- **(c)** the Circle Lead of the Circle, or, if there are multiple Circle Leads, the first one to declare themselves acting as surrogate; or
 - **(c)** *サークル*の*サークルリード*。もし複数の*サークルリード*が存在する場合は、その中で最初に代理として立候補した人。
 - **(d)** 最初に代理として立候補した*サークルメンバー*。
 
