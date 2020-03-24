@@ -78,7 +78,7 @@ Any Partner serving as a Role Lead for a Role also automatically fills a ***“C
 
 #### 1.4.1 Defining Priorities & Strategies
 
-A Circle Lead may judge the relative value of potential Circle efforts, to help clarify and align priorities across Roles. A Circle Lead may also define a ***“Strategy”*** for the Circle, or many Strategies, which are heuristics that guide prioritization in the Circle.
+A Circle Lead may judge the relative value of potential Circle efforts to resolve priority conflicts across Roles. A Circle Lead may also define a ***“Strategy”*** for the Circle, or many Strategies, which are heuristics that guide prioritization in the Circle.
 
 #### 1.4.2 Routing External References
 
@@ -86,7 +86,11 @@ Whenever Governance outside the Circle references the Circle itself or any Role 
 
 #### 1.4.3 Amending the Circle Lead Role
 
-A Circle may not add Accountabilities or other functions to its own Circle Lead Role, nor amend the Role’s Purpose, nor remove the Role. A Circle may remove any Accountabilities, Domains, authorities, or functions of its Circle Lead Role. It can do this either by placing them on another Role in the Circle, or by defining an alternate means of enacting them. Doing this automatically removes the relevant element from the Circle Lead Role, for as long as the delegation remains in place.
+A Circle may not modify the Purpose of its Circle Lead Role, nor remove the Role.
+
+A Circle may add Accountabilities or Domains to its Circle Lead Role, and those additions automatically apply to every Sub-Circle's Circle Lead Role as well, recursively. A Circle may not add Accountabilities or Domains just to its own Circle Lead Role.
+
+A Circle may remove any Accountabilities, Domains, authorities, or functions of its own Circle Lead Role. It can do this either by placing them on another Role in the Circle, or by defining an alternate means of enacting them. Doing this automatically removes the relevant element from the Circle's Circle Lead Role, for as long as the delegation remains in place.
 
 ### 1.5 Circle Members
 
@@ -185,9 +189,9 @@ You are responsible for capturing and tracking all Projects and Next-Actions for
 
 #### 2.2.5 Prioritizing Your Attention
 
-Whenever you have time available to act in a Role, you are responsible for considering the Next-Actions you could take, and executing whichever you believe would add the most value to the Organization. In assessing that, you must integrate any relative prioritizations and Strategies of the Circle holding your Role, as well as any acting upon that Circle itself. If you intend to prioritize in a way that is substantially opposed to these priorities, you must notify the relevant Circle Leads of your intent.
+Whenever you have time available to act in a Role, you are responsible for considering the Next-Actions you could take, and executing whichever you believe would add the most value to the Organization. In assessing that, you must integrate any relative prioritizations and Strategies defined by the Circle Leads of the Circle holding your Role or any Super-Circle thereof, or by any other Roles or processes with the authority to resolve priority conflicts and define Strategies for those Circles. If you intend to prioritize in a way that is substantially opposed to these, you must notify the relevant Circle Leads of your intent.
 
-If the Governance of a Circle includes a deadline specifying when something must be done by, you do not necessarily have to meet that deadline. Instead, you must interpret it as an official Circle prioritization of any actions needed to hit that deadline over any other actions for that Circle. A Circle Lead or another Role or process with the authority to judge Circle priorities may overrule this prioritization.
+If the Governance of a Circle includes a deadline specifying when something must be done by, you do not necessarily have to meet that deadline. Instead, you must interpret it as an official Circle prioritization of any actions needed to hit that deadline over any other actions for that Circle. A Circle Lead or another Role or process with the authority to resolve priority conflicts across Roles may overrule this prioritization.
 
 ### 2.3 Duties to Other Role-Fillers
 
@@ -483,11 +487,7 @@ All of your responsibilities and constraints as a Partner of the Organization co
 
 **Accountabilities:**
 
-- Defining Roles and/or Policies via the Circle's Governance Process to enact its Purpose and Accountabilities
-- Assigning Partners to the Circle’s Roles, monitoring the fit, and re-assigning Roles to other Partners to optimize fit
-- Judging the relative value of Circle efforts on request to resolve priority conflicts across Roles
-
-_The Circle Lead also holds all Accountabilities on the Circle to the extent they are not covered by the Circle's Roles or processes._
+_The Circle Lead holds all Accountabilities on the Circle to the extent they are not covered by the Circle's Roles or processes._
 
 ## Circle Rep
 
