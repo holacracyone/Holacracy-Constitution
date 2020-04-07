@@ -22,19 +22,17 @@ A Role may also contain ***“Policies”***, which are grants or constraints of
 
 ### 1.2 Role Assignment
 
-A Role may control who fills another Role through a Domain of Role assignment for that Role. Anyone controlling such a Domain may assign people to fill the target Role or remove people from that Role at any time. Anyone so assigned becomes the ***"Role Lead"*** for that Role. When a Role is unfilled, the Role Leads of the assigning Role are automatically considered the Role Leads of the unfilled Role as well.
+A Role may control who fills another Role through a Domain of Role assignment for that Role. Anyone controlling such a Domain may assign the target Role to anyone who accepts the assignment, including to several people simultaneously. Anyone so assigned becomes the ***"Role Lead"*** for that Role. A Role Lead may later resign from the assignment at any time, unless they’ve agreed otherwise. Whoever controls the assignment may also remove a Role Lead from the assignment at any time. A Policy may further constrain Role assignments or removals.
 
-#### 1.2.1 Eligibility
+#### 1.2.1 Default Assignment
 
-A Role may only be assigned to a Partner of the Organization, or to someone who has agreed to enact the duties required of the assignment. A Role may be assigned to several people simultaneously. A Policy may further constrain Role assignments or assignment removals.
+When a Role is unfilled, anyone who controls the assignment is automatically considered a Role Lead of the unfilled Role as well.
+
+When a Role has no Partners of the Organization assigned to fill it, then any Partner who controls the assignment is automatically considered a Role Lead of that Role as well. However, this default assignment only applies to the extent that those normally assigned are not actively fulfilling the responsibilities and duties that come with the assignment.
 
 #### 1.2.2 Focusing an Assignment
 
 A Role assigner may focus an assignment on only a specific area or context, if all elements in the Role definition are still relevant within that focus. When a focus is used, each assignment focus is treated like an entirely separate Role, and the Role's Purpose, Accountabilities, and Domains apply only within the focus specified for each assignment.
-
-#### 1.2.3 Resigning from Roles
-
-As a Partner, you may decline a Role assignment or resign from a Role at any time, unless you’ve agreed otherwise.
 
 ### 1.3 Circles
 
@@ -74,7 +72,7 @@ Two or more Roles may create a new Circle at any time to govern a shared Purpose
 
 ### 1.4 Circle Leads
 
-Any Partner serving as a Role Lead for a Role also automatically fills a ***“Circle Lead Role”*** within that Role's internal Circle, and is thus a ***“Circle Lead”*** while acting in that capacity. The Circle Lead Role has the definition given in Appendix A. A Circle with no Super-Circle has no Circle Leads, unless a Policy of the Circle says otherwise.
+Anyone serving as a Role Lead for a Role also automatically fills a ***“Circle Lead Role”*** within that Role's internal Circle, and is thus a ***“Circle Lead”*** while acting in that capacity. The Circle Lead Role has the definition given in Appendix A. A Circle with no Super-Circle has no Circle Leads, unless a Policy of the Circle says otherwise.
 
 #### 1.4.1 Defining Priorities & Strategies
 
@@ -230,7 +228,7 @@ In service of a Role, any Partner may convene a ***“Tactical Meeting”*** to 
 
 #### 2.4.1 Attendance
 
-The Partner convening a Tactical Meeting must name the Roles desired in that meeting. All Role Leads of those Roles are then invited to attend, unless the convener narrows the invite to include only a subset of Role Leads for a Role. The convener may choose the Facilitator of any relevant Circle to run the meeting.
+The Partner convening a Tactical Meeting must name the Roles desired in that meeting. All Partners serving as Role Leads of those Roles are then invited to attend, unless the convener narrows the invite to include only a subset of Role Leads for a Role. The convener may choose the Facilitator of any relevant Circle to run the meeting.
 
 #### 2.4.2 Meeting Process
 
