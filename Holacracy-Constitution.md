@@ -36,7 +36,7 @@ A Role assigner may focus an assignment on only a specific area or context, if a
 
 ### 1.3 Circles
 
-A ***“Circle”*** is a container for organizing Roles and Policies around a common Purpose. The Roles and Policies within a Circle make up its acting ***“Governance”***. No one may change a Circle's Governance except through its ***“Governance Process”***, described in Article 3.
+A ***“Circle”*** is a container for organizing Roles and Policies around a common Purpose. The Roles and Policies within a Circle make up its acting ***“Governance”***. No one may change a Circle's Governance except through its defined ***“Governance Process”***.
 
 #### 1.3.1 Breaking Down Roles
 
@@ -301,7 +301,7 @@ Any Partner may ask a Circle's Secretary to rule on the validity of any Governan
 
 ### 3.4 Changing Governance
 
-Any Circle Member of a Circle may propose changing its Governance. The ***“Proposer”*** may do this by circulating a ***“Proposal”*** to all other Circle Members. Those other Circle Members must then have the opportunity to raise concerns about adopting the Proposal. Each concern is an ***“Objection”*** if it meets the criteria herein, and the person who raised it is the ***“Objector”***. When making Proposals or raising Objections, a Circle Member may only represent the Roles in the Circle that they either fill as Role Lead or represent as Circle Rep. A Circle Member may also represent a Role that they have permission to temporarily represent from one of its Role Leads, until that permission expires or is withdrawn.
+Any Circle Member of a Circle may initiate its Governance Process by proposing a change to its Governance. To do so, the ***“Proposer”*** must first share a ***“Proposal”*** with all other Circle Members. Those other Circle Members then have the opportunity to raise concerns about adopting the Proposal. Each concern is an ***“Objection”*** if it meets the criteria herein, and the person who raised it is the ***“Objector”***. When making Proposals or raising Objections, a Circle Member may only represent the Roles in the Circle that they either fill as Role Lead or represent as Circle Rep. A Circle Member may also represent a Role that they have permission to temporarily represent from one of its Role Leads, until that permission expires or is withdrawn.
 
 If no Objections are raised to a Proposal, it is adopted and amends the Circle's Governance. If Objections are raised, the Proposer and each Objector must find a way to address the Objections before the Circle adopts the Proposal. After any such effort, all Circle Members must then be given an opportunity to raise Objections again.
 
