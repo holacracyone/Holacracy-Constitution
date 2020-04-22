@@ -62,7 +62,7 @@ Whenever you have time available to act in a Role, you are responsible for consi
 
 ### 1.4 Circles
 
-A ***“Circle”*** is a container for organizing Roles and Policies around a common Purpose. The Roles and Policies within a Circle make up its acting ***“Governance”***. No one may change a Circle's Governance except through its defined ***“Governance Process”***.
+A ***“Circle”*** is a container for organizing Roles and Policies around a common Purpose. The Roles and Policies within a Circle make up its acting ***“Governance”***.
 
 #### 1.4.1 Breaking Down Roles
 
@@ -74,13 +74,13 @@ A Role and its inner Circle is considered a ***“Sub-Circle”*** of the broade
 
 When a Circle grants a Domain to one of its Roles, any Role Lead for that Role may control that Domain on behalf of the Circle. A Circle may only grant Domains to its Roles that fall within the Circle's own Domains, or that are only relevant within its own internal processes.
 
-Once a Role controls a Domain, it may create Policies governing that Domain within its own Governance Process. However, the Circle that delegated the Domain retains the right to define its own Policies governing that Domain. Any such Policies trump those defined by the Role in the event of a conflict.
+Once a Role controls a Domain, it may create Policies governing that Domain within its own Governance. However, the Circle that delegated the Domain retains the right to define its own Policies governing that Domain as well. Any such Policies trump those defined by the Role in the event of a conflict.
 
 Granting a Domain to a Role does not delegate any rights the Circle has to control spending of money or assets, unless explicitly specified.
 
 #### 1.4.3 Anchor Circle
 
-The broadest Circle that holds the Purpose of the whole Organization is its ***“Anchor Circle”***. The Anchor Circle has no Super-Circle, and holds all authorities and Domains of the Organization. The Anchor Circle may change its own Purpose or Accountabilities via a Policy adopted in its Governance Process.
+The broadest Circle that holds the Purpose of the whole Organization is its ***“Anchor Circle”***. The Anchor Circle has no Super-Circle, and holds all authorities and Domains of the Organization. The Anchor Circle may change its own Purpose or Accountabilities via a Policy.
 
 The Ratifiers may define an initial structure and other Governance within the Anchor Circle upon adopting this Constitution.
 
@@ -88,7 +88,7 @@ The Ratifiers may define an initial structure and other Governance within the An
 
 A Role may link into another Circle if a Policy of that other Circle or any Super-Circle thereof invites it.
 
-Once linked into another Circle, a Role is considered part of the Governance of that other Circle. That Circle's Governance Process may add to the Role and later change what it adds. However, it may not delete the Role nor change anything added by another Circle, and nor may another Circle change or remove anything it adds. The authority to add or change assignments into the Role stays with its source Circle. The Circle a Role links into is not considered its Super-Circle, and nor is the Role's inner Circle considered its Sub-Circle.
+Once linked into another Circle, a Role is considered part of the Governance of that other Circle. That Circle may add to the Role and later change what it adds. However, it may not delete the Role nor change anything added by another Circle, and nor may another Circle change or remove anything it adds. The authority to add or change assignments into the Role stays with its source Circle. The Circle a Role links into is not considered its Super-Circle, and nor is the Role's inner Circle considered its Sub-Circle.
 
 A Circle may unlink a Role by removing the Policy that invited it to link, or by another mechanism defined in that Policy. A Role may also opt to remove itself from a Circle it linked into, unless a Policy within or acting upon the Role's Super-Circle says otherwise. Once unlinked from a Circle, any Governance added to the Role by that Circle is automatically removed.
 
@@ -106,7 +106,7 @@ A Circle Lead may judge the relative value of potential Circle efforts to resolv
 
 #### 1.5.2 Routing External References
 
-Whenever Governance outside the Circle references the Circle itself or any Role in the Circle, a Circle Lead may update that reference to instead refer to another Role in the Circle. This does not require using the Governance Process of any Circle.
+Whenever Governance outside the Circle references the Circle itself or any Role in the Circle, a Circle Lead may update that reference to instead refer to another Role in the Circle. This clarification is not considered a change to that Circle's Governance.
 
 #### 1.5.3 Amending the Circle Lead Role
 
@@ -237,6 +237,8 @@ Beyond that, all of your responsibilities and constraints as a Partner of the Or
 
 
 ## Article 5: Governance
+
+Changing a Circle's Governance requires using the ***“Governance Process”*** defined herein.
 
 ### 5.1 Governance Participants
 
