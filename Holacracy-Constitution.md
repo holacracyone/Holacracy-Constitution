@@ -2,9 +2,10 @@
 
 ## Preamble
 
-The ***“Ratifiers”*** are adopting this ***“Constitution”*** as the formal authority structure of the specified ***“Organization”***. In so doing, the Ratifiers cede their power to govern and run the Organization into the Constitution's rules and processes, except for any powers that the Ratifiers lack the authority to delegate. The Ratifiers and all other ***“Partners”*** the Organization has engaged to take part in its governance and operations must do so under the authorities and constraints defined herein.
+The ***“Ratifiers”*** are adopting this ***“Constitution”*** as the formal authority structure of the specified ***“Organization”***. The Ratifiers and all other ***“Partners”*** the Organization has engaged to take part in its governance and operations must do so in alignment with the rules and processes defined herein.
 
 The Ratifiers or their successors may amend this Constitution or repeal it using whatever process they relied upon to adopt it. Amendments must be in writing and published where all Partners can access them.
+
 
 ## Article 1: Organizational Structure
 
@@ -179,6 +180,8 @@ If an unelected Role invited to a Tactical Meeting is unrepresented in the meeti
 
 ## Article 4: Power Shift
 
+By adopting this Constitution, the Ratifiers cede their power to govern and run the Organization into the rules and processes herein, except for any powers that the Ratifiers lack the authority to delegate. As a Partner, you may rely upon the authorities granted by this Constitution to the full extent the Ratifiers held such authorities before adopting it.
+
 ### 4.1 Authority of Role-Fillers
 
 When filling a Role, you have the authority to take any action or make any decision to enact your Role’s Purpose or Accountabilities, as long as you don't break a rule defined in this Constitution.
@@ -231,8 +234,6 @@ You must prioritize the communication and restoration required by this section o
 Any existing policies and systems the Organization had in effect before adopting this Constitution continue in full force after adoption, even if they include authorities or constraints that were not created under the Constitution's processes. However, these legacy policies and systems may not be expanded or modified, and lose all weight and authority as soon as this Constitution's processes create something that replaces or contradicts them.
 
 Beyond that, all of your responsibilities and constraints as a Partner of the Organization come from this Constitution and the outputs of its processes, and from your legal duties to the Organization and while acting on its behalf. No implicit expectations or constraints carry any weight or authority. Nor do any dictates issued under the Organization's old power structure before it adopted this Constitution.
-
-As a Partner, you may rely upon the authorities granted by this Constitution to the full extent the Ratifiers held such authorities before adopting it.
 
 
 ## Article 5: Governance
