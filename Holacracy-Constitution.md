@@ -147,7 +147,7 @@ You have a duty to prioritize your attention in alignment with the following:
 
 - **(a) Processing:** You must generally prioritize processing inbound messages from other Roles over executing your own Next-Actions. However, you may delay processing messages until you can batch process at a convenient time, as long as your processing is still prompt. Processing includes engaging in any duties in this section, and then sharing how you processed the message upon request. Processing does not include executing upon any Next-Actions or Projects you capture.
 - **(b) Meetings:** You must prioritize attending any meeting defined in this Constitution over executing your own Next-Actions, but only if this prioritization was explicitly requested for a specific meeting. You may still decline the request if you already have plans scheduled over the meeting time.
-- **(c) Circle Priorities:** When choosing what to work on, you must consider any official Strategies or relative prioritizations of the Circle holding your Role or any Super-Circle thereof. Official priorities are those defined by a Circle Lead, or by any other Roles or processes with the authority to resolve priority conflicts and define Strategies for those Circles. You must generally align your choice of work with these official priorities unless you have a strong reason to deviate, in which case you must notify the relevant Circle Leads of your intent to do so.
+- **(c) Circle Priorities:** When choosing what to work on, you must consider any official Strategies or relative prioritizations of the Circle holding your Role or any Super-Circle thereof. Official priorities are those defined by a Circle Lead, or by any other Roles or processes with the authority to resolve priority conflicts and define Strategies for those Circles. You must then treat these official priorities as more important to the Organization than your own individual priorities or your own sense of the Organization's priorities.
 - **(d) Deadlines:** If the Governance of a Circle or any official Strategy or prioritization includes a deadline specifying when something must be done by, you do not necessarily have to meet that deadline. Instead, you must interpret that as an official prioritization of any actions needed to hit that deadline over any other actions for that Circle, and act accordingly. A Circle Lead or another Role or process with the authority to resolve priority conflicts across Roles may overrule this prioritization.
 
 
@@ -184,9 +184,9 @@ By adopting this Constitution, the Ratifiers cede their power to govern and run 
 
 ### 4.1 Authority of Role-Fillers
 
-When filling a Role, you have the authority to take any action or make any decision to enact your Role’s Purpose or Accountabilities, as long as you don't break a rule defined in this Constitution.
+When filling a Role, you have the authority to take any action or make any decision to enact your Role’s Purpose or Accountabilities, as long as you don't break a rule defined in this Constitution. When prioritizing and choosing among your potential actions, you may use your reasonable judgment of the relative value to the Organization of each.
 
-In so doing, you may use reasonable judgment to interpret this Constitution and anything under its authority. You may also interpret how these apply within any specific situation you face, and act based on your interpretations. However, you must interpret all Governance in the context of the Purpose and Accountabilities of the Circle containing it. You may not use any interpretation that conflicts with this context.
+You may also use your reasonable judgment to interpret this Constitution and anything under its authority. You may further interpret how these apply within any specific situation you face, and act based on your interpretations. However, you must interpret all Governance in the context of the Purpose and Accountabilities of the Circle containing it. You may not use any interpretation that conflicts with this context.
 
 #### 4.1.1 Don't Violate Policies
 
