@@ -4,7 +4,7 @@
 
 The ***“Ratifiers”*** are adopting this ***“Constitution”*** as the formal authority structure of the specified ***“Organization”***. The Ratifiers and all other ***“Partners”*** the Organization has engaged to take part in its governance and operations must do so in alignment with the rules and processes defined herein.
 
-The Ratifiers or their successors may amend this Constitution or repeal it using whatever process they relied upon to adopt it. Amendments must be in writing and published where all Partners can access them.
+The Ratifiers or their successors may amend this Constitution or repeal it using whatever authority they relied upon to adopt it. Amendments must be in writing and published to all Partners.
 
 
 ## Article 1: Organizational Structure
