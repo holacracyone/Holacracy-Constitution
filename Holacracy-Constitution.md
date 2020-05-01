@@ -80,7 +80,7 @@ Granting a Domain to a Role does not delegate any rights the Circle has to contr
 
 #### 1.4.3 Anchor Circle
 
-The broadest Circle that holds the Purpose of the whole Organization is its ***“Anchor Circle”***. The Anchor Circle has no Super-Circle, and holds all authorities and Domains of the Organization. The Anchor Circle may change its own Purpose or Accountabilities via a Policy.
+The broadest Circle that holds the Purpose of the whole Organization is its ***“Anchor Circle”***. The Anchor Circle holds all authorities and Domains that the Organization itself controls, and has no Super-Circle and no Accountabilities. The Anchor Circle may change its own Purpose via a Policy.
 
 The Ratifiers may define an initial structure and other Governance within the Anchor Circle upon adopting this Constitution.
 
@@ -94,7 +94,7 @@ A Circle may unlink a Role by removing the Policy that invited it to link, or by
 
 #### 1.4.5 Creating Circles Across Roles
 
-Two or more Roles may create a new Circle at any time to govern a shared Purpose across the Roles. To do so, the founding Roles must agree on an initial Purpose and any Accountabilities for the new Circle. The new Circle starts with the founding Roles linked into it, and a Policy inviting those links. A Circle created this way has no Super-Circle and no Domains, and may change its own Purpose or Accountabilities via a Policy. Such a Circle is immediately dissolved if it has no Roles linked into it at any point.
+Two or more Roles may create a new Circle at any time to govern a shared Purpose across the Roles. To do so, the founding Roles must agree on a Purpose for the new Circle, which it may later change via a Policy. The new Circle starts with the founding Roles linked into it, and a Policy inviting those links. A Circle created this way has no Super-Circle and no Accountabilities, and no Domains unless a Policy of another Circle delegates control of one to it. Such a Circle is immediately dissolved if it has no Roles linked into it at any point.
 
 ### 1.5 Circle Leads
 
