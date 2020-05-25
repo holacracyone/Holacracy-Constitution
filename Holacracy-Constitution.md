@@ -117,7 +117,7 @@ A Circle may add Accountabilities or Domains to its Circle Lead Role, and those 
 A Circle may remove any Accountabilities, Domains, authorities, or functions of its own Circle Lead Role. It can do this either by placing them on another Role in the Circle, or by defining an alternate means of enacting them. Doing this automatically removes the relevant element from the Circle's Circle Lead Role, for as long as the delegation remains in place.
 
 
-## Article 2: Duties to Other Role-Fillers
+## Article 2: Duties to Others
 
 As a Role Lead, you have the following duties to other Role Leads in the Organization when they're acting on behalf of their own Roles.
 
@@ -182,7 +182,7 @@ If any Role defined by a Circle and invited to a Tactical Meeting is unrepresent
 
 By adopting this Constitution, the Ratifiers cede their power to govern and run the Organization into the rules and processes herein, except for any powers that the Ratifiers lack the authority to delegate. As a Partner, you may rely upon the authorities granted by this Constitution to the full extent the Ratifiers held such authorities before adopting it.
 
-### 4.1 Authority of Role-Fillers
+### 4.1 Authority of Role Leads
 
 As a Role Lead, you have the authority to take any action or make any decision to enact your Role’s Purpose or Accountabilities, as long as you don't break a rule defined in this Constitution.
 
@@ -484,7 +484,7 @@ _The Circle Lead holds all Accountabilities on the Circle to the extent they are
 
 **Accountabilities:**
 
-- Seeking to understand Tensions conveyed by Role-fillers within the Circle
+- Seeking to understand Tensions conveyed by Role Leads within the Circle
 - Discerning Tensions appropriate to process within a broader Circle that holds the Circle
 - Processing Tensions within a broader Circle to remove constraints on the Circle
 
