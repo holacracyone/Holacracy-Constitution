@@ -246,7 +246,7 @@ Changing a Circle's Governance requires using the ***“Governance Process”***
 
 Each Circle has a group of ***"Circle Members"*** who may represent its Roles in its Governance Process.
 
-A Circle's Circle Members include all Partners filling its Circle Lead Role, as well as each Partner serving as Role Lead for a Role in the Circle. If a Role has multiple Role Leads, a Circle may adopt a Policy to limit how many of them represent that Role as Circle Members in its Governance Process.
+A Circle's Circle Members are those Partners filling its Circle Lead Role, as well as each Partner serving as Role Lead for a Role in the Circle. If a Role has multiple Role Leads, a Circle may adopt a Policy to limit how many of them represent that Role as Circle Members in its Governance Process.
 
 #### 5.1.1 Circle Reps
 
