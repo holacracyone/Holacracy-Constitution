@@ -301,34 +301,40 @@ Once each Circle Member confirms they have no Objections to a Proposal, it is ad
 
 When making Proposals or raising Objections, a Circle Member may only represent the Roles in the Circle that they either fill as Role Lead or represent as Circle Rep. A Circle Member may also represent a Role that they have permission to temporarily represent from one of its Role Leads, until that permission expires or is withdrawn.
 
-#### 5.3.1 Criteria for Valid Proposals
+#### 5.3.1 Criteria for Valid Governance Tensions
+
+For a Tension underlying a Proposal or Objection to be valid, the Proposer or Objector, resp. must be able to:
+
+- **(a)** describe the Tension and describe how it impacts one of the Proposer/Objector's Roles; and
+- **(b)** share an example of an actual past or present situation illustrating that Tension; or share an example in which the Circle wouldn't have an adequate opportunity to adapt before significant harm could result; and
+
+#### 5.3.2 Criteria for Valid Proposals
 
 For a Proposal to be valid, the Proposer must be able to:
 
-- **(a)** describe a Tension that the Proposal would address for one of the Proposer's Roles; and
-- **(b)** share an example of an actual past or present situation illustrating that Tension; and
-- **(c)** give a reasonable explanation of how the Proposal would have reduced the Tension in that example.
+- **(a)** show that the Tension underlying the Proposal fulfills the validity criteria described above; and
+- **(b)** give a reasonable explanation of how the Proposal would have reduced the Tension in the example shared in (a).
 
 If at any point it becomes clear to the Facilitator that a Proposal does not meet these criteria, the Facilitator must discard the Proposal.
 
-#### 5.3.2 Criteria for Valid Objections
+#### 5.3.3 Criteria for Valid Objections
 
-A concern about adopting a Proposal only counts as an Objection if the Objector can provide a reasonable argument for why it meets **all** of the following criteria:
+A concern about adopting a Proposal only counts as an Objection if the Objector is able to:
 
-- **(a)** The Proposal would reduce the capacity of the Circle to enact its Purpose or Accountabilities.
-- **(b)** The Proposal would limit the Objector's capacity to enact the Purpose or an Accountability of a Role the Objector represents in the Circle, even if the Objector filled no other Roles in the Organization.
-- **(c)** The concern does not already exist even in the absence of the Proposal. Thus, a new Tension would be created specifically by adopting the Proposal.
-- **(d)** The Proposal would necessarily cause the impact, or, if it might cause the impact, the Circle wouldn't have an adequate opportunity to adapt before significant harm could result.
+- **(a)** show that the Tension created by the Proposal fulfills the validity criteria described above; and
+- **(b)** describe how the Proposal would reduce the capacity of the Circle to enact its Purpose or Accountabilities; and
+- **(c)** explain how the Proposal would limit the Objector's capacity to enact the Purpose or an Accountability of a Role the Objector represents in the Circle, even if the Objector filled no other Roles in the Organization; and
+- **(d)** justify that the Tension does not already exist even in the absence of the Proposal.
 
 However, regardless of the above criteria, a concern always counts as an Objection if adopting the Proposal would violate a rule in this Constitution.
 
-#### 5.3.3 Testing Objections
+#### 5.3.4 Testing Objections
 
 The Facilitator may test whether a concern counts as an Objection by asking the Objector if the concern meets the required criteria, and how. When assessing responses, the Facilitator may only judge whether the Objector presented arguments for each criteria using logical reasoning. The Facilitator may not judge on the basis of an argument’s accuracy or the importance of addressing it.
 
 When an Objection is claimed because adopting a Proposal would violate the Constitution, the Facilitator may ask the Circle’s Secretary to interpret if that's true. If the Secretary rules that it is not, the Facilitator must then dismiss the Objection.
 
-#### 5.3.4 Rules of Integration
+#### 5.3.5 Rules of Integration
 
 While attempting to resolve an Objection, the following rules apply:
 
@@ -337,7 +343,7 @@ While attempting to resolve an Objection, the following rules apply:
 - **(c)** Any Circle Member may ask the Proposer clarifying questions about the Tension behind the Proposal, or about any examples the Proposer shared to illustrate the Tension. If the Facilitator believes the Proposer is not answering them in good faith, the Facilitator must deem the Proposal dropped.
 - **(d)** The Objector may suggest an amended Proposal, and offer reasonable arguments for why it should resolve the Tension. Then, upon the Objector’s request, the Proposer must present a reasonable argument for why the amended Proposal would fail to resolve the Tension in at least one of the examples the Proposer used to illustrate the Tension. If needed, the Proposer may add another example to illustrate why the amended Proposal would fail to resolve the Tension. If the Facilitator believes the Proposer is unable or unwilling to do so, the Facilitator must deem the Proposal dropped.
 
-#### 5.3.5 Integrative Election Process
+#### 5.3.6 Integrative Election Process
 
 Any Circle Member may also initiate the Circle's Governance Process by calling for an election for a Circle Rep, Facilitator, or Secretary. The acting Facilitator must then enact the ***“Integrative Election Process”*** as follows:
 
@@ -350,7 +356,7 @@ Any Circle Member may also initiate the Circle's Governance Process by calling f
 
 A Circle may adopt a Policy to define a time limit for nominating a candidate or responding to a Proposal during the Integrative Election Process. After that time limit is reached, the Facilitator must exclude anyone who has not responded from the remainder of the process.
 
-#### 5.3.6 Surrogates for Facilitator & Secretary
+#### 5.3.7 Surrogates for Facilitator & Secretary
 
 A surrogate may act as Facilitator or Secretary while the Role is unfilled. A surrogate may also fill in when the normal Facilitator or Secretary is unavailable when needed, or requests a surrogate for any reason.
 
