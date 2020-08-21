@@ -2,7 +2,7 @@
 
 ## Preamble
 
-The ***“Ratifiers”*** are adopting this ***“Constitution”*** as the formal authority structure of the specified ***“Organization”***. The Ratifiers and all other ***“Partners”*** the Organization has engaged to take part in its governance and operations must do so in alignment with the rules and processes defined herein.
+The ***“Ratifiers”*** are adopting this ***“Constitution”*** as the formal authority structure of the specified ***“Organization”***. The Ratifiers and all other ***“Partners”*** that the Organization has engaged to take part in its governance and operations must do so in alignment with the rules and processes defined herein.
 
 The Ratifiers or their successors may amend this Constitution or repeal it using whatever authority they relied upon to adopt it. Amendments must be in writing and published to all Partners.
 
@@ -11,7 +11,7 @@ The Ratifiers or their successors may amend this Constitution or repeal it using
 
 ### 1.1 Role Definition
 
-A ***“Role”*** is an organizational construct that someone can fill and then energize on behalf of the Organization.  A Role definition consists of a descriptive name and one or more of the following:
+A ***“Role”*** is an organizational construct that a person can fill and then energize on behalf of the Organization.  A Role definition consists of a descriptive name and one or more of the following:
 
 - **(a)** a ***“Purpose”***, which is a capacity, potential, or goal that the Role will pursue or express.
 - **(b)** one or more ***“Domains”***, which are assets, processes, or other things the Role may exclusively control and regulate as its property, for its purpose.
@@ -21,13 +21,13 @@ A Role may also hold ***“Policies”***, which are grants or constraints of au
 
 ### 1.2 Role Assignment
 
-A Role may control who fills another Role through a Domain of Role assignment for that Role. Anyone controlling such a Domain may assign the target Role to anyone willing to fill it, including to several people simultaneously. Whoever fills a Role becomes its ***"Role Lead"***. A Role Lead may later resign from filling the Role at any time, unless they’ve agreed otherwise. Whoever controls the assignment may also remove a Role Lead from filling the Role at any time. A Policy may further constrain Role assignments or removals.
+A Role may control which person fills another Role through a Domain of Role assignment for that Role. Anyone controlling such a Domain may assign the target Role to anyone willing to fill it, including to several people simultaneously. Whoever fills a Role becomes its ***"Role Lead"***. A Role Lead may later resign from filling the Role at any time, unless they’ve agreed otherwise. Whoever controls the assignment may also remove a Role Lead from filling the Role at any time. A Policy may further constrain Role assignments or removals.
 
 #### 1.2.1 Default Assignment
 
 When a Role is unfilled, anyone who controls the assignment is automatically considered a Role Lead of the unfilled Role as well.
 
-When a Role has no Partners of the Organization among its Role Leads, then any Partner who controls the assignment is automatically considered a Role Lead of that Role as well. However, this default assignment only applies to the extent that those normally assigned are not actively fulfilling the responsibilities and duties that come with the assignment.
+When a Role is filled but not by anyone who is a Partner of the Organization, then any Partner who controls the assignment is automatically considered a Role Lead of that Role as well. However, this default assignment only applies to the extent that the non-Partners assigned to the Role are not actively fulfilling the relevant responsibilities and duties.
 
 #### 1.2.2 Focusing an Assignment
 
@@ -88,7 +88,7 @@ The Ratifiers may define an initial structure and other Governance within the An
 
 A Role may link into another Circle if a Policy of that other Circle or any Super-Circle thereof invites it.
 
-Once linked into another Circle, a Role is considered part of the Governance of that other Circle. That Circle may add to the Role and later change what it adds. However, it may not delete the Role nor change anything added by another Circle, and nor may another Circle change or remove anything it adds. The authority to add or change assignments into the Role stays with its source Circle. The Circle a Role links into is not considered its Super-Circle, and nor is the Role's inner Circle considered its Sub-Circle.
+Once linked into another Circle, a Role is considered part of the Governance of that other Circle. That Circle may add to the Role and later change what it adds. However, it may not delete the Role nor change anything added by another Circle, and another Circle may not change or remove anything it adds. The authority to add or change assignments into the Role stays with its source Circle. The Circle a Role links into is not considered its Super-Circle, and nor is the Role's inner Circle considered its Sub-Circle.
 
 A Circle may unlink a Role by removing the Policy that invited it to link, or by another mechanism defined in that Policy. A Role may also opt to remove itself from a Circle it linked into, unless a Policy within or acting upon the Role's Super-Circle says otherwise. Once unlinked from a Circle, any Governance added to the Role by that Circle is automatically removed.
 
@@ -133,7 +133,7 @@ You have a duty to provide transparency in any of the following areas upon reque
 You have a duty to promptly process messages and requests, as follows:
 
 - **(a) Requests for Processing:** Others may ask you to process the Purpose or any Accountability or Project of your Role. You must then determine and communicate a Next-Action to move it forward, if there are any you could take. If there are not, you must instead share what you’re waiting on before you can take a Next-Action. If the Next-Action or waiting-on you share is part of a broader outcome for your Role to pursue, you must also capture and communicate that as a Project.
-- **(b) Requests for Projects & Next-Actions:** Others may ask you to take on a specific Next-Action or Project in your Role. You must accept and track it if you believe it would make sense to work towards in your Role, at least in the absence of competing priorities. If you don't, then you must either explain your reasoning, or suggest something else that you believe will meet the requester’s goal instead.
+- **(b) Requests for Projects & Next-Actions:** Others may ask you to take on a specific Next-Action or Project in your Role. You must accept and track it if you believe it would make sense to work towards in your Role, at least in the absence of competing priorities. If you don't, then you must either explain your reasoning, or suggest something else you believe will meet the requester’s goal instead.
 - **(c) Requests to Impact Domain:** Others may ask to impact a Domain controlled by your Role. You must allow the impact if you see no reason it will reduce your capacity to enact your Role's Purpose or Accountabilities. If you do see such a reason, you must explain it to the requester.
 - **(d) Requests for Information:** Others may ask you questions or request information relevant to your Role. You must respond in good faith with at least brief answers or any information that's readily available to you.
 
@@ -198,13 +198,13 @@ You may also impact any Domain held by a Circle containing your Role and not fur
 
 You may not exert control or cause a material impact on a Domain delegated to a Role or Circle that doesn't contain your Role, unless you get permission. Nor may you do so on a Domain owned by another sovereign entity without permission.
 
-When you need permission to impact a Domain, you may get it from whomever controls that Domain. You may also get permission by announcing your intent to take a specific action, and inviting anyone with a relevant Domain to object. You must then wait a reasonable time to allow responses. If no one objects in that time, you then have permission to impact any Domains owned by any Role in the Organization that your announcement reached. You may assume a written announcement reached anyone who typically reads messages in the channel you used. Any permission so granted only applies while taking the specific action you announced. A Policy may change or constrain this process.
+When you need permission to impact a Domain, you may get it from whomever controls that Domain. You may also get permission by announcing your intent to take a specific action, and inviting anyone with a relevant Domain to object. You must then wait a reasonable time to allow responses. If no one objects in that time, you then have permission to impact any Domains owned by any Role in the Organization that your announcement reached. You may assume a written announcement has reached anyone who typically reads messages in the channel you used. Any permission so granted only applies while taking the specific action you announced. A Policy may change or constrain this process.
 
 #### 4.1.3 Get Authorization Before Spending Money
 
 While energizing your Role, you may not spend any money or other assets unless you first get authorized to do so. This authorization must come from a Role or Circle that already has control of those resources for spending purposes. It counts as spending if you dispose of significant property of the Circle, or significantly limit any of its rights.
 
-To get authorized to spend, you must announce your intent to spend in writing to the Role or Circle you're seeking authorization from. You must share this announcement where all Partners serving as Role Leads of that Role or within that Circle will typically see it. Your statement must include the reason for the spending, and the Role you'll spend from. You must then wait a reasonable time to allow consideration and responses. Any recipient of your announcement may escalate the spending for extra consideration, and you may not proceed with the spending if escalated. However, a Role Lead or Circle Lead of the Role or Circle you're seeking authorization from may reverse an escalation, as may the person who escalated it. Once a reasonable time has passed and no escalations stand, your Role gains control of those resources. You may spend them for your stated purpose, or further authorize others to. The Role or Circle you got authorization from in turn loses this control, however a Role Lead or Circle Lead of that Role or Circle may revoke the authorization at any time.
+To get authorized to spend, you must announce your intent to spend in writing to the Role or Circle you're seeking authorization from. You must share this announcement where all Partners serving as Role Leads of that Role or within that Circle will typically see it. Your statement must include the reason for the spending, and the Role you'll spend from. You must then wait a reasonable time to allow consideration and responses. Any recipient of your announcement may escalate the spending for extra consideration, and you may not proceed with the spending if escalated. However, a Role Lead or Circle Lead of the Role or Circle you're seeking authorization from may reverse an escalation, as may the person who escalated it. Once a reasonable time has passed and no escalations stand, your Role gains control of those resources. You may spend them for your stated purpose, or further authorize others to. The Role or Circle you got this authorization from also loses this control, however a Role Lead or Circle Lead of that Role or Circle may revoke the authorization at any time.
 
 A Policy may change this process in any way, or directly authorize a Role to control spending of the Circle's resources.
 
@@ -223,7 +223,7 @@ You may only take Individual Initiative when all of the following are true:
 
 #### 4.2.2 Communication & Restoration
 
-Upon taking Individual Initiative, you must explain your action to any Role Leads who may be significantly affected. Upon request of any such Role Lead, you must take further actions to help resolve any Tensions created by your Individual Initiative. You must also refrain from taking similar Individual Initiative upon request of any such Role Lead.
+Upon taking Individual Initiative, you must explain your action to any Role Leads who you believe may be significantly affected. Upon request of any such Role Lead, you must take further actions to help resolve any Tensions created by your Individual Initiative. You must also refrain from taking similar Individual Initiative upon request of any such Role Lead.
 
 You must prioritize the communication and restoration required by this section over your regular work. However, a Circle Lead of a Circle that contains all Roles affected by your action may change this default priority.
 
