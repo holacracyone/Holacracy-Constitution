@@ -297,7 +297,7 @@ Once each Circle Member confirms they have no Objections to a Proposal, it is ad
 
 When making Proposals or raising Objections, a Circle Member may only represent the Roles in the Circle that they either fill as Role Lead or represent as Circle Rep. A Circle Member may also represent a Role that they have permission to temporarily represent from one of its Role Leads, until that permission expires or is withdrawn.
 
-#### 5.3.1 Criteria for Valid Proposals
+#### 5.3.1 Proposal Requirements
 
 For a Proposal to be valid, the Proposer must be able to:
 
@@ -307,7 +307,7 @@ For a Proposal to be valid, the Proposer must be able to:
 
 If at any point it becomes clear to the Facilitator that a Proposal does not meet these criteria, the Facilitator must discard the Proposal.
 
-#### 5.3.2 Criteria for Valid Objections
+#### 5.3.2 Objection Requirements
 
 A concern about adopting a Proposal only counts as an Objection if the Objector can provide a reasonable argument for why it meets **all** of the following criteria:
 
@@ -318,7 +318,7 @@ A concern about adopting a Proposal only counts as an Objection if the Objector 
 
 However, regardless of the above criteria, a concern always counts as an Objection if adopting the Proposal would violate a rule in this Constitution.
 
-#### 5.3.3 Testing Objections
+#### 5.3.3 Testing Potential Objections
 
 The Facilitator may test whether a concern counts as an Objection by asking the Objector if the concern meets the required criteria, and how. When assessing responses, the Facilitator may only judge whether the Objector presented arguments for each criteria using logical reasoning. The Facilitator may not judge on the basis of an argument’s accuracy or the importance of addressing it.
 
