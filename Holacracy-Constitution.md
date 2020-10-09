@@ -223,7 +223,7 @@ You may only take Individual Initiative when all of the following are true:
 
 #### 4.2.2 Communication & Restoration
 
-Upon taking Individual Initiative, you must explain your action to any Role Leads who you believe may be significantly affected. Upon request of any such Role Lead, you must take further actions to help resolve any Tensions created by your Individual Initiative. You must also refrain from taking similar Individual Initiative upon request of any such Role Lead.
+Upon taking Individual Initiative, you must explain your action to any Role Leads who you believe may be significantly impacted. Upon request of any such Role Lead, you must take further actions to help resolve any Tensions created by your Individual Initiative. You must also refrain from taking similar Individual Initiative upon request of any such Role Lead.
 
 You must prioritize the communication and restoration required by this section over your regular work. However, a Circle Lead of a Circle that contains all Roles affected by your action may change this default priority.
 
