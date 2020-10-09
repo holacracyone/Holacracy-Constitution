@@ -127,6 +127,7 @@ You have a duty to provide transparency in any of the following areas upon reque
 - **(d) Checklist Items:** You must verify completion of any recurring actions that you perform for your Roles or as a Partner of the Organization. If requested, you must continue to share these verifications regularly, until you believe they are no longer useful.
 - **(e) Metrics:** You must share any metrics you collect in your Roles or as a Partner of the Organization. If requested, you must continue to share these metrics regularly, until you determine they are no longer useful.
 - **(f) Progress Updates:** You must share a summary of progress you've made in your Role or towards any of your Role's Projects since the last update you shared. If requested, you must continue to share these updates regularly, until you determine they are no longer useful.
+- **(g) Other Information:** You must share any other information that's relevant to your Roles and readily available to you.
 
 ### 2.2 Duty of Processing
 
@@ -135,7 +136,6 @@ You have a duty to promptly process messages and requests, as follows:
 - **(a) Requests for Processing:** Others may ask you to process the Purpose or any Accountability or Project of your Role. You must then determine and communicate a Next-Action to move it forward, if there are any you could take. If there are not, you must instead share what you’re waiting for before you can take a Next-Action. If whatever you share is part of a broader outcome you are pursuing in your Role, you must also capture and communicate that as a Project.
 - **(b) Requests for Projects & Next-Actions:** Others may ask you to take on a specific Next-Action or Project in your Role. You must accept and track it if you believe it would make sense to work towards in your Role, at least in the absence of competing priorities. If you don't, then you must either explain your reasoning, or suggest something else you believe will meet the requester’s goal instead.
 - **(c) Requests to Impact Domain:** Others may ask to impact a Domain controlled by your Role. You must allow the impact if you see no reason it will reduce your capacity to enact your Role's Purpose or Accountabilities. If you do see such a reason, you must explain it to the requester.
-- **(d) Requests for Information:** Others may ask you questions or request information relevant to your Role. You must respond in good faith with at least brief answers or any information that's readily available to you.
 
 ### 2.3 Duty of Prioritization
 
