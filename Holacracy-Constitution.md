@@ -80,7 +80,7 @@ Granting a Domain to a Role does not delegate any rights the Circle has to contr
 
 #### 1.4.3 Anchor Circle
 
-The broadest Circle that holds the Purpose of the whole Organization is its ***“Anchor Circle”***. The Anchor Circle holds all authorities and Domains that the Organization itself controls, and has no Super-Circle and no Accountabilities. The Anchor Circle may change its own Purpose via a Policy.
+The broadest Circle that holds the Purpose of the whole Organization is its ***“Anchor Circle”***. The Anchor Circle holds all authorities and Domains that the Organization itself controls, and has no Super-Circle. The Anchor Circle may add accountabilities and change its own Purpose via a Policy.
 
 The Ratifiers may define an initial structure and other Governance within the Anchor Circle upon adopting this Constitution.
 
