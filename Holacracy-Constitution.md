@@ -450,13 +450,13 @@ A Process Breakdown in one Circle is not automatically considered a Process Brea
 
 The Organization may grant Partner status to anyone who has agreed to abide by all relevant terms of this Constitution. This creates a ***“Partner Relationship”*** between that person and the Organization. Any promises either party makes to the other in conjunction with the grant of Partner status are part of that Partner Relationship. Unless otherwise agreed, each party needs the other's consent to change these agreements. However, either party may still end the Partner Relationship without the consent of the other. Doing so immediately ends that person's rights and responsibilities as a Partner.
 
-### 6.2 Working Agreements
+### 6.2 Relational Agreements
 
-The Organization's Partners may make ***“Working Agreements”*** with each other. These are agreements about how the Partners will relate together or fulfill their general functions as Partners. They must focus on shaping behaviors that generally underpin work. They may not set expectations of work to do in a Role, nor expectations about how a Partner will prioritize across different Roles. Further, they may only specify concrete acts to do or behavioral constraints to honor. They may not include promises to achieve specific outcomes or embody abstract qualities.
+The Organization's Partners may make ***“Relational Agreements”*** with each other. These are agreements about how the Partners will relate together or fulfill their general functions as Partners. They must focus on shaping behaviors that generally underpin work. They may not set expectations of work to do in a Role, nor expectations about how a Partner will prioritize across different Roles. Further, they may only specify concrete acts to do or behavioral constraints to honor. They may not include promises to achieve specific outcomes or embody abstract qualities.
 
-As a Partner, you may request a Working Agreement of another Partner for your own personal preferences or to serve a Role you fill. That Partner may accept or reject the requested Working Agreement based on their own personal preferences. Either party may later terminate the agreement without the consent of the other party, unless otherwise agreed.
+As a Partner, you may request a Relational Agreement of another Partner for your own personal preferences or to serve a Role you fill. That Partner may accept or reject the requested Relational Agreement based on their own personal preferences. Either party may later terminate the agreement without the consent of the other party, unless otherwise agreed.
 
-As a Partner, you have a duty to align your behavior with any Working Agreements you have made. Anyone facilitating a meeting or process may also enforce Working Agreements during that meeting or process, as long as they don't conflict with anything defined in this Constitution.
+As a Partner, you have a duty to align your behavior with any Relational Agreements you have made. Anyone facilitating a meeting or process may also enforce Relational Agreements during that meeting or process, as long as they don't conflict with anything defined in this Constitution.
 
 ---
 
