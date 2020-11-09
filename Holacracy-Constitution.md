@@ -456,7 +456,7 @@ The Organization's Partners may make ***“Relational Agreements”*** with each
 
 As a Partner, you may request a Relational Agreement of another Partner for your own personal preferences or to serve a Role you fill. That Partner may accept or reject the requested Relational Agreement based on their own personal preferences. Either party may later terminate the agreement without the consent of the other party, unless otherwise agreed.
 
-As a Partner, you have a duty to align your behavior with any Relational Agreements you have made. Anyone facilitating a meeting or process may also enforce Relational Agreements during that meeting or process, as long as they don't conflict with anything defined in this Constitution.
+As a Partner, you have a duty to align your behavior with any written Relational Agreements you have made. Anyone facilitating a meeting or process may also enforce these Relational Agreements during that meeting or process, as long as they don't conflict with anything defined in this Constitution.
 
 ---
 
