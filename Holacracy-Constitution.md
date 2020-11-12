@@ -2,9 +2,11 @@
 
 ## Preamble
 
-The ***“Ratifiers”*** are adopting this ***“Constitution”*** as the formal authority structure of the specified ***“Organization”***. The Ratifiers and all other ***“Partners”*** that the Organization has engaged to take part in its governance and operations must do so in alignment with the rules and processes defined herein.
+The ***“Ratifiers”*** hereby adopt this ***“Constitution”*** as the formal authority structure of the specified ***“Organization”***. In so doing, the Ratifiers cede their power to govern and run the Organization into the rules and processes herein, except for any powers that the Ratifiers lack the authority to delegate. The Ratifiers or their successors may amend this Constitution or repeal it using whatever authority they relied upon to adopt it, provided that any amendments are made in writing.
 
-The Ratifiers or their successors may amend this Constitution or repeal it using whatever authority they relied upon to adopt it. Amendments must be in writing and published to all Partners.
+Any existing policies and systems the Organization had in effect before adopting this Constitution continue in full force after adoption, however they may not be expanded upon or modified except by the authorities and processes defined herein. These legacy policies and systems further lose all weight and authority as soon as this Constitution's processes create something that replaces or contradicts them.
+
+The Organization may designate other ***“Partners”*** in addition to the Ratifiers to assist with its governance and operations, provided any such Partners have also agreed to abide by all relevant terms of this Constitution. Each Partner may rely upon the authorities granted by this Constitution to the full extent that the Ratifiers held such authorities before adopting it. All of the responsibilities and constraints on a Partner come from this Constitution and the outputs of its processes, and from any legal duties the Partner has to the Organization and while acting on its behalf. No implicit expectations or constraints have any power over a Partner, and nor do any dictates issued outside the authority granted by this Constitution.
 
 
 ## Article 1: Organizational Structure
@@ -174,17 +176,13 @@ A Policy of a Circle may specify an alternate process or amend this default proc
 If any Role defined by a Circle and invited to a Tactical Meeting is unrepresented in the meeting for any reason, a Circle Lead of that Role's Super-Circle may instead represent that Role during the meeting.
 
 
-## Article 4: Power Shift
+## Article 4: Authority of Role Leads
 
-By adopting this Constitution, the Ratifiers cede their power to govern and run the Organization into the rules and processes herein, except for any powers that the Ratifiers lack the authority to delegate. As a Partner, you may rely upon the authorities granted by this Constitution to the full extent the Ratifiers held such authorities before adopting it.
+As a Role Lead, you have the authority to take any action or make any decision to enact your Role’s Purpose or Accountabilities, as long as you don't break a rule defined in this Constitution. When prioritizing and choosing among your potential actions, you may use your own reasonable judgment of the relative value to the Organization of each.
 
-### 4.1 Authority of Role Leads
+### 4.1 Constraints on Authority
 
-As a Role Lead, you have the authority to take any action or make any decision to enact your Role’s Purpose or Accountabilities, as long as you don't break a rule defined in this Constitution.
-
-When prioritizing and choosing among your potential actions, you have the authority to use your own reasonable judgment of the relative value to the Organization of each.
-
-You may also use your reasonable judgment to interpret this Constitution and anything under its authority. You may further interpret how these apply within any specific situation you face, and act based on your interpretations. However, you must interpret all Governance in the context of the Purpose and Accountabilities of the Circle containing it. You may not use any interpretation that conflicts with this context.
+As a Role Lead, you must honor the following constraints on your authority.
 
 #### 4.1.1 Don't Violate Policies
 
@@ -202,17 +200,21 @@ When you need permission to impact a Domain, you may get it from whomever contro
 
 #### 4.1.3 Get Authorization Before Spending Money
 
-While energizing your Role, you may not spend any money or other assets unless you first get authorized to do so. This authorization must come from a Role or Circle that already has control of those resources for spending purposes. It counts as spending if you dispose of significant property of the Circle, or significantly limit any of its rights.
+You may not spend any money or other assets unless you first get authorized to do so. This authorization must come from a Role that already has control of those resources for spending purposes. It counts as spending if you dispose of significant property of the Organization, or significantly limit any of its rights.
 
-To get authorized to spend, you must announce your intent to spend in writing to the Role or Circle you're seeking authorization from. You must share this announcement where all Partners serving as Role Leads of that Role or within that Circle will typically see it. Your statement must include the reason for the spending, and the Role you'll spend from. You must then wait a reasonable time to allow consideration and responses. Any recipient of your announcement may escalate the spending for extra consideration, and you may not proceed with the spending if escalated. However, a Role Lead or Circle Lead of the Role or Circle you're seeking authorization from may reverse an escalation, as may the person who escalated it. Once a reasonable time has passed and no escalations stand, your Role gains control of those resources. You may spend them for your stated purpose, or further authorize others to. The Role or Circle you got this authorization from also loses this control, however a Role Lead or Circle Lead of that Role or Circle may revoke the authorization at any time.
+To get authorized to spend, you must announce your intent to spend in writing to the Role you're seeking authorization from. You must share this announcement where all Partners serving as Role Leads of that Role or within that Role will typically see it. Your statement must include the reason for the spending, and the Role you'll spend from. You must then wait a reasonable time to allow consideration and responses. Any recipient of your announcement may escalate the spending for extra consideration, and you may not proceed with the spending if escalated. However, a Role Lead of the Role you're seeking authorization from may reverse an escalation, as may the person who escalated it. Once a reasonable time has passed and no escalations stand, your Role gains control of those resources. You may spend them for your stated purpose, or further authorize others to. The Role you got this authorization from also loses this control, however a Role Lead of that Role may revoke the authorization at any time.
 
 A Policy may change this process in any way, or directly authorize a Role to control spending of the Circle's resources.
 
-### 4.2 Individual Initiative
+### 4.2 Interpretation Authority
 
-As a Partner of the Organization, in some cases you are authorized to take ***“Individual Initiative”*** by acting beyond the authority of your Roles or by breaking rules in this Constitution.
+As a Partner, you may use your reasonable judgment to interpret this Constitution and anything under its authority. You may further interpret how these apply within any specific situation you face, and act based on your interpretations. However, you must interpret all Governance in the context of the Purpose and Accountabilities of the Circle containing it. You may not use any interpretation that conflicts with this context.
 
-#### 4.2.1 Allowed Situations
+### 4.3 Individual Initiative
+
+As a Partner, in some cases you are authorized to take ***“Individual Initiative”*** by acting beyond the authority of your Roles or by breaking rules in this Constitution.
+
+#### 4.3.1 Allowed Situations
 
 You may only take Individual Initiative when all of the following are true:
 
@@ -221,17 +223,11 @@ You may only take Individual Initiative when all of the following are true:
 - **(c)** Your action would not commit the Organization to any spending beyond what you’re already authorized to spend.
 - **(d)** If your action would violate any Policies or Domains, you believe much value would be lost from delaying to get permission or change Governance.
 
-#### 4.2.2 Communication & Restoration
+#### 4.3.2 Communication & Restoration
 
 Upon taking Individual Initiative, you must explain your action to any Role Leads who you believe may be significantly impacted. Upon request of any such Role Lead, you must take further actions to help resolve any Tensions created by your Individual Initiative. You must also refrain from taking similar Individual Initiative upon request of any such Role Lead.
 
 You must prioritize the communication and restoration required by this section over your regular work. However, a Circle Lead of a Circle that contains all Roles affected by your action may change this default priority.
-
-### 4.3 Navigating Legacy Power
-
-Any existing policies and systems the Organization had in effect before adopting this Constitution continue in full force after adoption, even if they include authorities or constraints that were not created under the Constitution's processes. However, these legacy policies and systems may not be expanded or modified, and lose all weight and authority as soon as this Constitution's processes create something that replaces or contradicts them.
-
-Beyond that, all of your responsibilities and constraints as a Partner of the Organization come from this Constitution and the outputs of its processes, and from your legal duties to the Organization and while acting on its behalf. No implicit expectations or constraints carry any weight or authority. Nor do any dictates issued under the Organization's old power structure before it adopted this Constitution.
 
 
 ## Article 5: Governance
@@ -448,7 +444,7 @@ A Process Breakdown in one Circle is not automatically considered a Process Brea
 
 ### 6.1 Partner Relationships
 
-The Organization may grant Partner status to anyone who has agreed to abide by all relevant terms of this Constitution. This creates a ***“Partner Relationship”*** between that person and the Organization. Any promises either party makes to the other in conjunction with the grant of Partner status are part of that Partner Relationship. Unless otherwise agreed, each party needs the other's consent to change these agreements. However, either party may still end the Partner Relationship without the consent of the other. Doing so immediately ends that person's rights and responsibilities as a Partner.
+When the Organization grants Partner status to someone, it creates a ***“Partner Relationship”*** between that person and the Organization. Any promises either party makes to the other in conjunction with the grant of Partner status are part of that Partner Relationship. Unless otherwise agreed, each party needs the other's consent to change these agreements. However, either party may still end the Partner Relationship without the consent of the other. Doing so immediately ends that person's rights and responsibilities as a Partner.
 
 ### 6.2 Relational Agreements
 
