@@ -115,49 +115,15 @@ A Circle may add Accountabilities or Domains to its Circle Lead Role, and those 
 A Circle may remove any Accountabilities, Domains, authorities, or functions of its own Circle Lead Role. It can do this either by placing them on another Role in the Circle, or by defining an alternate means of enacting them. Doing this automatically removes the relevant element from the Circle's Circle Lead Role, for as long as the delegation remains in place.
 
 
-## Article 2: Duties to Others
-
-As a Role Lead, you have the following duties to other Role Leads in the Organization when they're acting on behalf of their own Roles.
-
-### 2.1 Duty of Transparency
-
-You have a duty to provide transparency in any of the following areas upon request:
-
-- **(a) Projects & Next-Actions:** You must share any Projects and Next-Actions you are tracking for your Roles.
-- **(b) Relative Priority:** You must share your judgment of the relative priority of any of your Role's Projects or Next-Actions vs. anything else competing for your attention.
-- **(c) Projections:** You must provide a projection of when you expect to complete any of your Role's Projects or Next-Actions. A rough estimate is enough, considering your current context and priorities. Detailed analysis or planning is not required, and this projection is not a commitment in any way. Unless Governance says otherwise, you have no duty to track the projection or follow-up with the recipient if it changes.
-- **(d) Checklist Items:** You must verify completion of any recurring actions that you perform for your Roles or as a Partner of the Organization. If requested, you must continue to share these verifications regularly, until you believe they are no longer useful.
-- **(e) Metrics:** You must share any metrics you collect in your Roles or as a Partner of the Organization. If requested, you must continue to share these metrics regularly, until you determine they are no longer useful.
-- **(f) Progress Updates:** You must share a summary of progress you've made in your Role or towards any of your Role's Projects since the last update you shared. If requested, you must continue to share these updates regularly, until you determine they are no longer useful.
-- **(g) Other Information:** You must share any other information that's relevant to your Roles and readily available to you.
-
-### 2.2 Duty of Processing
-
-You have a duty to promptly process messages and requests, as follows:
-
-- **(a) Requests for Processing:** Others may ask you to process the Purpose or any Accountability or Project of your Role. You must then determine and communicate a Next-Action to move it forward, if there are any you could take. If there are not, you must instead share what you’re waiting for before you can take a Next-Action. If whatever you share is part of a broader outcome you are pursuing in your Role, you must also capture and communicate that as a Project.
-- **(b) Requests for Projects & Next-Actions:** Others may ask you to take on a specific Next-Action or Project in your Role. You must accept and track it if you believe it would make sense to work towards in your Role, at least in the absence of competing priorities. If you don't, then you must either explain your reasoning, or suggest something else you believe will meet the requester’s goal instead.
-- **(c) Requests to Impact Domain:** Others may ask to impact a Domain controlled by your Role. You must allow the impact if you see no reason it will reduce your capacity to enact your Role's Purpose or Accountabilities. If you do see such a reason, you must explain it to the requester.
-
-### 2.3 Duty of Prioritization
-
-You have a duty to prioritize your attention in alignment with the following:
-
-- **(a) Processing:** You must generally prioritize processing inbound messages from other Roles over executing your own Next-Actions. However, you may delay processing messages until you can batch process at a convenient time, as long as your processing is still prompt. Processing includes engaging in any duties in this Article, and then sharing how you processed the message upon request. Processing does not include executing upon any Next-Actions or Projects you capture.
-- **(b) Meetings:** You must prioritize attending any meeting defined in this Constitution over executing your own Next-Actions, but only when this prioritization is explicitly requested for a specific meeting. You may still decline the request if you already have plans scheduled over the meeting time.
-- **(c) Circle Priorities:** When choosing what to work on, you must consider any official Strategies or relative prioritizations of the Circle holding your Role or any Super-Circle thereof. Official priorities are those defined by a Circle Lead, or by any other Roles or processes with the authority to resolve priority conflicts and define Strategies for a Circle. You must then treat these official priorities as more important to the Organization than your own individual priorities or your own judgment of the Organization's priorities.
-- **(d) Deadlines:** If the Governance or any official Strategy or prioritization of a Circle includes a deadline specifying when something must be done by, you do not necessarily have to meet that deadline. Instead, you must interpret that as an official prioritization of any actions needed to hit that deadline over any other actions for that Circle, and act accordingly. A Circle Lead or another Role or process with the authority to resolve priority conflicts across Roles may overrule this prioritization.
-
-
-## Article 3: Tactical Meetings
+## Article 2: Tactical Meetings
 
 In service of a Role, any Partner may convene a ***“Tactical Meeting”*** to engage other Roles in their responsibilities and duties.
 
-### 3.1 Attendance
+### 2.1 Attendance
 
 The Partner convening a Tactical Meeting must name the Roles desired in that meeting. All Partners serving as Role Leads of those Roles are then invited to attend, unless the convener narrows the invite to include only a subset of Role Leads for a Role.
 
-### 3.2 Meeting Process
+### 2.2 Meeting Process
 
 The Partner convening a Tactical Meeting must find someone to facilitate it. Unless a Policy says otherwise, that person must use the following process:
 
@@ -171,76 +137,56 @@ The Partner convening a Tactical Meeting must find someone to facilitate it. Unl
 
 A Policy of a Circle may specify an alternate process or amend this default process for Tactical Meetings called by any of the Circle's Roles.
 
-### 3.3 Surrogate for Absent Members
+### 2.3 Surrogate for Absent Members
 
 If any Role defined by a Circle and invited to a Tactical Meeting is unrepresented in the meeting for any reason, a Circle Lead of that Role's Super-Circle may instead represent that Role during the meeting.
 
 
-## Article 4: Authority of Role Leads
+## Article 3: Duties to Others
 
-As a Role Lead, you have the authority to take any action or make any decision to enact your Role’s Purpose or Accountabilities, as long as you don't break a rule defined in this Constitution. When prioritizing and choosing among your potential actions, you may use your own reasonable judgment of the relative value to the Organization of each.
+As a Role Lead, you have the following duties to other Role Leads in the Organization when they're acting on behalf of their own Roles.
 
-### 4.1 Constraints on Authority
+### 3.1 Duty of Transparency
 
-As a Role Lead, you must honor the following constraints on your authority.
+You have a duty to provide transparency in any of the following areas upon request:
 
-#### 4.1.1 Don't Violate Policies
+- **(a) Projects & Next-Actions:** You must share any Projects and Next-Actions you are tracking for your Roles.
+- **(b) Relative Priority:** You must share your judgment of the relative priority of any of your Role's Projects or Next-Actions vs. anything else competing for your attention.
+- **(c) Projections:** You must provide a projection of when you expect to complete any of your Role's Projects or Next-Actions. A rough estimate is enough, considering your current context and priorities. Detailed analysis or planning is not required, and this projection is not a commitment in any way. Unless Governance says otherwise, you have no duty to track the projection or follow-up with the recipient if it changes.
+- **(d) Checklist Items:** You must verify completion of any recurring actions that you perform for your Roles or as a Partner of the Organization. If requested, you must continue to share these verifications regularly, until you believe they are no longer useful.
+- **(e) Metrics:** You must share any metrics you collect in your Roles or as a Partner of the Organization. If requested, you must continue to share these metrics regularly, until you determine they are no longer useful.
+- **(f) Progress Updates:** You must share a summary of progress you've made in your Role or towards any of your Role's Projects since the last update you shared. If requested, you must continue to share these updates regularly, until you determine they are no longer useful.
+- **(g) Other Information:** You must share any other information that's relevant to your Roles and readily available to you.
 
-While acting in a Role, you may not violate any Policies of the Role itself or of any Circle containing the Role.
+### 3.2 Duty of Processing
 
-#### 4.1.2 Get Permission Before Impacting Domains
+You have a duty to promptly process messages and requests, as follows:
 
-In service of your Role, you have the authority to impact and control your Role's Domains.
+- **(a) Requests for Processing:** Others may ask you to process the Purpose or any Accountability or Project of your Role. You must then determine and communicate a Next-Action to move it forward, if there are any you could take. If there are not, you must instead share what you’re waiting for before you can take a Next-Action. If whatever you share is part of a broader outcome you are pursuing in your Role, you must also capture and communicate that as a Project.
+- **(b) Requests for Projects & Next-Actions:** Others may ask you to take on a specific Next-Action or Project in your Role. You must accept and track it if you believe it would make sense to work towards in your Role, at least in the absence of competing priorities. If you don't, then you must either explain your reasoning, or suggest something else you believe will meet the requester’s goal instead.
+- **(c) Requests to Impact Domain:** Others may ask to impact a Domain controlled by your Role. You must allow the impact if you see no reason it will reduce your capacity to enact your Role's Purpose or Accountabilities. If you do see such a reason, you must explain it to the requester.
 
-You may also impact any Domain held by a Circle containing your Role and not further delegated, or any Domain such a Circle itself may impact. But if you believe your impact will be substantially difficult or expensive to undo, you need to get permission.
+### 3.3 Duty of Prioritization
 
-You may not exert control or cause a material impact on a Domain delegated to a Role or Circle that doesn't contain your Role, unless you get permission. Nor may you do so on a Domain owned by another sovereign entity without permission.
+You have a duty to prioritize your attention in alignment with the following:
 
-When you need permission to impact a Domain, you may get it from whomever controls that Domain. You may also get permission by announcing your intent to take a specific action, and inviting anyone with a relevant Domain to object. You must then wait a reasonable time to allow responses. If no one objects in that time, you then have permission to impact any Domains owned by any Role in the Organization that your announcement reached. You may assume a written announcement has reached anyone who typically reads messages in the channel you used. Any permission so granted only applies while taking the specific action you announced. A Policy may change or constrain this process.
-
-#### 4.1.3 Get Authorization Before Spending Money
-
-You may not spend any money or other assets unless you first get authorized to do so. This authorization must come from a Role that already has control of those resources for spending purposes. It counts as spending if you dispose of significant property of the Organization, or significantly limit any of its rights.
-
-To get authorized to spend, you must announce your intent to spend in writing to the Role you're seeking authorization from. You must share this announcement where all Partners serving as Role Leads of that Role or within that Role will typically see it. Your statement must include the reason for the spending, and the Role you'll spend from. You must then wait a reasonable time to allow consideration and responses. Any recipient of your announcement may escalate the spending for extra consideration, and you may not proceed with the spending if escalated. However, a Role Lead of the Role you're seeking authorization from may reverse an escalation, as may the person who escalated it. Once a reasonable time has passed and no escalations stand, your Role gains control of those resources. You may spend them for your stated purpose, or further authorize others to. The Role you got this authorization from also loses this control, however a Role Lead of that Role may revoke the authorization at any time.
-
-A Policy may change this process in any way, or directly authorize a Role to control spending of the Circle's resources.
-
-### 4.2 Interpretation Authority
-
-As a Partner, you may use your reasonable judgment to interpret this Constitution and anything under its authority. You may further interpret how these apply within any specific situation you face, and act based on your interpretations. However, you must interpret all Governance in the context of the Purpose and Accountabilities of the Circle containing it. You may not use any interpretation that conflicts with this context.
-
-### 4.3 Individual Initiative
-
-As a Partner, in some cases you are authorized to take ***“Individual Initiative”*** by acting beyond the authority of your Roles or by breaking rules in this Constitution.
-
-#### 4.3.1 Allowed Situations
-
-You may only take Individual Initiative when all of the following are true:
-
-- **(a)** You are acting in good faith to serve the Purpose or express the Accountabilities of some Role within the Organization.
-- **(b)** You believe your action would resolve or prevent more Tension for the Organization than it would likely create.
-- **(c)** Your action would not commit the Organization to any spending beyond what you’re already authorized to spend.
-- **(d)** If your action would violate any Policies or Domains, you believe much value would be lost from delaying to get permission or change Governance.
-
-#### 4.3.2 Communication & Restoration
-
-Upon taking Individual Initiative, you must explain your action to any Role Leads who you believe may be significantly impacted. Upon request of any such Role Lead, you must take further actions to help resolve any Tensions created by your Individual Initiative. You must also refrain from taking similar Individual Initiative upon request of any such Role Lead.
-
-You must prioritize the communication and restoration required by this section over your regular work. However, a Circle Lead of a Circle that contains all Roles affected by your action may change this default priority.
+- **(a) Processing:** You must generally prioritize processing inbound messages from other Roles over executing your own Next-Actions. However, you may delay processing messages until you can batch process at a convenient time, as long as your processing is still prompt. Processing includes engaging in any duties in this Article, and then sharing how you processed the message upon request. Processing does not include executing upon any Next-Actions or Projects you capture.
+- **(b) Meetings:** You must prioritize attending any meeting defined in this Constitution over executing your own Next-Actions, but only when this prioritization is explicitly requested for a specific meeting. You may still decline the request if you already have plans scheduled over the meeting time.
+- **(c) Circle Priorities:** When choosing what to work on, you must consider any official Strategies or relative prioritizations of the Circle holding your Role or any Super-Circle thereof. Official priorities are those defined by a Circle Lead, or by any other Roles or processes with the authority to resolve priority conflicts and define Strategies for a Circle. You must then treat these official priorities as more important to the Organization than your own individual priorities or your own judgment of the Organization's priorities.
+- **(d) Deadlines:** If the Governance or any official Strategy or prioritization of a Circle includes a deadline specifying when something must be done by, you do not necessarily have to meet that deadline. Instead, you must interpret that as an official prioritization of any actions needed to hit that deadline over any other actions for that Circle, and act accordingly. A Circle Lead or another Role or process with the authority to resolve priority conflicts across Roles may overrule this prioritization.
 
 
-## Article 5: Governance
+## Article 4: Governance
 
 Changing a Circle's Governance requires using the ***“Governance Process”*** defined herein.
 
-### 5.1 Governance Participants
+### 4.1 Governance Participants
 
 Each Circle has a group of ***"Circle Members"*** who may represent its Roles in its Governance Process.
 
 A Circle's Circle Members are those Partners filling its Circle Lead Role, as well as each Partner serving as Role Lead for a Role in the Circle. If a Role has multiple Role Leads, a Circle may adopt a Policy to limit how many of them represent that Role as Circle Members in its Governance Process.
 
-#### 5.1.1 Circle Reps
+#### 4.1.1 Circle Reps
 
 Any Circle Member of a Circle may request an election at any time to select or replace someone as the Circle's ***"Circle Rep"*** to help represent that Circle within any broader Circle containing it. The selected Circle Rep fills the ***"Circle Rep Role"*** in the Circle, as defined in Appendix A.
 
@@ -250,7 +196,7 @@ The selected Circle Rep becomes a Circle Member of any Circle containing that Ci
 
 A Circle may add Accountabilities or Domains to its own Circle Rep Role, as well as amend or remove those additions. No Circle may amend or remove the Purpose or any Accountabilities on the Circle Rep Role, nor remove the Role.
 
-#### 5.1.2 Facilitator and Secretary
+#### 4.1.2 Facilitator and Secretary
 
 Any Circle with more than one Circle Member includes a ***“Facilitator Role”*** and a ***“Secretary Role”***, as defined in Appendix A. The person acting in each becomes the Circle’s ***“Facilitator”*** and ***“Secretary”*** respectively. Any Circle Member of a Circle may request an election at any time to fill or replace someone as the Circle's Facilitator or Secretary.
 
@@ -258,7 +204,7 @@ The Circle must use the Integrative Election Process defined herein to select a 
 
 A Circle may add Accountabilities or Domains to its own Facilitator or Secretary Role, as well as amend or remove those additions. No Circle may amend or remove the Purpose, Domain, or any Accountabilities on either Role, nor remove the Role.
 
-### 5.2 Scope of Governance
+### 4.2 Scope of Governance
 
 Within a Circle's Governance Process, its Circle Members may:
 
@@ -270,7 +216,7 @@ Within a Circle's Governance Process, its Circle Members may:
 
 No other decisions are valid outputs from a Circle's Governance Process.
 
-#### 5.2.1 Scope of Policy
+#### 4.2.1 Scope of Policy
 
 A Policy may only be one or more of the following:
 
@@ -281,11 +227,11 @@ A Policy may only be one or more of the following:
 
 A Policy that grants or constrains authority applies in all Sub-Circles as well, recursively, unless otherwise stated. A Policy that changes a default rule or process in the Constitution applies only within the Circle that holds the Policy, or, if explicitly stated, within all Sub-Circles as well, recursively. In the latter case, a Sub-Circle may still override that Policy via one of its own, unless explicitly forbidden in the original Policy.
 
-#### 5.2.2 Striking Invalid Governance
+#### 4.2.2 Striking Invalid Governance
 
 Any Partner may ask a Circle's Secretary to rule on the validity of any Governance within that Circle or any Sub-Circle thereof. If the Secretary concludes it violates the rules of this Constitution, the Secretary must strike it from the Circle's records. After doing so, the Secretary must promptly communicate what they struck and why to all of that Circle's Circle Members.
 
-### 5.3 Governance Process
+### 4.3 Governance Process
 
 Any Circle Member of a Circle may initiate its Governance Process by proposing a change to its Governance. To do so, the ***“Proposer”*** must first share a ***“Proposal”*** in writing with all other Circle Members, using any communication channel allowed by the Secretary. Those other Circle Members may then ask clarifying questions, share reactions, and raise concerns about adopting the Proposal. Each concern is an ***“Objection”*** if it meets the criteria herein, and the person who raised it is the ***“Objector”***.
 
@@ -293,7 +239,7 @@ Once each Circle Member confirms they have no Objections to a Proposal, it is ad
 
 When making Proposals or raising Objections, a Circle Member may only represent the Roles in the Circle that they either fill as Role Lead or represent as Circle Rep. A Circle Member may also represent a Role that they have permission to temporarily represent from one of its Role Leads, until that permission expires or is withdrawn.
 
-#### 5.3.1 Proposal Requirements
+#### 4.3.1 Proposal Requirements
 
 For a Proposal to be valid, the Proposer must be able to:
 
@@ -303,7 +249,7 @@ For a Proposal to be valid, the Proposer must be able to:
 
 If at any point it becomes clear to the Facilitator that a Proposal does not meet these criteria, the Facilitator must discard the Proposal.
 
-#### 5.3.2 Objection Requirements
+#### 4.3.2 Objection Requirements
 
 A concern about adopting a Proposal only counts as an Objection if the Objector can provide a reasonable argument for why it meets **all** of the following criteria:
 
@@ -314,13 +260,13 @@ A concern about adopting a Proposal only counts as an Objection if the Objector 
 
 However, regardless of the above criteria, a concern always counts as an Objection if adopting the Proposal would violate a rule in this Constitution.
 
-#### 5.3.3 Testing Potential Objections
+#### 4.3.3 Testing Potential Objections
 
 The Facilitator may test whether a concern counts as an Objection by asking the Objector if the concern meets the required criteria, and how. When assessing responses, the Facilitator may only judge whether the Objector presented arguments for each criteria using logical reasoning. The Facilitator may not judge on the basis of an argument’s accuracy or the importance of addressing it.
 
 When an Objection is claimed because adopting a Proposal would violate the Constitution, the Facilitator may ask the Circle’s Secretary to interpret if that's true. If the Secretary rules that it is not, the Facilitator must then dismiss the Objection.
 
-#### 5.3.4 Rules of Integration
+#### 4.3.4 Rules of Integration
 
 While attempting to resolve an Objection, the following rules apply:
 
@@ -329,7 +275,7 @@ While attempting to resolve an Objection, the following rules apply:
 - **(c)** Any Circle Member may ask the Proposer clarifying questions about the Tension behind the Proposal, or about any examples the Proposer shared to illustrate the Tension. If the Facilitator believes the Proposer is not answering them in good faith, the Facilitator must deem the Proposal dropped.
 - **(d)** The Objector may suggest an amended Proposal, and offer reasonable arguments for why it should resolve the Tension. Then, upon the Objector’s request, the Proposer must present a reasonable argument for why the amended Proposal would fail to resolve the Tension in at least one of the examples the Proposer used to illustrate the Tension. If needed, the Proposer may add another example to illustrate why the amended Proposal would fail to resolve the Tension. If the Facilitator believes the Proposer is unable or unwilling to do so, the Facilitator must deem the Proposal dropped.
 
-#### 5.3.5 Integrative Election Process
+#### 4.3.5 Integrative Election Process
 
 Any Circle Member may also initiate the Circle's Governance Process by calling for an election for a Circle Rep, Facilitator, or Secretary. The acting Facilitator must then enact the ***“Integrative Election Process”*** as follows:
 
@@ -342,7 +288,7 @@ Any Circle Member may also initiate the Circle's Governance Process by calling f
 
 A Circle may adopt a Policy to define a time limit for nominating a candidate or responding to a Proposal during the Integrative Election Process. After that time limit is reached, the Facilitator must exclude anyone who has not responded from the remainder of the process.
 
-#### 5.3.6 Surrogates for Facilitator & Secretary
+#### 4.3.6 Surrogates for Facilitator & Secretary
 
 A surrogate may act as Facilitator or Secretary while the Role is unfilled. A surrogate may also fill in when the normal Facilitator or Secretary is unavailable when needed, or requests a surrogate for any reason.
 
@@ -353,13 +299,13 @@ Whenever a surrogate is needed, the surrogate is, in this order of precedence:
 - **(c)** the Circle Lead of the Circle, or, if there are multiple Circle Leads, the first one to declare themselves acting as surrogate; or
 - **(d)** the first Circle Member to declare themselves acting as surrogate.
 
-### 5.4 Governance Meetings
+### 4.4 Governance Meetings
 
 In addition to processing Proposals made asynchronously outside of meetings, each Circle will also hold regular ***"Governance Meetings"*** to enact the Circle’s Governance Process in real time. At any point while the Circle is processing a Proposal asynchronously, any Circle Member may request the Proposal go to a Governance Meeting for real-time processing instead, and the asynchronous processing must then immediately stop.
 
 The Circle's Secretary is responsible for scheduling its Governance Meetings, and its Facilitator is responsible for facilitating them in alignment with the rules herein. In addition to any regularly-scheduled Governance Meetings of the Circle, the Secretary must schedule special Governance Meetings promptly upon request of any Circle Member. The requester may further specify an intention for a special Governance Meeting and any limits on what the meeting may change. This may include focusing the meeting on a specific Tension, or limiting it to only modifying certain Roles. In that case, the authority of that special Governance Meeting is constrained to only processing Proposals for the stated intent, and only making changes within the stated limits.
 
-#### 5.4.1 Attendance
+#### 4.4.1 Attendance
 
 All Circle Members of a Circle may participate in its Governance Meetings. The acting Facilitator and Secretary may also participate even if they are not Circle Members of the Circle. In that case, they become temporary Circle Members for the duration of the meeting.
 
@@ -367,7 +313,7 @@ As a Circle Rep for a Circle, you may invite any Partner to join the Governance 
 
 Beyond the above, no one else may participate in a Circle’s Governance Meetings.
 
-#### 5.4.2 Notice & Duration
+#### 4.4.2 Notice & Duration
 
 A Circle may only conduct a Governance Meeting if the Secretary gave all Circle Members reasonable advance notice of the meeting. Beyond that, there is no quorum required for a Circle to conduct a Governance Meeting, unless a Policy specifies one.
 
@@ -375,7 +321,7 @@ Governance Meetings end once they reach the duration initially scheduled by the 
 
 Any Circle Member who misses part or all of a Governance Meeting counts as having had a chance to raise concerns about any Proposals made therein. Thus, a Circle may adopt Proposals in a Governance Meeting without regard for absent members.
 
-#### 5.4.3 Meeting Process
+#### 4.4.3 Meeting Process
 
 The Facilitator must use the following process for Governance Meetings:
 
@@ -387,7 +333,7 @@ At any point during this process, a participant may request a ***“Time Out”*
 
 A Policy of the Circle may add to this process, but may not conflict with any rules or requirements defined in this Article of the Constitution.
 
-#### 5.4.4 Agenda Building
+#### 4.4.4 Agenda Building
 
 The Facilitator builds an agenda of Tensions to process by soliciting agenda items from all participants. The Facilitator must do this in the meeting and not beforehand. Each participant may add as many agenda items as desired by providing a short label for each, with no explanation or discussion allowed. Participants may add more agenda items during the meeting, between the processing of any existing agenda items.
 
@@ -395,7 +341,7 @@ For a regular Governance Meeting, the Facilitator may choose the order in which 
 
 Agenda items are processed one at a time. To process a request for an election, the Facilitator uses the Integrative Election Process. To process anything else, the Facilitator uses the Integrative Decision-Making Process defined below.
 
-#### 5.4.5 Integrative Decision-Making Process
+#### 4.4.5 Integrative Decision-Making Process
 
 The Facilitator must enact the ***“Integrative Decision-Making Process”*** as follows:
 
@@ -406,7 +352,7 @@ The Facilitator must enact the ***“Integrative Decision-Making Process”*** a
 - **(e) Objection Round:** Next, each participant, one at a time, may raise concerns about adopting the Proposal. The Facilitator must either capture these concerns as Objections, or test them to see if they meet the Objection criteria and capture any that do. If there are no Objections, the Proposal is adopted. While testing concerns and capturing Objections, the Facilitator must stop and disallow discussion or responses of any kind from anyone other than the Objector.
 - **(f) Integration:** If there are Objections, the Facilitator then focuses on each one, one at a time. For each, the participants brainstorm to find a potential amendment to the Proposal to resolve the Objection. The Facilitator marks an Objection resolved once the Objector confirms that the amended Proposal would not trigger the Objection, and the Proposer confirms that it still addresses the Tension. During this step, the Facilitator must apply the rules of integration described in this Article. Once all Objections are resolved, the Facilitator moves back to the Objection round with the amended Proposal.
 
-### 5.5 Conflicts of Interpretation
+### 4.5 Conflicts of Interpretation
 
 As a Partner, your interpretation of this Constitution and the Organization's Governance may sometimes conflict with another Partner's. When that happens, either party may ask the Secretary of any affected Circle to rule on which interpretation to use. Before a Secretary responds, each party may use their own interpretation. After a Secretary responds, everyone must align with that Secretary's ruling until the relevant text or context changes.
 
@@ -414,15 +360,15 @@ After ruling on an interpretation, a Secretary may publish the ruling and the lo
 
 You may appeal a Secretary's interpretation to the Secretary of any Super-Circle. A Super-Circle Secretary may overrule the interpretation of any Sub-Circle Secretary.
 
-### 5.6 Process Breakdown
+### 4.6 Process Breakdown
 
 A ***“Process Breakdown”*** occurs when a Circle shows a pattern of behavior or output that violates the rules of this Constitution. The Facilitator or Secretary of a Circle may declare a Process Breakdown in their own Circle or any Sub-Circle, using their reasonable judgment.
 
-#### 5.6.1 Breakdown from Failed Governance
+#### 4.6.1 Breakdown from Failed Governance
 
 A Circle's Facilitator may also declare a Process Breakdown in the Circle if a Proposal fails to reach a resolution after those involved spend a reasonable amount of time and effort seeking resolution.
 
-#### 5.6.2 Process Restoration
+#### 4.6.2 Process Restoration
 
 Whenever an authorized party declares a Process Breakdown within a Circle, the following occurs:
 
@@ -435,9 +381,63 @@ These authorities end as soon as due process is restored in the Circle, as asses
 
 If the Circle in Process Breakdown has no Super-Circle, then the powers above all vest with its own Facilitator instead.
 
-#### 5.6.3 Escalation of Process Breakdown
+#### 4.6.3 Escalation of Process Breakdown
 
 A Process Breakdown in one Circle is not automatically considered a Process Breakdown of its Super-Circle. However, if it remains unresolved for an unreasonable time, then the Super-Circle is also considered in a Process Breakdown.
+
+
+## Article 5: Authority of Role Leads
+
+As a Role Lead, you have the authority to take any action or make any decision to enact your Role’s Purpose or Accountabilities, as long as you don't break a rule defined in this Constitution. When prioritizing and choosing among your potential actions, you may use your own reasonable judgment of the relative value to the Organization of each.
+
+### 5.1 Constraints on Authority
+
+As a Role Lead, you must honor the following constraints on your authority.
+
+#### 5.1.1 Don't Violate Policies
+
+While acting in a Role, you may not violate any Policies of the Role itself or of any Circle containing the Role.
+
+#### 5.1.2 Get Permission Before Impacting Domains
+
+In service of your Role, you have the authority to impact and control your Role's Domains.
+
+You may also impact any Domain held by a Circle containing your Role and not further delegated, or any Domain such a Circle itself may impact. But if you believe your impact will be substantially difficult or expensive to undo, you need to get permission.
+
+You may not exert control or cause a material impact on a Domain delegated to a Role or Circle that doesn't contain your Role, unless you get permission. Nor may you do so on a Domain owned by another sovereign entity without permission.
+
+When you need permission to impact a Domain, you may get it from whomever controls that Domain. You may also get permission by announcing your intent to take a specific action, and inviting anyone with a relevant Domain to object. You must then wait a reasonable time to allow responses. If no one objects in that time, you then have permission to impact any Domains owned by any Role in the Organization that your announcement reached. You may assume a written announcement has reached anyone who typically reads messages in the channel you used. Any permission so granted only applies while taking the specific action you announced. A Policy may change or constrain this process.
+
+#### 5.1.3 Get Authorization Before Spending Money
+
+You may not spend any money or other assets unless you first get authorized to do so. This authorization must come from a Role that already has control of those resources for spending purposes. It counts as spending if you dispose of significant property of the Organization, or significantly limit any of its rights.
+
+To get authorized to spend, you must announce your intent to spend in writing to the Role you're seeking authorization from. You must share this announcement where all Partners serving as Role Leads of that Role or within that Role will typically see it. Your statement must include the reason for the spending, and the Role you'll spend from. You must then wait a reasonable time to allow consideration and responses. Any recipient of your announcement may escalate the spending for extra consideration, and you may not proceed with the spending if escalated. However, a Role Lead of the Role you're seeking authorization from may reverse an escalation, as may the person who escalated it. Once a reasonable time has passed and no escalations stand, your Role gains control of those resources. You may spend them for your stated purpose, or further authorize others to. The Role you got this authorization from also loses this control, however a Role Lead of that Role may revoke the authorization at any time.
+
+A Policy may change this process in any way, or directly authorize a Role to control spending of the Circle's resources.
+
+### 5.2 Interpretation Authority
+
+As a Partner, you may use your reasonable judgment to interpret this Constitution and anything under its authority. You may further interpret how these apply within any specific situation you face, and act based on your interpretations. However, you must interpret all Governance in the context of the Purpose and Accountabilities of the Circle containing it. You may not use any interpretation that conflicts with this context.
+
+### 5.3 Individual Initiative
+
+As a Partner, in some cases you are authorized to take ***“Individual Initiative”*** by acting beyond the authority of your Roles or by breaking rules in this Constitution.
+
+#### 5.3.1 Allowed Situations
+
+You may only take Individual Initiative when all of the following are true:
+
+- **(a)** You are acting in good faith to serve the Purpose or express the Accountabilities of some Role within the Organization.
+- **(b)** You believe your action would resolve or prevent more Tension for the Organization than it would likely create.
+- **(c)** Your action would not commit the Organization to any spending beyond what you’re already authorized to spend.
+- **(d)** If your action would violate any Policies or Domains, you believe much value would be lost from delaying to get permission or change Governance.
+
+#### 5.3.2 Communication & Restoration
+
+Upon taking Individual Initiative, you must explain your action to any Role Leads who you believe may be significantly impacted. Upon request of any such Role Lead, you must take further actions to help resolve any Tensions created by your Individual Initiative. You must also refrain from taking similar Individual Initiative upon request of any such Role Lead.
+
+You must prioritize the communication and restoration required by this section over your regular work. However, a Circle Lead of a Circle that contains all Roles affected by your action may change this default priority.
 
 
 ## Article 6: People & Partnership
