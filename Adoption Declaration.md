@@ -19,7 +19,7 @@ The Ratifier(s) named below hereby adopt the following sections of the Holacracy
 
 - If Article 4 is not adopted, Circle Leads exclusively may edit the Governance within their Circle at any time or allow others to do so, and resolve any conflicts of interpretation of their Circle's Governance, unless otherwise specified by a broader Circle Lead or by the Ratifiers.
 
-#### [\_\_] Article 5: Authority of Role-Fillers
+#### [\_\_] Article 5: Authority of Role Leads
 
 - If Article 5 is not adopted, Role Leads must align all actions and decisions with any guidance or directions given by a Circle Lead of their Circle or any broader Circle, unless otherwise specified by a broader Circle Lead or by the Ratifiers.
 
