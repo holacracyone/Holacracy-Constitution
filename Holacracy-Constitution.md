@@ -68,9 +68,9 @@ A ***“Circle”*** is a container for organizing Roles and Policies around a c
 
 #### 1.4.1 Breaking Down Roles
 
-Every Role is also a Circle internally. A Role's inner Circle can hold Roles and Policies to break down and organize the work of that Role. This does not apply to the Roles defined in Appendix A, which may not be further broken down.
+The inside of every Role is a Circle. This Circle can hold its own Roles and Policies to break down and organize its work. This does not apply to the Roles defined in Appendix A, which may not be further broken down.
 
-A Role's inner Circle is considered a ***“Sub-Circle”*** of the broader Circle that holds the Role, while that broader Circle is its ***“Super-Circle”***.
+A Role's internal Circle is considered a ***“Sub-Circle”*** of the broader Circle that holds the Role, while that broader Circle is its ***“Super-Circle”***.
 
 #### 1.4.2 Delegating Domains
 
