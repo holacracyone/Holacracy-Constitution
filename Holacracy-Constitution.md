@@ -23,7 +23,7 @@ A Role may also hold ***“Policies”***, which are grants or constraints of au
 
 ### 1.2 Role Assignment
 
-A Role may control which person fills another Role through a Domain of Role assignment for that Role. Anyone controlling such a Domain may assign the target Role to anyone willing to fill it, including to several people simultaneously. Whoever fills a Role becomes its ***"Role Lead"***. A Role Lead may later resign from filling the Role at any time, unless they’ve agreed otherwise. Whoever controls the assignment may also remove a Role Lead from filling the Role at any time. A Policy may further constrain Role assignments or removals.
+A Role may control who fills another Role by holding a Domain of assignments to that Role. Anyone controlling such a Domain may assign the target Role to anyone willing to fill it, including to several people simultaneously. Whoever fills a Role becomes its ***"Role Lead"***. A Role Lead may later resign from filling the Role at any time, unless they’ve agreed otherwise. Whoever controls the assignment may also remove a Role Lead from the Role at any time. A Policy may further constrain Role assignments or removals.
 
 #### 1.2.1 Default Assignment
 
