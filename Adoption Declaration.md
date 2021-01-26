@@ -19,7 +19,7 @@ The Ratifier(s) named below hereby adopt the following sections of the Holacracy
 
 - If this Article is not adopted, Circle Leads may specify the duties a Partner has to cooperate with others while working within their Circle, unless otherwise specified by a broader Circle Lead or by the Ratifiers.
 
-#### [\_\_] Article 5: Governance
+#### [\_\_] Article 5: Governance Process
 
 - If this Article is not adopted, Circle Leads exclusively may edit the Governance within their Circle at any time or allow others to do so, and resolve any conflicts of interpretation of their Circle's Governance, unless otherwise specified by a broader Circle Lead or by the Ratifiers.
 

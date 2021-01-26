@@ -240,7 +240,7 @@ As a Partner, you may request a Relational Agreement of another Partner for your
 As a Partner, you have a duty to align your behavior with any written Relational Agreements you have made. Anyone facilitating a meeting or process for the Organization may also enforce these Relational Agreements during that meeting or process, as long as they don't conflict with anything defined in this Constitution.
 
 
-## Article 5: Governance
+## Article 5: Governance Process
 
 Changing a Circle's Governance requires using the ***“Governance Process”*** defined herein.
 
@@ -295,7 +295,7 @@ A Policy that grants or constrains authority applies in all Sub-Circles as well,
 
 Any Partner may ask a Circle's Secretary to rule on the validity of any Governance within that Circle or any Sub-Circle thereof. If the Secretary concludes it violates the rules of this Constitution, the Secretary must strike it from the Circle's records. After doing so, the Secretary must promptly communicate what they struck and why to all of that Circle's Circle Members.
 
-### 5.3 Governance Process
+### 5.3 Changing Governance
 
 Any Circle Member of a Circle may initiate its Governance Process by proposing a change to its Governance. To do so, the ***“Proposer”*** must first share a ***“Proposal”*** in writing with all other Circle Members, using any communication channel allowed by the Secretary. Those other Circle Members may then ask clarifying questions, share reactions, and raise concerns about adopting the Proposal. Each concern is an ***“Objection”*** if it meets the criteria herein, and the person who raised it is the ***“Objector”***.
 
