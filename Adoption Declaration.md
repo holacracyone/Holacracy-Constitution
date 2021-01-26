@@ -7,7 +7,7 @@ The Ratifier(s) named below hereby adopt the following sections of the Holacracy
 
 - Article 1 is required to use any other rules of the Constitution.
 
-#### [\_\_] Article 2: Authority Structure
+#### [\_\_] Article 2: Distributed Authority Structure
 
 - If this Article is not adopted, Role Leads must align all actions and decisions with any guidance or directions given by a Circle Lead of their Circle or any broader Circle, unless otherwise specified by a broader Circle Lead or by the Ratifiers.
 
