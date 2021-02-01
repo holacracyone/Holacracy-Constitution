@@ -96,6 +96,10 @@ Once linked into another Circle, a Role is considered part of the Governance of 
 
 A Circle may unlink a Role by removing the Policy that invited it to link, or by another mechanism defined in that Policy. A Role may also opt to remove itself from a Circle it linked into, unless a Policy within or acting upon the Role's Super-Circle says otherwise. Once unlinked from a Circle, any Governance added to the Role by that Circle is automatically removed.
 
+#### 1.4.5 Secretary Role
+
+Any Circle that holds Roles or Policies also automatically includes a ***“Secretary Role”*** to assist with record keeping, as defined in Appendix A. The person acting in the Secretary Role becomes the Circle’s ***“Secretary”***. A Circle may add Accountabilities or Domains to its own Secretary Role, as well as amend or remove those additions. No Circle may amend or remove the Purpose, Domain, or any Accountabilities on its Secretary Role, nor remove the Role.
+
 ### 1.5 Circle Leads
 
 Anyone serving as a Role Lead for a Role also automatically fills a ***“Circle Lead Role”*** within that Role's internal Circle, and is thus a ***“Circle Lead”*** while acting in that capacity. The Circle Lead Role has the definition given in Appendix A. The Anchor Circle has no Circle Leads, unless a Policy of the Circle says otherwise.
@@ -150,6 +154,18 @@ A Policy may change this process in any way, or directly authorize a Role to con
 ### 2.2 Interpretation Authority
 
 As a Partner, you may use your reasonable judgment to interpret this Constitution and anything under its authority. You may further interpret how these apply within any specific situation you face, and act based on your interpretations. However, you must interpret all Governance in the context of the Purpose and Accountabilities of the Circle containing it, and within any official interpretation rulings of that Circle or any Super-Circle thereof. You may not use any interpretations that conflict with that context or those rulings.
+
+#### 2.2.1 Conflicts of Interpretation
+
+As a Partner, your interpretation of this Constitution and the Organization's Governance may sometimes conflict with another Partner's. When that happens, either party may ask the Secretary of any affected Circle to rule on which interpretation to use. After a Secretary responds, everyone must align with that Secretary's ruling until the relevant text or context changes.
+
+After ruling on an interpretation, a Secretary may publish the ruling and the logic behind it. If published, the Secretary of that Circle and any contained Circles must attempt to align with that logic in any future rulings. However, a Secretary may still contradict it once a compelling new circumstance renders the logic obsolete.
+
+You may appeal a Secretary's interpretation to the Secretary of any Super-Circle. A Super-Circle Secretary may overrule the interpretation of any Sub-Circle Secretary.
+
+#### 2.2.2 Striking Invalid Governance
+
+Any Partner may ask a Circle's Secretary to rule on the validity of any Governance within that Circle or any Sub-Circle thereof. If the Secretary concludes it violates the rules of this Constitution, the Secretary must strike it from the Circle's records. After doing so, the Secretary must promptly communicate what they struck and why to all Partners filling Roles within that Circle.
 
 ### 2.3 Individual Initiative
 
@@ -262,11 +278,9 @@ A Circle may add Accountabilities or Domains to its own Circle Rep Role, as well
 
 #### 5.1.2 Facilitator and Secretary
 
-Any Circle with more than one Circle Member includes a ***“Facilitator Role”*** and a ***“Secretary Role”***, as defined in Appendix A. The person acting in each becomes the Circle’s ***“Facilitator”*** and ***“Secretary”*** respectively. Any Circle Member of a Circle may request an election at any time to fill or replace someone as the Circle's Facilitator or Secretary.
+Any Circle with more than one Circle Member also automatically includes a ***“Facilitator Role”***, as defined in Appendix A. The person acting in the Facilitator Role becomes the Circle’s ***“Facilitator”***. A Circle may add Accountabilities or Domains to its own Facilitator Role, as well as amend or remove those additions. No Circle may amend or remove the Purpose, Domain, or any Accountabilities on its Facilitator Role, nor remove the Role.
 
-The Circle must use the Integrative Election Process defined herein to select a Facilitator and Secretary. No Role or Policy may assign these Roles or remove an assignment via any other means, nor change this required process. Normally, the only candidates eligible for these elections are a Circle's Circle Members. However, a Policy of the Circle or any Super-Circle may add or limit eligible candidates.
-
-A Circle may add Accountabilities or Domains to its own Facilitator or Secretary Role, as well as amend or remove those additions. No Circle may amend or remove the Purpose, Domain, or any Accountabilities on either Role, nor remove the Role.
+Any Circle Member of a Circle may request an election at any time to fill or replace someone as the Circle's Facilitator or Secretary. The Circle must use the Integrative Election Process defined herein to select a Facilitator and Secretary. No Role or Policy may assign these Roles or remove an assignment via any other means, nor change this required process. Normally, the only candidates eligible for these elections are a Circle's Circle Members. However, a Policy of the Circle or any Super-Circle may add or limit eligible candidates.
 
 ### 5.2 Scope of Governance
 
@@ -290,10 +304,6 @@ A Policy may only be one or more of the following:
 - **(d)** a rule that changes a default rule or process in this Constitution, if that change is explicitly allowed.
 
 A Policy that grants or constrains authority applies in all Sub-Circles as well, recursively, unless otherwise stated. A Policy that changes a default rule or process in the Constitution applies only within the Circle that holds the Policy, or, if explicitly stated, within all Sub-Circles as well, recursively. In the latter case, a Sub-Circle may still override that Policy via one of its own, unless explicitly forbidden in the original Policy.
-
-#### 5.2.2 Striking Invalid Governance
-
-Any Partner may ask a Circle's Secretary to rule on the validity of any Governance within that Circle or any Sub-Circle thereof. If the Secretary concludes it violates the rules of this Constitution, the Secretary must strike it from the Circle's records. After doing so, the Secretary must promptly communicate what they struck and why to all of that Circle's Circle Members.
 
 ### 5.3 Changing Governance
 
@@ -416,23 +426,15 @@ The Facilitator must enact the ***“Integrative Decision-Making Process”*** a
 - **(e) Objection Round:** Next, each participant, one at a time, may raise concerns about adopting the Proposal. The Facilitator must either capture these concerns as Objections, or test them to see if they meet the Objection criteria and capture any that do. If there are no Objections, the Proposal is adopted. While testing concerns and capturing Objections, the Facilitator must stop and disallow discussion or responses of any kind from anyone other than the Objector.
 - **(f) Integration:** If there are Objections, the Facilitator then focuses on each one, one at a time. For each, the participants brainstorm to find a potential amendment to the Proposal to resolve the Objection. The Facilitator marks an Objection resolved once the Objector confirms that the amended Proposal would not trigger the Objection, and the Proposer confirms that it still addresses the Tension. During this step, the Facilitator must apply the rules of integration described in this Article. Once all Objections are resolved, the Facilitator moves back to the Objection round with the amended Proposal.
 
-### 5.5 Conflicts of Interpretation
-
-As a Partner, your interpretation of this Constitution and the Organization's Governance may sometimes conflict with another Partner's. When that happens, either party may ask the Secretary of any affected Circle to rule on which interpretation to use. After a Secretary responds, everyone must align with that Secretary's ruling until the relevant text or context changes.
-
-After ruling on an interpretation, a Secretary may publish the ruling and the logic behind it. If published, the Secretary of that Circle and any contained Circles must attempt to align with that logic in any future rulings. However, a Secretary may still contradict it once a compelling new circumstance renders the logic obsolete.
-
-You may appeal a Secretary's interpretation to the Secretary of any Super-Circle. A Super-Circle Secretary may overrule the interpretation of any Sub-Circle Secretary.
-
-### 5.6 Process Breakdown
+### 5.5 Process Breakdown
 
 A ***“Process Breakdown”*** occurs when a Circle shows a pattern of behavior or output that violates the rules of this Constitution. The Facilitator or Secretary of a Circle may declare a Process Breakdown in their own Circle or any Sub-Circle, using their reasonable judgment.
 
-#### 5.6.1 Breakdown from Failed Governance
+#### 5.5.1 Breakdown from Failed Governance
 
 A Circle's Facilitator may also declare a Process Breakdown in the Circle if a Proposal fails to reach a resolution after those involved spend a reasonable amount of time and effort seeking resolution.
 
-#### 5.6.2 Process Restoration
+#### 5.5.2 Process Restoration
 
 Whenever an authorized party declares a Process Breakdown within a Circle, the following occurs:
 
@@ -445,7 +447,7 @@ These authorities end as soon as due process is restored in the Circle, as asses
 
 If the Circle in Process Breakdown has no Super-Circle, then the powers above all vest with its own Facilitator instead.
 
-#### 5.6.3 Escalation of Process Breakdown
+#### 5.5.3 Escalation of Process Breakdown
 
 A Process Breakdown in one Circle is not automatically considered a Process Breakdown of its Super-Circle. However, if it remains unresolved for an unreasonable time, then the Super-Circle is also considered in a Process Breakdown.
 
@@ -495,9 +497,8 @@ _The Circle Lead holds all Accountabilities on the Circle to the extent they are
 
 **Accountabilities:**
 
-- Scheduling Governance Meetings and Tactical Meetings for the Circle
-- Capturing and publishing the outputs of Governance Meetings and Tactical Meetings
-- Requesting elections for elected Roles after each term expires
+- Scheduling meetings defined in the Constitution for the Circle and its Roles
+- Capturing outputs for the Circle within meetings defined in the Constitution
 - Interpreting the Constitution and anything under its authority upon request
 
 ---
