@@ -49,7 +49,7 @@ Title:
 
 ---
 
-**The Partners of the Organization signed below hereby agree to use best efforts to abide by the terms of the Constitution adopted by the Organization.**
+**The Ratifiers hereby appoint the following individuals as initial Partners of the Organization, and those Partners hereby agree to use best efforts to abide by the terms of the Constitution to the extent adopted by the Organization.**
 
 *Partner Signatures:*
 
