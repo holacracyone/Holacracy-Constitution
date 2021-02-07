@@ -165,7 +165,7 @@ You may appeal a Secretary's interpretation to the Secretary of any Super-Circle
 
 #### 2.2.2 Striking Invalid Governance
 
-Any Partner may ask a Circle's Secretary to rule on the validity of any Governance within that Circle or any Sub-Circle thereof. If the Secretary concludes it violates the rules of this Constitution, the Secretary must strike it from the Circle's records. After doing so, the Secretary must promptly communicate what they struck and why to all Circle Membres within that Circle.
+Any Partner may ask a Circle's Secretary to rule on the validity of any Governance within that Circle or any Sub-Circle thereof. If the Secretary concludes it violates the rules of this Constitution, the Secretary must strike it from the Circle's records. After doing so, the Secretary must promptly communicate what they struck and why to all Circle Members of that Circle.
 
 ### 2.3 Individual Initiative
 
