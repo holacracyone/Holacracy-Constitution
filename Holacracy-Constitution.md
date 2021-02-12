@@ -498,7 +498,7 @@ _The Circle Lead holds all Accountabilities on the Circle to the extent they are
 **Accountabilities:**
 
 - Scheduling meetings defined in the Constitution for the Circle and its Roles
-- Capturing outputs for the Circle within meetings defined in the Constitution
+- Capturing and publishing outputs for the Circle within meetings defined in the Constitution
 - Interpreting the Constitution and anything under its authority upon request
 
 ---
