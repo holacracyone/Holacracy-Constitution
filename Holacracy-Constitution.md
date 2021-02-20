@@ -31,7 +31,7 @@ A Role may control who fills another Role by holding a Domain of assignments to 
 
 When a Role is unfilled, anyone who controls the assignment is automatically considered a Role Lead of the unfilled Role as well.
 
-When a Role is filled but not by anyone who is a Partner of the Organization, then any Partner who controls the assignment is automatically considered a Role Lead of that Role as well. However, this default assignment only applies to the extent that the non-Partners are not actively fulfilling relevant responsibilities and duties that a Partner would have.
+When a Role is filled only by people who are not Partners of the Organization, then any Partner who controls the assignment is automatically considered a Role Lead of that Role as well. However, this default assignment only applies to the extent that the non-Partners are not actively fulfilling relevant responsibilities and duties that a Partner would have.
 
 #### 1.2.2 Focusing an Assignment
 
