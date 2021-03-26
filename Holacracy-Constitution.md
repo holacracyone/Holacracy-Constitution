@@ -484,6 +484,7 @@ _The Circle Lead holds all Accountabilities on the Circle to the extent they are
 **Accountabilities:**
 
 - Facilitating the Governance Process and Tactical Meetings of the Circle or for its Roles
+- Triggering new elections for elected Roles after each election term expires
 - Coaching other Circle Members on the Constitution's rules and processes, either on request or when needed for effective meetings
 - Auditing the meetings and records of Sub-Circles on request, and declaring a Process Breakdown if one is discovered
 
