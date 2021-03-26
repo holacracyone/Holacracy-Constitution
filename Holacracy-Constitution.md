@@ -197,7 +197,7 @@ The Partner convening a Tactical Meeting must name the Roles desired in that mee
 
 ### 3.2 Meeting Process
 
-The Partner convening a Tactical Meeting must find someone to facilitate it. Unless a Policy says otherwise, that person must use the following process:
+The Partner convening a Tactical Meeting must find someone to facilitate it and someone to capture its outputs. Unless a Policy says otherwise, the person facilitating the meeting must use the following process:
 
 - **(a) Check-in Round:** Each participant in turn shares their current state, or offers another opening comment for the meeting. Responses are not allowed.
 - **(b) Checklist Review:** Each participant verifies completion of any recurring actions that they are regularly reporting on for their Roles in the meeting.
@@ -497,8 +497,8 @@ _The Circle Lead holds all Accountabilities on the Circle to the extent they are
 
 **Accountabilities:**
 
-- Scheduling meetings defined in the Constitution for the Circle and its Roles
-- Capturing and publishing outputs for the Circle within meetings defined in the Constitution
+- Scheduling meetings defined in this Constitution for the Circle on a regular basis
+- Capturing and publishing outputs for the Circle within its regular meetings
 - Interpreting the Constitution and anything under its authority upon request
 
 ---
