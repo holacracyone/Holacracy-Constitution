@@ -217,10 +217,6 @@ Unless a Policy says otherwise, the person facilitating the meeting must use the
 
 A Policy of a Circle may specify an alternate process or amend this default process for Tactical Meetings called by any of the Circle's Roles.
 
-### 3.3 Surrogate for Absent Members
-
-If any Role defined by a Circle and invited to a Tactical Meeting is unrepresented in the meeting for any reason, a Circle Lead of that Role's Super-Circle may instead represent that Role during the meeting.
-
 
 ## Article 4: Rules of Cooperation
 
