@@ -96,13 +96,19 @@ Once linked into another Circle, a Role is considered part of the Governance of 
 
 A Circle may unlink a Role by removing the Policy that invited it to link, or by another mechanism defined in that Policy. A Role may also opt to remove itself from a Circle it linked into, unless a Policy within or acting upon the Role's Super-Circle says otherwise. Once unlinked from a Circle, any Governance added to the Role by that Circle is automatically removed.
 
-#### 1.4.5 Secretary Role
+#### 1.4.5 Facilitator & Secretary Roles
 
-Any Circle that holds Roles or Policies also automatically includes a ***“Secretary Role”*** to assist with record keeping, as defined in Appendix A. The person acting in the Secretary Role becomes the Circle’s ***“Secretary”***. A Circle may add Accountabilities or Domains to its own Secretary Role, as well as amend or remove those additions. No Circle may amend or remove the Purpose, Domain, or any Accountabilities on its Secretary Role, nor remove the Role.
+Any Circle may appoint someone as the Circle's ***"Facilitator"***. The selected Facilitator fills a ***“Facilitator Role”*** in the Circle, with a Purpose of "Circle governance and operational practices aligned with the Constitution".
+
+Any Circle may appoint someone as the Circle's ***"Secretary"***. The selected Secretary fills a ***“Secretary Role”*** in the Circle, with a Purpose of "Stabilize the Circle's Governance and operational records and regular meetings". 
+
+A Circle may add Accountabilities or Domains to its own Facilitator or Secretary Role, as well as amend or remove those additions. No Circle may amend or remove the Purpose of either Role, nor any Accountabilities or Domains placed on those Roles by this Constitution.
 
 ### 1.5 Circle Leads
 
-Anyone serving as a Role Lead for a Role also automatically fills a ***“Circle Lead Role”*** within that Role's internal Circle, and is thus a ***“Circle Lead”*** while acting in that capacity. The Circle Lead Role has the definition given in Appendix A. The Anchor Circle has no Circle Leads, unless a Policy of the Circle says otherwise.
+Anyone serving as a Role Lead for a Role also automatically fills a ***“Circle Lead Role”*** within that Role's internal Circle, and is thus a ***“Circle Lead”*** while acting in that capacity. The Circle Lead Role holds the overall Purpose of that broader Role, and all Accountabilities on that Role to the extent they are not covered by Roles or processes within the Circle. The Circle Lead Role also holds a Domain over all Role assignments to the Circle's Roles.
+
+The Anchor Circle has no Circle Leads, unless a Policy of the Circle says otherwise.
 
 #### 1.5.1 Defining Priorities & Strategies
 
@@ -157,7 +163,7 @@ As a Partner, you may use your reasonable judgment to interpret this Constitutio
 
 #### 2.2.1 Conflicts of Interpretation
 
-As a Partner, your interpretation of this Constitution and the Organization's Governance may sometimes conflict with another Partner's. When that happens, either party may ask the Secretary of any affected Circle to rule on which interpretation to use. After a Secretary responds, everyone must align with that Secretary's ruling until the relevant text or context changes.
+As a Partner, your interpretation of this Constitution and the Organization's Governance may sometimes conflict with another Partner's. When that happens, either party may ask the Secretary of any affected Circle to rule on which interpretation to use, and the Secretary is accountable for interpreting the Constitution and anything under its authority upon request. After a Secretary responds, everyone must align with that Secretary's ruling until the relevant text or context changes.
 
 After ruling on an interpretation, a Secretary may publish the ruling and the logic behind it. If published, the Secretary of that Circle and any contained Circles must attempt to align with that logic in any future rulings. However, a Secretary may still contradict it once a compelling new circumstance renders the logic obsolete.
 
@@ -189,15 +195,17 @@ You must prioritize the communication and restoration required by this section o
 
 ## Article 3: Tactical Meetings
 
-In service of a Role, any Partner may convene a ***“Tactical Meeting”*** to engage other Roles in their responsibilities and duties.
+Any Partner may convene a ***“Tactical Meeting”*** to assist Partners in engaging each other in their responsibilities and duties. In addition, the Secretary of each Circle is accountable for scheduling regular Tactical Meetings for the Circle.
 
 ### 3.1 Attendance
 
-The Partner convening a Tactical Meeting must name the Roles desired in that meeting. All Partners serving as Role Leads of those Roles are then invited to attend, unless the convener narrows the invite to include only a subset of Role Leads for a Role.
+For regular Tactical Meetings convened by a Circle's Secretary, all of the Circle's Roles are invited unless a Policy says otherwise. For other Tactical Meetings, the Partner convening the meeting must specify the Roles invited to that meeting. All Partners serving as Role Leads of those Roles are then invited to attend and represent those Roles, unless the convener narrows the invite to include only a subset of Role Leads for a Role.
 
 ### 3.2 Meeting Process
 
-The Partner convening a Tactical Meeting must find someone to facilitate it and someone to capture its outputs. Unless a Policy says otherwise, the person facilitating the meeting must use the following process:
+The Facilitator of a Circle is accountable for facilitating the Circle's regular Tactical Meetings, and its Secretary is accountable for capturing and publishing Tactical Meeting outputs. For Tactical Meetings convened by someone other than a Circle's Secretary, the Partner convening a Tactical Meeting must facilitate it and capture its outputs, or appoint another volunteer or appropriate Role to do so.
+
+Unless a Policy says otherwise, the person facilitating the meeting must use the following process:
 
 - **(a) Check-in Round:** Each participant in turn shares their current state, or offers another opening comment for the meeting. Responses are not allowed.
 - **(b) Checklist Review:** Each participant verifies completion of any recurring actions that they are regularly reporting on for their Roles in the meeting.
@@ -268,19 +276,23 @@ A Circle's Circle Members are those Partners filling its Circle Lead Role, as we
 
 #### 5.1.1 Circle Reps
 
-Any Circle Member of a Circle may request an election at any time to select or replace someone as the Circle's ***"Circle Rep"*** to help represent that Circle within any broader Circle containing it. The selected Circle Rep fills the ***"Circle Rep Role"*** in the Circle, as defined in Appendix A.
+Any Circle Member of a Circle may request an election at any time to select or replace someone as the Circle's ***"Circle Rep"*** to help represent that Circle within any broader Circle containing it. The selected Circle Rep fills a ***"Circle Rep Role"*** in the Circle, with a Purpose of "Tensions relevant to process in a broader Circle channeled out and resolved", and the following Accountabilities:
+
+- **(a)** Seeking to understand Tensions conveyed by Role Leads within the Circle
+- **(b)** Discerning Tensions appropriate to process within a broader Circle that holds the Circle
+- **(c)** Processing Tensions within a broader Circle to remove constraints on the Circle
 
 The Circle must use the Integrative Election Process defined herein to select a Circle Rep, unless a Policy defines an alternate process. Only a Circle's Circle Members are eligible to serve as its Circle Rep. Anyone serving as a Circle Lead for the Circle may not also serve as its Circle Rep. No more than one person may serve as a Circle's Circle Rep at a time, unless a Policy of a containing Circle allows it.
 
 The selected Circle Rep becomes a Circle Member of any Circle containing that Circle, with the authority to represent their Circle just like a Circle Lead. A containing Circle may limit or prevent these Circle Reps from becoming its Circle Members via a Policy, but only if its Roles have another way to enjoy comparable representation within that Circle.
 
-A Circle may add Accountabilities or Domains to its own Circle Rep Role, as well as amend or remove those additions. No Circle may amend or remove the Purpose or any Accountabilities on the Circle Rep Role, nor remove the Role.
+A Circle may add Accountabilities or Domains to its own Circle Rep Role, as well as amend or remove those additions. No Circle may amend or remove the Purpose or any Accountabilities on the Circle Rep Role.
 
-#### 5.1.2 Facilitator and Secretary
+#### 5.1.2 Facilitator & Secretary
 
-Any Circle with more than one Circle Member also automatically includes a ***“Facilitator Role”***, as defined in Appendix A. The person acting in the Facilitator Role becomes the Circle’s ***“Facilitator”***. A Circle may add Accountabilities or Domains to its own Facilitator Role, as well as amend or remove those additions. No Circle may amend or remove the Purpose, Domain, or any Accountabilities on its Facilitator Role, nor remove the Role.
+The Circle's Facilitator is accountable for facilitating its Governance Process. The Circle's Secretary is accountable for capturing and publishing the outputs of its Governance Process, and holds a Domain over the Circle's governance records.
 
-Any Circle Member of a Circle may request an election at any time to fill or replace someone as the Circle's Facilitator or Secretary. The Circle must use the Integrative Election Process defined herein to select a Facilitator and Secretary. No Role or Policy may assign these Roles or remove an assignment via any other means, nor change this required process. Normally, the only candidates eligible for these elections are a Circle's Circle Members. However, a Policy of the Circle or any Super-Circle may add or limit eligible candidates.
+Any Circle Member of a Circle may request an election at any time to select or replace someone as the Circle's Facilitator or Secretary. The Circle must use the Integrative Election Process defined herein to select a Facilitator or Secretary. No Role or Policy may assign the Facilitator Role or Secretary Role or remove an assignment via any other means, nor change this required process. Normally, the only candidates eligible for this election are a Circle's Circle Members. However, a Policy of the Circle or any Super-Circle may add or limit eligible candidates.
 
 ### 5.2 Scope of Governance
 
@@ -362,6 +374,8 @@ Any Circle Member may also initiate the Circle's Governance Process by calling f
 
 A Circle may adopt a Policy to define a time limit for nominating a candidate or responding to a Proposal during the Integrative Election Process. After that time limit is reached, the Facilitator must exclude anyone who has not responded from the remainder of the process.
 
+The Facilitator of a Circle is accountable for triggering new elections for the Circle's elected Roles after each election term expires.
+
 #### 5.3.6 Surrogates for Facilitator & Secretary
 
 A surrogate may act as Facilitator or Secretary while the Role is unfilled. A surrogate may also fill in when the normal Facilitator or Secretary is unavailable when needed, or requests a surrogate for any reason.
@@ -377,7 +391,7 @@ Whenever a surrogate is needed, the surrogate is, in this order of precedence:
 
 In addition to processing Proposals made asynchronously outside of meetings, each Circle will also hold regular ***"Governance Meetings"*** to enact the Circle’s Governance Process in real time. At any point while the Circle is processing a Proposal asynchronously, any Circle Member may request the Proposal go to a Governance Meeting for real-time processing instead, and the asynchronous processing must then immediately stop.
 
-The Circle's Secretary is responsible for scheduling its Governance Meetings, and its Facilitator is responsible for facilitating them in alignment with the rules herein. In addition to any regularly-scheduled Governance Meetings of the Circle, the Secretary must schedule special Governance Meetings promptly upon request of any Circle Member. The requester may further specify an intention for a special Governance Meeting and any limits on what the meeting may change. This may include focusing the meeting on a specific Tension, or limiting it to only modifying certain Roles. In that case, the authority of that special Governance Meeting is constrained to only processing Proposals for the stated intent, and only making changes within the stated limits.
+The Circle's Secretary is accountable for scheduling its Governance Meetings. In addition to any regularly-scheduled Governance Meetings of the Circle, the Secretary must schedule special Governance Meetings promptly upon request of any Circle Member. The requester may further specify an intention for a special Governance Meeting and any limits on what the meeting may change. This may include focusing the meeting on a specific Tension, or limiting it to only modifying certain Roles. In that case, the authority of that special Governance Meeting is constrained to only processing Proposals for the stated intent, and only making changes within the stated limits.
 
 #### 5.4.1 Attendance
 
@@ -428,7 +442,7 @@ The Facilitator must enact the ***“Integrative Decision-Making Process”*** a
 
 ### 5.5 Process Breakdown
 
-A ***“Process Breakdown”*** occurs when a Circle shows a pattern of behavior or output that violates the rules of this Constitution. The Facilitator or Secretary of a Circle may declare a Process Breakdown in their own Circle or any Sub-Circle, using their reasonable judgment.
+A ***“Process Breakdown”*** occurs when a Circle shows a pattern of behavior or output that violates the rules of this Constitution. The Facilitator or Secretary of a Circle may declare a Process Breakdown in their own Circle or any Sub-Circle, using their reasonable judgment. Any concerned Partner may further request a Facilitator review a Sub-Circle to look for a potential Process Breakdown, and the Facilitator is accountbale for auditing a Sub-Circle's meetings and records on request and declaring a Process Breakdown if one is discovered.
 
 #### 5.5.1 Breakdown from Failed Governance
 
@@ -441,7 +455,7 @@ Whenever an authorized party declares a Process Breakdown within a Circle, the f
 - **(a)** the Facilitator gains the authority to judge the logic and relevance of any arguments made to validate Proposals or Objections in the Circle; and
 - **(b)** the Facilitator of the Super-Circle gains a Project to restore due-process within the Circle; and
 - **(c)** the Facilitator of the Super-Circle gains the authority to take over as Facilitator or Secretary of the Circle; and
-- **(d)** the Facilitator of the Super-Circle may assign an additional Circle Lead to the Circle for the duration of the Process Breakdown. Any decisions that person makes as Circle Lead trumps and prevents any conflicting decision by another Circle Lead.
+- **(d)** the Facilitator of the Super-Circle may assign an additional Circle Lead to the Circle for the duration of the Process Breakdown. Any decisions that person makes as Circle Lead trump and prevent any conflicting decisions by another Circle Lead.
 
 These authorities end as soon as due process is restored in the Circle, as assessed by the Facilitator of the Super-Circle.
 
@@ -450,57 +464,6 @@ If the Circle in Process Breakdown has no Super-Circle, then the powers above al
 #### 5.5.3 Escalation of Process Breakdown
 
 A Process Breakdown in one Circle is not automatically considered a Process Breakdown of its Super-Circle. However, if it remains unresolved for an unreasonable time, then the Super-Circle is also considered in a Process Breakdown.
-
----
-
-# **Appendix A**
-
-## Circle Lead
-
-**Purpose:** _The Circle Lead holds the Purpose of the overall Circle._
-
-**Domains:**
-
-- Role assignments for the Circle's Roles
-
-**Accountabilities:**
-
-_The Circle Lead holds all Accountabilities on the Circle to the extent they are not covered by the Circle's Roles or processes._
-
-## Circle Rep
-
-**Purpose:** Tensions relevant to process in a broader Circle channeled out and resolved.
-
-**Accountabilities:**
-
-- Seeking to understand Tensions conveyed by Role Leads within the Circle
-- Discerning Tensions appropriate to process within a broader Circle that holds the Circle
-- Processing Tensions within a broader Circle to remove constraints on the Circle
-
-## Facilitator
-
-**Purpose:** Circle governance and operational practices aligned with the Constitution.
-
-**Accountabilities:**
-
-- Facilitating the Governance Process and Tactical Meetings of the Circle or for its Roles
-- Triggering new elections for elected Roles after each election term expires
-- Coaching other Circle Members on the Constitution's rules and processes, either on request or when needed for effective meetings
-- Auditing the meetings and records of Sub-Circles on request, and declaring a Process Breakdown if one is discovered
-
-## Secretary
-
-**Purpose:** Steward the Circle’s governance records and stabilize its record-keeping process.
-
-**Domains:**
-
-- All governance records of the Circle
-
-**Accountabilities:**
-
-- Scheduling meetings defined in this Constitution for the Circle on a regular basis
-- Capturing and publishing outputs for the Circle within its regular meetings
-- Interpreting the Constitution and anything under its authority upon request
 
 ---
 
