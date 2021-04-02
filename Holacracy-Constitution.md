@@ -100,7 +100,7 @@ A Circle may unlink a Role by removing the Policy that invited it to link, or by
 
 Any Circle may appoint someone as the Circle's ***"Facilitator"***. The selected Facilitator fills a ***“Facilitator Role”*** in the Circle, with a Purpose of "Circle governance and operational practices aligned with the Constitution".
 
-Any Circle may appoint someone as the Circle's ***"Secretary"***. The selected Secretary fills a ***“Secretary Role”*** in the Circle, with a Purpose of "Stabilize the Circle's Governance and operational records and regular meetings". 
+Any Circle may appoint someone as the Circle's ***"Secretary"***. The selected Secretary fills a ***“Secretary Role”*** in the Circle, with a Purpose of "Stabilize the Circle’s required records and regular meetings". 
 
 A Circle may add Accountabilities or Domains to its own Facilitator or Secretary Role, as well as amend or remove those additions. No Circle may amend or remove the Purpose of either Role, nor any Accountabilities or Domains placed on those Roles by this Constitution.
 
