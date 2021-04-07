@@ -78,7 +78,7 @@ A Role's internal Circle is considered a ***“Sub-Circle”*** of the broader C
 
 When a Circle grants a Domain to one of its Roles, any Role Lead for that Role may control that Domain on behalf of the Circle. A Circle may only grant Domains to its Roles that fall within the Circle's own Domains, or that are only relevant within its own internal processes.
 
-Once a Role controls a Domain, it may create Policies governing that Domain within its own Governance. However, the Circle that delegated the Domain retains the right to define its own Policies governing that Domain as well. Any such Policies trump those defined by the Role in the event of a conflict.
+Once a Role controls a Domain, it may create Policies governing that Domain within its own Governance. However, the Circle that delegated the Domain retains the right to define its own Policies governing that Domain as well. Any such Policies supersede those defined by the Role in the event of a conflict.
 
 Granting a Domain to a Role does not delegate any rights the Circle has to control spending of money or assets, unless explicitly specified.
 
@@ -199,7 +199,7 @@ Any Partner may convene a ***“Tactical Meeting”*** to assist Partners in eng
 
 ### 3.1 Attendance
 
-For regular Tactical Meetings convened by a Circle's Secretary, all of the Circle's Roles are invited unless a Policy says otherwise. For other Tactical Meetings, the Partner convening the meeting must specify the Roles invited to that meeting. All Partners serving as Role Leads of those Roles are then invited to attend and represent those Roles, unless the convener narrows the invite to include only a subset of Role Leads for a Role.
+For regular Tactical Meetings convened by a Circle's Secretary, all of the Circle's Roles are invited unless a Policy says otherwise. For other Tactical Meetings, the Partner convening the meeting must specify the Roles invited to that meeting. All Partners serving as Role Leads of those Roles are then invited to attend and represent those Roles, unless the convener narrows the invitation to include only a subset of Role Leads for a Role.
 
 ### 3.2 Meeting Process
 
@@ -282,7 +282,7 @@ The Circle must use the Integrative Election Process defined herein to select a 
 
 The selected Circle Rep becomes a Circle Member of any Circle containing that Circle, with the authority to represent their Circle just like a Circle Lead. A containing Circle may limit or prevent these Circle Reps from becoming its Circle Members via a Policy, but only if its Roles have another way to enjoy comparable representation within that Circle.
 
-A Circle may add Accountabilities or Domains to its own Circle Rep Role, as well as amend or remove those additions. No Circle may amend or remove the Purpose or any Accountabilities on the Circle Rep Role.
+A Circle may add Accountabilities or Domains to its own Circle Rep Role, as well as amend or remove those additions. No Circle may amend or remove the Purpose of the Role, nor any Accountabilities placed on the Role by this Constitution.
 
 #### 5.1.2 Facilitator & Secretary
 
@@ -438,7 +438,7 @@ The Facilitator must enact the ***“Integrative Decision-Making Process”*** a
 
 ### 5.5 Process Breakdown
 
-A ***“Process Breakdown”*** occurs when a Circle shows a pattern of behavior or output that violates the rules of this Constitution. The Facilitator or Secretary of a Circle may declare a Process Breakdown in their own Circle or any Sub-Circle, using their reasonable judgment. Any concerned Partner may further request a Facilitator review a Sub-Circle to look for a potential Process Breakdown, and the Facilitator is accountbale for auditing a Sub-Circle's meetings and records on request and declaring a Process Breakdown if one is discovered.
+A ***“Process Breakdown”*** occurs when a Circle shows a pattern of behavior or output that violates the rules of this Constitution. The Facilitator or Secretary of a Circle may declare a Process Breakdown in their own Circle or any Sub-Circle, using their reasonable judgment. Any concerned Partner may further request a Facilitator review a Sub-Circle to look for a potential Process Breakdown, and the Facilitator is accountable for auditing a Sub-Circle's meetings and records on request and declaring a Process Breakdown if one is discovered.
 
 #### 5.5.1 Breakdown from Failed Governance
 
@@ -451,7 +451,7 @@ Whenever an authorized party declares a Process Breakdown within a Circle, the f
 - **(a)** the Facilitator gains the authority to judge the logic and relevance of any arguments made to validate Proposals or Objections in the Circle; and
 - **(b)** the Facilitator of the Super-Circle gains a Project to restore due-process within the Circle; and
 - **(c)** the Facilitator of the Super-Circle gains the authority to take over as Facilitator or Secretary of the Circle; and
-- **(d)** the Facilitator of the Super-Circle may assign an additional Circle Lead to the Circle for the duration of the Process Breakdown. Any decisions that person makes as Circle Lead trump and prevent any conflicting decisions by another Circle Lead.
+- **(d)** the Facilitator of the Super-Circle may assign an additional Circle Lead to the Circle for the duration of the Process Breakdown. Any decisions that person makes as Circle Lead supersede and prevent any conflicting decisions by another Circle Lead.
 
 These authorities end as soon as due process is restored in the Circle, as assessed by the Facilitator of the Super-Circle.
 
