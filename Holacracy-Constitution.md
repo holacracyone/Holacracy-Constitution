@@ -15,7 +15,9 @@ Each Partner may rely upon the authorities granted by this Constitution to the f
 
 ### 1.1 Role Definition
 
-A ***“Role”*** is an organizational construct that a person can fill and then energize on behalf of the Organization.  A Role definition consists of a descriptive name and one or more of the following:
+A ***“Role”*** is an organizational construct that a person can fill and then energize on behalf of the Organization. Whoever fills a Role is a ***"Role Lead"*** for that Role.
+
+A Role definition consists of a descriptive name and one or more of the following:
 
 - **(a)** a ***“Purpose”***, which is a capacity, potential, or goal that the Role will pursue or express.
 - **(b)** one or more ***“Domains”***, which are assets, processes, or other things the Role may exclusively control and regulate as its property, for its purpose.
@@ -23,58 +25,44 @@ A ***“Role”*** is an organizational construct that a person can fill and the
 
 A Role may also hold ***“Policies”***, which are grants or constraints of authority, or special rules that apply within that Role.
 
-### 1.2 Role Assignment
-
-A Role may control who fills another Role by holding a Domain of assignments to that Role. Anyone controlling such a Domain may assign the target Role to anyone willing to fill it, including to several people simultaneously. Whoever fills a Role becomes its ***"Role Lead"***. A Role Lead may later resign from filling the Role at any time, unless they’ve agreed otherwise. Whoever controls the assignment may also remove a Role Lead from the Role at any time. A Policy may further constrain Role assignments or removals.
-
-#### 1.2.1 Default Assignment
-
-When a Role is unfilled, anyone who controls the assignment is automatically considered a Role Lead of the unfilled Role as well.
-
-When a Role is filled only by people who are not Partners of the Organization, then any Partner who controls the assignment is automatically considered a Role Lead of that Role as well. However, this default assignment only applies to the extent that the non-Partners are not actively fulfilling relevant responsibilities and duties that a Partner would have.
-
-#### 1.2.2 Focusing an Assignment
-
-A Role assigner may focus an assignment on only a specific area or context, if all elements in the Role definition are still relevant within that focus. When a focus is used, each assignment focus is treated like an entirely separate Role, and the Role's Purpose, Accountabilities, and Domains apply only within the focus specified for each assignment.
-
-### 1.3 Responsibilities of Role-Filling
+### 1.2 Responsibilities of Role-Filling
 
 When filling a Role, you have the following responsibilities:
 
-#### 1.3.1 Processing Tensions
+#### 1.2.1 Processing Tensions
 
 You are responsible for comparing the actual expression of your Role’s Purpose and Accountabilities to your vision of their ideal potential, to identify gaps between the two (each gap is a ***“Tension”***). You are then responsible for trying to resolve those Tensions.
 
-#### 1.3.2 Processing Purpose & Accountabilities
+#### 1.2.2 Processing Purpose & Accountabilities
 
 You are responsible for regularly considering how to enact your Role's Purpose and each Accountability, by defining:
 
 - **(a)** ***“Next-Actions”***, which are useful actions that you could take immediately, at least in the absence of competing priorities; and
 - **(b)** ***“Projects”***, which are specific outcomes that would be useful to work towards, at least in the absence of competing priorities.
 
-#### 1.3.3 Breaking Down Projects
+#### 1.2.3 Breaking Down Projects
 
 You are responsible for regularly defining Next-Actions for each of your Role's active Projects.
 
-#### 1.3.4 Tracking Projects, Next-Actions, & Tensions
+#### 1.2.4 Tracking Projects, Next-Actions, & Tensions
 
 You are responsible for capturing and tracking all Projects and Next-Actions for your Role in written lists. You must also track Tensions you intend to resolve, at least until you process them into Projects or Next-Actions. You are also responsible for regularly reviewing and updating these lists, to maintain them as a trusted source of the Role’s potential work.
 
-#### 1.3.5 Executing Next-Actions
+#### 1.2.5 Executing Next-Actions
 
 Whenever you have time available to act in a Role, you are responsible for considering the Next-Actions you could take, and executing whichever would add the most value to the Organization.
 
-### 1.4 Circles
+### 1.3 Circles
 
 A ***“Circle”*** is a container for organizing Roles and Policies around a common Purpose. The Roles and Policies within a Circle make up its acting ***“Governance”***.
 
-#### 1.4.1 Breaking Down Roles
+#### 1.3.1 Breaking Down Roles
 
 The inside of every Role is a Circle. This Circle can hold its own Roles and Policies to break down and organize its work. This does not apply to the Roles defined in this Constitution, which may not be further broken down.
 
 A Role's internal Circle is considered a ***“Sub-Circle”*** of the broader Circle that holds the Role, while that broader Circle is its ***“Super-Circle”***.
 
-#### 1.4.2 Delegating Domains
+#### 1.3.2 Delegating Domains
 
 When a Circle grants a Domain to one of its Roles, any Role Lead for that Role may control that Domain on behalf of the Circle. A Circle may only grant Domains to its Roles that fall within the Circle's own Domains, or that are only relevant within its own internal processes.
 
@@ -82,13 +70,13 @@ Once a Role controls a Domain, it may create Policies governing that Domain with
 
 Granting a Domain to a Role does not delegate any rights the Circle has to control spending of money or assets, unless explicitly specified.
 
-#### 1.4.3 Anchor Circle
+#### 1.3.3 Anchor Circle
 
 The broadest Circle that holds the Purpose of the whole Organization is its ***“Anchor Circle”***. The Anchor Circle holds all authorities and Domains that the Organization itself controls, and has no Super-Circle. The Anchor Circle may change its own Purpose or clarify its own Accountabilities via a Policy.
 
 The Ratifiers may define an initial structure and other Governance within the Anchor Circle upon adopting this Constitution.
 
-#### 1.4.4 Linking Into Circles
+#### 1.3.4 Linking Into Circles
 
 A Role may link into another Circle if a Policy of that other Circle or any Super-Circle thereof invites it.
 
@@ -96,7 +84,7 @@ Once linked into another Circle, a Role is considered part of the Governance of 
 
 A Circle may unlink a Role by removing the Policy that invited it to link, or by another mechanism defined in that Policy. A Role may also opt to remove itself from a Circle it linked into, unless a Policy within or acting upon the Role's Super-Circle says otherwise. Once unlinked from a Circle, any Governance added to the Role by that Circle is automatically removed.
 
-#### 1.4.5 Facilitator & Secretary Roles
+#### 1.3.5 Facilitator & Secretary Roles
 
 Any Circle may appoint someone as the Circle's ***"Facilitator"***. The selected Facilitator fills a ***“Facilitator Role”*** in the Circle, with a Purpose of "Circle governance and operational practices aligned with the Constitution".
 
@@ -104,27 +92,41 @@ Any Circle may appoint someone as the Circle's ***"Secretary"***. The selected S
 
 A Circle may add Accountabilities or Domains to its own Facilitator or Secretary Role, as well as amend or remove those additions. No Circle may amend or remove the Purpose of either Role, nor any Accountabilities or Domains placed on those Roles by this Constitution.
 
-### 1.5 Circle Leads
+### 1.4 Circle Leads
 
-Anyone serving as a Role Lead for a Role also automatically fills a ***“Circle Lead Role”*** within that Role's internal Circle, and is thus a ***“Circle Lead”*** while acting in that capacity. The Circle Lead Role holds the overall Purpose of that broader Role, and all Accountabilities on that Role to the extent they are not covered by Roles or processes within the Circle. The Circle Lead Role also holds a Domain over all Role assignments to the Circle's Roles.
+Anyone serving as a Role Lead for a Role also automatically fills a ***“Circle Lead Role”*** within that Role's internal Circle, and is thus a ***“Circle Lead”*** while acting in that capacity. The Circle Lead Role holds the overall Purpose of that broader Role, and all Accountabilities on that Role to the extent they are not covered by Roles or processes within the Circle.
 
 The Anchor Circle has no Circle Leads, unless a Policy of the Circle says otherwise.
 
-#### 1.5.1 Defining Priorities & Strategies
+#### 1.4.1 Assigning Roles
+
+A Circle Lead controls the Circle's Role assignments and may assign any Role within the Circle to anyone willing to fill it, including to several people simultaneously. Anyone so assigned may later resign from filling the Role, unless they’ve agreed otherwise. A Circle Lead may also revoke an assignment to any Role within the Circle at any time.
+
+A Circle Lead may further focus a Role assignment on only a specific area or context, if all elements in the Role definition are still relevant within that focus. When a focus is used, each assignment focus is treated like an entirely separate Role, and the Role's Purpose, Accountabilities, and Domains apply only within the focus specified for each assignment.
+
+No one other than a Circle Lead may assign a Role or revoke a Role assignment within the Circle, unless the Circle has delegated control of Role assignments to a different Role or process. A Policy may further constrain Role assignments or removals.
+
+#### 1.4.2 Covering Unfilled Roles
+
+Whenever a Role in a Circle is unfilled, each Circle Lead is automatically considered a Role Lead of the unfilled Role as well.
+
+When a Role is filled only by people who are not Partners of the Organization, then each Circle Lead is automatically considered a Role Lead of that Role as well. However, this default assignment only applies to the extent that the non-Partners are not actively fulfilling relevant responsibilities and duties that a Partner would have.
+
+#### 1.4.3 Defining Priorities & Strategies
 
 A Circle Lead may judge the relative value of potential Circle efforts to resolve priority conflicts across Roles. A Circle Lead may also define a ***“Strategy”*** for the Circle, or many Strategies, which are heuristics that guide prioritization in the Circle.
 
-#### 1.5.2 Routing External References
+#### 1.4.4 Routing External References
 
 Whenever Governance outside the Circle references the Circle itself or any Role in the Circle, a Circle Lead may update that reference to instead refer to another Role in the Circle. This clarification is not considered a change to that Circle's Governance.
 
-#### 1.5.3 Amending the Circle Lead Role
+#### 1.4.5 Amending the Circle Lead Role
 
 A Circle may not modify the Purpose of its Circle Lead Role, nor remove the Role.
 
 A Circle may add Accountabilities or Domains to the Circle Lead Role, and later remove these additions. However, any additions automatically apply to every Sub-Circle's Circle Lead Role as well, recursively. A Circle may not add Accountabilities or Domains just to its own Circle Lead Role, or any only relevant within that Circle.
 
-A Circle may remove any Accountabilities, Domains, authorities, or functions of its own Circle Lead Role. It can do this either by placing them on another Role in the Circle, or by defining an alternate means of enacting them. Doing this automatically removes the relevant element from the Circle's Circle Lead Role, for as long as the delegation remains in place.
+A Circle may remove any Accountabilities, Domains, authorities, or functions of its own Circle Lead Role. It can do this either by placing them on another Role in the Circle, or by defining an alternate means of enacting them. Doing this automatically removes the relevant element or authority from the Circle's Circle Lead Role, for as long as the delegation remains in place.
 
 
 ## Article 2: Distributed Authority Structure
