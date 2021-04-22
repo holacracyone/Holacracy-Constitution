@@ -25,9 +25,9 @@ A Role definition consists of a descriptive name and one or more of the followin
 
 A Role may also hold ***“Policies”***, which are grants or constraints of authority, or special rules that apply within that Role.
 
-### 1.2 Responsibilities of Role-Filling
+### 1.2 Responsibilities of Role Leads
 
-When filling a Role, you have the following responsibilities:
+As a Role Lead filling a Role, you have the following responsibilities:
 
 #### 1.2.1 Processing Tensions
 
