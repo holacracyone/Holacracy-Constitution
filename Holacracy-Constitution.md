@@ -27,7 +27,7 @@ A Role may also hold ***“Policies”***, which are grants or constraints of au
 
 ### 1.2 Responsibilities of Role Leads
 
-As a Role Lead filling a Role, you have the following responsibilities:
+As a Role Lead, you have the following responsibilities:
 
 #### 1.2.1 Processing Tensions
 
