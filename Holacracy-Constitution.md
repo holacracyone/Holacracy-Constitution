@@ -94,7 +94,7 @@ A Circle may add Accountabilities or Domains to its own Facilitator or Secretary
 
 ### 1.4 Circle Leads
 
-Serving as a Role Lead for a Role also means serving as a ***“Circle Lead”*** within that Role's internal Circle, and thus filling the ***“Circle Lead Role”*** within that Circle. The Circle Lead Role holds the overall Purpose of that broader Role, and all Accountabilities on that Role to the extent they are not covered by Roles or processes within the Circle.
+Serving as a Role Lead also means serving as a ***“Circle Lead”*** within that Role's internal Circle, and thus filling the ***“Circle Lead Role”*** within. The Circle Lead Role holds the overall Purpose of that broader Role, and all Accountabilities on that Role to the extent they are not covered by other Roles or processes within the Circle.
 
 The Anchor Circle has no Circle Leads, unless a Policy of the Circle says otherwise.
 
