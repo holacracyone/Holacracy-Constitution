@@ -100,17 +100,17 @@ The Anchor Circle has no Circle Leads, unless a Policy of the Circle says otherw
 
 #### 1.4.1 Assigning Roles
 
-A Circle Lead controls the Circle's Role assignments and may assign any Role within the Circle to anyone willing to fill it, including to several people simultaneously. Anyone so assigned may later resign from filling the Role, unless they’ve agreed otherwise. A Circle Lead may also revoke an assignment to any Role within the Circle at any time.
+A Circle Lead controls the Circle's Role assignments and may assign any Role within the Circle to anyone willing to fill it, including to multiple people at the same time. Anyone so assigned may later resign from filling the Role, unless they’ve agreed otherwise. A Circle Lead may also revoke an assignment to any Role within the Circle at any time.
 
-A Circle Lead may further focus a Role assignment on only a specific area or context, if all elements in the Role definition are still relevant within that focus. When a focus is used, each assignment focus is treated like an entirely separate Role, and the Role's Purpose, Accountabilities, and Domains apply only within the focus specified for each assignment.
+A Circle Lead may further focus a Role assignment on only a specific context. To do so, the entire Role definition must still be relevant within that context. When a focus is used, each assignment focus behaves like a separate Role. The Role's Purpose, Domains, and Accountabilities all still apply, but only within the focus of the assignment.
 
 No one other than a Circle Lead may assign a Role or revoke a Role assignment within the Circle, unless the Circle has delegated control of Role assignments to a different Role or process. A Policy may further constrain Role assignments or removals.
 
 #### 1.4.2 Covering Unfilled Roles
 
-Whenever a Role in a Circle is unfilled, each Circle Lead is automatically considered a Role Lead of the unfilled Role as well.
+Whenever a Role in a Circle is unfilled, each Circle Lead is automatically considered a Role Lead of the unfilled Role.
 
-When a Role is filled only by people who are not Partners of the Organization, then each Circle Lead is automatically considered a Role Lead of that Role as well. However, this default assignment only applies to the extent that the non-Partners are not actively fulfilling relevant responsibilities and duties that a Partner would have.
+When a Role is filled only by people who are not Partners of the Organization, then each Circle Lead is automatically considered a Role Lead of that Role as well. However, this default assignment only applies to the extent that the non-Partners are not actively fulfilling relevant responsibilities and duties that a Partner would hold.
 
 #### 1.4.3 Defining Priorities & Strategies
 
@@ -126,7 +126,7 @@ A Circle may not modify the Purpose of its Circle Lead Role, nor remove the Role
 
 A Circle may add Accountabilities or Domains to the Circle Lead Role, and later remove these additions. However, any additions automatically apply to every Sub-Circle's Circle Lead Role as well, recursively. A Circle may not add Accountabilities or Domains just to its own Circle Lead Role, or any only relevant within that Circle.
 
-A Circle may remove any Accountabilities, Domains, authorities, or functions of its own Circle Lead Role. It can do this either by placing them on another Role in the Circle, or by defining an alternate means of enacting them. Doing this automatically removes the relevant element or authority from the Circle's Circle Lead Role, for as long as the delegation remains in place.
+A Circle may remove any Accountabilities, Domains, authorities, or functions of its own Circle Lead Role. It can do this either by placing them on another Role in the Circle, or by defining an alternate means of enacting them. Doing this automatically removes the relevant authority or element from the Circle's Circle Lead Role, for as long as the delegation remains in place.
 
 
 ## Article 2: Distributed Authority Structure
