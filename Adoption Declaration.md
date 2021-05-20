@@ -7,17 +7,17 @@ The Ratifier(s) named below hereby adopt the following sections of the Holacracy
 
 - Article 1 is required to use any other rules of the Constitution.
 
-#### [\_\_] Article 2: Distributed Authority
+#### [\_\_] Article 2: Rules of Cooperation
 
-- If this Article is not adopted, Role Leads must align all actions and decisions with any guidance or directions given by a Circle Lead of their Circle or any broader Circle, unless otherwise specified by a broader Circle Lead or by the Ratifiers.
+- If this Article is not adopted, Circle Leads may specify the duties a Partner has to cooperate with others while working within their Circle, unless otherwise specified by a broader Circle Lead or by the Ratifiers.
 
 #### [\_\_] Article 3: Tactical Meetings
 
 - If this Article is not adopted, the Organization will continue its current meeting habits, until otherwise changed by a Circle Lead for their Circle, or until otherwise specified by a broader Circle Lead or by the Ratifiers.
 
-#### [\_\_] Article 4: Rules of Cooperation
+#### [\_\_] Article 4: Distributed Authority
 
-- If this Article is not adopted, Circle Leads may specify the duties a Partner has to cooperate with others while working within their Circle, unless otherwise specified by a broader Circle Lead or by the Ratifiers.
+- If this Article is not adopted, Role Leads must align all actions and decisions with any guidance or directions given by a Circle Lead of their Circle or any broader Circle, unless otherwise specified by a broader Circle Lead or by the Ratifiers.
 
 #### [\_\_] Article 5: Governance Process
 
