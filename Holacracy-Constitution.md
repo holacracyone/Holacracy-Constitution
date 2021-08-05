@@ -381,7 +381,7 @@ A surrogate may act as Facilitator or Secretary while the Role is unfilled. A su
 Whenever a surrogate is needed, the surrogate is, in this order of precedence:
 
 - **(a)** someone specified by the person to be replaced; or
-- **(b)** for Facilitator, the acting Secretary of the Circle, and for Secretary, the acting Facilitator of the Circle;
+- **(b)** for Facilitator, the acting Secretary of the Circle, and for Secretary, the acting Facilitator of the Circle; or
 - **(c)** the Circle Lead of the Circle, or, if there are multiple Circle Leads, the first one to declare themselves acting as surrogate; or
 - **(d)** the first Circle Member to declare themselves acting as surrogate.
 
