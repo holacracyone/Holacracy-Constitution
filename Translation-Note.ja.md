@@ -12,7 +12,7 @@
 | Partners | パートナー |
 | Roles | ロール |
 | Purpose | 目的 |
-| Domain | 領域 |
+| Domain | ドメイン |
 | Accountability | 責務 |
 | Policy | ポリシー |
 | Role Lead | ロールリード |
@@ -46,7 +46,7 @@
 | Integrative Decision-Making Process | 統合意思決定プロセス |
 | Process Breakdown | プロセス障害 |
 | Partner Relationship | パートナー関係 |
-| Working Agreement | ワーキングアグリーメント |
+| Relational Agreement | 関係協定 |
 
 ### 固有表現
 
@@ -55,10 +55,12 @@
 | may ... | することができます。 |
 | must ... | しなければなりません。 |
 | may not ... | することはできません。 |
-| enact ... | (ロール/目的/プロセスなどを) 実現/実施する | enact は「(法律を)制定する」ではなく、act out に近い意味で使われている。 |
-| filling a Role | ロールに就いている | fill はロールに就いている状態を表す。 |
+| enact ... | (ロール/目的/プロセスなどを) 実現/実施する/果たす | enact は「(法律を)制定する」ではなく、act out に近い意味で使われている。 |
+| fill a Role | ロールに就く | ロールに割り当てられて(選出されて)いる状態。 |
 | assign a Role to someone | ロールに人を割り当てる | assign はロールに人を割り当てる動作を表す。 |
-| broader Circle | 外側のサークル | 親サークルや、ロールが集まって作られたサークルなど。 |
+| serve as ... | ... を務める | Facilitator などの特別なロールには Facilitator (立場) と Facilitator Role (ロール) があるが、前者と人を関連付ける場合にこの表現を用いる。 |
+| broader Circle | 外側のサークル | 親サークルや、リンク先のサークルなど。 |
 | agenda item | アジェンダ項目 | agenda item が各議題で、それらが集合が agenda。 |
+| accountable for ... | ...の*責務*があります | 原文で Capital Case の Accountability という表現は用いていないが、日本語では固有名詞の責務として扱った。 |
 
 
