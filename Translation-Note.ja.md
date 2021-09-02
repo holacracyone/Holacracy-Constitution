@@ -62,5 +62,6 @@
 | broader Circle | 外側のサークル | 親サークルや、リンク先のサークルなど。 |
 | agenda item | アジェンダ項目 | agenda item が各議題で、それらが集合が agenda。 |
 | accountable for ... | ...の*責務*があります | 原文で Capital Case の Accountability という表現は用いていないが、日本語では固有名詞の責務として扱った。 |
+| track ... | ...の記録をつける | 直訳すると「追跡する」だが、keep track of ... のようなニュアンスで使われているものと思われる。 |
 
 
