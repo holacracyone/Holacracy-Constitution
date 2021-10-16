@@ -31,7 +31,7 @@ As a Role Lead, you have the following responsibilities:
 
 #### 1.2.1 Processing Tensions
 
-You are responsible for comparing the actual expression of your Role’s Purpose and Accountabilities to your vision of their ideal potential, to identify gaps between the two (each gap is a ***“Tension”***). You are then responsible for trying to resolve those Tensions.
+You are responsible for consciously comparing the actual expression of your Role’s Purpose and Accountabilities to your vision of their ideal potential, to identify gaps between the two (each gap is a ***“Tension”***). You are then responsible for trying to resolve those Tensions.
 
 #### 1.2.2 Processing Purpose & Accountabilities
 
