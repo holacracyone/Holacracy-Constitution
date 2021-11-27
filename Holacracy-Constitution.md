@@ -20,7 +20,7 @@ A ***“Role”*** is an organizational construct that a person can fill and the
 A Role definition consists of a descriptive name and one or more of the following:
 
 - **(a)** a ***“Purpose”***, which is a capacity, potential, or goal that the Role will pursue or express.
-- **(b)** one or more ***“Domains”***, which are assets, processes, or other things the Role may exclusively control and regulate as its property, for its purpose.
+- **(b)** one or more ***“Domains”***, which are assets, processes, or other things the Role may exclusively control and regulate as its property, for its Purpose.
 - **(c)** one or more ***“Accountabilities”***, which are ongoing activities the Role will manage and enact in service of other Roles or to support its Purpose.
 
 A Role may also hold ***“Policies”***, which are grants or constraints of authority, or special rules that apply within that Role.
@@ -82,7 +82,7 @@ A Role may link into another Circle if a Policy of that other Circle or any Supe
 
 Once linked into another Circle, a Role is considered part of the Governance of that other Circle. That Circle may add to the Role and later change what it adds. However, it may not delete the Role nor change anything added by another Circle, and another Circle may not change or remove anything it adds. The authority to add or change assignments into the Role stays with its source Circle. The Circle a Role links into is not considered its Super-Circle, and nor is the Role's inner Circle considered its Sub-Circle.
 
-A Circle may unlink a Role by removing the Policy that invited it to link, or by another mechanism defined in that Policy. A Role may also opt to remove itself from a Circle it linked into, unless a Policy within or acting upon the Role's Super-Circle says otherwise. Once unlinked from a Circle, any Governance added to the Role by that Circle is automatically removed.
+A Circle may unlink a Role by removing the Policy that invited it to link, or by another mechanism defined in that Policy. A Role may also opt to remove itself from a Circle it linked into, unless a Policy within or acting upon the Role's source Circle says otherwise. Once unlinked from a Circle, any Governance added to the Role by that Circle is automatically removed.
 
 #### 1.3.5 Facilitator & Secretary Roles
 
@@ -381,7 +381,7 @@ A surrogate may act as Facilitator or Secretary while the Role is unfilled. A su
 Whenever a surrogate is needed, the surrogate is, in this order of precedence:
 
 - **(a)** someone specified by the person to be replaced; or
-- **(b)** for Facilitator, the acting Secretary of the Circle, and for Secretary, the acting Facilitator of the Circle;
+- **(b)** for Facilitator, the acting Secretary of the Circle, and for Secretary, the acting Facilitator of the Circle; or
 - **(c)** the Circle Lead of the Circle, or, if there are multiple Circle Leads, the first one to declare themselves acting as surrogate; or
 - **(d)** the first Circle Member to declare themselves acting as surrogate.
 
