@@ -29,26 +29,24 @@ A Role may also hold ***“Policies”***, which are grants or constraints of au
 
 As a Role Lead, you have the following responsibilities:
 
-#### 1.2.1 Processing Tensions
-
-You are responsible for comparing the actual expression of your Role’s Purpose and Accountabilities to your vision of their ideal potential, to identify gaps between the two (each gap is a ***“Tension”***). You are then responsible for trying to enact your vision by taking steps to reduce or resolve those Tensions.
-
-#### 1.2.2 Processing Purpose & Accountabilities
+#### 1.2.1 Processing Purpose & Accountabilities
 
 You are responsible for regularly considering how to enact your Role's Purpose and each Accountability, by defining:
 
 - **(a)** ***“Next-Actions”***, which are useful actions that you could take immediately, at least in the absence of competing priorities; and
-- **(b)** ***“Projects”***, which are specific outcomes that would be useful to work towards, at least in the absence of competing priorities.
+- **(b)** ***“Projects”***, which are specific outcomes that would be useful to work towards, at least in the absence of competing priorities; and
+- **(c)** ***"Tensions"***, which are gaps between the actual expression of your Role’s Purpose and Accountabilities and your vision of their ideal potential.
 
-#### 1.2.3 Breaking Down Projects
+#### 1.2.2 Breaking Down Projects & Tensions
 
 You are responsible for regularly defining Next-Actions for each of your Role's active Projects.
+You are also responsible for regularly trying to enact your vision by defining Next-Actions and Projects to reduce or resolve each of your Role's active Tensions.
 
-#### 1.2.4 Tracking Projects, Next-Actions, & Tensions
+#### 1.2.3 Tracking Projects, Next-Actions, & Tensions
 
-You are responsible for capturing and tracking all Projects and Next-Actions for your Role in written lists. You must also track Tensions you intend to resolve, at least until you process them into Projects or Next-Actions. You are also responsible for regularly reviewing and updating these lists, to maintain them as a trusted source of the Role’s potential work.
+You are responsible for capturing and tracking all Projects, Next-Actions and Tensions for your Role in written lists. You are also responsible for regularly reviewing and updating these lists, to maintain them as a trusted source of the Role’s potential work.
 
-#### 1.2.5 Executing Next-Actions
+#### 1.2.4 Executing Next-Actions
 
 Whenever you have time available to act in a Role, you are responsible for considering the Next-Actions you could take, and executing whichever would add the most value to the Organization.
 
