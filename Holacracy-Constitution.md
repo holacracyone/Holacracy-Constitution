@@ -110,7 +110,7 @@ No one other than a Circle Lead may assign a Role or revoke a Role assignment wi
 
 Whenever a Role in a Circle is unfilled, each Circle Lead is automatically considered a Role Lead of the unfilled Role.
 
-When a Role is filled only by people who are not Partners of the Organization, then each Circle Lead is automatically considered a Role Lead of that Role as well. However, this default assignment only applies to the extent that the non-Partners are not actively fulfilling relevant responsibilities and duties that a Partner would hold.
+When a Role is filled only by people who are not Partners of the Organization, then each Partner filling a Circle Lead Role  is automatically considered a Role Lead of that Role as well. However, this default assignment only applies to the extent that the non-Partners are not actively fulfilling relevant responsibilities and duties that a Partner would hold.
 
 #### 1.4.3 Defining Priorities & Strategies
 
