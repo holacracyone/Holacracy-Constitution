@@ -335,7 +335,7 @@ If at any point it becomes clear to the Facilitator that a Proposal does not mee
 
 #### 5.3.2 Objection Requirements
 
-A concern about adopting a Proposal only counts as an Objection if the Objector can provide a reasonable argument for why it meets **all** of the following criteria:
+A concern about adopting a Proposal only counts as an Objection if the Objector can provide a reasonable argument for why it meets **all** of the following requirements:
 
 - **(a)** The Proposal would reduce the capacity of the Circle to enact its Purpose or Accountabilities.
 - **(b)** The Proposal would limit the Objector's capacity to enact the Purpose or an Accountability of a Role the Objector represents in the Circle, even if the Objector filled no other Roles in the Organization.
