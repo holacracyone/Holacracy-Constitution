@@ -251,7 +251,7 @@ As a Partner, in some cases you are authorized to take ***“Individual Initiati
 You may only take Individual Initiative when all of the following are true:
 
 - **(a)** You are acting in good faith to serve the Purpose or express the Accountabilities of some Role within the Organization.
-- **(b)** You believe your action would resolve or prevent more Tension for the Organization than it would likely create.
+- **(b)** You believe your initiative would resolve or prevent more Tension for the Organization than it would likely create.
 - **(c)** Your action would not commit the Organization to any spending beyond what you’re already authorized to spend.
 - **(d)** If your action would violate any Policies or Domains, you believe much value would be lost from delaying to get permission or change Governance.
 
