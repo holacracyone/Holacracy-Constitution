@@ -222,7 +222,11 @@ When you need permission to impact a Domain, you may get it from whomever contro
 
 You may not spend any money or other assets unless you first get authorized to do so. This authorization must come from a Role that already has control of those resources for spending purposes. It counts as spending if you dispose of significant property of the Organization, or significantly limit any of its rights.
 
-To get authorized to spend, you must announce your intent to spend in writing to the Role you're seeking authorization from. You must share this announcement where all Partners serving as Role Leads of that Role or within that Role will typically see it. Your statement must include the reason for the spending, and the Role you'll spend from. You must then wait a reasonable time to allow consideration and responses. Any recipient of your announcement may escalate the spending for extra consideration, and you may not proceed with the spending if escalated. However, a Role Lead of the Role you're seeking authorization from may reverse an escalation, as may the person who escalated it. Once a reasonable time has passed and no escalations stand, your Role gains control of those resources. You may spend them for your stated purpose, or further authorize others to. The Role you got this authorization from also loses this control, however a Role Lead of that Role may revoke the authorization at any time.
+To get authorized to spend, you must announce your intent in writing to the Role or Circle that controls the resources. Share this announcement where all Role Leads of that Role or members of that Circle will typically see it. Your statement must include the reason for the spending, and the role you will spend from.
+
+After announcing, you must wait a reasonable time for responses. Any recipient of your announcement may escalate the spending for extra consideration. You may not proceed with the spending if an escalation happens. An escalation can be reversed by a Role Lead of the controlling Role, a Circle Lead of the controlling Circle, or the person who escalated it. 
+
+If no escalations remain after the waiting period, your Role gains control of the resources. You may spend them for your stated purpose or authorize others to do so. The Role or Circle that gave authorization loses control over those resources. However, a Role Lead of that Role or Circle Lead of that Circle may revoke the authorization at any time.
 
 A Policy may change this process in any way, or directly authorize a Role to control spending of the Circle's resources.
 
